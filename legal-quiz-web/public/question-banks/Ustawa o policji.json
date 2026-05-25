@@ -1,604 +1,603 @@
-{
-  "title": "Rozbudowana baza pytań - Ustawa o Policji",
+﻿{"title": "Ustawa o policji",
   "question_count": 300,
   "questions": [
     {
       "id": 1,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są podstawowe zadania Policji? (wariant 1)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… podstawowe zadania Policji? (wariant 1)",
       "type": "open"
     },
     {
       "id": 2,
-      "category": "Przepisy ogólne",
+      "category": "Przepisy ogĂłlne",
       "question": "Komu podlega Policja? (wariant 1)",
       "type": "open"
     },
     {
       "id": 3,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są główne obowiązki funkcjonariusza Policji? (wariant 1)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… gĹ‚Ăłwne obowiÄ…zki funkcjonariusza Policji? (wariant 1)",
       "type": "open"
     },
     {
       "id": 4,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są ustawowe zadania Policji w zakresie bezpieczeństwa publicznego? (wariant 1)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… ustawowe zadania Policji w zakresie bezpieczeĹ„stwa publicznego? (wariant 1)",
       "type": "open"
     },
     {
       "id": 5,
-      "category": "Przepisy ogólne",
-      "question": "Co obejmuje ochrona bezpieczeństwa ludzi przez Policję? (wariant 1)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Co obejmuje ochrona bezpieczeĹ„stwa ludzi przez PolicjÄ™? (wariant 1)",
       "type": "open"
     },
     {
       "id": 6,
-      "category": "Przepisy ogólne",
-      "question": "Jakie czynności wykonuje Policja w zakresie wykrywania przestępstw? (wariant 1)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie czynnoĹ›ci wykonuje Policja w zakresie wykrywania przestÄ™pstw? (wariant 1)",
       "type": "open"
     },
     {
       "id": 7,
-      "category": "Przepisy ogólne",
-      "question": "Jakie zadania Policja realizuje wobec samorządu terytorialnego? (wariant 1)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie zadania Policja realizuje wobec samorzÄ…du terytorialnego? (wariant 1)",
       "type": "open"
     },
     {
       "id": 8,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są podstawowe zasady działania Policji? (wariant 1)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… podstawowe zasady dziaĹ‚ania Policji? (wariant 1)",
       "type": "open"
     },
     {
       "id": 9,
-      "category": "Przepisy ogólne",
-      "question": "Jakie znaczenie ma ochrona porządku publicznego? (wariant 1)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie znaczenie ma ochrona porzÄ…dku publicznego? (wariant 1)",
       "type": "open"
     },
     {
       "id": 10,
-      "category": "Przepisy ogólne",
+      "category": "Przepisy ogĂłlne",
       "question": "Jakie zadania Policja wykonuje wobec ruchu drogowego? (wariant 1)",
       "type": "open"
     },
     {
       "id": 11,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są podstawowe zadania Policji? (wariant 2)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… podstawowe zadania Policji? (wariant 2)",
       "type": "open"
     },
     {
       "id": 12,
-      "category": "Przepisy ogólne",
+      "category": "Przepisy ogĂłlne",
       "question": "Komu podlega Policja? (wariant 2)",
       "type": "open"
     },
     {
       "id": 13,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są główne obowiązki funkcjonariusza Policji? (wariant 2)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… gĹ‚Ăłwne obowiÄ…zki funkcjonariusza Policji? (wariant 2)",
       "type": "open"
     },
     {
       "id": 14,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są ustawowe zadania Policji w zakresie bezpieczeństwa publicznego? (wariant 2)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… ustawowe zadania Policji w zakresie bezpieczeĹ„stwa publicznego? (wariant 2)",
       "type": "open"
     },
     {
       "id": 15,
-      "category": "Przepisy ogólne",
-      "question": "Co obejmuje ochrona bezpieczeństwa ludzi przez Policję? (wariant 2)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Co obejmuje ochrona bezpieczeĹ„stwa ludzi przez PolicjÄ™? (wariant 2)",
       "type": "open"
     },
     {
       "id": 16,
-      "category": "Przepisy ogólne",
-      "question": "Jakie czynności wykonuje Policja w zakresie wykrywania przestępstw? (wariant 2)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie czynnoĹ›ci wykonuje Policja w zakresie wykrywania przestÄ™pstw? (wariant 2)",
       "type": "open"
     },
     {
       "id": 17,
-      "category": "Przepisy ogólne",
-      "question": "Jakie zadania Policja realizuje wobec samorządu terytorialnego? (wariant 2)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie zadania Policja realizuje wobec samorzÄ…du terytorialnego? (wariant 2)",
       "type": "open"
     },
     {
       "id": 18,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są podstawowe zasady działania Policji? (wariant 2)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… podstawowe zasady dziaĹ‚ania Policji? (wariant 2)",
       "type": "open"
     },
     {
       "id": 19,
-      "category": "Przepisy ogólne",
-      "question": "Jakie znaczenie ma ochrona porządku publicznego? (wariant 2)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie znaczenie ma ochrona porzÄ…dku publicznego? (wariant 2)",
       "type": "open"
     },
     {
       "id": 20,
-      "category": "Przepisy ogólne",
+      "category": "Przepisy ogĂłlne",
       "question": "Jakie zadania Policja wykonuje wobec ruchu drogowego? (wariant 2)",
       "type": "open"
     },
     {
       "id": 21,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są podstawowe zadania Policji? (wariant 3)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… podstawowe zadania Policji? (wariant 3)",
       "type": "open"
     },
     {
       "id": 22,
-      "category": "Przepisy ogólne",
+      "category": "Przepisy ogĂłlne",
       "question": "Komu podlega Policja? (wariant 3)",
       "type": "open"
     },
     {
       "id": 23,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są główne obowiązki funkcjonariusza Policji? (wariant 3)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… gĹ‚Ăłwne obowiÄ…zki funkcjonariusza Policji? (wariant 3)",
       "type": "open"
     },
     {
       "id": 24,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są ustawowe zadania Policji w zakresie bezpieczeństwa publicznego? (wariant 3)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… ustawowe zadania Policji w zakresie bezpieczeĹ„stwa publicznego? (wariant 3)",
       "type": "open"
     },
     {
       "id": 25,
-      "category": "Przepisy ogólne",
-      "question": "Co obejmuje ochrona bezpieczeństwa ludzi przez Policję? (wariant 3)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Co obejmuje ochrona bezpieczeĹ„stwa ludzi przez PolicjÄ™? (wariant 3)",
       "type": "open"
     },
     {
       "id": 26,
-      "category": "Przepisy ogólne",
-      "question": "Jakie czynności wykonuje Policja w zakresie wykrywania przestępstw? (wariant 3)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie czynnoĹ›ci wykonuje Policja w zakresie wykrywania przestÄ™pstw? (wariant 3)",
       "type": "open"
     },
     {
       "id": 27,
-      "category": "Przepisy ogólne",
-      "question": "Jakie zadania Policja realizuje wobec samorządu terytorialnego? (wariant 3)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie zadania Policja realizuje wobec samorzÄ…du terytorialnego? (wariant 3)",
       "type": "open"
     },
     {
       "id": 28,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są podstawowe zasady działania Policji? (wariant 3)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… podstawowe zasady dziaĹ‚ania Policji? (wariant 3)",
       "type": "open"
     },
     {
       "id": 29,
-      "category": "Przepisy ogólne",
-      "question": "Jakie znaczenie ma ochrona porządku publicznego? (wariant 3)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie znaczenie ma ochrona porzÄ…dku publicznego? (wariant 3)",
       "type": "open"
     },
     {
       "id": 30,
-      "category": "Przepisy ogólne",
+      "category": "Przepisy ogĂłlne",
       "question": "Jakie zadania Policja wykonuje wobec ruchu drogowego? (wariant 3)",
       "type": "open"
     },
     {
       "id": 31,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są podstawowe zadania Policji? (wariant 4)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… podstawowe zadania Policji? (wariant 4)",
       "type": "open"
     },
     {
       "id": 32,
-      "category": "Przepisy ogólne",
+      "category": "Przepisy ogĂłlne",
       "question": "Komu podlega Policja? (wariant 4)",
       "type": "open"
     },
     {
       "id": 33,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są główne obowiązki funkcjonariusza Policji? (wariant 4)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… gĹ‚Ăłwne obowiÄ…zki funkcjonariusza Policji? (wariant 4)",
       "type": "open"
     },
     {
       "id": 34,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są ustawowe zadania Policji w zakresie bezpieczeństwa publicznego? (wariant 4)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… ustawowe zadania Policji w zakresie bezpieczeĹ„stwa publicznego? (wariant 4)",
       "type": "open"
     },
     {
       "id": 35,
-      "category": "Przepisy ogólne",
-      "question": "Co obejmuje ochrona bezpieczeństwa ludzi przez Policję? (wariant 4)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Co obejmuje ochrona bezpieczeĹ„stwa ludzi przez PolicjÄ™? (wariant 4)",
       "type": "open"
     },
     {
       "id": 36,
-      "category": "Przepisy ogólne",
-      "question": "Jakie czynności wykonuje Policja w zakresie wykrywania przestępstw? (wariant 4)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie czynnoĹ›ci wykonuje Policja w zakresie wykrywania przestÄ™pstw? (wariant 4)",
       "type": "open"
     },
     {
       "id": 37,
-      "category": "Przepisy ogólne",
-      "question": "Jakie zadania Policja realizuje wobec samorządu terytorialnego? (wariant 4)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie zadania Policja realizuje wobec samorzÄ…du terytorialnego? (wariant 4)",
       "type": "open"
     },
     {
       "id": 38,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są podstawowe zasady działania Policji? (wariant 4)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… podstawowe zasady dziaĹ‚ania Policji? (wariant 4)",
       "type": "open"
     },
     {
       "id": 39,
-      "category": "Przepisy ogólne",
-      "question": "Jakie znaczenie ma ochrona porządku publicznego? (wariant 4)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie znaczenie ma ochrona porzÄ…dku publicznego? (wariant 4)",
       "type": "open"
     },
     {
       "id": 40,
-      "category": "Przepisy ogólne",
+      "category": "Przepisy ogĂłlne",
       "question": "Jakie zadania Policja wykonuje wobec ruchu drogowego? (wariant 4)",
       "type": "open"
     },
     {
       "id": 41,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są podstawowe zadania Policji? (wariant 5)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… podstawowe zadania Policji? (wariant 5)",
       "type": "open"
     },
     {
       "id": 42,
-      "category": "Przepisy ogólne",
+      "category": "Przepisy ogĂłlne",
       "question": "Komu podlega Policja? (wariant 5)",
       "type": "open"
     },
     {
       "id": 43,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są główne obowiązki funkcjonariusza Policji? (wariant 5)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… gĹ‚Ăłwne obowiÄ…zki funkcjonariusza Policji? (wariant 5)",
       "type": "open"
     },
     {
       "id": 44,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są ustawowe zadania Policji w zakresie bezpieczeństwa publicznego? (wariant 5)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… ustawowe zadania Policji w zakresie bezpieczeĹ„stwa publicznego? (wariant 5)",
       "type": "open"
     },
     {
       "id": 45,
-      "category": "Przepisy ogólne",
-      "question": "Co obejmuje ochrona bezpieczeństwa ludzi przez Policję? (wariant 5)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Co obejmuje ochrona bezpieczeĹ„stwa ludzi przez PolicjÄ™? (wariant 5)",
       "type": "open"
     },
     {
       "id": 46,
-      "category": "Przepisy ogólne",
-      "question": "Jakie czynności wykonuje Policja w zakresie wykrywania przestępstw? (wariant 5)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie czynnoĹ›ci wykonuje Policja w zakresie wykrywania przestÄ™pstw? (wariant 5)",
       "type": "open"
     },
     {
       "id": 47,
-      "category": "Przepisy ogólne",
-      "question": "Jakie zadania Policja realizuje wobec samorządu terytorialnego? (wariant 5)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie zadania Policja realizuje wobec samorzÄ…du terytorialnego? (wariant 5)",
       "type": "open"
     },
     {
       "id": 48,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są podstawowe zasady działania Policji? (wariant 5)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… podstawowe zasady dziaĹ‚ania Policji? (wariant 5)",
       "type": "open"
     },
     {
       "id": 49,
-      "category": "Przepisy ogólne",
-      "question": "Jakie znaczenie ma ochrona porządku publicznego? (wariant 5)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie znaczenie ma ochrona porzÄ…dku publicznego? (wariant 5)",
       "type": "open"
     },
     {
       "id": 50,
-      "category": "Przepisy ogólne",
+      "category": "Przepisy ogĂłlne",
       "question": "Jakie zadania Policja wykonuje wobec ruchu drogowego? (wariant 5)",
       "type": "open"
     },
     {
       "id": 51,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są podstawowe zadania Policji? (wariant 6)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… podstawowe zadania Policji? (wariant 6)",
       "type": "open"
     },
     {
       "id": 52,
-      "category": "Przepisy ogólne",
+      "category": "Przepisy ogĂłlne",
       "question": "Komu podlega Policja? (wariant 6)",
       "type": "open"
     },
     {
       "id": 53,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są główne obowiązki funkcjonariusza Policji? (wariant 6)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… gĹ‚Ăłwne obowiÄ…zki funkcjonariusza Policji? (wariant 6)",
       "type": "open"
     },
     {
       "id": 54,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są ustawowe zadania Policji w zakresie bezpieczeństwa publicznego? (wariant 6)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… ustawowe zadania Policji w zakresie bezpieczeĹ„stwa publicznego? (wariant 6)",
       "type": "open"
     },
     {
       "id": 55,
-      "category": "Przepisy ogólne",
-      "question": "Co obejmuje ochrona bezpieczeństwa ludzi przez Policję? (wariant 6)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Co obejmuje ochrona bezpieczeĹ„stwa ludzi przez PolicjÄ™? (wariant 6)",
       "type": "open"
     },
     {
       "id": 56,
-      "category": "Przepisy ogólne",
-      "question": "Jakie czynności wykonuje Policja w zakresie wykrywania przestępstw? (wariant 6)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie czynnoĹ›ci wykonuje Policja w zakresie wykrywania przestÄ™pstw? (wariant 6)",
       "type": "open"
     },
     {
       "id": 57,
-      "category": "Przepisy ogólne",
-      "question": "Jakie zadania Policja realizuje wobec samorządu terytorialnego? (wariant 6)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie zadania Policja realizuje wobec samorzÄ…du terytorialnego? (wariant 6)",
       "type": "open"
     },
     {
       "id": 58,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są podstawowe zasady działania Policji? (wariant 6)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… podstawowe zasady dziaĹ‚ania Policji? (wariant 6)",
       "type": "open"
     },
     {
       "id": 59,
-      "category": "Przepisy ogólne",
-      "question": "Jakie znaczenie ma ochrona porządku publicznego? (wariant 6)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie znaczenie ma ochrona porzÄ…dku publicznego? (wariant 6)",
       "type": "open"
     },
     {
       "id": 60,
-      "category": "Przepisy ogólne",
+      "category": "Przepisy ogĂłlne",
       "question": "Jakie zadania Policja wykonuje wobec ruchu drogowego? (wariant 6)",
       "type": "open"
     },
     {
       "id": 61,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są podstawowe zadania Policji? (wariant 7)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… podstawowe zadania Policji? (wariant 7)",
       "type": "open"
     },
     {
       "id": 62,
-      "category": "Przepisy ogólne",
+      "category": "Przepisy ogĂłlne",
       "question": "Komu podlega Policja? (wariant 7)",
       "type": "open"
     },
     {
       "id": 63,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są główne obowiązki funkcjonariusza Policji? (wariant 7)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… gĹ‚Ăłwne obowiÄ…zki funkcjonariusza Policji? (wariant 7)",
       "type": "open"
     },
     {
       "id": 64,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są ustawowe zadania Policji w zakresie bezpieczeństwa publicznego? (wariant 7)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… ustawowe zadania Policji w zakresie bezpieczeĹ„stwa publicznego? (wariant 7)",
       "type": "open"
     },
     {
       "id": 65,
-      "category": "Przepisy ogólne",
-      "question": "Co obejmuje ochrona bezpieczeństwa ludzi przez Policję? (wariant 7)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Co obejmuje ochrona bezpieczeĹ„stwa ludzi przez PolicjÄ™? (wariant 7)",
       "type": "open"
     },
     {
       "id": 66,
-      "category": "Przepisy ogólne",
-      "question": "Jakie czynności wykonuje Policja w zakresie wykrywania przestępstw? (wariant 7)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie czynnoĹ›ci wykonuje Policja w zakresie wykrywania przestÄ™pstw? (wariant 7)",
       "type": "open"
     },
     {
       "id": 67,
-      "category": "Przepisy ogólne",
-      "question": "Jakie zadania Policja realizuje wobec samorządu terytorialnego? (wariant 7)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie zadania Policja realizuje wobec samorzÄ…du terytorialnego? (wariant 7)",
       "type": "open"
     },
     {
       "id": 68,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są podstawowe zasady działania Policji? (wariant 7)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… podstawowe zasady dziaĹ‚ania Policji? (wariant 7)",
       "type": "open"
     },
     {
       "id": 69,
-      "category": "Przepisy ogólne",
-      "question": "Jakie znaczenie ma ochrona porządku publicznego? (wariant 7)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie znaczenie ma ochrona porzÄ…dku publicznego? (wariant 7)",
       "type": "open"
     },
     {
       "id": 70,
-      "category": "Przepisy ogólne",
+      "category": "Przepisy ogĂłlne",
       "question": "Jakie zadania Policja wykonuje wobec ruchu drogowego? (wariant 7)",
       "type": "open"
     },
     {
       "id": 71,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są podstawowe zadania Policji? (wariant 8)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… podstawowe zadania Policji? (wariant 8)",
       "type": "open"
     },
     {
       "id": 72,
-      "category": "Przepisy ogólne",
+      "category": "Przepisy ogĂłlne",
       "question": "Komu podlega Policja? (wariant 8)",
       "type": "open"
     },
     {
       "id": 73,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są główne obowiązki funkcjonariusza Policji? (wariant 8)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… gĹ‚Ăłwne obowiÄ…zki funkcjonariusza Policji? (wariant 8)",
       "type": "open"
     },
     {
       "id": 74,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są ustawowe zadania Policji w zakresie bezpieczeństwa publicznego? (wariant 8)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… ustawowe zadania Policji w zakresie bezpieczeĹ„stwa publicznego? (wariant 8)",
       "type": "open"
     },
     {
       "id": 75,
-      "category": "Przepisy ogólne",
-      "question": "Co obejmuje ochrona bezpieczeństwa ludzi przez Policję? (wariant 8)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Co obejmuje ochrona bezpieczeĹ„stwa ludzi przez PolicjÄ™? (wariant 8)",
       "type": "open"
     },
     {
       "id": 76,
-      "category": "Przepisy ogólne",
-      "question": "Jakie czynności wykonuje Policja w zakresie wykrywania przestępstw? (wariant 8)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie czynnoĹ›ci wykonuje Policja w zakresie wykrywania przestÄ™pstw? (wariant 8)",
       "type": "open"
     },
     {
       "id": 77,
-      "category": "Przepisy ogólne",
-      "question": "Jakie zadania Policja realizuje wobec samorządu terytorialnego? (wariant 8)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie zadania Policja realizuje wobec samorzÄ…du terytorialnego? (wariant 8)",
       "type": "open"
     },
     {
       "id": 78,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są podstawowe zasady działania Policji? (wariant 8)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… podstawowe zasady dziaĹ‚ania Policji? (wariant 8)",
       "type": "open"
     },
     {
       "id": 79,
-      "category": "Przepisy ogólne",
-      "question": "Jakie znaczenie ma ochrona porządku publicznego? (wariant 8)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie znaczenie ma ochrona porzÄ…dku publicznego? (wariant 8)",
       "type": "open"
     },
     {
       "id": 80,
-      "category": "Przepisy ogólne",
+      "category": "Przepisy ogĂłlne",
       "question": "Jakie zadania Policja wykonuje wobec ruchu drogowego? (wariant 8)",
       "type": "open"
     },
     {
       "id": 81,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są podstawowe zadania Policji? (wariant 9)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… podstawowe zadania Policji? (wariant 9)",
       "type": "open"
     },
     {
       "id": 82,
-      "category": "Przepisy ogólne",
+      "category": "Przepisy ogĂłlne",
       "question": "Komu podlega Policja? (wariant 9)",
       "type": "open"
     },
     {
       "id": 83,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są główne obowiązki funkcjonariusza Policji? (wariant 9)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… gĹ‚Ăłwne obowiÄ…zki funkcjonariusza Policji? (wariant 9)",
       "type": "open"
     },
     {
       "id": 84,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są ustawowe zadania Policji w zakresie bezpieczeństwa publicznego? (wariant 9)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… ustawowe zadania Policji w zakresie bezpieczeĹ„stwa publicznego? (wariant 9)",
       "type": "open"
     },
     {
       "id": 85,
-      "category": "Przepisy ogólne",
-      "question": "Co obejmuje ochrona bezpieczeństwa ludzi przez Policję? (wariant 9)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Co obejmuje ochrona bezpieczeĹ„stwa ludzi przez PolicjÄ™? (wariant 9)",
       "type": "open"
     },
     {
       "id": 86,
-      "category": "Przepisy ogólne",
-      "question": "Jakie czynności wykonuje Policja w zakresie wykrywania przestępstw? (wariant 9)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie czynnoĹ›ci wykonuje Policja w zakresie wykrywania przestÄ™pstw? (wariant 9)",
       "type": "open"
     },
     {
       "id": 87,
-      "category": "Przepisy ogólne",
-      "question": "Jakie zadania Policja realizuje wobec samorządu terytorialnego? (wariant 9)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie zadania Policja realizuje wobec samorzÄ…du terytorialnego? (wariant 9)",
       "type": "open"
     },
     {
       "id": 88,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są podstawowe zasady działania Policji? (wariant 9)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… podstawowe zasady dziaĹ‚ania Policji? (wariant 9)",
       "type": "open"
     },
     {
       "id": 89,
-      "category": "Przepisy ogólne",
-      "question": "Jakie znaczenie ma ochrona porządku publicznego? (wariant 9)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie znaczenie ma ochrona porzÄ…dku publicznego? (wariant 9)",
       "type": "open"
     },
     {
       "id": 90,
-      "category": "Przepisy ogólne",
+      "category": "Przepisy ogĂłlne",
       "question": "Jakie zadania Policja wykonuje wobec ruchu drogowego? (wariant 9)",
       "type": "open"
     },
     {
       "id": 91,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są podstawowe zadania Policji? (wariant 10)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… podstawowe zadania Policji? (wariant 10)",
       "type": "open"
     },
     {
       "id": 92,
-      "category": "Przepisy ogólne",
+      "category": "Przepisy ogĂłlne",
       "question": "Komu podlega Policja? (wariant 10)",
       "type": "open"
     },
     {
       "id": 93,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są główne obowiązki funkcjonariusza Policji? (wariant 10)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… gĹ‚Ăłwne obowiÄ…zki funkcjonariusza Policji? (wariant 10)",
       "type": "open"
     },
     {
       "id": 94,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są ustawowe zadania Policji w zakresie bezpieczeństwa publicznego? (wariant 10)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… ustawowe zadania Policji w zakresie bezpieczeĹ„stwa publicznego? (wariant 10)",
       "type": "open"
     },
     {
       "id": 95,
-      "category": "Przepisy ogólne",
-      "question": "Co obejmuje ochrona bezpieczeństwa ludzi przez Policję? (wariant 10)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Co obejmuje ochrona bezpieczeĹ„stwa ludzi przez PolicjÄ™? (wariant 10)",
       "type": "open"
     },
     {
       "id": 96,
-      "category": "Przepisy ogólne",
-      "question": "Jakie czynności wykonuje Policja w zakresie wykrywania przestępstw? (wariant 10)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie czynnoĹ›ci wykonuje Policja w zakresie wykrywania przestÄ™pstw? (wariant 10)",
       "type": "open"
     },
     {
       "id": 97,
-      "category": "Przepisy ogólne",
-      "question": "Jakie zadania Policja realizuje wobec samorządu terytorialnego? (wariant 10)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie zadania Policja realizuje wobec samorzÄ…du terytorialnego? (wariant 10)",
       "type": "open"
     },
     {
       "id": 98,
-      "category": "Przepisy ogólne",
-      "question": "Jakie są podstawowe zasady działania Policji? (wariant 10)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie sÄ… podstawowe zasady dziaĹ‚ania Policji? (wariant 10)",
       "type": "open"
     },
     {
       "id": 99,
-      "category": "Przepisy ogólne",
-      "question": "Jakie znaczenie ma ochrona porządku publicznego? (wariant 10)",
+      "category": "Przepisy ogĂłlne",
+      "question": "Jakie znaczenie ma ochrona porzÄ…dku publicznego? (wariant 10)",
       "type": "open"
     },
     {
       "id": 100,
-      "category": "Przepisy ogólne",
+      "category": "Przepisy ogĂłlne",
       "question": "Jakie zadania Policja wykonuje wobec ruchu drogowego? (wariant 10)",
       "type": "open"
     },
@@ -611,55 +610,55 @@
     {
       "id": 102,
       "category": "Organizacja Policji",
-      "question": "Jakie jednostki organizacyjne tworzą Policję? (wariant 1)",
+      "question": "Jakie jednostki organizacyjne tworzÄ… PolicjÄ™? (wariant 1)",
       "type": "open"
     },
     {
       "id": 103,
       "category": "Organizacja Policji",
-      "question": "Kto powołuje Komendanta Głównego Policji? (wariant 1)",
+      "question": "Kto powoĹ‚uje Komendanta GĹ‚Ăłwnego Policji? (wariant 1)",
       "type": "open"
     },
     {
       "id": 104,
       "category": "Organizacja Policji",
-      "question": "Jakie zadania wykonuje komendant wojewódzki Policji? (wariant 1)",
+      "question": "Jakie zadania wykonuje komendant wojewĂłdzki Policji? (wariant 1)",
       "type": "open"
     },
     {
       "id": 105,
       "category": "Organizacja Policji",
-      "question": "Jakie są zadania komendanta powiatowego Policji? (wariant 1)",
+      "question": "Jakie sÄ… zadania komendanta powiatowego Policji? (wariant 1)",
       "type": "open"
     },
     {
       "id": 106,
       "category": "Organizacja Policji",
-      "question": "Jak wygląda struktura organizacyjna Policji? (wariant 1)",
+      "question": "Jak wyglÄ…da struktura organizacyjna Policji? (wariant 1)",
       "type": "open"
     },
     {
       "id": 107,
       "category": "Organizacja Policji",
-      "question": "Jakie szkoły policyjne działają w Policji? (wariant 1)",
+      "question": "Jakie szkoĹ‚y policyjne dziaĹ‚ajÄ… w Policji? (wariant 1)",
       "type": "open"
     },
     {
       "id": 108,
       "category": "Organizacja Policji",
-      "question": "Jakie są kompetencje Komendanta Stołecznego Policji? (wariant 1)",
+      "question": "Jakie sÄ… kompetencje Komendanta StoĹ‚ecznego Policji? (wariant 1)",
       "type": "open"
     },
     {
       "id": 109,
       "category": "Organizacja Policji",
-      "question": "Jakie jednostki specjalne funkcjonują w Policji? (wariant 1)",
+      "question": "Jakie jednostki specjalne funkcjonujÄ… w Policji? (wariant 1)",
       "type": "open"
     },
     {
       "id": 110,
       "category": "Organizacja Policji",
-      "question": "Kto sprawuje nadzór nad Policją? (wariant 1)",
+      "question": "Kto sprawuje nadzĂłr nad PolicjÄ…? (wariant 1)",
       "type": "open"
     },
     {
@@ -671,55 +670,55 @@
     {
       "id": 112,
       "category": "Organizacja Policji",
-      "question": "Jakie jednostki organizacyjne tworzą Policję? (wariant 2)",
+      "question": "Jakie jednostki organizacyjne tworzÄ… PolicjÄ™? (wariant 2)",
       "type": "open"
     },
     {
       "id": 113,
       "category": "Organizacja Policji",
-      "question": "Kto powołuje Komendanta Głównego Policji? (wariant 2)",
+      "question": "Kto powoĹ‚uje Komendanta GĹ‚Ăłwnego Policji? (wariant 2)",
       "type": "open"
     },
     {
       "id": 114,
       "category": "Organizacja Policji",
-      "question": "Jakie zadania wykonuje komendant wojewódzki Policji? (wariant 2)",
+      "question": "Jakie zadania wykonuje komendant wojewĂłdzki Policji? (wariant 2)",
       "type": "open"
     },
     {
       "id": 115,
       "category": "Organizacja Policji",
-      "question": "Jakie są zadania komendanta powiatowego Policji? (wariant 2)",
+      "question": "Jakie sÄ… zadania komendanta powiatowego Policji? (wariant 2)",
       "type": "open"
     },
     {
       "id": 116,
       "category": "Organizacja Policji",
-      "question": "Jak wygląda struktura organizacyjna Policji? (wariant 2)",
+      "question": "Jak wyglÄ…da struktura organizacyjna Policji? (wariant 2)",
       "type": "open"
     },
     {
       "id": 117,
       "category": "Organizacja Policji",
-      "question": "Jakie szkoły policyjne działają w Policji? (wariant 2)",
+      "question": "Jakie szkoĹ‚y policyjne dziaĹ‚ajÄ… w Policji? (wariant 2)",
       "type": "open"
     },
     {
       "id": 118,
       "category": "Organizacja Policji",
-      "question": "Jakie są kompetencje Komendanta Stołecznego Policji? (wariant 2)",
+      "question": "Jakie sÄ… kompetencje Komendanta StoĹ‚ecznego Policji? (wariant 2)",
       "type": "open"
     },
     {
       "id": 119,
       "category": "Organizacja Policji",
-      "question": "Jakie jednostki specjalne funkcjonują w Policji? (wariant 2)",
+      "question": "Jakie jednostki specjalne funkcjonujÄ… w Policji? (wariant 2)",
       "type": "open"
     },
     {
       "id": 120,
       "category": "Organizacja Policji",
-      "question": "Kto sprawuje nadzór nad Policją? (wariant 2)",
+      "question": "Kto sprawuje nadzĂłr nad PolicjÄ…? (wariant 2)",
       "type": "open"
     },
     {
@@ -731,55 +730,55 @@
     {
       "id": 122,
       "category": "Organizacja Policji",
-      "question": "Jakie jednostki organizacyjne tworzą Policję? (wariant 3)",
+      "question": "Jakie jednostki organizacyjne tworzÄ… PolicjÄ™? (wariant 3)",
       "type": "open"
     },
     {
       "id": 123,
       "category": "Organizacja Policji",
-      "question": "Kto powołuje Komendanta Głównego Policji? (wariant 3)",
+      "question": "Kto powoĹ‚uje Komendanta GĹ‚Ăłwnego Policji? (wariant 3)",
       "type": "open"
     },
     {
       "id": 124,
       "category": "Organizacja Policji",
-      "question": "Jakie zadania wykonuje komendant wojewódzki Policji? (wariant 3)",
+      "question": "Jakie zadania wykonuje komendant wojewĂłdzki Policji? (wariant 3)",
       "type": "open"
     },
     {
       "id": 125,
       "category": "Organizacja Policji",
-      "question": "Jakie są zadania komendanta powiatowego Policji? (wariant 3)",
+      "question": "Jakie sÄ… zadania komendanta powiatowego Policji? (wariant 3)",
       "type": "open"
     },
     {
       "id": 126,
       "category": "Organizacja Policji",
-      "question": "Jak wygląda struktura organizacyjna Policji? (wariant 3)",
+      "question": "Jak wyglÄ…da struktura organizacyjna Policji? (wariant 3)",
       "type": "open"
     },
     {
       "id": 127,
       "category": "Organizacja Policji",
-      "question": "Jakie szkoły policyjne działają w Policji? (wariant 3)",
+      "question": "Jakie szkoĹ‚y policyjne dziaĹ‚ajÄ… w Policji? (wariant 3)",
       "type": "open"
     },
     {
       "id": 128,
       "category": "Organizacja Policji",
-      "question": "Jakie są kompetencje Komendanta Stołecznego Policji? (wariant 3)",
+      "question": "Jakie sÄ… kompetencje Komendanta StoĹ‚ecznego Policji? (wariant 3)",
       "type": "open"
     },
     {
       "id": 129,
       "category": "Organizacja Policji",
-      "question": "Jakie jednostki specjalne funkcjonują w Policji? (wariant 3)",
+      "question": "Jakie jednostki specjalne funkcjonujÄ… w Policji? (wariant 3)",
       "type": "open"
     },
     {
       "id": 130,
       "category": "Organizacja Policji",
-      "question": "Kto sprawuje nadzór nad Policją? (wariant 3)",
+      "question": "Kto sprawuje nadzĂłr nad PolicjÄ…? (wariant 3)",
       "type": "open"
     },
     {
@@ -791,55 +790,55 @@
     {
       "id": 132,
       "category": "Organizacja Policji",
-      "question": "Jakie jednostki organizacyjne tworzą Policję? (wariant 4)",
+      "question": "Jakie jednostki organizacyjne tworzÄ… PolicjÄ™? (wariant 4)",
       "type": "open"
     },
     {
       "id": 133,
       "category": "Organizacja Policji",
-      "question": "Kto powołuje Komendanta Głównego Policji? (wariant 4)",
+      "question": "Kto powoĹ‚uje Komendanta GĹ‚Ăłwnego Policji? (wariant 4)",
       "type": "open"
     },
     {
       "id": 134,
       "category": "Organizacja Policji",
-      "question": "Jakie zadania wykonuje komendant wojewódzki Policji? (wariant 4)",
+      "question": "Jakie zadania wykonuje komendant wojewĂłdzki Policji? (wariant 4)",
       "type": "open"
     },
     {
       "id": 135,
       "category": "Organizacja Policji",
-      "question": "Jakie są zadania komendanta powiatowego Policji? (wariant 4)",
+      "question": "Jakie sÄ… zadania komendanta powiatowego Policji? (wariant 4)",
       "type": "open"
     },
     {
       "id": 136,
       "category": "Organizacja Policji",
-      "question": "Jak wygląda struktura organizacyjna Policji? (wariant 4)",
+      "question": "Jak wyglÄ…da struktura organizacyjna Policji? (wariant 4)",
       "type": "open"
     },
     {
       "id": 137,
       "category": "Organizacja Policji",
-      "question": "Jakie szkoły policyjne działają w Policji? (wariant 4)",
+      "question": "Jakie szkoĹ‚y policyjne dziaĹ‚ajÄ… w Policji? (wariant 4)",
       "type": "open"
     },
     {
       "id": 138,
       "category": "Organizacja Policji",
-      "question": "Jakie są kompetencje Komendanta Stołecznego Policji? (wariant 4)",
+      "question": "Jakie sÄ… kompetencje Komendanta StoĹ‚ecznego Policji? (wariant 4)",
       "type": "open"
     },
     {
       "id": 139,
       "category": "Organizacja Policji",
-      "question": "Jakie jednostki specjalne funkcjonują w Policji? (wariant 4)",
+      "question": "Jakie jednostki specjalne funkcjonujÄ… w Policji? (wariant 4)",
       "type": "open"
     },
     {
       "id": 140,
       "category": "Organizacja Policji",
-      "question": "Kto sprawuje nadzór nad Policją? (wariant 4)",
+      "question": "Kto sprawuje nadzĂłr nad PolicjÄ…? (wariant 4)",
       "type": "open"
     },
     {
@@ -851,55 +850,55 @@
     {
       "id": 142,
       "category": "Organizacja Policji",
-      "question": "Jakie jednostki organizacyjne tworzą Policję? (wariant 5)",
+      "question": "Jakie jednostki organizacyjne tworzÄ… PolicjÄ™? (wariant 5)",
       "type": "open"
     },
     {
       "id": 143,
       "category": "Organizacja Policji",
-      "question": "Kto powołuje Komendanta Głównego Policji? (wariant 5)",
+      "question": "Kto powoĹ‚uje Komendanta GĹ‚Ăłwnego Policji? (wariant 5)",
       "type": "open"
     },
     {
       "id": 144,
       "category": "Organizacja Policji",
-      "question": "Jakie zadania wykonuje komendant wojewódzki Policji? (wariant 5)",
+      "question": "Jakie zadania wykonuje komendant wojewĂłdzki Policji? (wariant 5)",
       "type": "open"
     },
     {
       "id": 145,
       "category": "Organizacja Policji",
-      "question": "Jakie są zadania komendanta powiatowego Policji? (wariant 5)",
+      "question": "Jakie sÄ… zadania komendanta powiatowego Policji? (wariant 5)",
       "type": "open"
     },
     {
       "id": 146,
       "category": "Organizacja Policji",
-      "question": "Jak wygląda struktura organizacyjna Policji? (wariant 5)",
+      "question": "Jak wyglÄ…da struktura organizacyjna Policji? (wariant 5)",
       "type": "open"
     },
     {
       "id": 147,
       "category": "Organizacja Policji",
-      "question": "Jakie szkoły policyjne działają w Policji? (wariant 5)",
+      "question": "Jakie szkoĹ‚y policyjne dziaĹ‚ajÄ… w Policji? (wariant 5)",
       "type": "open"
     },
     {
       "id": 148,
       "category": "Organizacja Policji",
-      "question": "Jakie są kompetencje Komendanta Stołecznego Policji? (wariant 5)",
+      "question": "Jakie sÄ… kompetencje Komendanta StoĹ‚ecznego Policji? (wariant 5)",
       "type": "open"
     },
     {
       "id": 149,
       "category": "Organizacja Policji",
-      "question": "Jakie jednostki specjalne funkcjonują w Policji? (wariant 5)",
+      "question": "Jakie jednostki specjalne funkcjonujÄ… w Policji? (wariant 5)",
       "type": "open"
     },
     {
       "id": 150,
       "category": "Organizacja Policji",
-      "question": "Kto sprawuje nadzór nad Policją? (wariant 5)",
+      "question": "Kto sprawuje nadzĂłr nad PolicjÄ…? (wariant 5)",
       "type": "open"
     },
     {
@@ -911,55 +910,55 @@
     {
       "id": 152,
       "category": "Organizacja Policji",
-      "question": "Jakie jednostki organizacyjne tworzą Policję? (wariant 6)",
+      "question": "Jakie jednostki organizacyjne tworzÄ… PolicjÄ™? (wariant 6)",
       "type": "open"
     },
     {
       "id": 153,
       "category": "Organizacja Policji",
-      "question": "Kto powołuje Komendanta Głównego Policji? (wariant 6)",
+      "question": "Kto powoĹ‚uje Komendanta GĹ‚Ăłwnego Policji? (wariant 6)",
       "type": "open"
     },
     {
       "id": 154,
       "category": "Organizacja Policji",
-      "question": "Jakie zadania wykonuje komendant wojewódzki Policji? (wariant 6)",
+      "question": "Jakie zadania wykonuje komendant wojewĂłdzki Policji? (wariant 6)",
       "type": "open"
     },
     {
       "id": 155,
       "category": "Organizacja Policji",
-      "question": "Jakie są zadania komendanta powiatowego Policji? (wariant 6)",
+      "question": "Jakie sÄ… zadania komendanta powiatowego Policji? (wariant 6)",
       "type": "open"
     },
     {
       "id": 156,
       "category": "Organizacja Policji",
-      "question": "Jak wygląda struktura organizacyjna Policji? (wariant 6)",
+      "question": "Jak wyglÄ…da struktura organizacyjna Policji? (wariant 6)",
       "type": "open"
     },
     {
       "id": 157,
       "category": "Organizacja Policji",
-      "question": "Jakie szkoły policyjne działają w Policji? (wariant 6)",
+      "question": "Jakie szkoĹ‚y policyjne dziaĹ‚ajÄ… w Policji? (wariant 6)",
       "type": "open"
     },
     {
       "id": 158,
       "category": "Organizacja Policji",
-      "question": "Jakie są kompetencje Komendanta Stołecznego Policji? (wariant 6)",
+      "question": "Jakie sÄ… kompetencje Komendanta StoĹ‚ecznego Policji? (wariant 6)",
       "type": "open"
     },
     {
       "id": 159,
       "category": "Organizacja Policji",
-      "question": "Jakie jednostki specjalne funkcjonują w Policji? (wariant 6)",
+      "question": "Jakie jednostki specjalne funkcjonujÄ… w Policji? (wariant 6)",
       "type": "open"
     },
     {
       "id": 160,
       "category": "Organizacja Policji",
-      "question": "Kto sprawuje nadzór nad Policją? (wariant 6)",
+      "question": "Kto sprawuje nadzĂłr nad PolicjÄ…? (wariant 6)",
       "type": "open"
     },
     {
@@ -971,55 +970,55 @@
     {
       "id": 162,
       "category": "Organizacja Policji",
-      "question": "Jakie jednostki organizacyjne tworzą Policję? (wariant 7)",
+      "question": "Jakie jednostki organizacyjne tworzÄ… PolicjÄ™? (wariant 7)",
       "type": "open"
     },
     {
       "id": 163,
       "category": "Organizacja Policji",
-      "question": "Kto powołuje Komendanta Głównego Policji? (wariant 7)",
+      "question": "Kto powoĹ‚uje Komendanta GĹ‚Ăłwnego Policji? (wariant 7)",
       "type": "open"
     },
     {
       "id": 164,
       "category": "Organizacja Policji",
-      "question": "Jakie zadania wykonuje komendant wojewódzki Policji? (wariant 7)",
+      "question": "Jakie zadania wykonuje komendant wojewĂłdzki Policji? (wariant 7)",
       "type": "open"
     },
     {
       "id": 165,
       "category": "Organizacja Policji",
-      "question": "Jakie są zadania komendanta powiatowego Policji? (wariant 7)",
+      "question": "Jakie sÄ… zadania komendanta powiatowego Policji? (wariant 7)",
       "type": "open"
     },
     {
       "id": 166,
       "category": "Organizacja Policji",
-      "question": "Jak wygląda struktura organizacyjna Policji? (wariant 7)",
+      "question": "Jak wyglÄ…da struktura organizacyjna Policji? (wariant 7)",
       "type": "open"
     },
     {
       "id": 167,
       "category": "Organizacja Policji",
-      "question": "Jakie szkoły policyjne działają w Policji? (wariant 7)",
+      "question": "Jakie szkoĹ‚y policyjne dziaĹ‚ajÄ… w Policji? (wariant 7)",
       "type": "open"
     },
     {
       "id": 168,
       "category": "Organizacja Policji",
-      "question": "Jakie są kompetencje Komendanta Stołecznego Policji? (wariant 7)",
+      "question": "Jakie sÄ… kompetencje Komendanta StoĹ‚ecznego Policji? (wariant 7)",
       "type": "open"
     },
     {
       "id": 169,
       "category": "Organizacja Policji",
-      "question": "Jakie jednostki specjalne funkcjonują w Policji? (wariant 7)",
+      "question": "Jakie jednostki specjalne funkcjonujÄ… w Policji? (wariant 7)",
       "type": "open"
     },
     {
       "id": 170,
       "category": "Organizacja Policji",
-      "question": "Kto sprawuje nadzór nad Policją? (wariant 7)",
+      "question": "Kto sprawuje nadzĂłr nad PolicjÄ…? (wariant 7)",
       "type": "open"
     },
     {
@@ -1031,55 +1030,55 @@
     {
       "id": 172,
       "category": "Organizacja Policji",
-      "question": "Jakie jednostki organizacyjne tworzą Policję? (wariant 8)",
+      "question": "Jakie jednostki organizacyjne tworzÄ… PolicjÄ™? (wariant 8)",
       "type": "open"
     },
     {
       "id": 173,
       "category": "Organizacja Policji",
-      "question": "Kto powołuje Komendanta Głównego Policji? (wariant 8)",
+      "question": "Kto powoĹ‚uje Komendanta GĹ‚Ăłwnego Policji? (wariant 8)",
       "type": "open"
     },
     {
       "id": 174,
       "category": "Organizacja Policji",
-      "question": "Jakie zadania wykonuje komendant wojewódzki Policji? (wariant 8)",
+      "question": "Jakie zadania wykonuje komendant wojewĂłdzki Policji? (wariant 8)",
       "type": "open"
     },
     {
       "id": 175,
       "category": "Organizacja Policji",
-      "question": "Jakie są zadania komendanta powiatowego Policji? (wariant 8)",
+      "question": "Jakie sÄ… zadania komendanta powiatowego Policji? (wariant 8)",
       "type": "open"
     },
     {
       "id": 176,
       "category": "Organizacja Policji",
-      "question": "Jak wygląda struktura organizacyjna Policji? (wariant 8)",
+      "question": "Jak wyglÄ…da struktura organizacyjna Policji? (wariant 8)",
       "type": "open"
     },
     {
       "id": 177,
       "category": "Organizacja Policji",
-      "question": "Jakie szkoły policyjne działają w Policji? (wariant 8)",
+      "question": "Jakie szkoĹ‚y policyjne dziaĹ‚ajÄ… w Policji? (wariant 8)",
       "type": "open"
     },
     {
       "id": 178,
       "category": "Organizacja Policji",
-      "question": "Jakie są kompetencje Komendanta Stołecznego Policji? (wariant 8)",
+      "question": "Jakie sÄ… kompetencje Komendanta StoĹ‚ecznego Policji? (wariant 8)",
       "type": "open"
     },
     {
       "id": 179,
       "category": "Organizacja Policji",
-      "question": "Jakie jednostki specjalne funkcjonują w Policji? (wariant 8)",
+      "question": "Jakie jednostki specjalne funkcjonujÄ… w Policji? (wariant 8)",
       "type": "open"
     },
     {
       "id": 180,
       "category": "Organizacja Policji",
-      "question": "Kto sprawuje nadzór nad Policją? (wariant 8)",
+      "question": "Kto sprawuje nadzĂłr nad PolicjÄ…? (wariant 8)",
       "type": "open"
     },
     {
@@ -1091,55 +1090,55 @@
     {
       "id": 182,
       "category": "Organizacja Policji",
-      "question": "Jakie jednostki organizacyjne tworzą Policję? (wariant 9)",
+      "question": "Jakie jednostki organizacyjne tworzÄ… PolicjÄ™? (wariant 9)",
       "type": "open"
     },
     {
       "id": 183,
       "category": "Organizacja Policji",
-      "question": "Kto powołuje Komendanta Głównego Policji? (wariant 9)",
+      "question": "Kto powoĹ‚uje Komendanta GĹ‚Ăłwnego Policji? (wariant 9)",
       "type": "open"
     },
     {
       "id": 184,
       "category": "Organizacja Policji",
-      "question": "Jakie zadania wykonuje komendant wojewódzki Policji? (wariant 9)",
+      "question": "Jakie zadania wykonuje komendant wojewĂłdzki Policji? (wariant 9)",
       "type": "open"
     },
     {
       "id": 185,
       "category": "Organizacja Policji",
-      "question": "Jakie są zadania komendanta powiatowego Policji? (wariant 9)",
+      "question": "Jakie sÄ… zadania komendanta powiatowego Policji? (wariant 9)",
       "type": "open"
     },
     {
       "id": 186,
       "category": "Organizacja Policji",
-      "question": "Jak wygląda struktura organizacyjna Policji? (wariant 9)",
+      "question": "Jak wyglÄ…da struktura organizacyjna Policji? (wariant 9)",
       "type": "open"
     },
     {
       "id": 187,
       "category": "Organizacja Policji",
-      "question": "Jakie szkoły policyjne działają w Policji? (wariant 9)",
+      "question": "Jakie szkoĹ‚y policyjne dziaĹ‚ajÄ… w Policji? (wariant 9)",
       "type": "open"
     },
     {
       "id": 188,
       "category": "Organizacja Policji",
-      "question": "Jakie są kompetencje Komendanta Stołecznego Policji? (wariant 9)",
+      "question": "Jakie sÄ… kompetencje Komendanta StoĹ‚ecznego Policji? (wariant 9)",
       "type": "open"
     },
     {
       "id": 189,
       "category": "Organizacja Policji",
-      "question": "Jakie jednostki specjalne funkcjonują w Policji? (wariant 9)",
+      "question": "Jakie jednostki specjalne funkcjonujÄ… w Policji? (wariant 9)",
       "type": "open"
     },
     {
       "id": 190,
       "category": "Organizacja Policji",
-      "question": "Kto sprawuje nadzór nad Policją? (wariant 9)",
+      "question": "Kto sprawuje nadzĂłr nad PolicjÄ…? (wariant 9)",
       "type": "open"
     },
     {
@@ -1151,655 +1150,655 @@
     {
       "id": 192,
       "category": "Organizacja Policji",
-      "question": "Jakie jednostki organizacyjne tworzą Policję? (wariant 10)",
+      "question": "Jakie jednostki organizacyjne tworzÄ… PolicjÄ™? (wariant 10)",
       "type": "open"
     },
     {
       "id": 193,
       "category": "Organizacja Policji",
-      "question": "Kto powołuje Komendanta Głównego Policji? (wariant 10)",
+      "question": "Kto powoĹ‚uje Komendanta GĹ‚Ăłwnego Policji? (wariant 10)",
       "type": "open"
     },
     {
       "id": 194,
       "category": "Organizacja Policji",
-      "question": "Jakie zadania wykonuje komendant wojewódzki Policji? (wariant 10)",
+      "question": "Jakie zadania wykonuje komendant wojewĂłdzki Policji? (wariant 10)",
       "type": "open"
     },
     {
       "id": 195,
       "category": "Organizacja Policji",
-      "question": "Jakie są zadania komendanta powiatowego Policji? (wariant 10)",
+      "question": "Jakie sÄ… zadania komendanta powiatowego Policji? (wariant 10)",
       "type": "open"
     },
     {
       "id": 196,
       "category": "Organizacja Policji",
-      "question": "Jak wygląda struktura organizacyjna Policji? (wariant 10)",
+      "question": "Jak wyglÄ…da struktura organizacyjna Policji? (wariant 10)",
       "type": "open"
     },
     {
       "id": 197,
       "category": "Organizacja Policji",
-      "question": "Jakie szkoły policyjne działają w Policji? (wariant 10)",
+      "question": "Jakie szkoĹ‚y policyjne dziaĹ‚ajÄ… w Policji? (wariant 10)",
       "type": "open"
     },
     {
       "id": 198,
       "category": "Organizacja Policji",
-      "question": "Jakie są kompetencje Komendanta Stołecznego Policji? (wariant 10)",
+      "question": "Jakie sÄ… kompetencje Komendanta StoĹ‚ecznego Policji? (wariant 10)",
       "type": "open"
     },
     {
       "id": 199,
       "category": "Organizacja Policji",
-      "question": "Jakie jednostki specjalne funkcjonują w Policji? (wariant 10)",
+      "question": "Jakie jednostki specjalne funkcjonujÄ… w Policji? (wariant 10)",
       "type": "open"
     },
     {
       "id": 200,
       "category": "Organizacja Policji",
-      "question": "Kto sprawuje nadzór nad Policją? (wariant 10)",
+      "question": "Kto sprawuje nadzĂłr nad PolicjÄ…? (wariant 10)",
       "type": "open"
     },
     {
       "id": 201,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może legitymować osoby? (wariant 1)",
+      "question": "Kiedy Policja moĹĽe legitymowaÄ‡ osoby? (wariant 1)",
       "type": "open"
     },
     {
       "id": 202,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może zatrzymać osobę? (wariant 1)",
+      "question": "Kiedy Policja moĹĽe zatrzymaÄ‡ osobÄ™? (wariant 1)",
       "type": "open"
     },
     {
       "id": 203,
       "category": "Uprawnienia Policji",
-      "question": "Jakie środki przymusu bezpośredniego może stosować Policja? (wariant 1)",
+      "question": "Jakie Ĺ›rodki przymusu bezpoĹ›redniego moĹĽe stosowaÄ‡ Policja? (wariant 1)",
       "type": "open"
     },
     {
       "id": 204,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może użyć broni palnej? (wariant 1)",
+      "question": "Kiedy Policja moĹĽe uĹĽyÄ‡ broni palnej? (wariant 1)",
       "type": "open"
     },
     {
       "id": 205,
       "category": "Uprawnienia Policji",
-      "question": "Jakie są zasady przeprowadzania kontroli osobistej? (wariant 1)",
+      "question": "Jakie sÄ… zasady przeprowadzania kontroli osobistej? (wariant 1)",
       "type": "open"
     },
     {
       "id": 206,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może dokonać przeszukania? (wariant 1)",
+      "question": "Kiedy Policja moĹĽe dokonaÄ‡ przeszukania? (wariant 1)",
       "type": "open"
     },
     {
       "id": 207,
       "category": "Uprawnienia Policji",
-      "question": "Jakie są prawa osoby zatrzymanej? (wariant 1)",
+      "question": "Jakie sÄ… prawa osoby zatrzymanej? (wariant 1)",
       "type": "open"
     },
     {
       "id": 208,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może użyć kajdanek? (wariant 1)",
+      "question": "Kiedy Policja moĹĽe uĹĽyÄ‡ kajdanek? (wariant 1)",
       "type": "open"
     },
     {
       "id": 209,
       "category": "Uprawnienia Policji",
-      "question": "Jakie dokumenty może sprawdzać Policja? (wariant 1)",
+      "question": "Jakie dokumenty moĹĽe sprawdzaÄ‡ Policja? (wariant 1)",
       "type": "open"
     },
     {
       "id": 210,
       "category": "Uprawnienia Policji",
-      "question": "Jakie obowiązki ma obywatel wobec poleceń Policji? (wariant 1)",
+      "question": "Jakie obowiÄ…zki ma obywatel wobec poleceĹ„ Policji? (wariant 1)",
       "type": "open"
     },
     {
       "id": 211,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może legitymować osoby? (wariant 2)",
+      "question": "Kiedy Policja moĹĽe legitymowaÄ‡ osoby? (wariant 2)",
       "type": "open"
     },
     {
       "id": 212,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może zatrzymać osobę? (wariant 2)",
+      "question": "Kiedy Policja moĹĽe zatrzymaÄ‡ osobÄ™? (wariant 2)",
       "type": "open"
     },
     {
       "id": 213,
       "category": "Uprawnienia Policji",
-      "question": "Jakie środki przymusu bezpośredniego może stosować Policja? (wariant 2)",
+      "question": "Jakie Ĺ›rodki przymusu bezpoĹ›redniego moĹĽe stosowaÄ‡ Policja? (wariant 2)",
       "type": "open"
     },
     {
       "id": 214,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może użyć broni palnej? (wariant 2)",
+      "question": "Kiedy Policja moĹĽe uĹĽyÄ‡ broni palnej? (wariant 2)",
       "type": "open"
     },
     {
       "id": 215,
       "category": "Uprawnienia Policji",
-      "question": "Jakie są zasady przeprowadzania kontroli osobistej? (wariant 2)",
+      "question": "Jakie sÄ… zasady przeprowadzania kontroli osobistej? (wariant 2)",
       "type": "open"
     },
     {
       "id": 216,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może dokonać przeszukania? (wariant 2)",
+      "question": "Kiedy Policja moĹĽe dokonaÄ‡ przeszukania? (wariant 2)",
       "type": "open"
     },
     {
       "id": 217,
       "category": "Uprawnienia Policji",
-      "question": "Jakie są prawa osoby zatrzymanej? (wariant 2)",
+      "question": "Jakie sÄ… prawa osoby zatrzymanej? (wariant 2)",
       "type": "open"
     },
     {
       "id": 218,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może użyć kajdanek? (wariant 2)",
+      "question": "Kiedy Policja moĹĽe uĹĽyÄ‡ kajdanek? (wariant 2)",
       "type": "open"
     },
     {
       "id": 219,
       "category": "Uprawnienia Policji",
-      "question": "Jakie dokumenty może sprawdzać Policja? (wariant 2)",
+      "question": "Jakie dokumenty moĹĽe sprawdzaÄ‡ Policja? (wariant 2)",
       "type": "open"
     },
     {
       "id": 220,
       "category": "Uprawnienia Policji",
-      "question": "Jakie obowiązki ma obywatel wobec poleceń Policji? (wariant 2)",
+      "question": "Jakie obowiÄ…zki ma obywatel wobec poleceĹ„ Policji? (wariant 2)",
       "type": "open"
     },
     {
       "id": 221,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może legitymować osoby? (wariant 3)",
+      "question": "Kiedy Policja moĹĽe legitymowaÄ‡ osoby? (wariant 3)",
       "type": "open"
     },
     {
       "id": 222,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może zatrzymać osobę? (wariant 3)",
+      "question": "Kiedy Policja moĹĽe zatrzymaÄ‡ osobÄ™? (wariant 3)",
       "type": "open"
     },
     {
       "id": 223,
       "category": "Uprawnienia Policji",
-      "question": "Jakie środki przymusu bezpośredniego może stosować Policja? (wariant 3)",
+      "question": "Jakie Ĺ›rodki przymusu bezpoĹ›redniego moĹĽe stosowaÄ‡ Policja? (wariant 3)",
       "type": "open"
     },
     {
       "id": 224,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może użyć broni palnej? (wariant 3)",
+      "question": "Kiedy Policja moĹĽe uĹĽyÄ‡ broni palnej? (wariant 3)",
       "type": "open"
     },
     {
       "id": 225,
       "category": "Uprawnienia Policji",
-      "question": "Jakie są zasady przeprowadzania kontroli osobistej? (wariant 3)",
+      "question": "Jakie sÄ… zasady przeprowadzania kontroli osobistej? (wariant 3)",
       "type": "open"
     },
     {
       "id": 226,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może dokonać przeszukania? (wariant 3)",
+      "question": "Kiedy Policja moĹĽe dokonaÄ‡ przeszukania? (wariant 3)",
       "type": "open"
     },
     {
       "id": 227,
       "category": "Uprawnienia Policji",
-      "question": "Jakie są prawa osoby zatrzymanej? (wariant 3)",
+      "question": "Jakie sÄ… prawa osoby zatrzymanej? (wariant 3)",
       "type": "open"
     },
     {
       "id": 228,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może użyć kajdanek? (wariant 3)",
+      "question": "Kiedy Policja moĹĽe uĹĽyÄ‡ kajdanek? (wariant 3)",
       "type": "open"
     },
     {
       "id": 229,
       "category": "Uprawnienia Policji",
-      "question": "Jakie dokumenty może sprawdzać Policja? (wariant 3)",
+      "question": "Jakie dokumenty moĹĽe sprawdzaÄ‡ Policja? (wariant 3)",
       "type": "open"
     },
     {
       "id": 230,
       "category": "Uprawnienia Policji",
-      "question": "Jakie obowiązki ma obywatel wobec poleceń Policji? (wariant 3)",
+      "question": "Jakie obowiÄ…zki ma obywatel wobec poleceĹ„ Policji? (wariant 3)",
       "type": "open"
     },
     {
       "id": 231,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może legitymować osoby? (wariant 4)",
+      "question": "Kiedy Policja moĹĽe legitymowaÄ‡ osoby? (wariant 4)",
       "type": "open"
     },
     {
       "id": 232,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może zatrzymać osobę? (wariant 4)",
+      "question": "Kiedy Policja moĹĽe zatrzymaÄ‡ osobÄ™? (wariant 4)",
       "type": "open"
     },
     {
       "id": 233,
       "category": "Uprawnienia Policji",
-      "question": "Jakie środki przymusu bezpośredniego może stosować Policja? (wariant 4)",
+      "question": "Jakie Ĺ›rodki przymusu bezpoĹ›redniego moĹĽe stosowaÄ‡ Policja? (wariant 4)",
       "type": "open"
     },
     {
       "id": 234,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może użyć broni palnej? (wariant 4)",
+      "question": "Kiedy Policja moĹĽe uĹĽyÄ‡ broni palnej? (wariant 4)",
       "type": "open"
     },
     {
       "id": 235,
       "category": "Uprawnienia Policji",
-      "question": "Jakie są zasady przeprowadzania kontroli osobistej? (wariant 4)",
+      "question": "Jakie sÄ… zasady przeprowadzania kontroli osobistej? (wariant 4)",
       "type": "open"
     },
     {
       "id": 236,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może dokonać przeszukania? (wariant 4)",
+      "question": "Kiedy Policja moĹĽe dokonaÄ‡ przeszukania? (wariant 4)",
       "type": "open"
     },
     {
       "id": 237,
       "category": "Uprawnienia Policji",
-      "question": "Jakie są prawa osoby zatrzymanej? (wariant 4)",
+      "question": "Jakie sÄ… prawa osoby zatrzymanej? (wariant 4)",
       "type": "open"
     },
     {
       "id": 238,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może użyć kajdanek? (wariant 4)",
+      "question": "Kiedy Policja moĹĽe uĹĽyÄ‡ kajdanek? (wariant 4)",
       "type": "open"
     },
     {
       "id": 239,
       "category": "Uprawnienia Policji",
-      "question": "Jakie dokumenty może sprawdzać Policja? (wariant 4)",
+      "question": "Jakie dokumenty moĹĽe sprawdzaÄ‡ Policja? (wariant 4)",
       "type": "open"
     },
     {
       "id": 240,
       "category": "Uprawnienia Policji",
-      "question": "Jakie obowiązki ma obywatel wobec poleceń Policji? (wariant 4)",
+      "question": "Jakie obowiÄ…zki ma obywatel wobec poleceĹ„ Policji? (wariant 4)",
       "type": "open"
     },
     {
       "id": 241,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może legitymować osoby? (wariant 5)",
+      "question": "Kiedy Policja moĹĽe legitymowaÄ‡ osoby? (wariant 5)",
       "type": "open"
     },
     {
       "id": 242,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może zatrzymać osobę? (wariant 5)",
+      "question": "Kiedy Policja moĹĽe zatrzymaÄ‡ osobÄ™? (wariant 5)",
       "type": "open"
     },
     {
       "id": 243,
       "category": "Uprawnienia Policji",
-      "question": "Jakie środki przymusu bezpośredniego może stosować Policja? (wariant 5)",
+      "question": "Jakie Ĺ›rodki przymusu bezpoĹ›redniego moĹĽe stosowaÄ‡ Policja? (wariant 5)",
       "type": "open"
     },
     {
       "id": 244,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może użyć broni palnej? (wariant 5)",
+      "question": "Kiedy Policja moĹĽe uĹĽyÄ‡ broni palnej? (wariant 5)",
       "type": "open"
     },
     {
       "id": 245,
       "category": "Uprawnienia Policji",
-      "question": "Jakie są zasady przeprowadzania kontroli osobistej? (wariant 5)",
+      "question": "Jakie sÄ… zasady przeprowadzania kontroli osobistej? (wariant 5)",
       "type": "open"
     },
     {
       "id": 246,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może dokonać przeszukania? (wariant 5)",
+      "question": "Kiedy Policja moĹĽe dokonaÄ‡ przeszukania? (wariant 5)",
       "type": "open"
     },
     {
       "id": 247,
       "category": "Uprawnienia Policji",
-      "question": "Jakie są prawa osoby zatrzymanej? (wariant 5)",
+      "question": "Jakie sÄ… prawa osoby zatrzymanej? (wariant 5)",
       "type": "open"
     },
     {
       "id": 248,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może użyć kajdanek? (wariant 5)",
+      "question": "Kiedy Policja moĹĽe uĹĽyÄ‡ kajdanek? (wariant 5)",
       "type": "open"
     },
     {
       "id": 249,
       "category": "Uprawnienia Policji",
-      "question": "Jakie dokumenty może sprawdzać Policja? (wariant 5)",
+      "question": "Jakie dokumenty moĹĽe sprawdzaÄ‡ Policja? (wariant 5)",
       "type": "open"
     },
     {
       "id": 250,
       "category": "Uprawnienia Policji",
-      "question": "Jakie obowiązki ma obywatel wobec poleceń Policji? (wariant 5)",
+      "question": "Jakie obowiÄ…zki ma obywatel wobec poleceĹ„ Policji? (wariant 5)",
       "type": "open"
     },
     {
       "id": 251,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może legitymować osoby? (wariant 6)",
+      "question": "Kiedy Policja moĹĽe legitymowaÄ‡ osoby? (wariant 6)",
       "type": "open"
     },
     {
       "id": 252,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może zatrzymać osobę? (wariant 6)",
+      "question": "Kiedy Policja moĹĽe zatrzymaÄ‡ osobÄ™? (wariant 6)",
       "type": "open"
     },
     {
       "id": 253,
       "category": "Uprawnienia Policji",
-      "question": "Jakie środki przymusu bezpośredniego może stosować Policja? (wariant 6)",
+      "question": "Jakie Ĺ›rodki przymusu bezpoĹ›redniego moĹĽe stosowaÄ‡ Policja? (wariant 6)",
       "type": "open"
     },
     {
       "id": 254,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może użyć broni palnej? (wariant 6)",
+      "question": "Kiedy Policja moĹĽe uĹĽyÄ‡ broni palnej? (wariant 6)",
       "type": "open"
     },
     {
       "id": 255,
       "category": "Uprawnienia Policji",
-      "question": "Jakie są zasady przeprowadzania kontroli osobistej? (wariant 6)",
+      "question": "Jakie sÄ… zasady przeprowadzania kontroli osobistej? (wariant 6)",
       "type": "open"
     },
     {
       "id": 256,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może dokonać przeszukania? (wariant 6)",
+      "question": "Kiedy Policja moĹĽe dokonaÄ‡ przeszukania? (wariant 6)",
       "type": "open"
     },
     {
       "id": 257,
       "category": "Uprawnienia Policji",
-      "question": "Jakie są prawa osoby zatrzymanej? (wariant 6)",
+      "question": "Jakie sÄ… prawa osoby zatrzymanej? (wariant 6)",
       "type": "open"
     },
     {
       "id": 258,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może użyć kajdanek? (wariant 6)",
+      "question": "Kiedy Policja moĹĽe uĹĽyÄ‡ kajdanek? (wariant 6)",
       "type": "open"
     },
     {
       "id": 259,
       "category": "Uprawnienia Policji",
-      "question": "Jakie dokumenty może sprawdzać Policja? (wariant 6)",
+      "question": "Jakie dokumenty moĹĽe sprawdzaÄ‡ Policja? (wariant 6)",
       "type": "open"
     },
     {
       "id": 260,
       "category": "Uprawnienia Policji",
-      "question": "Jakie obowiązki ma obywatel wobec poleceń Policji? (wariant 6)",
+      "question": "Jakie obowiÄ…zki ma obywatel wobec poleceĹ„ Policji? (wariant 6)",
       "type": "open"
     },
     {
       "id": 261,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może legitymować osoby? (wariant 7)",
+      "question": "Kiedy Policja moĹĽe legitymowaÄ‡ osoby? (wariant 7)",
       "type": "open"
     },
     {
       "id": 262,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może zatrzymać osobę? (wariant 7)",
+      "question": "Kiedy Policja moĹĽe zatrzymaÄ‡ osobÄ™? (wariant 7)",
       "type": "open"
     },
     {
       "id": 263,
       "category": "Uprawnienia Policji",
-      "question": "Jakie środki przymusu bezpośredniego może stosować Policja? (wariant 7)",
+      "question": "Jakie Ĺ›rodki przymusu bezpoĹ›redniego moĹĽe stosowaÄ‡ Policja? (wariant 7)",
       "type": "open"
     },
     {
       "id": 264,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może użyć broni palnej? (wariant 7)",
+      "question": "Kiedy Policja moĹĽe uĹĽyÄ‡ broni palnej? (wariant 7)",
       "type": "open"
     },
     {
       "id": 265,
       "category": "Uprawnienia Policji",
-      "question": "Jakie są zasady przeprowadzania kontroli osobistej? (wariant 7)",
+      "question": "Jakie sÄ… zasady przeprowadzania kontroli osobistej? (wariant 7)",
       "type": "open"
     },
     {
       "id": 266,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może dokonać przeszukania? (wariant 7)",
+      "question": "Kiedy Policja moĹĽe dokonaÄ‡ przeszukania? (wariant 7)",
       "type": "open"
     },
     {
       "id": 267,
       "category": "Uprawnienia Policji",
-      "question": "Jakie są prawa osoby zatrzymanej? (wariant 7)",
+      "question": "Jakie sÄ… prawa osoby zatrzymanej? (wariant 7)",
       "type": "open"
     },
     {
       "id": 268,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może użyć kajdanek? (wariant 7)",
+      "question": "Kiedy Policja moĹĽe uĹĽyÄ‡ kajdanek? (wariant 7)",
       "type": "open"
     },
     {
       "id": 269,
       "category": "Uprawnienia Policji",
-      "question": "Jakie dokumenty może sprawdzać Policja? (wariant 7)",
+      "question": "Jakie dokumenty moĹĽe sprawdzaÄ‡ Policja? (wariant 7)",
       "type": "open"
     },
     {
       "id": 270,
       "category": "Uprawnienia Policji",
-      "question": "Jakie obowiązki ma obywatel wobec poleceń Policji? (wariant 7)",
+      "question": "Jakie obowiÄ…zki ma obywatel wobec poleceĹ„ Policji? (wariant 7)",
       "type": "open"
     },
     {
       "id": 271,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może legitymować osoby? (wariant 8)",
+      "question": "Kiedy Policja moĹĽe legitymowaÄ‡ osoby? (wariant 8)",
       "type": "open"
     },
     {
       "id": 272,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może zatrzymać osobę? (wariant 8)",
+      "question": "Kiedy Policja moĹĽe zatrzymaÄ‡ osobÄ™? (wariant 8)",
       "type": "open"
     },
     {
       "id": 273,
       "category": "Uprawnienia Policji",
-      "question": "Jakie środki przymusu bezpośredniego może stosować Policja? (wariant 8)",
+      "question": "Jakie Ĺ›rodki przymusu bezpoĹ›redniego moĹĽe stosowaÄ‡ Policja? (wariant 8)",
       "type": "open"
     },
     {
       "id": 274,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może użyć broni palnej? (wariant 8)",
+      "question": "Kiedy Policja moĹĽe uĹĽyÄ‡ broni palnej? (wariant 8)",
       "type": "open"
     },
     {
       "id": 275,
       "category": "Uprawnienia Policji",
-      "question": "Jakie są zasady przeprowadzania kontroli osobistej? (wariant 8)",
+      "question": "Jakie sÄ… zasady przeprowadzania kontroli osobistej? (wariant 8)",
       "type": "open"
     },
     {
       "id": 276,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może dokonać przeszukania? (wariant 8)",
+      "question": "Kiedy Policja moĹĽe dokonaÄ‡ przeszukania? (wariant 8)",
       "type": "open"
     },
     {
       "id": 277,
       "category": "Uprawnienia Policji",
-      "question": "Jakie są prawa osoby zatrzymanej? (wariant 8)",
+      "question": "Jakie sÄ… prawa osoby zatrzymanej? (wariant 8)",
       "type": "open"
     },
     {
       "id": 278,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może użyć kajdanek? (wariant 8)",
+      "question": "Kiedy Policja moĹĽe uĹĽyÄ‡ kajdanek? (wariant 8)",
       "type": "open"
     },
     {
       "id": 279,
       "category": "Uprawnienia Policji",
-      "question": "Jakie dokumenty może sprawdzać Policja? (wariant 8)",
+      "question": "Jakie dokumenty moĹĽe sprawdzaÄ‡ Policja? (wariant 8)",
       "type": "open"
     },
     {
       "id": 280,
       "category": "Uprawnienia Policji",
-      "question": "Jakie obowiązki ma obywatel wobec poleceń Policji? (wariant 8)",
+      "question": "Jakie obowiÄ…zki ma obywatel wobec poleceĹ„ Policji? (wariant 8)",
       "type": "open"
     },
     {
       "id": 281,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może legitymować osoby? (wariant 9)",
+      "question": "Kiedy Policja moĹĽe legitymowaÄ‡ osoby? (wariant 9)",
       "type": "open"
     },
     {
       "id": 282,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może zatrzymać osobę? (wariant 9)",
+      "question": "Kiedy Policja moĹĽe zatrzymaÄ‡ osobÄ™? (wariant 9)",
       "type": "open"
     },
     {
       "id": 283,
       "category": "Uprawnienia Policji",
-      "question": "Jakie środki przymusu bezpośredniego może stosować Policja? (wariant 9)",
+      "question": "Jakie Ĺ›rodki przymusu bezpoĹ›redniego moĹĽe stosowaÄ‡ Policja? (wariant 9)",
       "type": "open"
     },
     {
       "id": 284,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może użyć broni palnej? (wariant 9)",
+      "question": "Kiedy Policja moĹĽe uĹĽyÄ‡ broni palnej? (wariant 9)",
       "type": "open"
     },
     {
       "id": 285,
       "category": "Uprawnienia Policji",
-      "question": "Jakie są zasady przeprowadzania kontroli osobistej? (wariant 9)",
+      "question": "Jakie sÄ… zasady przeprowadzania kontroli osobistej? (wariant 9)",
       "type": "open"
     },
     {
       "id": 286,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może dokonać przeszukania? (wariant 9)",
+      "question": "Kiedy Policja moĹĽe dokonaÄ‡ przeszukania? (wariant 9)",
       "type": "open"
     },
     {
       "id": 287,
       "category": "Uprawnienia Policji",
-      "question": "Jakie są prawa osoby zatrzymanej? (wariant 9)",
+      "question": "Jakie sÄ… prawa osoby zatrzymanej? (wariant 9)",
       "type": "open"
     },
     {
       "id": 288,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może użyć kajdanek? (wariant 9)",
+      "question": "Kiedy Policja moĹĽe uĹĽyÄ‡ kajdanek? (wariant 9)",
       "type": "open"
     },
     {
       "id": 289,
       "category": "Uprawnienia Policji",
-      "question": "Jakie dokumenty może sprawdzać Policja? (wariant 9)",
+      "question": "Jakie dokumenty moĹĽe sprawdzaÄ‡ Policja? (wariant 9)",
       "type": "open"
     },
     {
       "id": 290,
       "category": "Uprawnienia Policji",
-      "question": "Jakie obowiązki ma obywatel wobec poleceń Policji? (wariant 9)",
+      "question": "Jakie obowiÄ…zki ma obywatel wobec poleceĹ„ Policji? (wariant 9)",
       "type": "open"
     },
     {
       "id": 291,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może legitymować osoby? (wariant 10)",
+      "question": "Kiedy Policja moĹĽe legitymowaÄ‡ osoby? (wariant 10)",
       "type": "open"
     },
     {
       "id": 292,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może zatrzymać osobę? (wariant 10)",
+      "question": "Kiedy Policja moĹĽe zatrzymaÄ‡ osobÄ™? (wariant 10)",
       "type": "open"
     },
     {
       "id": 293,
       "category": "Uprawnienia Policji",
-      "question": "Jakie środki przymusu bezpośredniego może stosować Policja? (wariant 10)",
+      "question": "Jakie Ĺ›rodki przymusu bezpoĹ›redniego moĹĽe stosowaÄ‡ Policja? (wariant 10)",
       "type": "open"
     },
     {
       "id": 294,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może użyć broni palnej? (wariant 10)",
+      "question": "Kiedy Policja moĹĽe uĹĽyÄ‡ broni palnej? (wariant 10)",
       "type": "open"
     },
     {
       "id": 295,
       "category": "Uprawnienia Policji",
-      "question": "Jakie są zasady przeprowadzania kontroli osobistej? (wariant 10)",
+      "question": "Jakie sÄ… zasady przeprowadzania kontroli osobistej? (wariant 10)",
       "type": "open"
     },
     {
       "id": 296,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może dokonać przeszukania? (wariant 10)",
+      "question": "Kiedy Policja moĹĽe dokonaÄ‡ przeszukania? (wariant 10)",
       "type": "open"
     },
     {
       "id": 297,
       "category": "Uprawnienia Policji",
-      "question": "Jakie są prawa osoby zatrzymanej? (wariant 10)",
+      "question": "Jakie sÄ… prawa osoby zatrzymanej? (wariant 10)",
       "type": "open"
     },
     {
       "id": 298,
       "category": "Uprawnienia Policji",
-      "question": "Kiedy Policja może użyć kajdanek? (wariant 10)",
+      "question": "Kiedy Policja moĹĽe uĹĽyÄ‡ kajdanek? (wariant 10)",
       "type": "open"
     },
     {
       "id": 299,
       "category": "Uprawnienia Policji",
-      "question": "Jakie dokumenty może sprawdzać Policja? (wariant 10)",
+      "question": "Jakie dokumenty moĹĽe sprawdzaÄ‡ Policja? (wariant 10)",
       "type": "open"
     },
     {
       "id": 300,
       "category": "Uprawnienia Policji",
-      "question": "Jakie obowiązki ma obywatel wobec poleceń Policji? (wariant 10)",
+      "question": "Jakie obowiÄ…zki ma obywatel wobec poleceĹ„ Policji? (wariant 10)",
       "type": "open"
     }
   ]

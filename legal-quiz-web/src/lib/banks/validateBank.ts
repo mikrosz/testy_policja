@@ -111,7 +111,7 @@ export async function parseAndValidateBank(
 ): Promise<{ bank: QuestionBank; warnings: string[] }> {
   let raw: any;
   try {
-    raw = JSON.parse(jsonText);
+    raw = JSON.parse(jsonText.replace(/^\uFEFF/, ""));
   } catch {
     throw new Error("Nieprawidłowy JSON.");
   }
@@ -167,4 +167,3 @@ export async function parseAndValidateBank(
 
   return { bank, warnings };
 }
-

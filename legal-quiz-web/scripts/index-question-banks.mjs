@@ -39,7 +39,7 @@ async function main() {
     const full = path.join(dir, file);
     try {
       const text = await readFile(full, "utf8");
-      const raw = JSON.parse(text);
+      const raw = JSON.parse(text.replace(/^\uFEFF/, ""));
       const title = safeString(raw?.title) || file.replace(/\.json$/i, "");
       const questions = Array.isArray(raw?.questions) ? raw.questions : [];
       const categories = new Set();
