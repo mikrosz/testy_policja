@@ -8,6 +8,7 @@ import { Button } from "@/components/ui/Button";
 import { ScoreRing } from "@/components/ui/ScoreRing";
 import { activeQuiz } from "@/lib/quiz/activeQuiz";
 import { buildRetryIncorrectQuiz } from "@/lib/quiz/buildBankQuiz";
+import { withBasePath } from "@/lib/nav/withBasePath";
 
 export default function QuizResultPage() {
   const [quizId, setQuizId] = useState<string | null>(null);
@@ -35,7 +36,7 @@ export default function QuizResultPage() {
     if (!retry.questions.length) return;
     await storage.quizzes.put(retry);
     activeQuiz.setActiveId(retry.id);
-    window.location.href = "/quiz/session/";
+    window.location.href = withBasePath("/quiz/session/");
   }
 
   if (!quizId) {
@@ -95,7 +96,7 @@ export default function QuizResultPage() {
               variant="secondary"
               onClick={() => {
                 activeQuiz.setActiveId(quiz.id);
-                window.location.href = "/quiz/session/";
+                window.location.href = withBasePath("/quiz/session/");
               }}
             >
               Przegląd odpowiedzi
@@ -154,4 +155,3 @@ export default function QuizResultPage() {
     </div>
   );
 }
-

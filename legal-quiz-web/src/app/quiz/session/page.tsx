@@ -10,6 +10,7 @@ import { QuestionView } from "@/components/quiz/QuestionView";
 import { computeQuizResult } from "@/lib/quiz/computeQuizResult";
 import { activeQuiz } from "@/lib/quiz/activeQuiz";
 import { updateStatsOnFinish } from "@/lib/stats/userStats";
+import { withBasePath } from "@/lib/nav/withBasePath";
 
 export default function QuizSessionPage() {
   const [quizId, setQuizId] = useState<string | null>(null);
@@ -124,7 +125,7 @@ export default function QuizSessionPage() {
     await storage.quizzes.put(finalized);
     await updateStatsOnFinish(finalized);
     activeQuiz.setLastResultId(finalized.id);
-    window.location.href = "/quiz/result/";
+    window.location.href = withBasePath("/quiz/result/");
   }
 
   if (!quizId) {

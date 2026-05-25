@@ -6,6 +6,7 @@ import { storage } from "@/lib/storage/storage";
 import type { Quiz } from "@/lib/types";
 import { Button } from "@/components/ui/Button";
 import { activeQuiz } from "@/lib/quiz/activeQuiz";
+import { withBasePath } from "@/lib/nav/withBasePath";
 
 export default function QuizHistoryPage() {
   const [quizzes, setQuizzes] = useState<Quiz[]>([]);
@@ -66,7 +67,7 @@ export default function QuizHistoryPage() {
                         e.preventDefault();
                         if (res) activeQuiz.setLastResultId(q.id);
                         activeQuiz.setActiveId(q.id);
-                        window.location.href = res ? "/quiz/result/" : "/quiz/session/";
+                        window.location.href = withBasePath(res ? "/quiz/result/" : "/quiz/session/");
                       }}
                     >
                       {res ? "Wynik" : "Kontynuuj"}
@@ -76,7 +77,7 @@ export default function QuizHistoryPage() {
                     variant="ghost"
                     onClick={() => {
                       activeQuiz.setActiveId(q.id);
-                      window.location.href = "/quiz/session/";
+                      window.location.href = withBasePath("/quiz/session/");
                     }}
                   >
                     Podgląd

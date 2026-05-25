@@ -12,6 +12,7 @@ import type { BankQuestionType, QuestionBank, QuizConfig } from "@/lib/types";
 import { buildBankQuiz } from "@/lib/quiz/buildBankQuiz";
 import { ToastHost, useToasts } from "@/components/ui/Toast";
 import { activeQuiz } from "@/lib/quiz/activeQuiz";
+import { withBasePath } from "@/lib/nav/withBasePath";
 
 const BANK_QUESTION_TYPES: { key: BankQuestionType; label: string }[] = [
   { key: "single_choice", label: "Jednokrotnego wyboru" },
@@ -78,7 +79,7 @@ export function NewQuizClient() {
       await storage.quizzes.put(quiz);
       activeQuiz.setActiveId(quiz.id);
       pushToast({ kind: "success", title: "Utworzono quiz", message: "Przenoszę do sesji..." });
-      window.location.href = "/quiz/session/";
+      window.location.href = withBasePath("/quiz/session/");
     } catch (e) {
       pushToast({
         kind: "error",
@@ -184,4 +185,3 @@ export function NewQuizClient() {
     </div>
   );
 }
-

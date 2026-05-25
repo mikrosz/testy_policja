@@ -8,6 +8,7 @@ import type { QuestionBank, Quiz } from "@/lib/types";
 import { ScoreRing } from "@/components/ui/ScoreRing";
 import { activeQuiz } from "@/lib/quiz/activeQuiz";
 import { getUserStats, type UserStats } from "@/lib/stats/userStats";
+import { withBasePath } from "@/lib/nav/withBasePath";
 
 export default function HomePage() {
   const [banks, setBanks] = useState<QuestionBank[]>([]);
@@ -126,7 +127,7 @@ export default function HomePage() {
                           onClick={() => {
                             activeQuiz.setLastResultId(q.id);
                             activeQuiz.setActiveId(q.id);
-                            window.location.href = "/quiz/result/";
+                            window.location.href = withBasePath("/quiz/result/");
                           }}
                         >
                           Podsumowanie
@@ -136,7 +137,7 @@ export default function HomePage() {
                           variant="secondary"
                           onClick={() => {
                             activeQuiz.setActiveId(q.id);
-                            window.location.href = "/quiz/session/";
+                            window.location.href = withBasePath("/quiz/session/");
                           }}
                         >
                           Kontynuuj
