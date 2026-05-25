@@ -1,0 +1,258 @@
+{
+  "version": 1,
+  "generatedAt": "2026-05-22T12:34:31.088Z",
+  "banks": [
+    {
+      "path": "/question-banks/KPK_01_Przepisy_wstepne.json",
+      "title": "KPK_01_Przepisy_wstepne",
+      "question_count": 60,
+      "detected_question_count": 60,
+      "categories": [
+        "Przepisy wstępne"
+      ],
+      "types": [
+        "single_choice"
+      ]
+    },
+    {
+      "path": "/question-banks/KPK_02_Sad_i_wlasciwosc.json",
+      "title": "KPK_02_Sad_i_wlasciwosc",
+      "question_count": 50,
+      "detected_question_count": 50,
+      "categories": [
+        "Badanie właściwości",
+        "Przekazanie sprawy",
+        "Skład sądu",
+        "Spór o właściwość",
+        "Sąd i właściwość",
+        "Sąd wojskowy i powszechny",
+        "Wyłączenie sędziego",
+        "Właściwość miejscowa",
+        "Łączność spraw"
+      ],
+      "types": [
+        "single_choice"
+      ]
+    },
+    {
+      "path": "/question-banks/KPK_03_Strony_postepowania.json",
+      "title": "KPK_03_Strony_postepowania",
+      "question_count": 50,
+      "detected_question_count": 50,
+      "categories": [
+        "Oskarżyciel posiłkowy",
+        "Oskarżyciel prywatny",
+        "Oskarżyciel publiczny",
+        "Pokrzywdzony",
+        "Strony postępowania"
+      ],
+      "types": [
+        "single_choice"
+      ]
+    },
+    {
+      "path": "/question-banks/KPK_04_Oskarzony_i_obrona.json",
+      "title": "KPK_04_Oskarzony_i_obrona",
+      "question_count": 60,
+      "detected_question_count": 60,
+      "categories": [
+        "Doręczenia oskarżonemu",
+        "Obrona obligatoryjna",
+        "Obrońca",
+        "Obrońca z urzędu",
+        "Oskarżony",
+        "Pełnomocnik",
+        "Podejrzany",
+        "Prawo do obrony",
+        "Prawo do tłumacza",
+        "Tłumacz",
+        "Zakaz obrony"
+      ],
+      "types": [
+        "single_choice"
+      ]
+    },
+    {
+      "path": "/question-banks/KPK_05_Czynnosci_procesowe.json",
+      "title": "KPK_05_Czynnosci_procesowe",
+      "question_count": 70,
+      "detected_question_count": 70,
+      "categories": [
+        "Czynności procesowe",
+        "Doręczenia",
+        "Głosowanie",
+        "Narada",
+        "Porządek czynności",
+        "Posiedzenia",
+        "Protokoły",
+        "Przywrócenie terminu",
+        "Terminy",
+        "Utrwalanie czynności",
+        "Uzasadnienie",
+        "Zarządzenia"
+      ],
+      "types": [
+        "single_choice"
+      ]
+    },
+    {
+      "path": "/question-banks/KPK_06_Dowody.json",
+      "title": "KPK_06_Dowody",
+      "question_count": 70,
+      "detected_question_count": 70,
+      "categories": [
+        "Biegły",
+        "Dowody",
+        "Eksperyment procesowy",
+        "Przeszukanie",
+        "Wnioski dowodowe",
+        "Zatrzymanie rzeczy",
+        "Świadek"
+      ],
+      "types": [
+        "single_choice"
+      ]
+    },
+    {
+      "path": "/question-banks/KPK_07_Srodki_przymusu.json",
+      "title": "KPK_07_Srodki_przymusu",
+      "question_count": 70,
+      "detected_question_count": 70,
+      "categories": [
+        "Dozór Policji",
+        "Poręczenie majątkowe",
+        "Poręczenie społeczne",
+        "Prawa zatrzymanego",
+        "Przesłanki aresztu",
+        "Tymczasowe aresztowanie",
+        "Zakaz opuszczania kraju",
+        "Zatrzymanie",
+        "Środki przymusu"
+      ],
+      "types": [
+        "single_choice"
+      ]
+    },
+    {
+      "path": "/question-banks/KPK_08_Postepowanie_przygotowawcze.json",
+      "title": "KPK_08_Postepowanie_przygotowawcze",
+      "question_count": 70,
+      "detected_question_count": 70,
+      "categories": [
+        "Akt oskarżenia",
+        "Cele postępowania",
+        "Dochodzenie",
+        "Nadzór prokuratora",
+        "Odmowa wszczęcia",
+        "Podejrzany",
+        "Postępowanie przygotowawcze",
+        "Przedstawienie zarzutów",
+        "Subsydiarny akt oskarżenia",
+        "Umorzenie",
+        "Wszczęcie postępowania",
+        "Zamknięcie śledztwa",
+        "Śledztwo"
+      ],
+      "types": [
+        "single_choice"
+      ]
+    },
+    {
+      "path": "/question-banks/KPK_09_Postepowanie_przed_sadem.json",
+      "title": "KPK_09_Postepowanie_przed_sadem",
+      "question_count": 70,
+      "detected_question_count": 70,
+      "categories": [
+        "Dowody na rozprawie",
+        "Głosy stron",
+        "Jawność rozprawy",
+        "Kierowanie rozprawą",
+        "Narada",
+        "Obecność oskarżonego",
+        "Przesłuchanie oskarżonego",
+        "Przewód sądowy",
+        "Rozprawa główna",
+        "Wyrok",
+        "Świadkowie"
+      ],
+      "types": [
+        "single_choice"
+      ]
+    },
+    {
+      "path": "/question-banks/KPK_10_Srodki_odwolawcze.json",
+      "title": "KPK_10_Srodki_odwolawcze",
+      "question_count": 70,
+      "detected_question_count": 70,
+      "categories": [
+        "Apelacja",
+        "Bezwzględne przyczyny odwoławcze",
+        "Cofnięcie środka odwoławczego",
+        "Granice zaskarżenia",
+        "Kasacja",
+        "Wniosek o uzasadnienie",
+        "Wyrok sądu odwoławczego",
+        "Zakaz reformationis in peius",
+        "Zażalenie",
+        "Środki odwoławcze"
+      ],
+      "types": [
+        "single_choice"
+      ]
+    },
+    {
+      "path": "/question-banks/KPK_11_Postepowania_szczegolne.json",
+      "title": "KPK_11_Postepowania_szczegolne",
+      "question_count": 70,
+      "detected_question_count": 70,
+      "categories": [
+        "Dobrowolne poddanie się karze",
+        "Mediacja",
+        "Posiedzenie pojednawcze",
+        "Postępowania szczególne",
+        "Postępowanie prywatnoskargowe",
+        "Postępowanie przyspieszone",
+        "Skazanie bez rozprawy",
+        "Sprzeciw od wyroku nakazowego",
+        "Wyrok nakazowy",
+        "Wznowienie postępowania"
+      ],
+      "types": [
+        "single_choice"
+      ]
+    },
+    {
+      "path": "/question-banks/Ustawa o policji.json",
+      "title": "Ustawa o Policji - pytania testowe",
+      "question_count": 80,
+      "detected_question_count": 80,
+      "categories": [
+        "Czynności Policji",
+        "Doręczenia elektroniczne",
+        "Finansowanie",
+        "Jednostki organizacyjne",
+        "Komisariaty i posterunki",
+        "Kontrola osobista",
+        "Organizacja Policji",
+        "Organizacja wewnętrzna",
+        "Organy Policji",
+        "Postępowanie administracyjne",
+        "Powoływanie",
+        "Przemoc domowa",
+        "Przepisy ogólne",
+        "Rejestracja",
+        "Samorząd",
+        "Uprawnienia Policji",
+        "Zadania Policji",
+        "Zatrzymanie",
+        "Zażalenia"
+      ],
+      "types": [
+        "fillblank",
+        "multiple_choice",
+        "single_choice",
+        "truefalse"
+      ]
+    }
+  ]
+}
