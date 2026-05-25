@@ -112,14 +112,14 @@ function SingleChoice({
 }) {
   const val = answer?.kind === "single" ? answer.choiceId : null;
   return (
-    <div className="space-y-2">
-      {question.choices.map((c) => {
+    <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
+      {question.choices.map((c, idx) => {
         const chosen = val === c.id;
         const correct = revealCorrect ? question.correctChoiceId === c.id : null;
         return (
           <button
             key={c.id}
-            className={`w-full rounded-lg border px-3 py-2 text-left text-sm ${pill(chosen)} ${
+            className={`w-full rounded-xl border px-3 py-3 text-left text-sm ${pill(chosen)} ${
               revealCorrect && correct !== null
                 ? correct
                   ? "ring-2 ring-emerald-400"
@@ -130,7 +130,12 @@ function SingleChoice({
             }`}
             onClick={() => onAnswer({ kind: "single", choiceId: c.id })}
           >
-            {c.label}
+            <div className="flex items-start gap-3">
+              <div className="mt-0.5 shrink-0 rounded-md border border-slate-200 bg-white px-2 py-1 text-xs font-semibold text-slate-700 dark:border-slate-700 dark:bg-slate-900/80 dark:text-slate-200">
+                {indexToLetter(idx)}
+              </div>
+              <div className="min-w-0">{c.label}</div>
+            </div>
           </button>
         );
       })}
@@ -155,14 +160,14 @@ function MultipleChoice({
     onAnswer({ kind: "multiple", choiceIds: next });
   }
   return (
-    <div className="space-y-2">
-      {question.choices.map((c) => {
+    <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
+      {question.choices.map((c, idx) => {
         const chosen = vals.includes(c.id);
         const correct = revealCorrect ? question.correctChoiceIds.includes(c.id) : null;
         return (
           <button
             key={c.id}
-            className={`w-full rounded-lg border px-3 py-2 text-left text-sm ${pill(chosen)} ${
+            className={`w-full rounded-xl border px-3 py-3 text-left text-sm ${pill(chosen)} ${
               revealCorrect && correct !== null
                 ? correct
                   ? "ring-2 ring-emerald-400"
@@ -173,7 +178,12 @@ function MultipleChoice({
             }`}
             onClick={() => toggle(c.id)}
           >
-            {c.label}
+            <div className="flex items-start gap-3">
+              <div className="mt-0.5 shrink-0 rounded-md border border-slate-200 bg-white px-2 py-1 text-xs font-semibold text-slate-700 dark:border-slate-700 dark:bg-slate-900/80 dark:text-slate-200">
+                {indexToLetter(idx)}
+              </div>
+              <div className="min-w-0">{c.label}</div>
+            </div>
           </button>
         );
       })}
@@ -207,4 +217,9 @@ function FillBlank({
       ) : null}
     </div>
   );
+}
+
+function indexToLetter(i: number) {
+  const letters = ["A", "B", "C", "D", "E", "F"];
+  return letters[i] ?? String(i + 1);
 }
