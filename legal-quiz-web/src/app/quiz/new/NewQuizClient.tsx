@@ -28,6 +28,7 @@ export function NewQuizClient() {
   const [banks, setBanks] = useState<QuestionBank[]>([]);
   const [bankId, setBankId] = useState<string>("");
   const [categories, setCategories] = useState<string[]>([]);
+  const [showCategories, setShowCategories] = useState(false);
   const [count, setCount] = useState<number>(20);
   const [difficulty, setDifficulty] = useState<QuizConfig["difficulty"]>("medium");
   const [types, setTypes] = useState<BankQuestionType[]>(["truefalse", "single_choice"]);
@@ -110,17 +111,40 @@ export function NewQuizClient() {
           onChange={(v) => {
             setBankId(v);
             setCategories([]);
+            setShowCategories(false);
           }}
           options={banks.map((b) => ({ value: b.id, label: b.title }))}
           placeholder={banks.length ? "Wybierz..." : "Dodaj bank w public/question-banks/ lub zaimportuj w „Banki”"}
         />
 
-        <CheckboxGroup
-          label="Kategorie (opcjonalnie)"
-          values={categories}
-          onChange={(vals) => setCategories(vals)}
-          options={categoryOptions}
-        />
+        <div className="rounded-xl border border-slate-200 p-3 dark:border-slate-700">
+          <div className="flex items-center justify-between gap-2">
+            <div>
+              <div className="text-sm font-medium">Kategorie</div>
+              <div className="mt-0.5 text-xs text-slate-500 dark:text-slate-300">
+                Opcjonalnie — wybierz kategorie, jeśli chcesz zawęzić zakres.
+              </div>
+            </div>
+            <button
+              type="button"
+              className="rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm font-medium hover:bg-slate-50 dark:border-slate-700 dark:bg-slate-900/80 dark:hover:bg-slate-900"
+              onClick={() => setShowCategories((v) => !v)}
+            >
+              {showCategories ? "Zwiń" : "Wybierz"}
+              {categories.length ? ` (${categories.length})` : ""}
+            </button>
+          </div>
+          {showCategories ? (
+            <div className="mt-3">
+              <CheckboxGroup
+                label=""
+                values={categories}
+                onChange={(vals) => setCategories(vals)}
+                options={categoryOptions}
+              />
+            </div>
+          ) : null}
+        </div>
 
         <div className="grid grid-cols-1 gap-3 md:grid-cols-2">
           <NumberInput label="Liczba pytań" value={count} onChange={setCount} min={1} max={200} step={1} />

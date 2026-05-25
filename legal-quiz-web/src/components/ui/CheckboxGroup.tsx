@@ -13,7 +13,7 @@ export function CheckboxGroup({
 }) {
   return (
     <div>
-      <div className="text-sm font-medium">{label}</div>
+      {label ? <div className="text-sm font-medium">{label}</div> : null}
       <div className="mt-2 grid grid-cols-1 gap-2 sm:grid-cols-2">
         {options.map((o) => {
           const checked = values.includes(o.value);
@@ -39,4 +39,3 @@ export function CheckboxGroup({
     </div>
   );
 }
-
