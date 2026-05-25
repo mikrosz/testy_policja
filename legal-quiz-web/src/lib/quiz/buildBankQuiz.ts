@@ -117,8 +117,12 @@ export function buildBankQuiz(bank: QuestionBank, config: QuizConfig): Quiz {
 
 export function buildRetryIncorrectQuiz(original: Quiz): Quiz {
   const incorrect = original.session?.result?.items.filter((i) => !i.isCorrect) ?? [];
-  const ids = new Set(incorrect.map((i) => i.bankQuestionId).filter((x) => x !== undefined));
-  const questions = original.questions.filter((q) => ids.has(q.bankQuestionId));
+  const ids = new Set<string | number>(
+    incorrect
+      .map((i) => i.bankQuestionId)
+      .filter((x): x is string | number => x !== undefined)
+  );
+  const questions = original.questions.filter((q) => (q.bankQuestionId !== undefined ? ids.has(q.bankQuestionId) : false));
 
   return {
     id: crypto.randomUUID(),
@@ -128,4 +132,3 @@ export function buildRetryIncorrectQuiz(original: Quiz): Quiz {
     session: { startedAt: Date.now(), answers: {} }
   };
 }
-
