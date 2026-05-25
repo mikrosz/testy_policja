@@ -50,7 +50,7 @@ export default function QuizHistoryPage() {
             return (
               <div
                 key={q.id}
-                className="flex flex-col gap-2 rounded-xl border border-slate-200 bg-white p-4 dark:border-slate-800 dark:bg-slate-950 md:flex-row md:items-center md:justify-between"
+                className="flex flex-col gap-2 rounded-xl border border-slate-200 bg-white p-4 dark:border-slate-700 dark:bg-slate-900/80 md:flex-row md:items-center md:justify-between"
               >
                 <div className="min-w-0">
                   <div className="truncate text-sm font-semibold">{q.meta.docName}</div>
@@ -90,7 +90,7 @@ export default function QuizHistoryPage() {
             );
           })
         ) : (
-          <div className="rounded-xl border border-slate-200 bg-white p-4 text-sm text-slate-600 dark:border-slate-800 dark:bg-slate-950 dark:text-slate-300">
+          <div className="rounded-xl border border-slate-200 bg-white p-4 text-sm text-slate-600 dark:border-slate-700 dark:bg-slate-900/80 dark:text-slate-200">
             Brak quizów.
           </div>
         )}

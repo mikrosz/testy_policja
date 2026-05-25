@@ -143,7 +143,7 @@ export default function BanksPage() {
       </div>
 
       <div className="mt-4 grid grid-cols-1 gap-4 lg:grid-cols-[360px_1fr]">
-        <div className="rounded-2xl border border-slate-200 bg-white p-4 dark:border-slate-800 dark:bg-slate-950">
+        <div className="rounded-2xl border border-slate-200 bg-white p-4 dark:border-slate-700 dark:bg-slate-900/80 dark:shadow-black/20">
           <div className="flex items-center justify-between gap-2">
             <h2 className="text-sm font-semibold">Lista banków</h2>
             <span className="text-xs text-slate-500 dark:text-slate-400">{banks.length} szt.</span>
@@ -174,7 +174,7 @@ export default function BanksPage() {
                   <div
                     key={b.id}
                     className={`rounded-xl border p-3 ${
-                      active ? "border-blue-400 bg-blue-50 dark:bg-blue-950/30" : "border-slate-200 dark:border-slate-800"
+                      active ? "border-blue-400 bg-blue-50 dark:bg-blue-950/30" : "border-slate-200 dark:border-slate-700"
                     }`}
                   >
                     <button className="block w-full text-left" onClick={() => setActiveBankId(b.id)}>
@@ -198,14 +198,14 @@ export default function BanksPage() {
                 );
               })
             ) : (
-              <div className="rounded-xl border border-slate-200 p-3 text-sm text-slate-600 dark:border-slate-800 dark:text-slate-300">
+              <div className="rounded-xl border border-slate-200 p-3 text-sm text-slate-600 dark:border-slate-700 dark:text-slate-200">
                 Brak banków. Dodaj pliki do <code>public/question-banks/</code> lub zaimportuj .json.
               </div>
             )}
           </div>
         </div>
 
-        <div className="rounded-2xl border border-slate-200 bg-white p-4 dark:border-slate-800 dark:bg-slate-950">
+        <div className="rounded-2xl border border-slate-200 bg-white p-4 dark:border-slate-700 dark:bg-slate-900/80 dark:shadow-black/20">
           <div className="flex items-center justify-between gap-2">
             <h2 className="text-sm font-semibold">Podgląd</h2>
             {activeBank ? (
@@ -237,7 +237,7 @@ export default function BanksPage() {
                 <label className="block">
                   <div className="text-sm font-medium">Filtr kategorii</div>
                   <select
-                    className="mt-1 w-full rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm outline-none focus:border-blue-400 dark:border-slate-800 dark:bg-slate-950"
+                    className="mt-1 w-full rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm outline-none focus:border-blue-400 dark:border-slate-700 dark:bg-slate-900/80"
                     value={categoryFilter}
                     onChange={(e) => setCategoryFilter(e.target.value)}
                   >
@@ -251,13 +251,13 @@ export default function BanksPage() {
                 </label>
               </div>
 
-              <div className="rounded-xl border border-slate-200 p-3 text-sm dark:border-slate-800">
+              <div className="rounded-xl border border-slate-200 p-3 text-sm dark:border-slate-700">
                 <div className="text-xs font-semibold text-slate-500 dark:text-slate-400">Rozkład trudności</div>
                 <div className="mt-2 flex flex-wrap gap-2">
                   {difficultyDist(activeBank).map(([k, v]) => (
                     <span
                       key={k}
-                      className="rounded-full border border-slate-200 bg-white px-2 py-1 text-xs text-slate-700 dark:border-slate-800 dark:bg-slate-950 dark:text-slate-200"
+                      className="rounded-full border border-slate-200 bg-white px-2 py-1 text-xs text-slate-700 dark:border-slate-700 dark:bg-slate-900/80 dark:text-slate-200"
                     >
                       {k}: {v}
                     </span>
@@ -265,7 +265,7 @@ export default function BanksPage() {
                 </div>
               </div>
 
-              <div className="rounded-xl border border-slate-200 p-3 text-sm dark:border-slate-800">
+              <div className="rounded-xl border border-slate-200 p-3 text-sm dark:border-slate-700">
                 <div className="flex items-center justify-between gap-2">
                   <div className="text-xs font-semibold text-slate-500 dark:text-slate-400">Przykładowe pytania</div>
                   <Link href={`/quiz/new/?bankId=${encodeURIComponent(activeBank.id)}`}>
@@ -277,7 +277,7 @@ export default function BanksPage() {
                     .filter((q) => (!categoryFilter ? true : q.category === categoryFilter))
                     .slice(0, 10)
                     .map((q) => (
-                      <div key={String(q.id)} className="rounded-lg border border-slate-200 p-2 text-sm dark:border-slate-800">
+                      <div key={String(q.id)} className="rounded-lg border border-slate-200 p-2 text-sm dark:border-slate-700">
                         <div className="text-xs text-slate-500 dark:text-slate-400">
                           {q.category} • {q.type}
                         </div>

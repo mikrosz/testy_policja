@@ -18,7 +18,7 @@ export function QuestionView({
       <div className="text-sm font-semibold">{question.prompt}</div>
       {question.help ? <div className="mt-1 text-xs text-slate-500 dark:text-slate-400">{question.help}</div> : null}
 
-      <div className="mt-2 rounded-lg border border-slate-200 bg-slate-50 p-3 text-xs text-slate-700 dark:border-slate-800 dark:bg-slate-950 dark:text-slate-200">
+      <div className="mt-2 rounded-lg border border-slate-200 bg-slate-50 p-3 text-xs text-slate-700 dark:border-slate-700 dark:bg-slate-900/80 dark:text-slate-200">
         <div className="flex items-center justify-between gap-2">
           <div className="font-semibold">Źródło</div>
           <div className="text-[11px] text-slate-500 dark:text-slate-400">
@@ -44,7 +44,7 @@ export function QuestionView({
       </div>
 
       {revealCorrect ? (
-        <div className="mt-4 rounded-lg border border-slate-200 bg-slate-50 p-3 text-xs text-slate-700 dark:border-slate-800 dark:bg-slate-950 dark:text-slate-200">
+        <div className="mt-4 rounded-lg border border-slate-200 bg-slate-50 p-3 text-xs text-slate-700 dark:border-slate-700 dark:bg-slate-900/80 dark:text-slate-200">
           <div className="font-semibold">Wyjaśnienie</div>
           <div className="mt-1">{question.explanation}</div>
           <div className="mt-1 opacity-80">Podstawa: {question.references.join(", ")}</div>
@@ -57,7 +57,7 @@ export function QuestionView({
 function pill(selected: boolean) {
   return selected
     ? "border-blue-300 bg-blue-50 dark:border-blue-900 dark:bg-blue-950/30"
-    : "border-slate-200 bg-white dark:border-slate-800 dark:bg-slate-950";
+    : "border-slate-200 bg-white dark:border-slate-700 dark:bg-slate-900/80";
 }
 
 function TrueFalse({
@@ -197,7 +197,7 @@ function FillBlank({
   return (
     <div>
       <input
-        className="w-full rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm outline-none focus:border-blue-400 dark:border-slate-800 dark:bg-slate-950"
+        className="w-full rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm outline-none focus:border-blue-400 dark:border-slate-700 dark:bg-slate-900/80"
         value={val}
         placeholder="Wpisz odpowiedź..."
         onChange={(e) => onAnswer({ kind: "text", value: e.target.value })}
@@ -208,4 +208,3 @@ function FillBlank({
     </div>
   );
 }
-

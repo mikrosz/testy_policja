@@ -171,7 +171,7 @@ export default function QuizSessionPage() {
         </div>
         <div className="flex flex-col items-end gap-2">
           {remaining !== null && !isReview ? (
-            <div className="rounded-lg border border-slate-200 bg-white px-3 py-1 text-xs tabular-nums text-slate-700 dark:border-slate-800 dark:bg-slate-950 dark:text-slate-200">
+            <div className="rounded-lg border border-slate-200 bg-white px-3 py-1 text-xs tabular-nums text-slate-700 dark:border-slate-700 dark:bg-slate-900/80 dark:text-slate-200">
               Pozostało: {Math.floor(remaining / 60)
                 .toString()
                 .padStart(2, "0")}
@@ -193,11 +193,11 @@ export default function QuizSessionPage() {
       </div>
 
       <div className="mt-4 grid grid-cols-1 gap-4 lg:grid-cols-[320px_1fr]">
-        <aside className="rounded-xl border border-slate-200 bg-white p-4 dark:border-slate-800 dark:bg-slate-950">
+        <aside className="rounded-xl border border-slate-200 bg-white p-4 dark:border-slate-700 dark:bg-slate-900/80 dark:shadow-black/20">
           <div className="text-sm font-semibold">Kategorie i postęp</div>
           <div className="mt-2 space-y-2">
             {categoryProgress.map((c) => (
-              <div key={c.category} className="rounded-lg border border-slate-200 p-3 text-sm dark:border-slate-800">
+              <div key={c.category} className="rounded-lg border border-slate-200 p-3 text-sm dark:border-slate-700">
                 <div className="flex items-center justify-between gap-2">
                   <div className="truncate font-medium">{c.category}</div>
                   <div className="shrink-0 text-xs text-slate-500 dark:text-slate-400">
@@ -210,7 +210,7 @@ export default function QuizSessionPage() {
               </div>
             ))}
           </div>
-          <div className="mt-4 rounded-lg border border-slate-200 p-3 text-xs text-slate-600 dark:border-slate-800 dark:text-slate-300">
+          <div className="mt-4 rounded-lg border border-slate-200 p-3 text-xs text-slate-600 dark:border-slate-700 dark:text-slate-200">
             Tryb egzaminu: 1 pytanie na raz • wynik po zakończeniu.
           </div>
         </aside>
@@ -220,7 +220,7 @@ export default function QuizSessionPage() {
             <ProgressBar value={index + 1} max={quiz.questions.length} />
           </div>
 
-          <div className="mt-4 rounded-xl border border-slate-200 bg-white p-4 dark:border-slate-800 dark:bg-slate-950">
+          <div className="mt-4 rounded-xl border border-slate-200 bg-white p-4 dark:border-slate-700 dark:bg-slate-900/80 dark:shadow-black/20">
             {current ? (
               <QuestionView
                 question={current}

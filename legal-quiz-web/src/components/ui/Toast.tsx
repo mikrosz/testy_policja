@@ -15,7 +15,7 @@ function kindStyles(kind: ToastKind) {
       return "border-amber-200 bg-amber-50 text-amber-900 dark:border-amber-900 dark:bg-amber-950/50 dark:text-amber-200";
     case "info":
     default:
-      return "border-slate-200 bg-white text-slate-900 dark:border-slate-800 dark:bg-slate-950 dark:text-slate-50";
+      return "border-slate-200 bg-white text-slate-900 dark:border-slate-700 dark:bg-slate-900/80 dark:text-slate-50";
   }
 }
 
@@ -48,4 +48,3 @@ export function ToastHost({ toasts, onDismiss }: { toasts: ToastItem[]; onDismis
     </div>
   );
 }
-

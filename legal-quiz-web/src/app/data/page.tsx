@@ -64,9 +64,9 @@ export default function DataPage() {
         </Link>
       </div>
 
-      <div className="mt-4 space-y-4 rounded-xl border border-slate-200 bg-white p-4 dark:border-slate-800 dark:bg-slate-950">
+      <div className="mt-4 space-y-4 rounded-xl border border-slate-200 bg-white p-4 dark:border-slate-700 dark:bg-slate-900/80 dark:shadow-black/20">
         <div className="grid grid-cols-1 gap-3 md:grid-cols-2">
-          <div className="rounded-lg border border-slate-200 p-3 dark:border-slate-800">
+          <div className="rounded-lg border border-slate-200 p-3 dark:border-slate-700">
             <div className="text-sm font-semibold">Eksport</div>
             <div className="mt-1 text-xs text-slate-500 dark:text-slate-400">
               Quizy: {quizzes.length} • Banki: {banks.length}
@@ -78,7 +78,7 @@ export default function DataPage() {
             </div>
           </div>
 
-          <div className="rounded-lg border border-slate-200 p-3 dark:border-slate-800">
+          <div className="rounded-lg border border-slate-200 p-3 dark:border-slate-700">
             <div className="text-sm font-semibold">Import</div>
             <div className="mt-1 text-xs text-slate-500 dark:text-slate-400">Wczytuje backup JSON zapisany wcześniej.</div>
             <div className="mt-3">
@@ -116,4 +116,3 @@ export default function DataPage() {
     </div>
   );
 }
-

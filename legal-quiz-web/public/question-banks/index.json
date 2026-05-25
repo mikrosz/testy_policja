@@ -1,221 +1,137 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-22T12:34:31.088Z",
+  "generatedAt": "2026-05-25T07:46:38.842Z",
   "banks": [
     {
-      "path": "/question-banks/KPK_01_Przepisy_wstepne.json",
-      "title": "KPK_01_Przepisy_wstepne",
-      "question_count": 60,
-      "detected_question_count": 60,
+      "path": "/question-banks/KPK.json",
+      "title": "Quiz KPK",
+      "question_count": 1860,
+      "detected_question_count": 1860,
       "categories": [
-        "Przepisy wstępne"
-      ],
-      "types": [
-        "single_choice"
-      ]
-    },
-    {
-      "path": "/question-banks/KPK_02_Sad_i_wlasciwosc.json",
-      "title": "KPK_02_Sad_i_wlasciwosc",
-      "question_count": 50,
-      "detected_question_count": 50,
-      "categories": [
+        "Akt oskarżenia",
+        "Apelacja",
         "Badanie właściwości",
-        "Przekazanie sprawy",
-        "Skład sądu",
-        "Spór o właściwość",
-        "Sąd i właściwość",
-        "Sąd wojskowy i powszechny",
-        "Wyłączenie sędziego",
-        "Właściwość miejscowa",
-        "Łączność spraw"
-      ],
-      "types": [
-        "single_choice"
-      ]
-    },
-    {
-      "path": "/question-banks/KPK_03_Strony_postepowania.json",
-      "title": "KPK_03_Strony_postepowania",
-      "question_count": 50,
-      "detected_question_count": 50,
-      "categories": [
-        "Oskarżyciel posiłkowy",
-        "Oskarżyciel prywatny",
-        "Oskarżyciel publiczny",
-        "Pokrzywdzony",
-        "Strony postępowania"
-      ],
-      "types": [
-        "single_choice"
-      ]
-    },
-    {
-      "path": "/question-banks/KPK_04_Oskarzony_i_obrona.json",
-      "title": "KPK_04_Oskarzony_i_obrona",
-      "question_count": 60,
-      "detected_question_count": 60,
-      "categories": [
+        "Bezwzględne przyczyny odwoławcze",
+        "Biegły",
+        "Cele postępowania",
+        "Cofnięcie środka odwoławczego",
+        "Czynności Policji i prokuratora",
+        "Czynności procesowe",
+        "Czynności sądowe i protokoły",
+        "Dobrowolne poddanie się karze",
+        "Dochodzenie",
+        "Dokumenty i dowody rzeczowe",
+        "Doręczenia",
         "Doręczenia oskarżonemu",
+        "Dowody",
+        "Dowody na rozprawie",
+        "Dozór Policji",
+        "Eksperyment procesowy",
+        "Granice zaskarżenia",
+        "Głosowanie",
+        "Głosy stron",
+        "Jawność rozprawy",
+        "Kasacja",
+        "Kasacja i wznowienie",
+        "Kierowanie rozprawą",
+        "Koszty mediacji",
+        "Koszty obrońcy",
+        "Koszty oskarżyciela prywatnego",
+        "Koszty procesu",
+        "Koszty sądowe",
+        "List gończy, ENA i poszukiwania",
+        "Mediacja",
+        "Nadzwyczajne środki zaskarżenia",
+        "Nadzór prokuratora",
+        "Należności świadków",
+        "Narada",
+        "Obecność oskarżonego",
         "Obrona obligatoryjna",
         "Obrońca",
         "Obrońca z urzędu",
+        "Odmowa wszczęcia",
+        "Opinie biegłych i ekspertyzy",
+        "Opłaty",
         "Oskarżony",
+        "Oskarżyciel posiłkowy",
+        "Oskarżyciel prywatny",
+        "Oskarżyciel publiczny",
         "Pełnomocnik",
         "Podejrzany",
-        "Prawo do obrony",
-        "Prawo do tłumacza",
-        "Tłumacz",
-        "Zakaz obrony"
-      ],
-      "types": [
-        "single_choice"
-      ]
-    },
-    {
-      "path": "/question-banks/KPK_05_Czynnosci_procesowe.json",
-      "title": "KPK_05_Czynnosci_procesowe",
-      "question_count": 70,
-      "detected_question_count": 70,
-      "categories": [
-        "Czynności procesowe",
-        "Doręczenia",
-        "Głosowanie",
-        "Narada",
+        "Pokrzywdzony",
         "Porządek czynności",
-        "Posiedzenia",
-        "Protokoły",
-        "Przywrócenie terminu",
-        "Terminy",
-        "Utrwalanie czynności",
-        "Uzasadnienie",
-        "Zarządzenia"
-      ],
-      "types": [
-        "single_choice"
-      ]
-    },
-    {
-      "path": "/question-banks/KPK_06_Dowody.json",
-      "title": "KPK_06_Dowody",
-      "question_count": 70,
-      "detected_question_count": 70,
-      "categories": [
-        "Biegły",
-        "Dowody",
-        "Eksperyment procesowy",
-        "Przeszukanie",
-        "Wnioski dowodowe",
-        "Zatrzymanie rzeczy",
-        "Świadek"
-      ],
-      "types": [
-        "single_choice"
-      ]
-    },
-    {
-      "path": "/question-banks/KPK_07_Srodki_przymusu.json",
-      "title": "KPK_07_Srodki_przymusu",
-      "question_count": 70,
-      "detected_question_count": 70,
-      "categories": [
-        "Dozór Policji",
         "Poręczenie majątkowe",
         "Poręczenie społeczne",
-        "Prawa zatrzymanego",
-        "Przesłanki aresztu",
-        "Tymczasowe aresztowanie",
-        "Zakaz opuszczania kraju",
-        "Zatrzymanie",
-        "Środki przymusu"
-      ],
-      "types": [
-        "single_choice"
-      ]
-    },
-    {
-      "path": "/question-banks/KPK_08_Postepowanie_przygotowawcze.json",
-      "title": "KPK_08_Postepowanie_przygotowawcze",
-      "question_count": 70,
-      "detected_question_count": 70,
-      "categories": [
-        "Akt oskarżenia",
-        "Cele postępowania",
-        "Dochodzenie",
-        "Nadzór prokuratora",
-        "Odmowa wszczęcia",
-        "Podejrzany",
-        "Postępowanie przygotowawcze",
-        "Przedstawienie zarzutów",
-        "Subsydiarny akt oskarżenia",
-        "Umorzenie",
-        "Wszczęcie postępowania",
-        "Zamknięcie śledztwa",
-        "Śledztwo"
-      ],
-      "types": [
-        "single_choice"
-      ]
-    },
-    {
-      "path": "/question-banks/KPK_09_Postepowanie_przed_sadem.json",
-      "title": "KPK_09_Postepowanie_przed_sadem",
-      "question_count": 70,
-      "detected_question_count": 70,
-      "categories": [
-        "Dowody na rozprawie",
-        "Głosy stron",
-        "Jawność rozprawy",
-        "Kierowanie rozprawą",
-        "Narada",
-        "Obecność oskarżonego",
-        "Przesłuchanie oskarżonego",
-        "Przewód sądowy",
-        "Rozprawa główna",
-        "Wyrok",
-        "Świadkowie"
-      ],
-      "types": [
-        "single_choice"
-      ]
-    },
-    {
-      "path": "/question-banks/KPK_10_Srodki_odwolawcze.json",
-      "title": "KPK_10_Srodki_odwolawcze",
-      "question_count": 70,
-      "detected_question_count": 70,
-      "categories": [
-        "Apelacja",
-        "Bezwzględne przyczyny odwoławcze",
-        "Cofnięcie środka odwoławczego",
-        "Granice zaskarżenia",
-        "Kasacja",
-        "Wniosek o uzasadnienie",
-        "Wyrok sądu odwoławczego",
-        "Zakaz reformationis in peius",
-        "Zażalenie",
-        "Środki odwoławcze"
-      ],
-      "types": [
-        "single_choice"
-      ]
-    },
-    {
-      "path": "/question-banks/KPK_11_Postepowania_szczegolne.json",
-      "title": "KPK_11_Postepowania_szczegolne",
-      "question_count": 70,
-      "detected_question_count": 70,
-      "categories": [
-        "Dobrowolne poddanie się karze",
-        "Mediacja",
+        "Posiedzenia",
         "Posiedzenie pojednawcze",
         "Postępowania szczególne",
+        "Postępowanie międzynarodowe",
+        "Postępowanie nakazowe i przyspieszone",
+        "Postępowanie odwoławcze",
         "Postępowanie prywatnoskargowe",
+        "Postępowanie przygotowawcze",
         "Postępowanie przyspieszone",
+        "Postępowanie w sprawach wojskowych",
+        "Postępowanie wobec nieobecnych",
+        "Prawa i obowiązki świadka",
+        "Prawa zatrzymanego",
+        "Prawo do obrony",
+        "Prawo do tłumacza",
+        "Protokoły",
+        "Przedstawienie zarzutów",
+        "Przekazanie sprawy",
+        "Przepisy wstępne",
+        "Przestępstwa prywatnoskargowe",
+        "Przeszukanie",
+        "Przesłanki aresztu",
+        "Przesłuchania i okazania",
+        "Przesłuchanie oskarżonego",
+        "Przewód sądowy",
+        "Przywrócenie terminu",
+        "Rozprawa główna",
         "Skazanie bez rozprawy",
+        "Skład sądu",
         "Sprzeciw od wyroku nakazowego",
+        "Spór o właściwość",
+        "Strony postępowania",
+        "Subsydiarny akt oskarżenia",
+        "Sąd i właściwość",
+        "Sąd wojskowy i powszechny",
+        "Terminy",
+        "Tymczasowe aresztowanie",
+        "Tłumacz",
+        "Umorzenie",
+        "Utrwalanie czynności",
+        "Uzasadnienie",
+        "Wniosek o uzasadnienie",
+        "Wnioski dowodowe",
+        "Wszczęcie postępowania",
+        "Wykonanie orzeczeń",
+        "Wynagrodzenie biegłego",
+        "Wyrok",
         "Wyrok nakazowy",
-        "Wznowienie postępowania"
+        "Wyrok sądu odwoławczego",
+        "Wyłączenie sędziego",
+        "Wznowienie postępowania",
+        "Właściwość miejscowa",
+        "Zabezpieczenie majątkowe",
+        "Zakaz obrony",
+        "Zakaz opuszczania kraju",
+        "Zakaz reformationis in peius",
+        "Zamknięcie śledztwa",
+        "Zarządzenia",
+        "Zatrzymanie",
+        "Zatrzymanie rzeczy",
+        "Zażalenie",
+        "Zbiór pytań mieszanych egzaminacyjnych",
+        "Zwolnienie od kosztów",
+        "Zwrot wydatków",
+        "Łączność spraw",
+        "Śledztwo",
+        "Środki odwoławcze",
+        "Środki przymusu",
+        "Świadek",
+        "Świadkowie"
       ],
       "types": [
         "single_choice"
