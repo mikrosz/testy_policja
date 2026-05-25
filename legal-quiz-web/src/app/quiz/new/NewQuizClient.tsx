@@ -55,6 +55,11 @@ export function NewQuizClient() {
   const bank = useMemo(() => banks.find((b) => b.id === bankId) ?? null, [banks, bankId]);
   const categoryOptions = useMemo(() => (bank?.categories ?? []).map((c) => ({ value: c, label: c })), [bank]);
 
+  useEffect(() => {
+    // Always start collapsed when bank changes (and avoid any stale UI state).
+    setShowCategories(false);
+  }, [bankId]);
+
   async function onBuild() {
     if (!bank) return;
     if (types.length === 0) {
