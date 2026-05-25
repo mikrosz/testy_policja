@@ -13,7 +13,6 @@ export function AppShell({ children }: { children: React.ReactNode }) {
           <Link href="/" className="flex items-center gap-2">
             <div className="leading-tight">
               <div className="text-sm font-semibold">Testy Policyjne</div>
-              <div className="text-xs text-slate-500 dark:text-slate-400">Quizy offline</div>
             </div>
           </Link>
           <nav className="flex items-center gap-1">

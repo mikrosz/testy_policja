@@ -36,8 +36,6 @@ export default function HomePage() {
     <div className="mx-auto w-full max-w-7xl px-4 py-8">
       <div className="flex flex-col gap-2">
         <h1 className="text-3xl font-semibold tracking-tight">Testy Policyjne</h1>
-        <p className="text-sm text-slate-600 dark:text-slate-300">Quizy offline z ustaw i aktów prawnych.</p>
-        <p className="text-sm text-slate-600 dark:text-slate-300">Wybierz bazę pytań i rozpocznij test.</p>
       </div>
 
       <div className="mt-8 flex items-center justify-between gap-3">
@@ -147,4 +145,3 @@ export default function HomePage() {
     </div>
   );
 }
-
