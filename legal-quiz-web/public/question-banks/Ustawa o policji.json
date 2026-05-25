@@ -1,1186 +1,1806 @@
 {
-  "title": "Ustawa o Policji - pytania testowe",
-  "description": "Pytania bez typu open: jednokrotnego wyboru, wielokrotnego wyboru, prawda/fałsz i uzupełnianie luk.",
-  "question_count": 80,
+  "title": "Rozbudowana baza pytań - Ustawa o Policji",
+  "question_count": 300,
   "questions": [
     {
-      "id": "policja-001",
-      "type": "single_choice",
+      "id": 1,
       "category": "Przepisy ogólne",
-      "difficulty": "medium",
-      "question": "Jaką formacją jest Policja według ustawy?",
-      "explanation": "Odpowiedź wynika z Art. 1 ust. 1 ustawy o Policji.",
-      "source": "Art. 1 ust. 1 ustawy o Policji",
-      "choices": [
-        "Umundurowaną i uzbrojoną formacją służącą społeczeństwu",
-        "Formacją wojskową podległą MON",
-        "Organem sądowym",
-        "Strażą gminną"
-      ],
-      "correctIndex": 0
+      "question": "Jakie są podstawowe zadania Policji? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-002",
-      "type": "fillblank",
+      "id": 2,
       "category": "Przepisy ogólne",
-      "difficulty": "medium",
-      "question": "Policja jest przeznaczona do ochrony bezpieczeństwa ludzi oraz utrzymywania bezpieczeństwa i porządku _____.",
-      "explanation": "Odpowiedź wynika z Art. 1 ust. 1 ustawy o Policji.",
-      "source": "Art. 1 ust. 1 ustawy o Policji",
-      "answer": "publicznego"
+      "question": "Komu podlega Policja? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-003",
-      "type": "truefalse",
+      "id": 3,
       "category": "Przepisy ogólne",
-      "difficulty": "medium",
-      "question": "Nazwa „Policja” przysługuje wyłącznie formacji określonej w ustawie.",
-      "explanation": "Odpowiedź wynika z Art. 1 ust. 1a ustawy o Policji.",
-      "source": "Art. 1 ust. 1a ustawy o Policji",
-      "correct": true
+      "question": "Jakie są główne obowiązki funkcjonariusza Policji? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-004",
-      "type": "multiple_choice",
-      "category": "Zadania Policji",
-      "difficulty": "medium",
-      "question": "Które zadania należą do podstawowych zadań Policji?",
-      "explanation": "Odpowiedź wynika z Art. 1 ust. 2 ustawy o Policji.",
-      "source": "Art. 1 ust. 2 ustawy o Policji",
-      "choices": [
-        "Ochrona życia i zdrowia ludzi oraz mienia",
-        "Wykrywanie przestępstw i wykroczeń",
-        "Wydawanie wyroków",
-        "Kontrola przestrzegania przepisów porządkowych i administracyjnych"
-      ],
-      "correctIndexes": [
-        0,
-        1,
-        3
-      ]
+      "id": 4,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są ustawowe zadania Policji w zakresie bezpieczeństwa publicznego? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-005",
-      "type": "single_choice",
-      "category": "Zadania Policji",
-      "difficulty": "medium",
-      "question": "Który artykuł określa podstawowe zadania Policji?",
-      "explanation": "Odpowiedź wynika z Art. 1 ust. 2 ustawy o Policji.",
-      "source": "Art. 1 ust. 2 ustawy o Policji",
-      "choices": [
-        "Art. 1",
-        "Art. 4",
-        "Art. 10",
-        "Art. 15"
-      ],
-      "correctIndex": 0
+      "id": 5,
+      "category": "Przepisy ogólne",
+      "question": "Co obejmuje ochrona bezpieczeństwa ludzi przez Policję? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-006",
-      "type": "truefalse",
-      "category": "Zadania Policji",
-      "difficulty": "medium",
-      "question": "Do zadań Policji należy wykrywanie przestępstw i wykroczeń oraz ściganie ich sprawców.",
-      "explanation": "Odpowiedź wynika z Art. 1 ust. 2 pkt 4 ustawy o Policji.",
-      "source": "Art. 1 ust. 2 pkt 4 ustawy o Policji",
-      "correct": true
+      "id": 6,
+      "category": "Przepisy ogólne",
+      "question": "Jakie czynności wykonuje Policja w zakresie wykrywania przestępstw? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-007",
-      "type": "single_choice",
-      "category": "Zadania Policji",
-      "difficulty": "medium",
-      "question": "Kto wykonuje zadania przewidziane dla Policji w Siłach Zbrojnych?",
-      "explanation": "Odpowiedź wynika z Art. 2 ustawy o Policji.",
-      "source": "Art. 2 ustawy o Policji",
-      "choices": [
-        "Żandarmeria Wojskowa i wojskowe organy porządkowe",
-        "Straż Marszałkowska",
-        "Służba Więzienna",
-        "Państwowa Straż Pożarna"
-      ],
-      "correctIndex": 0
+      "id": 7,
+      "category": "Przepisy ogólne",
+      "question": "Jakie zadania Policja realizuje wobec samorządu terytorialnego? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-008",
-      "type": "multiple_choice",
-      "category": "Doręczenia elektroniczne",
-      "difficulty": "medium",
-      "question": "Kiedy nie stosuje się obowiązku e-doręczeń lub usługi hybrydowej?",
-      "explanation": "Odpowiedź wynika z Art. 3a ustawy o Policji.",
-      "source": "Art. 3a ustawy o Policji",
-      "choices": [
-        "W sprawach osobowych funkcjonariuszy Policji",
-        "W sprawach osobowych byłych funkcjonariuszy Policji",
-        "Gdy mogłoby to utrudnić lub uniemożliwić realizację zadań Policji",
-        "W każdej sprawie bez wyjątku"
-      ],
-      "correctIndexes": [
-        0,
-        1,
-        2
-      ]
+      "id": 8,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są podstawowe zasady działania Policji? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-009",
-      "type": "multiple_choice",
+      "id": 9,
+      "category": "Przepisy ogólne",
+      "question": "Jakie znaczenie ma ochrona porządku publicznego? (wariant 1)",
+      "type": "open"
+    },
+    {
+      "id": 10,
+      "category": "Przepisy ogólne",
+      "question": "Jakie zadania Policja wykonuje wobec ruchu drogowego? (wariant 1)",
+      "type": "open"
+    },
+    {
+      "id": 11,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są podstawowe zadania Policji? (wariant 2)",
+      "type": "open"
+    },
+    {
+      "id": 12,
+      "category": "Przepisy ogólne",
+      "question": "Komu podlega Policja? (wariant 2)",
+      "type": "open"
+    },
+    {
+      "id": 13,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są główne obowiązki funkcjonariusza Policji? (wariant 2)",
+      "type": "open"
+    },
+    {
+      "id": 14,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są ustawowe zadania Policji w zakresie bezpieczeństwa publicznego? (wariant 2)",
+      "type": "open"
+    },
+    {
+      "id": 15,
+      "category": "Przepisy ogólne",
+      "question": "Co obejmuje ochrona bezpieczeństwa ludzi przez Policję? (wariant 2)",
+      "type": "open"
+    },
+    {
+      "id": 16,
+      "category": "Przepisy ogólne",
+      "question": "Jakie czynności wykonuje Policja w zakresie wykrywania przestępstw? (wariant 2)",
+      "type": "open"
+    },
+    {
+      "id": 17,
+      "category": "Przepisy ogólne",
+      "question": "Jakie zadania Policja realizuje wobec samorządu terytorialnego? (wariant 2)",
+      "type": "open"
+    },
+    {
+      "id": 18,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są podstawowe zasady działania Policji? (wariant 2)",
+      "type": "open"
+    },
+    {
+      "id": 19,
+      "category": "Przepisy ogólne",
+      "question": "Jakie znaczenie ma ochrona porządku publicznego? (wariant 2)",
+      "type": "open"
+    },
+    {
+      "id": 20,
+      "category": "Przepisy ogólne",
+      "question": "Jakie zadania Policja wykonuje wobec ruchu drogowego? (wariant 2)",
+      "type": "open"
+    },
+    {
+      "id": 21,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są podstawowe zadania Policji? (wariant 3)",
+      "type": "open"
+    },
+    {
+      "id": 22,
+      "category": "Przepisy ogólne",
+      "question": "Komu podlega Policja? (wariant 3)",
+      "type": "open"
+    },
+    {
+      "id": 23,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są główne obowiązki funkcjonariusza Policji? (wariant 3)",
+      "type": "open"
+    },
+    {
+      "id": 24,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są ustawowe zadania Policji w zakresie bezpieczeństwa publicznego? (wariant 3)",
+      "type": "open"
+    },
+    {
+      "id": 25,
+      "category": "Przepisy ogólne",
+      "question": "Co obejmuje ochrona bezpieczeństwa ludzi przez Policję? (wariant 3)",
+      "type": "open"
+    },
+    {
+      "id": 26,
+      "category": "Przepisy ogólne",
+      "question": "Jakie czynności wykonuje Policja w zakresie wykrywania przestępstw? (wariant 3)",
+      "type": "open"
+    },
+    {
+      "id": 27,
+      "category": "Przepisy ogólne",
+      "question": "Jakie zadania Policja realizuje wobec samorządu terytorialnego? (wariant 3)",
+      "type": "open"
+    },
+    {
+      "id": 28,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są podstawowe zasady działania Policji? (wariant 3)",
+      "type": "open"
+    },
+    {
+      "id": 29,
+      "category": "Przepisy ogólne",
+      "question": "Jakie znaczenie ma ochrona porządku publicznego? (wariant 3)",
+      "type": "open"
+    },
+    {
+      "id": 30,
+      "category": "Przepisy ogólne",
+      "question": "Jakie zadania Policja wykonuje wobec ruchu drogowego? (wariant 3)",
+      "type": "open"
+    },
+    {
+      "id": 31,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są podstawowe zadania Policji? (wariant 4)",
+      "type": "open"
+    },
+    {
+      "id": 32,
+      "category": "Przepisy ogólne",
+      "question": "Komu podlega Policja? (wariant 4)",
+      "type": "open"
+    },
+    {
+      "id": 33,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są główne obowiązki funkcjonariusza Policji? (wariant 4)",
+      "type": "open"
+    },
+    {
+      "id": 34,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są ustawowe zadania Policji w zakresie bezpieczeństwa publicznego? (wariant 4)",
+      "type": "open"
+    },
+    {
+      "id": 35,
+      "category": "Przepisy ogólne",
+      "question": "Co obejmuje ochrona bezpieczeństwa ludzi przez Policję? (wariant 4)",
+      "type": "open"
+    },
+    {
+      "id": 36,
+      "category": "Przepisy ogólne",
+      "question": "Jakie czynności wykonuje Policja w zakresie wykrywania przestępstw? (wariant 4)",
+      "type": "open"
+    },
+    {
+      "id": 37,
+      "category": "Przepisy ogólne",
+      "question": "Jakie zadania Policja realizuje wobec samorządu terytorialnego? (wariant 4)",
+      "type": "open"
+    },
+    {
+      "id": 38,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są podstawowe zasady działania Policji? (wariant 4)",
+      "type": "open"
+    },
+    {
+      "id": 39,
+      "category": "Przepisy ogólne",
+      "question": "Jakie znaczenie ma ochrona porządku publicznego? (wariant 4)",
+      "type": "open"
+    },
+    {
+      "id": 40,
+      "category": "Przepisy ogólne",
+      "question": "Jakie zadania Policja wykonuje wobec ruchu drogowego? (wariant 4)",
+      "type": "open"
+    },
+    {
+      "id": 41,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są podstawowe zadania Policji? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 42,
+      "category": "Przepisy ogólne",
+      "question": "Komu podlega Policja? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 43,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są główne obowiązki funkcjonariusza Policji? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 44,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są ustawowe zadania Policji w zakresie bezpieczeństwa publicznego? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 45,
+      "category": "Przepisy ogólne",
+      "question": "Co obejmuje ochrona bezpieczeństwa ludzi przez Policję? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 46,
+      "category": "Przepisy ogólne",
+      "question": "Jakie czynności wykonuje Policja w zakresie wykrywania przestępstw? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 47,
+      "category": "Przepisy ogólne",
+      "question": "Jakie zadania Policja realizuje wobec samorządu terytorialnego? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 48,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są podstawowe zasady działania Policji? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 49,
+      "category": "Przepisy ogólne",
+      "question": "Jakie znaczenie ma ochrona porządku publicznego? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 50,
+      "category": "Przepisy ogólne",
+      "question": "Jakie zadania Policja wykonuje wobec ruchu drogowego? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 51,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są podstawowe zadania Policji? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 52,
+      "category": "Przepisy ogólne",
+      "question": "Komu podlega Policja? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 53,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są główne obowiązki funkcjonariusza Policji? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 54,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są ustawowe zadania Policji w zakresie bezpieczeństwa publicznego? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 55,
+      "category": "Przepisy ogólne",
+      "question": "Co obejmuje ochrona bezpieczeństwa ludzi przez Policję? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 56,
+      "category": "Przepisy ogólne",
+      "question": "Jakie czynności wykonuje Policja w zakresie wykrywania przestępstw? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 57,
+      "category": "Przepisy ogólne",
+      "question": "Jakie zadania Policja realizuje wobec samorządu terytorialnego? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 58,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są podstawowe zasady działania Policji? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 59,
+      "category": "Przepisy ogólne",
+      "question": "Jakie znaczenie ma ochrona porządku publicznego? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 60,
+      "category": "Przepisy ogólne",
+      "question": "Jakie zadania Policja wykonuje wobec ruchu drogowego? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 61,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są podstawowe zadania Policji? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 62,
+      "category": "Przepisy ogólne",
+      "question": "Komu podlega Policja? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 63,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są główne obowiązki funkcjonariusza Policji? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 64,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są ustawowe zadania Policji w zakresie bezpieczeństwa publicznego? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 65,
+      "category": "Przepisy ogólne",
+      "question": "Co obejmuje ochrona bezpieczeństwa ludzi przez Policję? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 66,
+      "category": "Przepisy ogólne",
+      "question": "Jakie czynności wykonuje Policja w zakresie wykrywania przestępstw? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 67,
+      "category": "Przepisy ogólne",
+      "question": "Jakie zadania Policja realizuje wobec samorządu terytorialnego? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 68,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są podstawowe zasady działania Policji? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 69,
+      "category": "Przepisy ogólne",
+      "question": "Jakie znaczenie ma ochrona porządku publicznego? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 70,
+      "category": "Przepisy ogólne",
+      "question": "Jakie zadania Policja wykonuje wobec ruchu drogowego? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 71,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są podstawowe zadania Policji? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 72,
+      "category": "Przepisy ogólne",
+      "question": "Komu podlega Policja? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 73,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są główne obowiązki funkcjonariusza Policji? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 74,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są ustawowe zadania Policji w zakresie bezpieczeństwa publicznego? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 75,
+      "category": "Przepisy ogólne",
+      "question": "Co obejmuje ochrona bezpieczeństwa ludzi przez Policję? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 76,
+      "category": "Przepisy ogólne",
+      "question": "Jakie czynności wykonuje Policja w zakresie wykrywania przestępstw? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 77,
+      "category": "Przepisy ogólne",
+      "question": "Jakie zadania Policja realizuje wobec samorządu terytorialnego? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 78,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są podstawowe zasady działania Policji? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 79,
+      "category": "Przepisy ogólne",
+      "question": "Jakie znaczenie ma ochrona porządku publicznego? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 80,
+      "category": "Przepisy ogólne",
+      "question": "Jakie zadania Policja wykonuje wobec ruchu drogowego? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 81,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są podstawowe zadania Policji? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 82,
+      "category": "Przepisy ogólne",
+      "question": "Komu podlega Policja? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 83,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są główne obowiązki funkcjonariusza Policji? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 84,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są ustawowe zadania Policji w zakresie bezpieczeństwa publicznego? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 85,
+      "category": "Przepisy ogólne",
+      "question": "Co obejmuje ochrona bezpieczeństwa ludzi przez Policję? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 86,
+      "category": "Przepisy ogólne",
+      "question": "Jakie czynności wykonuje Policja w zakresie wykrywania przestępstw? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 87,
+      "category": "Przepisy ogólne",
+      "question": "Jakie zadania Policja realizuje wobec samorządu terytorialnego? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 88,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są podstawowe zasady działania Policji? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 89,
+      "category": "Przepisy ogólne",
+      "question": "Jakie znaczenie ma ochrona porządku publicznego? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 90,
+      "category": "Przepisy ogólne",
+      "question": "Jakie zadania Policja wykonuje wobec ruchu drogowego? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 91,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są podstawowe zadania Policji? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 92,
+      "category": "Przepisy ogólne",
+      "question": "Komu podlega Policja? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 93,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są główne obowiązki funkcjonariusza Policji? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 94,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są ustawowe zadania Policji w zakresie bezpieczeństwa publicznego? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 95,
+      "category": "Przepisy ogólne",
+      "question": "Co obejmuje ochrona bezpieczeństwa ludzi przez Policję? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 96,
+      "category": "Przepisy ogólne",
+      "question": "Jakie czynności wykonuje Policja w zakresie wykrywania przestępstw? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 97,
+      "category": "Przepisy ogólne",
+      "question": "Jakie zadania Policja realizuje wobec samorządu terytorialnego? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 98,
+      "category": "Przepisy ogólne",
+      "question": "Jakie są podstawowe zasady działania Policji? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 99,
+      "category": "Przepisy ogólne",
+      "question": "Jakie znaczenie ma ochrona porządku publicznego? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 100,
+      "category": "Przepisy ogólne",
+      "question": "Jakie zadania Policja wykonuje wobec ruchu drogowego? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 101,
       "category": "Organizacja Policji",
-      "difficulty": "medium",
-      "question": "Które służby wyróżnia się w Policji?",
-      "explanation": "Odpowiedź wynika z Art. 4 ust. 1-2 ustawy o Policji.",
-      "source": "Art. 4 ust. 1-2 ustawy o Policji",
-      "choices": [
-        "Kryminalną",
-        "Śledczą",
-        "Prewencyjną",
-        "Sądową jako rodzaj z art. 4 ust. 1"
-      ],
-      "correctIndexes": [
-        0,
-        1,
-        2
-      ]
+      "question": "Kto stoi na czele Policji? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-010",
-      "type": "single_choice",
+      "id": 102,
       "category": "Organizacja Policji",
-      "difficulty": "medium",
-      "question": "Kto jest centralnym organem administracji rządowej właściwym w sprawach ochrony bezpieczeństwa ludzi i porządku publicznego?",
-      "explanation": "Odpowiedź wynika z Art. 5 ust. 1 ustawy o Policji.",
-      "source": "Art. 5 ust. 1 ustawy o Policji",
-      "choices": [
-        "Komendant Główny Policji",
-        "Komendant wojewódzki Policji",
-        "Wojewoda",
-        "Starosta"
-      ],
-      "correctIndex": 0
+      "question": "Jakie jednostki organizacyjne tworzą Policję? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-011",
-      "type": "single_choice",
+      "id": 103,
       "category": "Organizacja Policji",
-      "difficulty": "medium",
-      "question": "Komu podlega Komendant Główny Policji?",
-      "explanation": "Odpowiedź wynika z Art. 5 ust. 1 ustawy o Policji.",
-      "source": "Art. 5 ust. 1 ustawy o Policji",
-      "choices": [
-        "Ministrowi właściwemu do spraw wewnętrznych",
-        "Ministrowi Sprawiedliwości",
-        "Prezydentowi RP",
-        "Marszałkowi Sejmu"
-      ],
-      "correctIndex": 0
+      "question": "Kto powołuje Komendanta Głównego Policji? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-012",
-      "type": "truefalse",
+      "id": 104,
       "category": "Organizacja Policji",
-      "difficulty": "medium",
-      "question": "Komendant Główny Policji jest przełożonym wszystkich funkcjonariuszy Policji.",
-      "explanation": "Odpowiedź wynika z Art. 5 ust. 2 ustawy o Policji.",
-      "source": "Art. 5 ust. 2 ustawy o Policji",
-      "correct": true
+      "question": "Jakie zadania wykonuje komendant wojewódzki Policji? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-013",
-      "type": "single_choice",
+      "id": 105,
       "category": "Organizacja Policji",
-      "difficulty": "medium",
-      "question": "Kto powołuje i odwołuje Komendanta Głównego Policji?",
-      "explanation": "Odpowiedź wynika z Art. 5 ust. 3 ustawy o Policji.",
-      "source": "Art. 5 ust. 3 ustawy o Policji",
-      "choices": [
-        "Prezes Rady Ministrów na wniosek ministra właściwego do spraw wewnętrznych",
-        "Minister Sprawiedliwości",
-        "Prezydent RP",
-        "Komendant wojewódzki Policji"
-      ],
-      "correctIndex": 0
+      "question": "Jakie są zadania komendanta powiatowego Policji? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-014",
-      "type": "fillblank",
+      "id": 106,
       "category": "Organizacja Policji",
-      "difficulty": "medium",
-      "question": "W razie zwolnienia stanowiska Komendanta Głównego Policji pełnienie obowiązków można powierzyć na okres nie dłuższy niż _____ miesiące.",
-      "explanation": "Odpowiedź wynika z Art. 5 ust. 5 ustawy o Policji.",
-      "source": "Art. 5 ust. 5 ustawy o Policji",
-      "answer": "3"
+      "question": "Jak wygląda struktura organizacyjna Policji? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-015",
-      "type": "fillblank",
+      "id": 107,
       "category": "Organizacja Policji",
-      "difficulty": "medium",
-      "question": "W razie czasowej niemożności sprawowania funkcji przez Komendanta Głównego Policji pełnienie obowiązków można powierzyć na okres nie dłuższy niż _____ miesięcy.",
-      "explanation": "Odpowiedź wynika z Art. 5 ust. 6 ustawy o Policji.",
-      "source": "Art. 5 ust. 6 ustawy o Policji",
-      "answer": "6"
+      "question": "Jakie szkoły policyjne działają w Policji? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-016",
-      "type": "single_choice",
-      "category": "Jednostki organizacyjne",
-      "difficulty": "medium",
-      "question": "Jakiego rodzaju przestępczością zajmuje się CBŚP?",
-      "explanation": "Odpowiedź wynika z Art. 5a ust. 1 ustawy o Policji.",
-      "source": "Art. 5a ust. 1 ustawy o Policji",
-      "choices": [
-        "Przestępczością zorganizowaną",
-        "Wyłącznie wykroczeniami drogowymi",
-        "Wyłącznie sprawami dyscyplinarnymi policjantów",
-        "Ochroną granicy państwowej"
-      ],
-      "correctIndex": 0
+      "id": 108,
+      "category": "Organizacja Policji",
+      "question": "Jakie są kompetencje Komendanta Stołecznego Policji? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-017",
-      "type": "single_choice",
-      "category": "Jednostki organizacyjne",
-      "difficulty": "medium",
-      "question": "Jakie zadania realizuje BSWP?",
-      "explanation": "Odpowiedź wynika z Art. 5b ust. 1 ustawy o Policji.",
-      "source": "Art. 5b ust. 1 ustawy o Policji",
-      "choices": [
-        "Rozpoznawanie, zapobieganie i zwalczanie przestępczości policjantów i pracowników Policji",
-        "Ochronę granicy",
-        "Szkolenie podstawowe",
-        "Prowadzenie sądów"
-      ],
-      "correctIndex": 0
+      "id": 109,
+      "category": "Organizacja Policji",
+      "question": "Jakie jednostki specjalne funkcjonują w Policji? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-018",
-      "type": "single_choice",
-      "category": "Jednostki organizacyjne",
-      "difficulty": "medium",
-      "question": "Która jednostka odpowiada za działania kontrterrorystyczne oraz wsparcie w warunkach szczególnego zagrożenia?",
-      "explanation": "Odpowiedź wynika z Art. 5c ust. 1 ustawy o Policji.",
-      "source": "Art. 5c ust. 1 ustawy o Policji",
-      "choices": [
-        "BOA i samodzielne pododdziały kontrterrorystyczne Policji",
-        "CLKP",
-        "Komisariat kolejowy",
-        "Rewir dzielnicowych"
-      ],
-      "correctIndex": 0
+      "id": 110,
+      "category": "Organizacja Policji",
+      "question": "Kto sprawuje nadzór nad Policją? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-019",
-      "type": "single_choice",
-      "category": "Jednostki organizacyjne",
-      "difficulty": "medium",
-      "question": "Za jakie zadania odpowiada CBZC?",
-      "explanation": "Odpowiedź wynika z Art. 5d ust. 1 ustawy o Policji.",
-      "source": "Art. 5d ust. 1 ustawy o Policji",
-      "choices": [
-        "Zwalczanie przestępstw popełnionych przy użyciu systemów informatycznych lub sieci",
-        "Ochronę sądów",
-        "Kontrolę budowlaną",
-        "Powoływanie komendantów"
-      ],
-      "correctIndex": 0
+      "id": 111,
+      "category": "Organizacja Policji",
+      "question": "Kto stoi na czele Policji? (wariant 2)",
+      "type": "open"
     },
     {
-      "id": "policja-020",
-      "type": "single_choice",
-      "category": "Jednostki organizacyjne",
-      "difficulty": "medium",
-      "question": "Jaką jednostką jest CLKP?",
-      "explanation": "Odpowiedź wynika z Art. 5e ust. 1 ustawy o Policji.",
-      "source": "Art. 5e ust. 1 ustawy o Policji",
-      "choices": [
-        "Jednostką właściwą w zakresie kryminalistyki i technik kryminalistycznych",
-        "Jednostką ochrony granic",
-        "Jednostką kadrową",
-        "Jednostką samorządową"
-      ],
-      "correctIndex": 0
+      "id": 112,
+      "category": "Organizacja Policji",
+      "question": "Jakie jednostki organizacyjne tworzą Policję? (wariant 2)",
+      "type": "open"
     },
     {
-      "id": "policja-021",
-      "type": "multiple_choice",
-      "category": "Organy Policji",
-      "difficulty": "medium",
-      "question": "Które organy administracji rządowej na obszarze województwa wymienia art. 6?",
-      "explanation": "Odpowiedź wynika z Art. 6 ust. 1 ustawy o Policji.",
-      "source": "Art. 6 ust. 1 ustawy o Policji",
-      "choices": [
-        "Wojewoda przy pomocy komendanta wojewódzkiego albo komendant wojewódzki",
-        "Komendant powiatowy/miejski Policji",
-        "Komendant komisariatu Policji",
-        "Rada gminy jako organ Policji"
-      ],
-      "correctIndexes": [
-        0,
-        1,
-        2
-      ]
+      "id": 113,
+      "category": "Organizacja Policji",
+      "question": "Kto powołuje Komendanta Głównego Policji? (wariant 2)",
+      "type": "open"
     },
     {
-      "id": "policja-022",
-      "type": "truefalse",
-      "category": "Organy Policji",
-      "difficulty": "medium",
-      "question": "Komendant Stołeczny Policji wykonuje na określonym obszarze zadania odpowiadające komendantowi wojewódzkiemu Policji.",
-      "explanation": "Odpowiedź wynika z Art. 6 ust. 4 ustawy o Policji.",
-      "source": "Art. 6 ust. 4 ustawy o Policji",
-      "correct": true
+      "id": 114,
+      "category": "Organizacja Policji",
+      "question": "Jakie zadania wykonuje komendant wojewódzki Policji? (wariant 2)",
+      "type": "open"
     },
     {
-      "id": "policja-023",
-      "type": "single_choice",
-      "category": "Postępowanie administracyjne",
-      "difficulty": "medium",
-      "question": "Kto jest zasadniczo właściwy w postępowaniu administracyjnym w sprawach zadań Policji?",
-      "explanation": "Odpowiedź wynika z Art. 6a ust. 1 ustawy o Policji.",
-      "source": "Art. 6a ust. 1 ustawy o Policji",
-      "choices": [
-        "Komendant powiatowy/miejski, a w Warszawie komendant rejonowy",
-        "Wyłącznie Komendant Główny",
-        "Wyłącznie wojewoda",
-        "Minister Sprawiedliwości"
-      ],
-      "correctIndex": 0
+      "id": 115,
+      "category": "Organizacja Policji",
+      "question": "Jakie są zadania komendanta powiatowego Policji? (wariant 2)",
+      "type": "open"
     },
     {
-      "id": "policja-024",
-      "type": "single_choice",
-      "category": "Powoływanie",
-      "difficulty": "medium",
-      "question": "Kto powołuje komendanta wojewódzkiego Policji?",
-      "explanation": "Odpowiedź wynika z Art. 6b ust. 1 ustawy o Policji.",
-      "source": "Art. 6b ust. 1 ustawy o Policji",
-      "choices": [
-        "Minister właściwy do spraw wewnętrznych na wniosek KGP po opinii wojewody",
-        "Starosta",
-        "Prezydent RP",
-        "Komendant powiatowy"
-      ],
-      "correctIndex": 0
+      "id": 116,
+      "category": "Organizacja Policji",
+      "question": "Jak wygląda struktura organizacyjna Policji? (wariant 2)",
+      "type": "open"
     },
     {
-      "id": "policja-025",
-      "type": "fillblank",
-      "category": "Powoływanie",
-      "difficulty": "medium",
-      "question": "Przy braku wymaganej opinii komendanta wojewódzkiego albo Stołecznego można powołać po upływie _____ dni od przedstawienia wniosku o opinię.",
-      "explanation": "Odpowiedź wynika z Art. 6b ust. 6 ustawy o Policji.",
-      "source": "Art. 6b ust. 6 ustawy o Policji",
-      "answer": "14"
+      "id": 117,
+      "category": "Organizacja Policji",
+      "question": "Jakie szkoły policyjne działają w Policji? (wariant 2)",
+      "type": "open"
     },
     {
-      "id": "policja-026",
-      "type": "single_choice",
-      "category": "Powoływanie",
-      "difficulty": "medium",
-      "question": "Kto powołuje komendanta powiatowego/miejskiego Policji?",
-      "explanation": "Odpowiedź wynika z Art. 6c ust. 1 ustawy o Policji.",
-      "source": "Art. 6c ust. 1 ustawy o Policji",
-      "choices": [
-        "Komendant wojewódzki Policji po zasięgnięciu opinii starosty",
-        "Wójt",
-        "Minister Sprawiedliwości",
-        "Komendant komisariatu"
-      ],
-      "correctIndex": 0
+      "id": 118,
+      "category": "Organizacja Policji",
+      "question": "Jakie są kompetencje Komendanta Stołecznego Policji? (wariant 2)",
+      "type": "open"
     },
     {
-      "id": "policja-027",
-      "type": "single_choice",
-      "category": "Powoływanie",
-      "difficulty": "medium",
-      "question": "Kto powołuje komendanta komisariatu Policji?",
-      "explanation": "Odpowiedź wynika z Art. 6d ust. 1 ustawy o Policji.",
-      "source": "Art. 6d ust. 1 ustawy o Policji",
-      "choices": [
-        "Komendant powiatowy/miejski po opinii wójta, burmistrza lub prezydenta miasta",
-        "Komendant Główny bez opinii",
-        "Starosta",
-        "Rada gminy"
-      ],
-      "correctIndex": 0
+      "id": 119,
+      "category": "Organizacja Policji",
+      "question": "Jakie jednostki specjalne funkcjonują w Policji? (wariant 2)",
+      "type": "open"
     },
     {
-      "id": "policja-028",
-      "type": "truefalse",
-      "category": "Powoływanie",
-      "difficulty": "medium",
-      "question": "Komendanta komisariatu Policji można powołać wyłącznie spośród oficerów Policji.",
-      "explanation": "Odpowiedź wynika z Art. 6d ust. 3 ustawy o Policji.",
-      "source": "Art. 6d ust. 3 ustawy o Policji",
-      "correct": false
+      "id": 120,
+      "category": "Organizacja Policji",
+      "question": "Kto sprawuje nadzór nad Policją? (wariant 2)",
+      "type": "open"
     },
     {
-      "id": "policja-029",
-      "type": "fillblank",
-      "category": "Powoływanie",
-      "difficulty": "medium",
-      "question": "W razie zwolnienia stanowiska komendanta komisariatu pełnienie obowiązków można powierzyć na okres nie dłuższy niż _____ miesiące.",
-      "explanation": "Odpowiedź wynika z Art. 6d ust. 4 ustawy o Policji.",
-      "source": "Art. 6d ust. 4 ustawy o Policji",
-      "answer": "3"
+      "id": 121,
+      "category": "Organizacja Policji",
+      "question": "Kto stoi na czele Policji? (wariant 3)",
+      "type": "open"
     },
     {
-      "id": "policja-030",
-      "type": "truefalse",
-      "category": "Powoływanie",
-      "difficulty": "medium",
-      "question": "Wskazane w ustawie osoby na stanowiskach kierowniczych w Policji można odwołać w każdym czasie.",
-      "explanation": "Odpowiedź wynika z Art. 6e ust. 1 ustawy o Policji.",
-      "source": "Art. 6e ust. 1 ustawy o Policji",
-      "correct": true
+      "id": 122,
+      "category": "Organizacja Policji",
+      "question": "Jakie jednostki organizacyjne tworzą Policję? (wariant 3)",
+      "type": "open"
     },
     {
-      "id": "policja-031",
-      "type": "single_choice",
-      "category": "Organizacja wewnętrzna",
-      "difficulty": "medium",
-      "question": "Kto określa szczegółowe zasady organizacji i zakres działania komend, komisariatów i innych jednostek Policji?",
-      "explanation": "Odpowiedź wynika z Art. 7 ust. 1 pkt 1 ustawy o Policji.",
-      "source": "Art. 7 ust. 1 pkt 1 ustawy o Policji",
-      "choices": [
-        "Komendant Główny Policji",
-        "Rada gminy",
-        "Starosta",
-        "Prezes sądu"
-      ],
-      "correctIndex": 0
+      "id": 123,
+      "category": "Organizacja Policji",
+      "question": "Kto powołuje Komendanta Głównego Policji? (wariant 3)",
+      "type": "open"
     },
     {
-      "id": "policja-032",
-      "type": "multiple_choice",
-      "category": "Organizacja wewnętrzna",
-      "difficulty": "medium",
-      "question": "Które kwestie określa Komendant Główny Policji na podstawie art. 7?",
-      "explanation": "Odpowiedź wynika z Art. 7 ust. 1 ustawy o Policji.",
-      "source": "Art. 7 ust. 1 ustawy o Policji",
-      "choices": [
-        "Organizację i zakres działania jednostek",
-        "Zasady etyki zawodowej policjantów",
-        "Programy szkoleń zawodowych policjantów",
-        "Treść wyroków karnych"
-      ],
-      "correctIndexes": [
-        0,
-        1,
-        2
-      ]
+      "id": 124,
+      "category": "Organizacja Policji",
+      "question": "Jakie zadania wykonuje komendant wojewódzki Policji? (wariant 3)",
+      "type": "open"
     },
     {
-      "id": "policja-033",
-      "type": "single_choice",
-      "category": "Komisariaty i posterunki",
-      "difficulty": "medium",
-      "question": "Kto tworzy komisariat kolejowy, wodny, lotniczy lub inny specjalistyczny?",
-      "explanation": "Odpowiedź wynika z Art. 8 ust. 1 ustawy o Policji.",
-      "source": "Art. 8 ust. 1 ustawy o Policji",
-      "choices": [
-        "Komendant wojewódzki Policji w porozumieniu z KGP",
-        "Komendant powiatowy samodzielnie",
-        "Rada powiatu",
-        "Wójt"
-      ],
-      "correctIndex": 0
+      "id": 125,
+      "category": "Organizacja Policji",
+      "question": "Jakie są zadania komendanta powiatowego Policji? (wariant 3)",
+      "type": "open"
     },
     {
-      "id": "policja-034",
-      "type": "single_choice",
-      "category": "Komisariaty i posterunki",
-      "difficulty": "medium",
-      "question": "Kto może tworzyć rewiry dzielnicowych oraz posterunki Policji?",
-      "explanation": "Odpowiedź wynika z Art. 8a ust. 1 ustawy o Policji.",
-      "source": "Art. 8a ust. 1 ustawy o Policji",
-      "choices": [
-        "Komendant powiatowy/miejski Policji",
-        "Komendant komisariatu specjalistycznego",
-        "Rada gminy",
-        "Minister Sprawiedliwości"
-      ],
-      "correctIndex": 0
+      "id": 126,
+      "category": "Organizacja Policji",
+      "question": "Jak wygląda struktura organizacyjna Policji? (wariant 3)",
+      "type": "open"
     },
     {
-      "id": "policja-035",
-      "type": "multiple_choice",
-      "category": "Komisariaty i posterunki",
-      "difficulty": "medium",
-      "question": "Co należy do zadań kierownika rewiru i posterunku Policji?",
-      "explanation": "Odpowiedź wynika z Art. 8a ust. 3 ustawy o Policji.",
-      "source": "Art. 8a ust. 3 ustawy o Policji",
-      "choices": [
-        "Rozpoznawanie zagrożeń",
-        "Inicjowanie działań społeczności lokalnych przeciw przestępstwom i wykroczeniom",
-        "Czynności administracyjno-porządkowe i zabezpieczenie miejsca zdarzenia",
-        "Powoływanie KGP"
-      ],
-      "correctIndexes": [
-        0,
-        1,
-        2
-      ]
+      "id": 127,
+      "category": "Organizacja Policji",
+      "question": "Jakie szkoły policyjne działają w Policji? (wariant 3)",
+      "type": "open"
     },
     {
-      "id": "policja-036",
-      "type": "multiple_choice",
-      "category": "Samorząd",
-      "difficulty": "medium",
-      "question": "Komendanci Policji składają roczne sprawozdania i informacje m.in. do:",
-      "explanation": "Odpowiedź wynika z Art. 10 ust. 1 ustawy o Policji.",
-      "source": "Art. 10 ust. 1 ustawy o Policji",
-      "choices": [
-        "Wojewodów",
-        "Starostów",
-        "Wójtów/burmistrzów/prezydentów miast",
-        "Wyłącznie RPO"
-      ],
-      "correctIndexes": [
-        0,
-        1,
-        2
-      ]
+      "id": 128,
+      "category": "Organizacja Policji",
+      "question": "Jakie są kompetencje Komendanta Stołecznego Policji? (wariant 3)",
+      "type": "open"
     },
     {
-      "id": "policja-037",
-      "type": "truefalse",
-      "category": "Samorząd",
-      "difficulty": "medium",
-      "question": "Informacje w zakresie wykrywania przestępstw i ścigania sprawców mogą być przekazywane wyłącznie sądom i prokuratorom, na ich żądanie.",
-      "explanation": "Odpowiedź wynika z Art. 10 ust. 2 ustawy o Policji.",
-      "source": "Art. 10 ust. 2 ustawy o Policji",
-      "correct": true
+      "id": 129,
+      "category": "Organizacja Policji",
+      "question": "Jakie jednostki specjalne funkcjonują w Policji? (wariant 3)",
+      "type": "open"
     },
     {
-      "id": "policja-038",
-      "type": "single_choice",
-      "category": "Samorząd",
-      "difficulty": "medium",
-      "question": "Czego nie może dotyczyć uchwała rady powiatu lub gminy dotycząca zagrożeń bezpieczeństwa?",
-      "explanation": "Odpowiedź wynika z Art. 10 ust. 4 ustawy o Policji.",
-      "source": "Art. 10 ust. 4 ustawy o Policji",
-      "choices": [
-        "Wykonania konkretnej czynności służbowej ani sposobu wykonywania zadań przez Policję",
-        "Ogólnego wskazania zagrożeń",
-        "Analizy stanu bezpieczeństwa",
-        "Problemów lokalnych"
-      ],
-      "correctIndex": 0
+      "id": 130,
+      "category": "Organizacja Policji",
+      "question": "Kto sprawuje nadzór nad Policją? (wariant 3)",
+      "type": "open"
     },
     {
-      "id": "policja-039",
-      "type": "single_choice",
-      "category": "Samorząd",
-      "difficulty": "medium",
-      "question": "Kto może żądać od właściwego komendanta przywrócenia stanu zgodnego z porządkiem prawnym?",
-      "explanation": "Odpowiedź wynika z Art. 11 ust. 1 ustawy o Policji.",
-      "source": "Art. 11 ust. 1 ustawy o Policji",
-      "choices": [
-        "Wójt, burmistrz, prezydent miasta lub starosta",
-        "Każdy radny samodzielnie",
-        "Każdy przedsiębiorca",
-        "Wyłącznie prokurator"
-      ],
-      "correctIndex": 0
+      "id": 131,
+      "category": "Organizacja Policji",
+      "question": "Kto stoi na czele Policji? (wariant 4)",
+      "type": "open"
     },
     {
-      "id": "policja-040",
-      "type": "multiple_choice",
-      "category": "Samorząd",
-      "difficulty": "medium",
-      "question": "Czego nie może dotyczyć żądanie wójta, burmistrza, prezydenta miasta lub starosty?",
-      "explanation": "Odpowiedź wynika z Art. 11 ust. 2 ustawy o Policji.",
-      "source": "Art. 11 ust. 2 ustawy o Policji",
-      "choices": [
-        "Czynności operacyjno-rozpoznawczych",
-        "Czynności dochodzeniowo-śledczych",
-        "Czynności z zakresu ścigania wykroczeń",
-        "Ogólnych działań zapobiegających naruszeniu prawa"
-      ],
-      "correctIndexes": [
-        0,
-        1,
-        2
-      ]
+      "id": 132,
+      "category": "Organizacja Policji",
+      "question": "Jakie jednostki organizacyjne tworzą Policję? (wariant 4)",
+      "type": "open"
     },
     {
-      "id": "policja-041",
-      "type": "truefalse",
-      "category": "Samorząd",
-      "difficulty": "medium",
-      "question": "Żądanie przekazane ustnie wymaga potwierdzenia na piśmie.",
-      "explanation": "Odpowiedź wynika z Art. 11 ust. 4 ustawy o Policji.",
-      "source": "Art. 11 ust. 4 ustawy o Policji",
-      "correct": true
+      "id": 133,
+      "category": "Organizacja Policji",
+      "question": "Kto powołuje Komendanta Głównego Policji? (wariant 4)",
+      "type": "open"
     },
     {
-      "id": "policja-042",
-      "type": "single_choice",
-      "category": "Finansowanie",
-      "difficulty": "medium",
-      "question": "Z jakiego źródła pokrywane są koszty funkcjonowania Policji?",
-      "explanation": "Odpowiedź wynika z Art. 13 ust. 1 ustawy o Policji.",
-      "source": "Art. 13 ust. 1 ustawy o Policji",
-      "choices": [
-        "Z budżetu państwa",
-        "Wyłącznie z budżetów gmin",
-        "Wyłącznie z darowizn",
-        "Z opłat od osób legitymowanych"
-      ],
-      "correctIndex": 0
+      "id": 134,
+      "category": "Organizacja Policji",
+      "question": "Jakie zadania wykonuje komendant wojewódzki Policji? (wariant 4)",
+      "type": "open"
     },
     {
-      "id": "policja-043",
-      "type": "fillblank",
-      "category": "Finansowanie",
-      "difficulty": "medium",
-      "question": "Etaty Policji określa ustawa _____.",
-      "explanation": "Odpowiedź wynika z Art. 13 ust. 2 ustawy o Policji.",
-      "source": "Art. 13 ust. 2 ustawy o Policji",
-      "answer": "budżetowa"
+      "id": 135,
+      "category": "Organizacja Policji",
+      "question": "Jakie są zadania komendanta powiatowego Policji? (wariant 4)",
+      "type": "open"
     },
     {
-      "id": "policja-044",
-      "type": "fillblank",
-      "category": "Finansowanie",
-      "difficulty": "medium",
-      "question": "Liczba etatów może wzrosnąć ponad limit, jeśli samorząd zapewni koszty utrzymania przez co najmniej _____ lat.",
-      "explanation": "Odpowiedź wynika z Art. 13 ust. 4 ustawy o Policji.",
-      "source": "Art. 13 ust. 4 ustawy o Policji",
-      "answer": "5"
+      "id": 136,
+      "category": "Organizacja Policji",
+      "question": "Jak wygląda struktura organizacyjna Policji? (wariant 4)",
+      "type": "open"
     },
     {
-      "id": "policja-045",
-      "type": "single_choice",
-      "category": "Finansowanie",
-      "difficulty": "medium",
-      "question": "Jaki dzień ustanowiono Świętem Policji?",
-      "explanation": "Odpowiedź wynika z Art. 13b ustawy o Policji.",
-      "source": "Art. 13b ustawy o Policji",
-      "choices": [
-        "24 lipca",
-        "6 kwietnia",
-        "11 listopada",
-        "1 maja"
-      ],
-      "correctIndex": 0
+      "id": 137,
+      "category": "Organizacja Policji",
+      "question": "Jakie szkoły policyjne działają w Policji? (wariant 4)",
+      "type": "open"
     },
     {
-      "id": "policja-046",
-      "type": "multiple_choice",
-      "category": "Czynności Policji",
-      "difficulty": "medium",
-      "question": "Jakie czynności wykonuje Policja w granicach swoich zadań?",
-      "explanation": "Odpowiedź wynika z Art. 14 ust. 1 ustawy o Policji.",
-      "source": "Art. 14 ust. 1 ustawy o Policji",
-      "choices": [
-        "Operacyjno-rozpoznawcze",
-        "Dochodzeniowo-śledcze",
-        "Administracyjno-porządkowe",
-        "Orzecznicze"
-      ],
-      "correctIndexes": [
-        0,
-        1,
-        2
-      ]
+      "id": 138,
+      "category": "Organizacja Policji",
+      "question": "Jakie są kompetencje Komendanta Stołecznego Policji? (wariant 4)",
+      "type": "open"
     },
     {
-      "id": "policja-047",
-      "type": "multiple_choice",
-      "category": "Czynności Policji",
-      "difficulty": "medium",
-      "question": "W jakim celu Policja wykonuje czynności z art. 14 ust. 1?",
-      "explanation": "Odpowiedź wynika z Art. 14 ust. 1 ustawy o Policji.",
-      "source": "Art. 14 ust. 1 ustawy o Policji",
-      "choices": [
-        "Rozpoznawania, zapobiegania i wykrywania przestępstw, przestępstw skarbowych i wykroczeń",
-        "Poszukiwania osób ukrywających się",
-        "Poszukiwania osób zaginionych",
-        "Uchwalania ustaw"
-      ],
-      "correctIndexes": [
-        0,
-        1,
-        2
-      ]
+      "id": 139,
+      "category": "Organizacja Policji",
+      "question": "Jakie jednostki specjalne funkcjonują w Policji? (wariant 4)",
+      "type": "open"
     },
     {
-      "id": "policja-048",
-      "type": "truefalse",
-      "category": "Czynności Policji",
-      "difficulty": "medium",
-      "question": "Policjanci mają obowiązek respektowania godności ludzkiej oraz ochrony praw człowieka.",
-      "explanation": "Odpowiedź wynika z Art. 14 ust. 3 ustawy o Policji.",
-      "source": "Art. 14 ust. 3 ustawy o Policji",
-      "correct": true
+      "id": 140,
+      "category": "Organizacja Policji",
+      "question": "Kto sprawuje nadzór nad Policją? (wariant 4)",
+      "type": "open"
     },
     {
-      "id": "policja-049",
-      "type": "truefalse",
-      "category": "Czynności Policji",
-      "difficulty": "medium",
-      "question": "Policja może w określonych przypadkach korzystać z danych o osobie bez jej wiedzy i zgody.",
-      "explanation": "Odpowiedź wynika z Art. 14 ust. 4 ustawy o Policji.",
-      "source": "Art. 14 ust. 4 ustawy o Policji",
-      "correct": true
+      "id": 141,
+      "category": "Organizacja Policji",
+      "question": "Kto stoi na czele Policji? (wariant 5)",
+      "type": "open"
     },
     {
-      "id": "policja-050",
-      "type": "single_choice",
-      "category": "Czynności Policji",
-      "difficulty": "medium",
-      "question": "W jakim celu Policja może używać psów służbowych lub koni służbowych?",
-      "explanation": "Odpowiedź wynika z Art. 14 ust. 5c ustawy o Policji.",
-      "source": "Art. 14 ust. 5c ustawy o Policji",
-      "choices": [
-        "Do realizacji określonych zadań ustawowych",
-        "Wyłącznie reprezentacyjnie",
-        "Wyłącznie w święta",
-        "Wyłącznie na polecenie sądu"
-      ],
-      "correctIndex": 0
+      "id": 142,
+      "category": "Organizacja Policji",
+      "question": "Jakie jednostki organizacyjne tworzą Policję? (wariant 5)",
+      "type": "open"
     },
     {
-      "id": "policja-051",
-      "type": "single_choice",
+      "id": 143,
+      "category": "Organizacja Policji",
+      "question": "Kto powołuje Komendanta Głównego Policji? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 144,
+      "category": "Organizacja Policji",
+      "question": "Jakie zadania wykonuje komendant wojewódzki Policji? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 145,
+      "category": "Organizacja Policji",
+      "question": "Jakie są zadania komendanta powiatowego Policji? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 146,
+      "category": "Organizacja Policji",
+      "question": "Jak wygląda struktura organizacyjna Policji? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 147,
+      "category": "Organizacja Policji",
+      "question": "Jakie szkoły policyjne działają w Policji? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 148,
+      "category": "Organizacja Policji",
+      "question": "Jakie są kompetencje Komendanta Stołecznego Policji? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 149,
+      "category": "Organizacja Policji",
+      "question": "Jakie jednostki specjalne funkcjonują w Policji? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 150,
+      "category": "Organizacja Policji",
+      "question": "Kto sprawuje nadzór nad Policją? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 151,
+      "category": "Organizacja Policji",
+      "question": "Kto stoi na czele Policji? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 152,
+      "category": "Organizacja Policji",
+      "question": "Jakie jednostki organizacyjne tworzą Policję? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 153,
+      "category": "Organizacja Policji",
+      "question": "Kto powołuje Komendanta Głównego Policji? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 154,
+      "category": "Organizacja Policji",
+      "question": "Jakie zadania wykonuje komendant wojewódzki Policji? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 155,
+      "category": "Organizacja Policji",
+      "question": "Jakie są zadania komendanta powiatowego Policji? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 156,
+      "category": "Organizacja Policji",
+      "question": "Jak wygląda struktura organizacyjna Policji? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 157,
+      "category": "Organizacja Policji",
+      "question": "Jakie szkoły policyjne działają w Policji? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 158,
+      "category": "Organizacja Policji",
+      "question": "Jakie są kompetencje Komendanta Stołecznego Policji? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 159,
+      "category": "Organizacja Policji",
+      "question": "Jakie jednostki specjalne funkcjonują w Policji? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 160,
+      "category": "Organizacja Policji",
+      "question": "Kto sprawuje nadzór nad Policją? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 161,
+      "category": "Organizacja Policji",
+      "question": "Kto stoi na czele Policji? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 162,
+      "category": "Organizacja Policji",
+      "question": "Jakie jednostki organizacyjne tworzą Policję? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 163,
+      "category": "Organizacja Policji",
+      "question": "Kto powołuje Komendanta Głównego Policji? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 164,
+      "category": "Organizacja Policji",
+      "question": "Jakie zadania wykonuje komendant wojewódzki Policji? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 165,
+      "category": "Organizacja Policji",
+      "question": "Jakie są zadania komendanta powiatowego Policji? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 166,
+      "category": "Organizacja Policji",
+      "question": "Jak wygląda struktura organizacyjna Policji? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 167,
+      "category": "Organizacja Policji",
+      "question": "Jakie szkoły policyjne działają w Policji? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 168,
+      "category": "Organizacja Policji",
+      "question": "Jakie są kompetencje Komendanta Stołecznego Policji? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 169,
+      "category": "Organizacja Policji",
+      "question": "Jakie jednostki specjalne funkcjonują w Policji? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 170,
+      "category": "Organizacja Policji",
+      "question": "Kto sprawuje nadzór nad Policją? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 171,
+      "category": "Organizacja Policji",
+      "question": "Kto stoi na czele Policji? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 172,
+      "category": "Organizacja Policji",
+      "question": "Jakie jednostki organizacyjne tworzą Policję? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 173,
+      "category": "Organizacja Policji",
+      "question": "Kto powołuje Komendanta Głównego Policji? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 174,
+      "category": "Organizacja Policji",
+      "question": "Jakie zadania wykonuje komendant wojewódzki Policji? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 175,
+      "category": "Organizacja Policji",
+      "question": "Jakie są zadania komendanta powiatowego Policji? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 176,
+      "category": "Organizacja Policji",
+      "question": "Jak wygląda struktura organizacyjna Policji? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 177,
+      "category": "Organizacja Policji",
+      "question": "Jakie szkoły policyjne działają w Policji? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 178,
+      "category": "Organizacja Policji",
+      "question": "Jakie są kompetencje Komendanta Stołecznego Policji? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 179,
+      "category": "Organizacja Policji",
+      "question": "Jakie jednostki specjalne funkcjonują w Policji? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 180,
+      "category": "Organizacja Policji",
+      "question": "Kto sprawuje nadzór nad Policją? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 181,
+      "category": "Organizacja Policji",
+      "question": "Kto stoi na czele Policji? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 182,
+      "category": "Organizacja Policji",
+      "question": "Jakie jednostki organizacyjne tworzą Policję? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 183,
+      "category": "Organizacja Policji",
+      "question": "Kto powołuje Komendanta Głównego Policji? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 184,
+      "category": "Organizacja Policji",
+      "question": "Jakie zadania wykonuje komendant wojewódzki Policji? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 185,
+      "category": "Organizacja Policji",
+      "question": "Jakie są zadania komendanta powiatowego Policji? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 186,
+      "category": "Organizacja Policji",
+      "question": "Jak wygląda struktura organizacyjna Policji? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 187,
+      "category": "Organizacja Policji",
+      "question": "Jakie szkoły policyjne działają w Policji? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 188,
+      "category": "Organizacja Policji",
+      "question": "Jakie są kompetencje Komendanta Stołecznego Policji? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 189,
+      "category": "Organizacja Policji",
+      "question": "Jakie jednostki specjalne funkcjonują w Policji? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 190,
+      "category": "Organizacja Policji",
+      "question": "Kto sprawuje nadzór nad Policją? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 191,
+      "category": "Organizacja Policji",
+      "question": "Kto stoi na czele Policji? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 192,
+      "category": "Organizacja Policji",
+      "question": "Jakie jednostki organizacyjne tworzą Policję? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 193,
+      "category": "Organizacja Policji",
+      "question": "Kto powołuje Komendanta Głównego Policji? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 194,
+      "category": "Organizacja Policji",
+      "question": "Jakie zadania wykonuje komendant wojewódzki Policji? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 195,
+      "category": "Organizacja Policji",
+      "question": "Jakie są zadania komendanta powiatowego Policji? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 196,
+      "category": "Organizacja Policji",
+      "question": "Jak wygląda struktura organizacyjna Policji? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 197,
+      "category": "Organizacja Policji",
+      "question": "Jakie szkoły policyjne działają w Policji? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 198,
+      "category": "Organizacja Policji",
+      "question": "Jakie są kompetencje Komendanta Stołecznego Policji? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 199,
+      "category": "Organizacja Policji",
+      "question": "Jakie jednostki specjalne funkcjonują w Policji? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 200,
+      "category": "Organizacja Policji",
+      "question": "Kto sprawuje nadzór nad Policją? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 201,
       "category": "Uprawnienia Policji",
-      "difficulty": "medium",
-      "question": "Policjant ma prawo legitymować osoby w celu:",
-      "explanation": "Odpowiedź wynika z Art. 15 ust. 1 pkt 1 ustawy o Policji.",
-      "source": "Art. 15 ust. 1 pkt 1 ustawy o Policji",
-      "choices": [
-        "Ustalenia tożsamości",
-        "Wymierzenia kary",
-        "Pozbawienia praw publicznych",
-        "Wydania wyroku"
-      ],
-      "correctIndex": 0
+      "question": "Kiedy Policja może legitymować osoby? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-052",
-      "type": "multiple_choice",
+      "id": 202,
       "category": "Uprawnienia Policji",
-      "difficulty": "medium",
-      "question": "Które uprawnienia przysługują policjantom na podstawie art. 15?",
-      "explanation": "Odpowiedź wynika z Art. 15 ust. 1 ustawy o Policji.",
-      "source": "Art. 15 ust. 1 ustawy o Policji",
-      "choices": [
-        "Legitymowanie osób",
-        "Zatrzymywanie osób w określonych przypadkach",
-        "Przeszukiwanie osób i pomieszczeń w określonych przypadkach",
-        "Wydawanie prawomocnych wyroków"
-      ],
-      "correctIndexes": [
-        0,
-        1,
-        2
-      ]
+      "question": "Kiedy Policja może zatrzymać osobę? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-053",
-      "type": "single_choice",
-      "category": "Zatrzymanie",
-      "difficulty": "medium",
-      "question": "Kiedy można zastosować zatrzymanie osoby?",
-      "explanation": "Odpowiedź wynika z Art. 15 ust. 3 ustawy o Policji.",
-      "source": "Art. 15 ust. 3 ustawy o Policji",
-      "choices": [
-        "Gdy inne środki okazały się bezcelowe lub nieskuteczne",
-        "Zawsze dla wygody",
-        "Wyłącznie po wyroku",
-        "Wyłącznie za zgodą osoby"
-      ],
-      "correctIndex": 0
+      "id": 203,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie środki przymusu bezpośredniego może stosować Policja? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-054",
-      "type": "truefalse",
-      "category": "Zatrzymanie",
-      "difficulty": "medium",
-      "question": "Osobie zatrzymanej na podstawie art. 15 ust. 1 pkt 3 przysługują uprawnienia z Kodeksu postępowania karnego.",
-      "explanation": "Odpowiedź wynika z Art. 15 ust. 2 ustawy o Policji.",
-      "source": "Art. 15 ust. 2 ustawy o Policji",
-      "correct": true
+      "id": 204,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może użyć broni palnej? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-055",
-      "type": "truefalse",
-      "category": "Zatrzymanie",
-      "difficulty": "medium",
-      "question": "Osobę zatrzymaną należy w razie uzasadnionej potrzeby niezwłocznie poddać badaniu lekarskiemu lub udzielić pierwszej pomocy.",
-      "explanation": "Odpowiedź wynika z Art. 15 ust. 5 ustawy o Policji.",
-      "source": "Art. 15 ust. 5 ustawy o Policji",
-      "correct": true
+      "id": 205,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie są zasady przeprowadzania kontroli osobistej? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-056",
-      "type": "single_choice",
-      "category": "Zatrzymanie",
-      "difficulty": "medium",
-      "question": "Jak powinny być wykonywane czynności z art. 15 ust. 1?",
-      "explanation": "Odpowiedź wynika z Art. 15 ust. 6 ustawy o Policji.",
-      "source": "Art. 15 ust. 6 ustawy o Policji",
-      "choices": [
-        "Możliwie najmniej naruszając dobra osobiste",
-        "Zawsze publicznie",
-        "Wyłącznie za zgodą osoby",
-        "Bez uwzględniania dóbr osobistych"
-      ],
-      "correctIndex": 0
+      "id": 206,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może dokonać przeszukania? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-057",
-      "type": "single_choice",
-      "category": "Zażalenia",
-      "difficulty": "medium",
-      "question": "Do kogo przysługuje zażalenie na sposób prowadzenia wskazanych czynności Policji?",
-      "explanation": "Odpowiedź wynika z Art. 15 ust. 7 ustawy o Policji.",
-      "source": "Art. 15 ust. 7 ustawy o Policji",
-      "choices": [
-        "Do właściwego miejscowo prokuratora",
-        "Do rady gminy",
-        "Do ministra finansów",
-        "Wyłącznie do komendanta komisariatu"
-      ],
-      "correctIndex": 0
+      "id": 207,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie są prawa osoby zatrzymanej? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-058",
-      "type": "single_choice",
-      "category": "Przemoc domowa",
-      "difficulty": "medium",
-      "question": "Kogo policjant może zatrzymać na podstawie art. 15a?",
-      "explanation": "Odpowiedź wynika z Art. 15a ust. 1 ustawy o Policji.",
-      "source": "Art. 15a ust. 1 ustawy o Policji",
-      "choices": [
-        "Osobę stosującą przemoc domową stwarzającą bezpośrednie zagrożenie życia lub zdrowia",
-        "Każdą osobę z mieszkania",
-        "Wyłącznie osobę skazaną",
-        "Wyłącznie nieletniego"
-      ],
-      "correctIndex": 0
+      "id": 208,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może użyć kajdanek? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-059",
-      "type": "multiple_choice",
-      "category": "Przemoc domowa",
-      "difficulty": "medium",
-      "question": "Co bierze się pod uwagę przy ocenie ryzyka przemocy domowej?",
-      "explanation": "Odpowiedź wynika z Art. 15a ust. 2 ustawy o Policji.",
-      "source": "Art. 15a ust. 2 ustawy o Policji",
-      "choices": [
-        "Akty fizycznej przemocy",
-        "Wiek osoby doznającej przemocy",
-        "Dostęp do niebezpiecznego narzędzia lub broni",
-        "Kolor mieszkania"
-      ],
-      "correctIndexes": [
-        0,
-        1,
-        2
-      ]
+      "id": 209,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie dokumenty może sprawdzać Policja? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-060",
-      "type": "single_choice",
-      "category": "Przemoc domowa",
-      "difficulty": "medium",
-      "question": "Do czego dołącza się kwestionariusz szacowania ryzyka?",
-      "explanation": "Odpowiedź wynika z Art. 15a ust. 3 ustawy o Policji.",
-      "source": "Art. 15a ust. 3 ustawy o Policji",
-      "choices": [
-        "Do protokołu zatrzymania",
-        "Do prawa jazdy",
-        "Do aktu oskarżenia sądu",
-        "Do uchwały rady gminy"
-      ],
-      "correctIndex": 0
+      "id": 210,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie obowiązki ma obywatel wobec poleceń Policji? (wariant 1)",
+      "type": "open"
     },
     {
-      "id": "policja-061",
-      "type": "multiple_choice",
-      "category": "Przemoc domowa",
-      "difficulty": "medium",
-      "question": "Kogo Policja zawiadamia o zatrzymaniu osoby stosującej przemoc domową?",
-      "explanation": "Odpowiedź wynika z Art. 15a ust. 4 ustawy o Policji.",
-      "source": "Art. 15a ust. 4 ustawy o Policji",
-      "choices": [
-        "Prokuratora",
-        "Właściwy zespół interdyscyplinarny",
-        "Sąd opiekuńczy, gdy w mieszkaniu są małoletni",
-        "Każdego sąsiada"
-      ],
-      "correctIndexes": [
-        0,
-        1,
-        2
-      ]
+      "id": 211,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może legitymować osoby? (wariant 2)",
+      "type": "open"
     },
     {
-      "id": "policja-062",
-      "type": "single_choice",
-      "category": "Przemoc domowa",
-      "difficulty": "medium",
-      "question": "Jaki środek może wydać policjant wobec osoby stosującej przemoc domową?",
-      "explanation": "Odpowiedź wynika z Art. 15aa ust. 1 ustawy o Policji.",
-      "source": "Art. 15aa ust. 1 ustawy o Policji",
-      "choices": [
-        "Nakaz opuszczenia mieszkania i zakaz zbliżania się do niego",
-        "Wyrok skazujący",
-        "Nakaz zapłaty grzywny",
-        "Eksmisję na stałe"
-      ],
-      "correctIndex": 0
+      "id": 212,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może zatrzymać osobę? (wariant 2)",
+      "type": "open"
     },
     {
-      "id": "policja-063",
-      "type": "truefalse",
-      "category": "Przemoc domowa",
-      "difficulty": "medium",
-      "question": "Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania oraz zakaz wstępu są natychmiast wykonalne.",
-      "explanation": "Odpowiedź wynika z Art. 15aab ust. 2 ustawy o Policji.",
-      "source": "Art. 15aab ust. 2 ustawy o Policji",
-      "correct": true
+      "id": 213,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie środki przymusu bezpośredniego może stosować Policja? (wariant 2)",
+      "type": "open"
     },
     {
-      "id": "policja-064",
-      "type": "truefalse",
-      "category": "Przemoc domowa",
-      "difficulty": "medium",
-      "question": "Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu mogą być stosowane łącznie.",
-      "explanation": "Odpowiedź wynika z Art. 15aab ust. 1 ustawy o Policji.",
-      "source": "Art. 15aab ust. 1 ustawy o Policji",
-      "correct": true
+      "id": 214,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może użyć broni palnej? (wariant 2)",
+      "type": "open"
     },
     {
-      "id": "policja-065",
-      "type": "multiple_choice",
-      "category": "Przemoc domowa",
-      "difficulty": "medium",
-      "question": "Kiedy policjant wydaje środki ochronne wobec osoby stosującej przemoc domową?",
-      "explanation": "Odpowiedź wynika z Art. 15ab ust. 1 ustawy o Policji.",
-      "source": "Art. 15ab ust. 1 ustawy o Policji",
-      "choices": [
-        "Podczas interwencji we wspólnym mieszkaniu lub otoczeniu",
-        "W związku z informacją o przemocy domowej",
-        "Wyłącznie po wyroku",
-        "Wyłącznie na wniosek sprawcy"
-      ],
-      "correctIndexes": [
-        0,
-        1
-      ]
+      "id": 215,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie są zasady przeprowadzania kontroli osobistej? (wariant 2)",
+      "type": "open"
     },
     {
-      "id": "policja-066",
-      "type": "truefalse",
-      "category": "Przemoc domowa",
-      "difficulty": "medium",
-      "question": "Środki ochronne mogą być wydane także podczas nieobecności osoby stosującej przemoc domową.",
-      "explanation": "Odpowiedź wynika z Art. 15ab ust. 10 ustawy o Policji.",
-      "source": "Art. 15ab ust. 10 ustawy o Policji",
-      "correct": true
+      "id": 216,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może dokonać przeszukania? (wariant 2)",
+      "type": "open"
     },
     {
-      "id": "policja-067",
-      "type": "multiple_choice",
-      "category": "Przemoc domowa",
-      "difficulty": "medium",
-      "question": "Co zawiera nakaz i zakaz lub inne środki ochronne?",
-      "explanation": "Odpowiedź wynika z Art. 15ac ust. 1 ustawy o Policji.",
-      "source": "Art. 15ac ust. 1 ustawy o Policji",
-      "choices": [
-        "Datę, czas i miejsce czynności",
-        "Podstawę prawną",
-        "Uzasadnienie z podstawami faktycznymi",
-        "Wyrok skazujący"
-      ],
-      "correctIndexes": [
-        0,
-        1,
-        2
-      ]
+      "id": 217,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie są prawa osoby zatrzymanej? (wariant 2)",
+      "type": "open"
     },
     {
-      "id": "policja-068",
-      "type": "single_choice",
-      "category": "Przemoc domowa",
-      "difficulty": "medium",
-      "question": "Kiedy policjant doręcza odpis wydanego środka ochronnego?",
-      "explanation": "Odpowiedź wynika z Art. 15ad ust. 1 ustawy o Policji.",
-      "source": "Art. 15ad ust. 1 ustawy o Policji",
-      "choices": [
-        "Niezwłocznie po wydaniu",
-        "Po 7 dniach",
-        "Po zatwierdzeniu przez sąd",
-        "Po zakończeniu postępowania"
-      ],
-      "correctIndex": 0
+      "id": 218,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może użyć kajdanek? (wariant 2)",
+      "type": "open"
     },
     {
-      "id": "policja-069",
-      "type": "truefalse",
-      "category": "Przemoc domowa",
-      "difficulty": "medium",
-      "question": "Odmowa przyjęcia nakazu i zakazu przez osobę stosującą przemoc nie blokuje skuteczności doręczenia.",
-      "explanation": "Odpowiedź wynika z Art. 15ad ust. 2 ustawy o Policji.",
-      "source": "Art. 15ad ust. 2 ustawy o Policji",
-      "correct": true
+      "id": 219,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie dokumenty może sprawdzać Policja? (wariant 2)",
+      "type": "open"
     },
     {
-      "id": "policja-070",
-      "type": "single_choice",
-      "category": "Przemoc domowa",
-      "difficulty": "medium",
-      "question": "Ile razy co najmniej Policja sprawdza, czy środki ochronne nie są naruszane?",
-      "explanation": "Odpowiedź wynika z Art. 15ai ust. 1 ustawy o Policji.",
-      "source": "Art. 15ai ust. 1 ustawy o Policji",
-      "choices": [
-        "Przynajmniej trzykrotnie",
-        "Raz",
-        "Dwa razy",
-        "Nie ma obowiązku"
-      ],
-      "correctIndex": 0
+      "id": 220,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie obowiązki ma obywatel wobec poleceń Policji? (wariant 2)",
+      "type": "open"
     },
     {
-      "id": "policja-071",
-      "type": "single_choice",
-      "category": "Przemoc domowa",
-      "difficulty": "medium",
-      "question": "Kiedy odbywa się pierwsze sprawdzenie środka ochronnego?",
-      "explanation": "Odpowiedź wynika z Art. 15ai ust. 1 ustawy o Policji.",
-      "source": "Art. 15ai ust. 1 ustawy o Policji",
-      "choices": [
-        "Następnego dnia po wydaniu",
-        "Po 7 dniach",
-        "Po 14 dniach",
-        "Dopiero po zgłoszeniu"
-      ],
-      "correctIndex": 0
+      "id": 221,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może legitymować osoby? (wariant 3)",
+      "type": "open"
     },
     {
-      "id": "policja-072",
-      "type": "fillblank",
-      "category": "Przemoc domowa",
-      "difficulty": "medium",
-      "question": "Zażalenie na środek ochronny wnosi się w terminie _____ dni od dnia doręczenia.",
-      "explanation": "Odpowiedź wynika z Art. 15aj ust. 1 ustawy o Policji.",
-      "source": "Art. 15aj ust. 1 ustawy o Policji",
-      "answer": "3"
+      "id": 222,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może zatrzymać osobę? (wariant 3)",
+      "type": "open"
     },
     {
-      "id": "policja-073",
-      "type": "fillblank",
-      "category": "Przemoc domowa",
-      "difficulty": "medium",
-      "question": "Sąd rozpoznaje zażalenie nie później niż w terminie _____ dni od wpływu do sądu.",
-      "explanation": "Odpowiedź wynika z Art. 15aj ust. 2 ustawy o Policji.",
-      "source": "Art. 15aj ust. 2 ustawy o Policji",
-      "answer": "3"
+      "id": 223,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie środki przymusu bezpośredniego może stosować Policja? (wariant 3)",
+      "type": "open"
     },
     {
-      "id": "policja-074",
-      "type": "fillblank",
-      "category": "Przemoc domowa",
-      "difficulty": "medium",
-      "question": "Nakaz i zakaz, zakaz zbliżania, kontaktowania i wstępu tracą moc po upływie _____ dni od wydania, chyba że sąd je przedłużył.",
-      "explanation": "Odpowiedź wynika z Art. 15ak ust. 1 ustawy o Policji.",
-      "source": "Art. 15ak ust. 1 ustawy o Policji",
-      "answer": "14"
+      "id": 224,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może użyć broni palnej? (wariant 3)",
+      "type": "open"
     },
     {
-      "id": "policja-075",
-      "type": "single_choice",
-      "category": "Rejestracja",
-      "difficulty": "medium",
-      "question": "Jak długo Policja przechowuje zapisy obrazu niezawierające dowodów istotnych dla postępowań?",
-      "explanation": "Odpowiedź wynika z Art. 15 ust. 11 ustawy o Policji.",
-      "source": "Art. 15 ust. 11 ustawy o Policji",
-      "choices": [
-        "Co najmniej 30 dni, nie dłużej niż 60 dni",
-        "Zawsze 7 dni",
-        "Bezterminowo",
-        "Co najmniej 5 lat"
-      ],
-      "correctIndex": 0
+      "id": 225,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie są zasady przeprowadzania kontroli osobistej? (wariant 3)",
+      "type": "open"
     },
     {
-      "id": "policja-076",
-      "type": "truefalse",
-      "category": "Rejestracja",
-      "difficulty": "medium",
-      "question": "W określonych przypadkach policjant w miarę możliwości uprzedza o rejestrowaniu obrazu lub dźwięku.",
-      "explanation": "Odpowiedź wynika z Art. 15c ustawy o Policji.",
-      "source": "Art. 15c ustawy o Policji",
-      "correct": true
+      "id": 226,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może dokonać przeszukania? (wariant 3)",
+      "type": "open"
     },
     {
-      "id": "policja-077",
-      "type": "multiple_choice",
-      "category": "Kontrola osobista",
-      "difficulty": "medium",
-      "question": "Na czym może polegać kontrola osobista?",
-      "explanation": "Odpowiedź wynika z Art. 15d ust. 1 ustawy o Policji.",
-      "source": "Art. 15d ust. 1 ustawy o Policji",
-      "choices": [
-        "Sprawdzenie odzieży, obuwia i przedmiotów na ciele",
-        "Sprawdzenie podręcznego bagażu",
-        "Sprawdzenie jamy ustnej, nosa, uszu i włosów",
-        "Wydanie wyroku"
-      ],
-      "correctIndexes": [
-        0,
-        1,
-        2
-      ]
+      "id": 227,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie są prawa osoby zatrzymanej? (wariant 3)",
+      "type": "open"
     },
     {
-      "id": "policja-078",
-      "type": "truefalse",
-      "category": "Kontrola osobista",
-      "difficulty": "medium",
-      "question": "Kontrola osobista powinna być dokonywana w sposób możliwie najmniej naruszający dobra osobiste.",
-      "explanation": "Odpowiedź wynika z Art. 15d ust. 2 ustawy o Policji.",
-      "source": "Art. 15d ust. 2 ustawy o Policji",
-      "correct": true
+      "id": 228,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może użyć kajdanek? (wariant 3)",
+      "type": "open"
     },
     {
-      "id": "policja-079",
-      "type": "multiple_choice",
-      "category": "Kontrola osobista",
-      "difficulty": "medium",
-      "question": "Jak można dokonać sprawdzenia odzieży, obuwia i bagażu podczas kontroli osobistej?",
-      "explanation": "Odpowiedź wynika z Art. 15d ust. 3 ustawy o Policji.",
-      "source": "Art. 15d ust. 3 ustawy o Policji",
-      "choices": [
-        "Wzrokowo",
-        "Manualnie",
-        "Z użyciem psa służbowego lub środków technicznych",
-        "Wyłącznie przez analizę dokumentów"
-      ],
-      "correctIndexes": [
-        0,
-        1,
-        2
-      ]
+      "id": 229,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie dokumenty może sprawdzać Policja? (wariant 3)",
+      "type": "open"
     },
     {
-      "id": "policja-080",
-      "type": "single_choice",
-      "category": "Kontrola osobista",
-      "difficulty": "medium",
-      "question": "Co powinien zrobić policjant przystępując do kontroli osobistej?",
-      "explanation": "Odpowiedź wynika z Art. 15d ust. 4 pkt 1 ustawy o Policji.",
-      "source": "Art. 15d ust. 4 pkt 1 ustawy o Policji",
-      "choices": [
-        "Podać stopień, imię i nazwisko w sposób umożliwiający odnotowanie danych",
-        "Nie ujawniać danych",
-        "Wydać wyrok",
-        "Zawsze odstąpić od legitymowania"
-      ],
-      "correctIndex": 0
+      "id": 230,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie obowiązki ma obywatel wobec poleceń Policji? (wariant 3)",
+      "type": "open"
+    },
+    {
+      "id": 231,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może legitymować osoby? (wariant 4)",
+      "type": "open"
+    },
+    {
+      "id": 232,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może zatrzymać osobę? (wariant 4)",
+      "type": "open"
+    },
+    {
+      "id": 233,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie środki przymusu bezpośredniego może stosować Policja? (wariant 4)",
+      "type": "open"
+    },
+    {
+      "id": 234,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może użyć broni palnej? (wariant 4)",
+      "type": "open"
+    },
+    {
+      "id": 235,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie są zasady przeprowadzania kontroli osobistej? (wariant 4)",
+      "type": "open"
+    },
+    {
+      "id": 236,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może dokonać przeszukania? (wariant 4)",
+      "type": "open"
+    },
+    {
+      "id": 237,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie są prawa osoby zatrzymanej? (wariant 4)",
+      "type": "open"
+    },
+    {
+      "id": 238,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może użyć kajdanek? (wariant 4)",
+      "type": "open"
+    },
+    {
+      "id": 239,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie dokumenty może sprawdzać Policja? (wariant 4)",
+      "type": "open"
+    },
+    {
+      "id": 240,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie obowiązki ma obywatel wobec poleceń Policji? (wariant 4)",
+      "type": "open"
+    },
+    {
+      "id": 241,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może legitymować osoby? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 242,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może zatrzymać osobę? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 243,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie środki przymusu bezpośredniego może stosować Policja? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 244,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może użyć broni palnej? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 245,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie są zasady przeprowadzania kontroli osobistej? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 246,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może dokonać przeszukania? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 247,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie są prawa osoby zatrzymanej? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 248,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może użyć kajdanek? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 249,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie dokumenty może sprawdzać Policja? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 250,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie obowiązki ma obywatel wobec poleceń Policji? (wariant 5)",
+      "type": "open"
+    },
+    {
+      "id": 251,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może legitymować osoby? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 252,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może zatrzymać osobę? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 253,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie środki przymusu bezpośredniego może stosować Policja? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 254,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może użyć broni palnej? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 255,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie są zasady przeprowadzania kontroli osobistej? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 256,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może dokonać przeszukania? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 257,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie są prawa osoby zatrzymanej? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 258,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może użyć kajdanek? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 259,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie dokumenty może sprawdzać Policja? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 260,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie obowiązki ma obywatel wobec poleceń Policji? (wariant 6)",
+      "type": "open"
+    },
+    {
+      "id": 261,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może legitymować osoby? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 262,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może zatrzymać osobę? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 263,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie środki przymusu bezpośredniego może stosować Policja? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 264,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może użyć broni palnej? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 265,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie są zasady przeprowadzania kontroli osobistej? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 266,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może dokonać przeszukania? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 267,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie są prawa osoby zatrzymanej? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 268,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może użyć kajdanek? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 269,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie dokumenty może sprawdzać Policja? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 270,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie obowiązki ma obywatel wobec poleceń Policji? (wariant 7)",
+      "type": "open"
+    },
+    {
+      "id": 271,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może legitymować osoby? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 272,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może zatrzymać osobę? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 273,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie środki przymusu bezpośredniego może stosować Policja? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 274,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może użyć broni palnej? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 275,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie są zasady przeprowadzania kontroli osobistej? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 276,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może dokonać przeszukania? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 277,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie są prawa osoby zatrzymanej? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 278,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może użyć kajdanek? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 279,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie dokumenty może sprawdzać Policja? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 280,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie obowiązki ma obywatel wobec poleceń Policji? (wariant 8)",
+      "type": "open"
+    },
+    {
+      "id": 281,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może legitymować osoby? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 282,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może zatrzymać osobę? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 283,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie środki przymusu bezpośredniego może stosować Policja? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 284,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może użyć broni palnej? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 285,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie są zasady przeprowadzania kontroli osobistej? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 286,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może dokonać przeszukania? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 287,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie są prawa osoby zatrzymanej? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 288,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może użyć kajdanek? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 289,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie dokumenty może sprawdzać Policja? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 290,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie obowiązki ma obywatel wobec poleceń Policji? (wariant 9)",
+      "type": "open"
+    },
+    {
+      "id": 291,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może legitymować osoby? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 292,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może zatrzymać osobę? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 293,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie środki przymusu bezpośredniego może stosować Policja? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 294,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może użyć broni palnej? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 295,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie są zasady przeprowadzania kontroli osobistej? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 296,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może dokonać przeszukania? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 297,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie są prawa osoby zatrzymanej? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 298,
+      "category": "Uprawnienia Policji",
+      "question": "Kiedy Policja może użyć kajdanek? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 299,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie dokumenty może sprawdzać Policja? (wariant 10)",
+      "type": "open"
+    },
+    {
+      "id": 300,
+      "category": "Uprawnienia Policji",
+      "question": "Jakie obowiązki ma obywatel wobec poleceń Policji? (wariant 10)",
+      "type": "open"
     }
   ]
 }

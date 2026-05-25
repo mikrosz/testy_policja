@@ -1,7 +1,60 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-25T07:46:38.842Z",
+  "generatedAt": "2026-05-25T09:13:33.313Z",
   "banks": [
+    {
+      "path": "/question-banks/KK.json",
+      "title": "Kodeks karny - baza pytań",
+      "question_count": 533,
+      "detected_question_count": 533,
+      "categories": [
+        "Formy popełnienia przestępstwa",
+        "Kary",
+        "Objaśnienie wyrażeń ustawowych",
+        "Powrót do przestępstwa",
+        "Przedawnienie",
+        "Przepadek i środki kompensacyjne",
+        "Przestępstwa przeciwko Rzeczypospolitej Polskiej",
+        "Przestępstwa przeciwko bezpieczeństwu powszechnemu",
+        "Przestępstwa przeciwko bezpieczeństwu w komunikacji",
+        "Przestępstwa przeciwko czci i nietykalności cielesnej",
+        "Przestępstwa przeciwko działalności instytucji państwowych oraz samorządu",
+        "Przestępstwa przeciwko mieniu",
+        "Przestępstwa przeciwko mieniu wojskowemu",
+        "Przestępstwa przeciwko obowiązkowi pełnienia służby wojskowej",
+        "Przestępstwa przeciwko obronności",
+        "Przestępstwa przeciwko obrotowi gospodarczemu i interesom majątkowym",
+        "Przestępstwa przeciwko obrotowi pieniędzmi i papierami wartościowymi",
+        "Przestępstwa przeciwko ochronie informacji",
+        "Przestępstwa przeciwko pokojowi, ludzkości oraz przestępstwa wojenne",
+        "Przestępstwa przeciwko porządkowi publicznemu",
+        "Przestępstwa przeciwko prawom osób wykonujących pracę zarobkową",
+        "Przestępstwa przeciwko rodzinie i opiece",
+        "Przestępstwa przeciwko wiarygodności dokumentów",
+        "Przestępstwa przeciwko wolności",
+        "Przestępstwa przeciwko wolności seksualnej i obyczajności",
+        "Przestępstwa przeciwko wolności sumienia i wyznania",
+        "Przestępstwa przeciwko wyborom i referendum",
+        "Przestępstwa przeciwko wymiarowi sprawiedliwości",
+        "Przestępstwa przeciwko zasadom dyscypliny wojskowej",
+        "Przestępstwa przeciwko zasadom obchodzenia się z uzbrojeniem i uzbrojonym",
+        "Przestępstwa przeciwko zasadom pełnienia służby",
+        "Przestępstwa przeciwko zasadom postępowania z podwładnymi",
+        "Przestępstwa przeciwko środowisku",
+        "Przestępstwa przeciwko życiu i zdrowiu",
+        "Wyłączenie odpowiedzialności karnej",
+        "Zasady odpowiedzialności karnej",
+        "Zasady wymiaru kary i środków karnych",
+        "Zatarcie skazania",
+        "Zbieg przestępstw oraz łączenie kar i środków karnych",
+        "Środki karne",
+        "Środki zabezpieczające",
+        "Środki związane z poddaniem sprawcy próbie"
+      ],
+      "types": [
+        "single_choice"
+      ]
+    },
     {
       "path": "/question-banks/KPK.json",
       "title": "Quiz KPK",
@@ -139,35 +192,16 @@
     },
     {
       "path": "/question-banks/Ustawa o policji.json",
-      "title": "Ustawa o Policji - pytania testowe",
-      "question_count": 80,
-      "detected_question_count": 80,
+      "title": "Rozbudowana baza pytań - Ustawa o Policji",
+      "question_count": 300,
+      "detected_question_count": 300,
       "categories": [
-        "Czynności Policji",
-        "Doręczenia elektroniczne",
-        "Finansowanie",
-        "Jednostki organizacyjne",
-        "Komisariaty i posterunki",
-        "Kontrola osobista",
         "Organizacja Policji",
-        "Organizacja wewnętrzna",
-        "Organy Policji",
-        "Postępowanie administracyjne",
-        "Powoływanie",
-        "Przemoc domowa",
         "Przepisy ogólne",
-        "Rejestracja",
-        "Samorząd",
-        "Uprawnienia Policji",
-        "Zadania Policji",
-        "Zatrzymanie",
-        "Zażalenia"
+        "Uprawnienia Policji"
       ],
       "types": [
-        "fillblank",
-        "multiple_choice",
-        "single_choice",
-        "truefalse"
+        "open"
       ]
     }
   ]
