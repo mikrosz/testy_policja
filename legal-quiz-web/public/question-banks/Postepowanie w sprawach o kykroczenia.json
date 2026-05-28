@@ -1,0 +1,2599 @@
+{
+  "title": "Ustawa z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia",
+  "description": "Baza pytań praktycznych opracowana wyłącznie na podstawie przesłanego aktu prawnego.",
+  "question_count": 162,
+  "questions": [
+    {
+      "id": "kpsw-001",
+      "type": "single_choice",
+      "category": "Zasady ogólne",
+      "difficulty": "easy",
+      "question": "Policjant prowadzi sprawę o wykroczenie i chce zastosować rozwiązanie z procedury karnej, którego ten kodeks wprost nie przewiduje. Które działanie będzie prawidłowe?",
+      "choices": [
+        "Może zastosować przepisy procedury karnej zawsze, gdy uzna to za celowe.",
+        "Może zastosować przepisy procedury karnej tylko wtedy, gdy ten kodeks tak stanowi.",
+        "Może zastosować przepisy procedury karnej wyłącznie za zgodą sądu.",
+        "Może zastosować przepisy procedury karnej tylko na wniosek obwinionego."
+      ],
+      "correctIndex": 1,
+      "explanation": "W postępowaniu w sprawach o wykroczenia przepisy Kodeksu postępowania karnego stosuje się tylko wtedy, gdy Kodeks postępowania w sprawach o wykroczenia tak stanowi.",
+      "source": "Art. 1 § 2"
+    },
+    {
+      "id": "kpsw-002",
+      "type": "single_choice",
+      "category": "Zasady ogólne",
+      "difficulty": "easy",
+      "question": "Organ ma zdecydować, w jakim trybie ma być rozpoznana sprawa, jeżeli brak podstaw do trybu przyspieszonego i nakazowego. Który tryb należy przyjąć?",
+      "choices": [
+        "Postępowanie zwyczajne.",
+        "Postępowanie przyspieszone.",
+        "Postępowanie mandatowe.",
+        "Postępowanie kasacyjne."
+      ],
+      "correctIndex": 0,
+      "explanation": "Postępowanie zwyczajne jest właściwe, gdy brak podstaw do rozpoznania sprawy w postępowaniu przyspieszonym albo nakazowym.",
+      "source": "Art. 2 § 1a"
+    },
+    {
+      "id": "kpsw-003",
+      "type": "single_choice",
+      "category": "Zasady ogólne",
+      "difficulty": "medium",
+      "question": "Podczas czynności wyjaśniających ujawniono poważne uchybienie w działaniu instytucji samorządowej, które sprzyja naruszeniom prawa. Co powinien zrobić organ prowadzący czynności?",
+      "choices": [
+        "Pominąć tę okoliczność, bo nie dotyczy bezpośrednio obwinionego.",
+        "Zawiadomić instytucję albo organ powołany do sprawowania nad nią nadzoru.",
+        "Zawsze skierować sprawę do prokuratora.",
+        "Wyłącznie opisać uchybienie w notatniku służbowym bez dalszego działania."
+      ],
+      "correctIndex": 1,
+      "explanation": "W razie stwierdzenia istotnego uchybienia sprzyjającego naruszeniom prawa sąd lub organ prowadzący czynności wyjaśniające zawiadamia właściwą instytucję albo organ nadzoru.",
+      "source": "Art. 3"
+    },
+    {
+      "id": "kpsw-004",
+      "type": "single_choice",
+      "category": "Zasady ogólne",
+      "difficulty": "easy",
+      "question": "Osoba, wobec której rozpoczęto przesłuchanie po powiadomieniu o treści zarzutów, pyta, czy może korzystać z obrońcy, mimo że nie wniesiono jeszcze wniosku o ukaranie. Która odpowiedź jest prawidłowa?",
+      "choices": [
+        "Tak, od tej chwili przysługuje jej prawo do obrony i należy ją o tym pouczyć.",
+        "Nie, prawo do obrony powstaje dopiero po pierwszej rozprawie.",
+        "Nie, obrońca przysługuje wyłącznie po wydaniu wyroku.",
+        "Tak, ale tylko za zgodą oskarżyciela publicznego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Prawo do obrony przysługuje także osobie przesłuchiwanej po powiadomieniu o treści zarzutów albo wezwanej do złożenia pisemnych wyjaśnień; należy ją pouczyć o tym prawie.",
+      "source": "Art. 4 § 2-3"
+    },
+    {
+      "id": "kpsw-005",
+      "type": "single_choice",
+      "category": "Zasady ogólne",
+      "difficulty": "medium",
+      "question": "Po rozpoczęciu sprawy okazuje się, że czyn nie zawiera znamion wykroczenia. Jak należy postąpić?",
+      "choices": [
+        "Kontynuować sprawę do wyroku skazującego, jeżeli zachowanie było naganne.",
+        "Umorzyć wszczęte postępowanie albo nie wszczynać go, jeżeli sprawa jest na etapie wstępnym.",
+        "Zawsze przekazać sprawę do organu administracji.",
+        "Nałożyć mandat, aby zakończyć sprawę bez sądu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Postępowania nie wszczyna się, a wszczęte umarza, gdy czyn nie zawiera znamion wykroczenia albo ustawa stanowi, że sprawca nie popełnia wykroczenia.",
+      "source": "Art. 5 § 1 pkt 2"
+    },
+    {
+      "id": "kpsw-006",
+      "type": "single_choice",
+      "category": "Zasady ogólne",
+      "difficulty": "medium",
+      "question": "Sprawa dotyczy wykroczenia ściganego na żądanie pokrzywdzonego. Wniosek o ukaranie chce złożyć organ, który nie jest pokrzywdzonym. Co powinien wcześniej uzyskać?",
+      "choices": [
+        "Zgodę prezesa sądu.",
+        "Wymagane żądanie od osoby uprawnionej.",
+        "Opinię biegłego.",
+        "Zobowiązanie obwinionego do stawiennictwa."
+      ],
+      "correctIndex": 1,
+      "explanation": "W sprawach ściganych na żądanie pokrzywdzonego podmiot występujący z wnioskiem o ukaranie, jeśli nie jest pokrzywdzonym, powinien uzyskać wymagane żądanie od osoby uprawnionej.",
+      "source": "Art. 6 § 1"
+    },
+    {
+      "id": "kpsw-007",
+      "type": "single_choice",
+      "category": "Zasady ogólne",
+      "difficulty": "hard",
+      "question": "Pokrzywdzony złożył żądanie ścigania tylko wobec jednej z kilku osób współdziałających. Pozostali nie są dla niego osobami najbliższymi. Jak należy ocenić skuteczność żądania?",
+      "choices": [
+        "Żądanie działa tylko wobec osoby wyraźnie wskazanej.",
+        "Żądanie pozostaje skuteczne także wobec niewskazanych współdziałających.",
+        "Żądanie jest nieważne, bo nie objęło wszystkich osób.",
+        "Żądanie wymaga zatwierdzenia przez prokuratora."
+      ],
+      "correctIndex": 1,
+      "explanation": "Żądanie złożone wobec niektórych współdziałających jest skuteczne także wobec niewskazanych, jeżeli nie są osobami najbliższymi dla pokrzywdzonego.",
+      "source": "Art. 6 § 2"
+    },
+    {
+      "id": "kpsw-008",
+      "type": "single_choice",
+      "category": "Zasady ogólne",
+      "difficulty": "hard",
+      "question": "Pokrzywdzony chce cofnąć żądanie ścigania po rozpoczęciu przewodu sądowego na pierwszej rozprawie. Która decyzja będzie zgodna z kodeksem?",
+      "choices": [
+        "Cofnięcie jest dopuszczalne do końca całego postępowania.",
+        "Cofnięcie jest niedopuszczalne po rozpoczęciu przewodu sądowego na pierwszej rozprawie.",
+        "Cofnięcie jest dopuszczalne tylko za zgodą Policji.",
+        "Cofnięcie powoduje automatyczne uniewinnienie obwinionego."
+      ],
+      "correctIndex": 1,
+      "explanation": "Cofnięcie żądania może nastąpić tylko do momentu rozpoczęcia przewodu sądowego na pierwszej rozprawie.",
+      "source": "Art. 6 § 3"
+    },
+    {
+      "id": "kpsw-009",
+      "type": "single_choice",
+      "category": "Zasady ogólne",
+      "difficulty": "easy",
+      "question": "Sąd wydał polecenie Policji w związku z prowadzoną sprawą o wykroczenie. Jak Policja powinna się zachować?",
+      "choices": [
+        "Wykonać polecenie sądu w zakresie postępowania w sprawach o wykroczenia.",
+        "Wykonać polecenie tylko po zatwierdzeniu przez prokuratora.",
+        "Odmówić, jeżeli wcześniej prowadziła własne czynności.",
+        "Wykonać polecenie tylko wtedy, gdy dotyczy zatrzymania."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policja i inne organy w zakresie postępowania w sprawach o wykroczenia wykonują polecenia sądu oraz prowadzą czynności wyjaśniające w granicach ustawy.",
+      "source": "Art. 7"
+    },
+    {
+      "id": "kpsw-010",
+      "type": "single_choice",
+      "category": "Sąd i właściwość",
+      "difficulty": "easy",
+      "question": "Sprawa o wykroczenie ma zostać rozpoznana w pierwszej instancji i nie dotyczy szczególnych spraw wojskowych. Jaki sąd jest właściwy?",
+      "choices": [
+        "Sąd rejonowy.",
+        "Sąd okręgowy.",
+        "Sąd apelacyjny.",
+        "Sąd Najwyższy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Co do zasady w sprawach o wykroczenia w pierwszej instancji orzeka sąd rejonowy.",
+      "source": "Art. 9 § 1"
+    },
+    {
+      "id": "kpsw-011",
+      "type": "single_choice",
+      "category": "Sąd i właściwość",
+      "difficulty": "medium",
+      "question": "Żołnierz w czynnej służbie wojskowej popełnił wykroczenie przeciwko innemu żołnierzowi podczas pełnienia obowiązków służbowych. Który sąd orzeka w pierwszej instancji?",
+      "choices": [
+        "Sąd rejonowy właściwy dla miejsca czynu.",
+        "Wojskowy sąd garnizonowy.",
+        "Sąd okręgowy.",
+        "Sąd administracyjny."
+      ],
+      "correctIndex": 1,
+      "explanation": "W określonych sprawach o wykroczenia popełnione przez żołnierzy w czynnej służbie wojskowej w pierwszej instancji orzekają wojskowe sądy garnizonowe.",
+      "source": "Art. 10 § 1 pkt 1"
+    },
+    {
+      "id": "kpsw-012",
+      "type": "single_choice",
+      "category": "Sąd i właściwość",
+      "difficulty": "medium",
+      "question": "Dwa sądy rejonowe spierają się o to, który z nich ma rozpoznać sprawę o wykroczenie. Kto rozstrzyga taki spór?",
+      "choices": [
+        "Sąd Najwyższy.",
+        "Sąd okręgowy właściwy dla okręgu, w którym działa sąd, który pierwszy wszczął spór.",
+        "Prokurator nadrzędny.",
+        "Komendant wojewódzki Policji."
+      ],
+      "correctIndex": 1,
+      "explanation": "Spory o właściwość między sądami rejonowymi rozstrzyga właściwy sąd okręgowy.",
+      "source": "Art. 12 § 1"
+    },
+    {
+      "id": "kpsw-013",
+      "type": "single_choice",
+      "category": "Sąd i właściwość",
+      "difficulty": "easy",
+      "question": "Sąd rejonowy rozpoznaje sprawę o wykroczenie na rozprawie. W jakim składzie orzeka?",
+      "choices": [
+        "Jednoosobowo.",
+        "W składzie trzech sędziów.",
+        "Z udziałem dwóch ławników.",
+        "W składzie jednego sędziego i jednego ławnika."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sąd rejonowy orzeka na rozprawie i na posiedzeniu jednoosobowo.",
+      "source": "Art. 13 § 1"
+    },
+    {
+      "id": "kpsw-014",
+      "type": "single_choice",
+      "category": "Sąd i właściwość",
+      "difficulty": "medium",
+      "question": "Strona chce wnieść apelację od wyroku sądu rejonowego w zwykłej sprawie o wykroczenie. Który sąd jest sądem odwoławczym?",
+      "choices": [
+        "Sąd okręgowy.",
+        "Sąd apelacyjny.",
+        "Sąd Najwyższy.",
+        "Inny komendant Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "W sprawach o wykroczenia podlegających sądom powszechnym sądem odwoławczym do rozpoznania apelacji jest sąd okręgowy.",
+      "source": "Art. 14 § 1 pkt 1"
+    },
+    {
+      "id": "kpsw-015",
+      "type": "single_choice",
+      "category": "Sąd i właściwość",
+      "difficulty": "medium",
+      "question": "Strona składa zażalenie, które nie dotyczy postanowienia ani zarządzenia zamykającego drogę do wydania wyroku. Kto co do zasady je rozpoznaje?",
+      "choices": [
+        "Sąd rejonowy w innym równorzędnym składzie.",
+        "Sąd okręgowy zawsze w składzie trzech sędziów.",
+        "Sąd apelacyjny.",
+        "Referendarz sądowy, który wydał zarządzenie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pozostałe zażalenia w sprawach podlegających właściwości sądów powszechnych rozpoznaje sąd rejonowy w innym równorzędnym składzie.",
+      "source": "Art. 14 § 1 pkt 2"
+    },
+    {
+      "id": "kpsw-016",
+      "type": "single_choice",
+      "category": "Sąd i właściwość",
+      "difficulty": "hard",
+      "question": "W sprawie pojawił się wniosek o wyłączenie sędziego. Nie da się utworzyć innego równorzędnego składu w sądzie, przed którym sprawa się toczy. Kto rozstrzyga?",
+      "choices": [
+        "Sąd wyższego rzędu.",
+        "Ten sam sędzia, którego dotyczy wniosek.",
+        "Organ prowadzący czynności wyjaśniające.",
+        "Oskarżyciel publiczny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Gdy nie można utworzyć innego równorzędnego składu, o wyłączeniu sędziego orzeka sąd wyższego rzędu.",
+      "source": "Art. 16 § 2"
+    },
+    {
+      "id": "kpsw-017",
+      "type": "single_choice",
+      "category": "Oskarżyciel publiczny",
+      "difficulty": "easy",
+      "question": "W zwykłej sprawie o wykroczenie nie ma przepisu szczególnego wskazującego inny organ jako oskarżyciela. Kto jest oskarżycielem publicznym?",
+      "choices": [
+        "Policja.",
+        "Wyłącznie prokurator.",
+        "Pokrzywdzony.",
+        "Sąd rejonowy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policja jest oskarżycielem publicznym we wszystkich sprawach o wykroczenia, chyba że ustawa stanowi inaczej.",
+      "source": "Art. 17 § 1"
+    },
+    {
+      "id": "kpsw-018",
+      "type": "single_choice",
+      "category": "Oskarżyciel publiczny",
+      "difficulty": "medium",
+      "question": "Sprawa dotyczy wykroczenia przeciwko prawom pracownika określonego w przepisach prawa pracy. Kto może występować jako oskarżyciel publiczny?",
+      "choices": [
+        "Inspektor pracy.",
+        "Wyłącznie pokrzywdzony pracownik.",
+        "Tylko straż gminna.",
+        "Sąd pracy."
+      ],
+      "correctIndex": 0,
+      "explanation": "W sprawach o wykroczenia przeciwko prawom pracownika oskarżycielem publicznym jest inspektor pracy.",
+      "source": "Art. 17 § 2"
+    },
+    {
+      "id": "kpsw-019",
+      "type": "single_choice",
+      "category": "Oskarżyciel publiczny",
+      "difficulty": "medium",
+      "question": "Straż gminna ujawniła wykroczenie w zakresie swojego działania i wystąpiła z wnioskiem o ukaranie. Jaki skutek ma jej udział dla udziału Policji jako oskarżyciela?",
+      "choices": [
+        "Udział tego organu wyłącza Policję od udziału w sprawie.",
+        "Policja zawsze musi występować równolegle.",
+        "Policja może występować tylko jako obrońca.",
+        "Straż gminna traci uprawnienia po wniesieniu wniosku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Udział w sprawie organu, który złożył wniosek o ukaranie, wyłącza Policję od udziału w sprawie.",
+      "source": "Art. 17 § 5"
+    },
+    {
+      "id": "kpsw-020",
+      "type": "single_choice",
+      "category": "Oskarżyciel publiczny",
+      "difficulty": "medium",
+      "question": "Prokurator wniósł wniosek o ukaranie w sprawie o wykroczenie. Jaki ma status w sprawie?",
+      "choices": [
+        "Staje się oskarżycielem publicznym.",
+        "Staje się oskarżycielem posiłkowym.",
+        "Działa tylko jako pełnomocnik pokrzywdzonego.",
+        "Może wyłącznie nadzorować Policję bez udziału w sprawie."
+      ],
+      "correctIndex": 0,
+      "explanation": "W każdej sprawie o wykroczenie prokurator może wnieść wniosek o ukaranie, stając się oskarżycielem publicznym.",
+      "source": "Art. 18 § 1"
+    },
+    {
+      "id": "kpsw-021",
+      "type": "single_choice",
+      "category": "Oskarżyciel publiczny",
+      "difficulty": "medium",
+      "question": "Do postępowania wszczętego przez innego oskarżyciela publicznego wstąpił prokurator. Co dzieje się z udziałem dotychczasowego oskarżyciela publicznego?",
+      "choices": [
+        "Udział prokuratora wyłącza udział innego oskarżyciela publicznego.",
+        "Dotychczasowy oskarżyciel musi prowadzić sprawę wspólnie z prokuratorem.",
+        "Prokurator może jedynie obserwować rozprawę.",
+        "Sprawa musi zostać umorzona i wszczęta od nowa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wstąpienie prokuratora do postępowania wyłącza udział innego oskarżyciela publicznego.",
+      "source": "Art. 18 § 2-3"
+    },
+    {
+      "id": "kpsw-022",
+      "type": "single_choice",
+      "category": "Oskarżyciel publiczny",
+      "difficulty": "medium",
+      "question": "Oskarżyciel publiczny złożył wniosek o ukaranie, a w sprawie występuje obrońca obowiązkowy. Czy udział tego oskarżyciela w rozprawie jest konieczny?",
+      "choices": [
+        "Tak, jest obowiązkowy.",
+        "Nie, nigdy nie jest obowiązkowy.",
+        "Tylko wtedy, gdy zażąda tego pokrzywdzony.",
+        "Tylko w postępowaniu mandatowym."
+      ],
+      "correctIndex": 0,
+      "explanation": "Udział oskarżyciela publicznego, który złożył wniosek o ukaranie, jest obowiązkowy, gdy w sprawie występuje obrońca obowiązkowy.",
+      "source": "Art. 18a"
+    },
+    {
+      "id": "kpsw-023",
+      "type": "single_choice",
+      "category": "Obwiniony i obrona",
+      "difficulty": "easy",
+      "question": "Wniosek o ukaranie został wniesiony przeciwko konkretnej osobie. Jak określa się tę osobę w postępowaniu?",
+      "choices": [
+        "Obwiniony.",
+        "Podejrzany w sprawie karnej.",
+        "Oskarżyciel posiłkowy.",
+        "Świadek główny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Obwinionym jest osoba, przeciwko której wniesiono wniosek o ukaranie w sprawie o wykroczenie.",
+      "source": "Art. 20 § 1"
+    },
+    {
+      "id": "kpsw-024",
+      "type": "single_choice",
+      "category": "Obwiniony i obrona",
+      "difficulty": "medium",
+      "question": "Obwiniony nie zna języka polskiego. Doręczany jest mu wniosek o ukaranie oraz rozstrzygnięcie kończące postępowanie. Co należy zapewnić?",
+      "choices": [
+        "Doręczenie wraz z tłumaczeniem.",
+        "Wyłącznie ustne streszczenie przez policjanta.",
+        "Doręczenie tylko pełnomocnikowi pokrzywdzonego.",
+        "Brak dodatkowych czynności, jeżeli przebywa w Polsce."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli obwiniony nie zna języka polskiego, wniosek o ukaranie oraz określone rozstrzygnięcia ogłasza się lub doręcza wraz z tłumaczeniem.",
+      "source": "Art. 20 § 2"
+    },
+    {
+      "id": "kpsw-025",
+      "type": "single_choice",
+      "category": "Obwiniony i obrona",
+      "difficulty": "easy",
+      "question": "Obwiniony jest niewidomy. Czy musi mieć obrońcę przed sądem?",
+      "choices": [
+        "Tak, obrońca jest obowiązkowy.",
+        "Nie, chyba że poprosi pokrzywdzony.",
+        "Tylko w postępowaniu mandatowym.",
+        "Tylko gdy grozi kara aresztu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Obwiniony musi mieć obrońcę przed sądem, jeżeli jest głuchy, niemy lub niewidomy.",
+      "source": "Art. 21 § 1 pkt 1"
+    },
+    {
+      "id": "kpsw-026",
+      "type": "single_choice",
+      "category": "Obwiniony i obrona",
+      "difficulty": "medium",
+      "question": "W sprawie istnieje uzasadniona wątpliwość co do poczytalności obwinionego. Jak należy ocenić potrzebę obrońcy?",
+      "choices": [
+        "Obwiniony musi mieć obrońcę przed sądem.",
+        "Obrońca jest niedopuszczalny, dopóki nie ma opinii biegłego.",
+        "Obrońca przysługuje tylko po wyroku.",
+        "Obrońca jest wymagany wyłącznie na wniosek oskarżyciela."
+      ],
+      "correctIndex": 0,
+      "explanation": "Obrońca jest obowiązkowy, jeżeli zachodzi uzasadniona wątpliwość co do poczytalności obwinionego.",
+      "source": "Art. 21 § 1 pkt 2"
+    },
+    {
+      "id": "kpsw-027",
+      "type": "single_choice",
+      "category": "Obwiniony i obrona",
+      "difficulty": "hard",
+      "question": "Sąd uzyskał opinię biegłego psychiatry wskazującą, że czyn nie został popełniony w warunkach wyłączenia lub znacznego ograniczenia poczytalności, a stan psychiczny pozwala na samodzielną i rozsądną obronę. Co może zrobić sąd z obrońcą ustanowionym z powodu wcześniejszych wątpliwości?",
+      "choices": [
+        "Zwolnić obrońcę z obowiązków.",
+        "Zawsze utrzymać obrońcę do końca sprawy.",
+        "Umorzyć postępowanie.",
+        "Przekazać sprawę do prokuratora."
+      ],
+      "correctIndex": 0,
+      "explanation": "Obowiązek korzystania z obrońcy z powodu wątpliwości co do poczytalności ustaje, gdy sąd uzna odpowiednią opinię biegłego za uzasadnioną i zwalnia obrońcę.",
+      "source": "Art. 21 § 2"
+    },
+    {
+      "id": "kpsw-028",
+      "type": "single_choice",
+      "category": "Obwiniony i obrona",
+      "difficulty": "medium",
+      "question": "Obwiniony nie ma obrońcy z wyboru, a jego sytuacja finansowa uniemożliwia poniesienie kosztów obrony bez poważnego uszczerbku dla utrzymania rodziny. Kiedy można wyznaczyć mu obrońcę z urzędu na jego wniosek?",
+      "choices": [
+        "Gdy wymaga tego dobro wymiaru sprawiedliwości.",
+        "Zawsze automatycznie po każdym wniosku.",
+        "Tylko gdy pokrzywdzony wyrazi zgodę.",
+        "Tylko po wydaniu wyroku skazującego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Na wniosek obwinionego można wyznaczyć obrońcę z urzędu, gdy wymaga tego dobro wymiaru sprawiedliwości i obwiniony należycie wykaże brak możliwości poniesienia kosztów obrony.",
+      "source": "Art. 22"
+    },
+    {
+      "id": "kpsw-029",
+      "type": "single_choice",
+      "category": "Obwiniony i obrona",
+      "difficulty": "easy",
+      "question": "Osoba chce występować jako obrońca obwinionego w sprawie o wykroczenie. Kto może pełnić tę funkcję?",
+      "choices": [
+        "Adwokat albo radca prawny.",
+        "Dowolna osoba pełnoletnia.",
+        "Tylko adwokat, nigdy radca prawny.",
+        "Wyłącznie funkcjonariusz Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Obrońcą w sprawach o wykroczenia może być adwokat albo radca prawny.",
+      "source": "Art. 24 § 1"
+    },
+    {
+      "id": "kpsw-030",
+      "type": "single_choice",
+      "category": "Pokrzywdzony i oskarżyciel posiłkowy",
+      "difficulty": "easy",
+      "question": "Osoba twierdzi, że jej dobro prawne zostało bezpośrednio zagrożone wykroczeniem. Jaką rolę procesową może mieć w sprawie?",
+      "choices": [
+        "Pokrzywdzonego.",
+        "Sędziego pomocniczego.",
+        "Biegłego z urzędu.",
+        "Referendarza."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pokrzywdzonym jest ten, czyje dobro prawne zostało bezpośrednio naruszone lub zagrożone przez wykroczenie.",
+      "source": "Art. 25 § 1"
+    },
+    {
+      "id": "kpsw-031",
+      "type": "single_choice",
+      "category": "Pokrzywdzony i oskarżyciel posiłkowy",
+      "difficulty": "medium",
+      "question": "Pokrzywdzony zmarł przed zakończeniem sprawy. Kto może wykonywać prawa, które by mu przysługiwały?",
+      "choices": [
+        "Osoby najbliższe.",
+        "Tylko oskarżyciel publiczny.",
+        "Dowolny świadek zdarzenia.",
+        "Wyłącznie organ prowadzący czynności wyjaśniające."
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie śmierci pokrzywdzonego jego prawa mogą wykonywać osoby najbliższe.",
+      "source": "Art. 25 § 2"
+    },
+    {
+      "id": "kpsw-032",
+      "type": "single_choice",
+      "category": "Pokrzywdzony i oskarżyciel posiłkowy",
+      "difficulty": "medium",
+      "question": "Ujawniony pokrzywdzony otrzymał zawiadomienie o przesłaniu wniosku o ukaranie. W jakim terminie może oświadczyć, że będzie działał obok oskarżyciela publicznego?",
+      "choices": [
+        "W terminie 7 dni od zawiadomienia.",
+        "W terminie 14 dni od pierwszej rozprawy.",
+        "Do końca postępowania odwoławczego.",
+        "Wyłącznie przed sporządzeniem wniosku o ukaranie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pokrzywdzony może w terminie 7 dni od zawiadomienia złożyć oświadczenie o działaniu jako oskarżyciel posiłkowy obok oskarżyciela publicznego.",
+      "source": "Art. 26 § 3"
+    },
+    {
+      "id": "kpsw-033",
+      "type": "single_choice",
+      "category": "Pokrzywdzony i oskarżyciel posiłkowy",
+      "difficulty": "medium",
+      "question": "Sprawa dotyczy wykroczenia ściganego na żądanie pokrzywdzonego. Pokrzywdzony chce sam wnieść wniosek o ukaranie. Czy może to zrobić jako oskarżyciel posiłkowy?",
+      "choices": [
+        "Tak, może samodzielnie wnieść wniosek o ukaranie.",
+        "Nie, zawsze musi czekać na Policję.",
+        "Tak, ale dopiero po wniesieniu apelacji.",
+        "Nie, pokrzywdzony nigdy nie może inicjować sprawy."
+      ],
+      "correctIndex": 0,
+      "explanation": "W sprawach o wykroczenia ścigane na żądanie pokrzywdzony może samodzielnie wnieść wniosek o ukaranie jako oskarżyciel posiłkowy.",
+      "source": "Art. 27 § 1"
+    },
+    {
+      "id": "kpsw-034",
+      "type": "single_choice",
+      "category": "Pokrzywdzony i oskarżyciel posiłkowy",
+      "difficulty": "hard",
+      "question": "Pokrzywdzony zawiadomił uprawniony organ o wykroczeniu innym niż ścigane na żądanie. Po miesiącu nie został powiadomiony o wniesieniu wniosku o ukaranie. Jakie uprawnienie może mu przysługiwać?",
+      "choices": [
+        "Może samodzielnie wnieść wniosek o ukaranie jako oskarżyciel posiłkowy.",
+        "Może wyłącznie złożyć kasację.",
+        "Może sam wymierzyć grzywnę mandatem.",
+        "Może żądać, aby sąd wydał wyrok nakazowy bez wniosku."
+      ],
+      "correctIndex": 0,
+      "explanation": "W sprawach innych niż ścigane na żądanie pokrzywdzony może samodzielnie wnieść wniosek, jeżeli w ciągu miesiąca od powiadomienia organu nie został powiadomiony o wniesieniu wniosku albo otrzymał zawiadomienie o niewniesieniu wniosku.",
+      "source": "Art. 27 § 2"
+    },
+    {
+      "id": "kpsw-035",
+      "type": "single_choice",
+      "category": "Pokrzywdzony i oskarżyciel posiłkowy",
+      "difficulty": "medium",
+      "question": "Oskarżyciel posiłkowy, który samodzielnie wniósł wniosek o ukaranie, bez usprawiedliwienia nie stawił się na rozprawę. Jak traktuje się jego niestawiennictwo?",
+      "choices": [
+        "Jako odstąpienie od oskarżenia.",
+        "Jako automatyczne przyznanie racji obwinionemu bez umorzenia.",
+        "Jako wniosek o odroczenie rozprawy.",
+        "Bez żadnych skutków procesowych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niestawiennictwo bez usprawiedliwienia oskarżyciela posiłkowego, który samodzielnie wniósł wniosek, uważa się za odstąpienie od oskarżenia, a sąd umarza postępowanie.",
+      "source": "Art. 29 § 2"
+    },
+    {
+      "id": "kpsw-036",
+      "type": "single_choice",
+      "category": "Pokrzywdzony i oskarżyciel posiłkowy",
+      "difficulty": "medium",
+      "question": "Pokrzywdzony chce korzystać z pełnomocnika. Kto może nim być?",
+      "choices": [
+        "Adwokat albo radca prawny, a w przypadku pokrzywdzonej instytucji także jej pracownik lub pracownik organu nadrzędnego.",
+        "Wyłącznie adwokat.",
+        "Wyłącznie funkcjonariusz organu prowadzącego czynności.",
+        "Dowolny świadek sprawy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pokrzywdzony i oskarżyciel posiłkowy mogą korzystać z jednego pełnomocnika; może nim być adwokat, radca prawny, a w przypadku instytucji także wskazany pracownik.",
+      "source": "Art. 30 § 1"
+    },
+    {
+      "id": "kpsw-037",
+      "type": "single_choice",
+      "category": "Czynności procesowe",
+      "difficulty": "easy",
+      "question": "Organ ma wydać rozstrzygnięcie w sprawie o wykroczenie. Jakie formy rozstrzygnięć przewiduje kodeks?",
+      "choices": [
+        "Orzeczenia, zarządzenia albo mandaty karne.",
+        "Wyłącznie wyroki.",
+        "Tylko decyzje administracyjne.",
+        "Wyłącznie protokoły."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozstrzygnięcia zapadają w postaci orzeczeń, zarządzeń albo mandatów karnych.",
+      "source": "Art. 32 § 1"
+    },
+    {
+      "id": "kpsw-038",
+      "type": "single_choice",
+      "category": "Czynności procesowe",
+      "difficulty": "medium",
+      "question": "Sąd ma oprzeć orzeczenie na materiale sprawy. Co może stanowić podstawę orzeczenia?",
+      "choices": [
+        "Całokształt okoliczności ujawnionych w postępowaniu, mających znaczenie dla rozstrzygnięcia.",
+        "Wyłącznie notatka urzędowa policjanta.",
+        "Tylko wyjaśnienia obwinionego.",
+        "Wyłącznie materiał wskazany przez oskarżyciela."
+      ],
+      "correctIndex": 0,
+      "explanation": "Podstawę orzeczenia może stanowić tylko całokształt okoliczności ujawnionych w postępowaniu, istotnych dla rozstrzygnięcia.",
+      "source": "Art. 34"
+    },
+    {
+      "id": "kpsw-039",
+      "type": "single_choice",
+      "category": "Czynności procesowe",
+      "difficulty": "medium",
+      "question": "Strona chce uzasadnienia wyroku sądu pierwszej instancji. W jakim terminie od ogłoszenia powinna zgłosić żądanie, gdy ustawa nie stanowi inaczej?",
+      "choices": [
+        "W terminie 7 dni.",
+        "W terminie 3 dni.",
+        "W terminie 14 dni.",
+        "W dowolnym czasie przed przedawnieniem."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wyrok sądu pierwszej instancji uzasadnia się i doręcza z uzasadnieniem na żądanie strony zgłoszone w zawitym terminie 7 dni od ogłoszenia, chyba że ustawa stanowi inaczej.",
+      "source": "Art. 35 § 1"
+    },
+    {
+      "id": "kpsw-040",
+      "type": "single_choice",
+      "category": "Czynności procesowe",
+      "difficulty": "medium",
+      "question": "Sąd wydał wyrok zaoczny. Komu doręcza się go z urzędu?",
+      "choices": [
+        "Obwinionemu i jego obrońcy, jeżeli został ustanowiony.",
+        "Wyłącznie oskarżycielowi publicznemu.",
+        "Tylko pokrzywdzonemu.",
+        "Wyłącznie prokuratorowi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wyrok zaoczny doręcza się z urzędu obwinionemu oraz jego obrońcy, jeżeli został ustanowiony.",
+      "source": "Art. 35 § 2"
+    },
+    {
+      "id": "kpsw-041",
+      "type": "single_choice",
+      "category": "Czynności procesowe",
+      "difficulty": "medium",
+      "question": "Organ ma sporządzić protokół. Która czynność zasadniczo wymaga protokołu?",
+      "choices": [
+        "Każda czynność mająca istotne znaczenie dla sprawy, w szczególności rozprawa.",
+        "Wyłącznie czynność zakończona mandatem.",
+        "Tylko rozmowa nieformalna ze świadkiem.",
+        "Każde odebranie telefonu od pokrzywdzonego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Protokół sporządza się z każdej czynności mającej istotne znaczenie dla sprawy, w szczególności z rozprawy i czynności dowodowych poza rozprawą, chyba że ustawa stanowi inaczej.",
+      "source": "Art. 37 § 1"
+    },
+    {
+      "id": "kpsw-042",
+      "type": "single_choice",
+      "category": "Czynności procesowe",
+      "difficulty": "medium",
+      "question": "Rozprawa jest utrwalana urządzeniem rejestrującym dźwięk albo obraz i dźwięk. Co należy zrobić wobec osób uczestniczących w rozprawie?",
+      "choices": [
+        "Uprzedzić je o utrwalaniu przebiegu rozprawy.",
+        "Uzyskać zgodę każdej osoby pod rygorem nieważności.",
+        "Nie informować, jeżeli sąd uzna to za wygodne.",
+        "Powiadomić tylko oskarżyciela."
+      ],
+      "correctIndex": 0,
+      "explanation": "O utrwalaniu przebiegu rozprawy za pomocą urządzenia rejestrującego należy uprzedzić osoby uczestniczące w rozprawie.",
+      "source": "Art. 37 § 3"
+    },
+    {
+      "id": "kpsw-043",
+      "type": "single_choice",
+      "category": "Czynności procesowe",
+      "difficulty": "medium",
+      "question": "Czynność nie wymaga sporządzenia protokołu, ale ma znaczenie dla sprawy. Jak należy ją utrwalić w aktach?",
+      "choices": [
+        "W formie notatki urzędowej podpisanej przez osobę dokonującą czynności.",
+        "Wyłącznie ustnym meldunkiem.",
+        "Nie utrwala się jej w aktach.",
+        "Tylko przez nagranie wideo."
+      ],
+      "correctIndex": 0,
+      "explanation": "Czynności, z których nie sporządza się protokołu, oraz inne zdarzenia istotne dla postępowania utrwala się w aktach notatką urzędową.",
+      "source": "Art. 37 § 12"
+    },
+    {
+      "id": "kpsw-044",
+      "type": "single_choice",
+      "category": "Czynności procesowe",
+      "difficulty": "hard",
+      "question": "Pokrzywdzony chce, aby w protokole nie ujawniano jego danych w zwykłym zakresie, powołując się na ochronę danych przewidzianą w procedurze karnej. Czy kodeks przewiduje odpowiednie stosowanie takich rozwiązań?",
+      "choices": [
+        "Tak, na wniosek pokrzywdzonego lub świadka stosuje się odpowiednie przepisy, chyba że utrudni to postępowanie lub sprzeciwia się ważnemu interesowi uczestnika.",
+        "Nie, w sprawach o wykroczenia zawsze ujawnia się wszystkie dane.",
+        "Tak, ale wyłącznie na polecenie prokuratora.",
+        "Nie, takie uprawnienie przysługuje tylko obwinionemu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Na wniosek pokrzywdzonego lub świadka stosuje się odpowiednio przepisy dotyczące ochrony danych, chyba że utrudni to postępowanie lub sprzeciwia się ważnemu interesowi uczestnika.",
+      "source": "Art. 37 § 13"
+    },
+    {
+      "id": "kpsw-045",
+      "type": "single_choice",
+      "category": "Dowody i przeszukanie",
+      "difficulty": "easy",
+      "question": "Strona składa wniosek dowodowy, ale sąd rozważa także przeprowadzenie dowodu z urzędu. Czy jest to dopuszczalne?",
+      "choices": [
+        "Tak, dowody przeprowadza się na wniosek stron albo z urzędu.",
+        "Nie, dowody przeprowadza się tylko na wniosek obwinionego.",
+        "Nie, dowody przeprowadza wyłącznie Policja.",
+        "Tak, ale tylko w postępowaniu mandatowym."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dowody w postępowaniu w sprawach o wykroczenia przeprowadza się na wniosek stron albo z urzędu.",
+      "source": "Art. 39 § 1"
+    },
+    {
+      "id": "kpsw-046",
+      "type": "single_choice",
+      "category": "Dowody i przeszukanie",
+      "difficulty": "medium",
+      "question": "Organ chce zastąpić zeznania świadka treścią notatki urzędowej. Która ocena jest prawidłowa?",
+      "choices": [
+        "Co do zasady nie wolno zastępować zeznań treścią pism, zapisków lub notatek urzędowych, chyba że ustawa stanowi inaczej.",
+        "Zawsze można to zrobić, jeżeli notatkę sporządziła Policja.",
+        "Można to zrobić tylko za zgodą obwinionego, bez podstawy ustawowej.",
+        "Nie wolno sporządzać notatek w sprawach o wykroczenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dowodu z wyjaśnień lub zeznań nie wolno zastępować treścią pism, zapisków lub notatek urzędowych, chyba że ustawa stanowi inaczej.",
+      "source": "Art. 39 § 4"
+    },
+    {
+      "id": "kpsw-047",
+      "type": "single_choice",
+      "category": "Dowody i przeszukanie",
+      "difficulty": "medium",
+      "question": "Osoba przesłuchiwana chce złożyć oświadczenie na piśmie. Jak powinien postąpić organ?",
+      "choices": [
+        "Przyjąć pisemne oświadczenie na jej wniosek, umożliwiając sporządzenie go bez porozumiewania się z innymi osobami, a następnie przesłuchać ją w celu wyjaśnienia lub uzupełnienia.",
+        "Odmówić, bo w sprawach o wykroczenia nie przyjmuje się pisemnych oświadczeń.",
+        "Przyjąć pismo bez przesłuchania i zawsze zakończyć czynność.",
+        "Zażądać zgody oskarżyciela posiłkowego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Na wniosek osoby przesłuchiwanej przyjmuje się pisemne oświadczenie, a następnie przesłuchuje ją w celu wyjaśnienia, uzupełnienia lub uściślenia okoliczności.",
+      "source": "Art. 40 § 1-2"
+    },
+    {
+      "id": "kpsw-048",
+      "type": "single_choice",
+      "category": "Dowody i przeszukanie",
+      "difficulty": "hard",
+      "question": "Świadek jest zobowiązany do zachowania informacji niejawnych o klauzuli tajności tajne. Kiedy może być przesłuchany co do takich okoliczności?",
+      "choices": [
+        "Tylko po zwolnieniu go z obowiązku zachowania tajemnicy przez uprawniony organ przełożony.",
+        "Zawsze, jeżeli sprawa dotyczy wykroczenia.",
+        "Po ustnej zgodzie policjanta prowadzącego czynności.",
+        "Nigdy, nawet po zwolnieniu z tajemnicy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Osoby obowiązane do zachowania tajemnicy informacji niejawnych o klauzuli tajności tajne lub ściśle tajne mogą być przesłuchane dopiero po zwolnieniu przez uprawniony organ przełożony.",
+      "source": "Art. 41 § 2"
+    },
+    {
+      "id": "kpsw-049",
+      "type": "single_choice",
+      "category": "Dowody i przeszukanie",
+      "difficulty": "hard",
+      "question": "Sąd rozważa zwolnienie lekarza z tajemnicy zawodowej w sprawie o wykroczenie. Czy może to zrobić na podstawie tego kodeksu?",
+      "choices": [
+        "Nie, sąd nie może zwolnić od obowiązku zachowania tajemnicy związanej z wykonywaniem zawodu lekarza.",
+        "Tak, zawsze może zwolnić lekarza z tajemnicy.",
+        "Tak, ale tylko na wniosek Policji.",
+        "Nie, ale może to zrobić organ prowadzący czynności wyjaśniające."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kodeks wyłącza możliwość zwolnienia od tajemnicy związanej z wykonywaniem zawodu adwokata, radcy prawnego, lekarza lub dziennikarza oraz tajemnicy statystycznej.",
+      "source": "Art. 41 § 4"
+    },
+    {
+      "id": "kpsw-050",
+      "type": "single_choice",
+      "category": "Dowody i przeszukanie",
+      "difficulty": "medium",
+      "question": "W sprawie pojawiły się uzasadnione wątpliwości co do stanu zdrowia psychicznego obwinionego. Kogo powinien powołać sąd?",
+      "choices": [
+        "Biegłego psychiatrę.",
+        "Biegłego z zakresu ruchu drogowego.",
+        "Kuratora sądowego.",
+        "Tłumacza przysięgłego."
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie uzasadnionych wątpliwości co do stanu zdrowia psychicznego obwinionego sąd lub uprawniony prokurator powołuje biegłego psychiatrę.",
+      "source": "Art. 42 § 2"
+    },
+    {
+      "id": "kpsw-051",
+      "type": "single_choice",
+      "category": "Dowody i przeszukanie",
+      "difficulty": "medium",
+      "question": "Policja chce znaleźć i zatrzymać przedmioty mogące stanowić dowód rzeczowy w sprawie o wykroczenie. Kiedy może przeszukać pomieszczenie?",
+      "choices": [
+        "Gdy istnieją uzasadnione podstawy do przypuszczenia, że przedmioty lub dowody tam się znajdują.",
+        "Zawsze, bez żadnych przesłanek.",
+        "Tylko po wydaniu wyroku.",
+        "Wyłącznie wtedy, gdy obwiniony wyrazi pisemną zgodę."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policja może dokonać przeszukania pomieszczeń i innych miejsc w celu znalezienia i zatrzymania przedmiotów, jeżeli istnieją uzasadnione podstawy do przypuszczenia, że się tam znajdują.",
+      "source": "Art. 44 § 1"
+    },
+    {
+      "id": "kpsw-052",
+      "type": "single_choice",
+      "category": "Dowody i przeszukanie",
+      "difficulty": "medium",
+      "question": "Przeszukanie ma być przeprowadzone w zwykłej sytuacji, bez nagłej potrzeby. Na jakiej podstawie powinno nastąpić?",
+      "choices": [
+        "Na mocy postanowienia prokuratora lub sądu.",
+        "Na podstawie ustnego polecenia świadka.",
+        "Wyłącznie na podstawie mandatu karnego.",
+        "Na podstawie decyzji pokrzywdzonego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przeszukanie następuje na mocy postanowienia prokuratora lub sądu.",
+      "source": "Art. 44 § 3"
+    },
+    {
+      "id": "kpsw-053",
+      "type": "single_choice",
+      "category": "Dowody i przeszukanie",
+      "difficulty": "hard",
+      "question": "W sprawie zachodzi wypadek niecierpiący zwłoki i nie można było wcześniej uzyskać postanowienia o przeszukaniu. Co musi zrobić organ po przeprowadzeniu przeszukania?",
+      "choices": [
+        "Niezwłocznie zwrócić się do prokuratora o zatwierdzenie przeszukania.",
+        "Zniszczyć protokół, jeżeli nic nie znaleziono.",
+        "Zwrócić się o zatwierdzenie dopiero po zakończeniu całej sprawy.",
+        "Uzyskać zgodę pokrzywdzonego na dalsze prowadzenie sprawy."
+      ],
+      "correctIndex": 0,
+      "explanation": "W wypadkach niecierpiących zwłoki przeszukanie może odbyć się bez uprzedniego postanowienia, ale organ musi niezwłocznie zwrócić się do prokuratora o zatwierdzenie.",
+      "source": "Art. 44 § 4"
+    },
+    {
+      "id": "kpsw-054",
+      "type": "single_choice",
+      "category": "Zatrzymanie i środki przymusu",
+      "difficulty": "medium",
+      "question": "Policjant ujął osobę na gorącym uczynku wykroczenia. Jej tożsamości nie można ustalić. Czy możliwe jest zatrzymanie?",
+      "choices": [
+        "Tak, Policja ma prawo zatrzymać taką osobę.",
+        "Nie, w sprawach o wykroczenia nigdy nie można zatrzymać osoby.",
+        "Tak, ale wyłącznie po wyroku sądu.",
+        "Nie, jeżeli nie ma pokrzywdzonego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policja i Straż Graniczna mają prawo zatrzymać osobę ujętą na gorącym uczynku lub bezpośrednio potem, jeżeli nie można ustalić jej tożsamości.",
+      "source": "Art. 45 § 1 pkt 2"
+    },
+    {
+      "id": "kpsw-055",
+      "type": "single_choice",
+      "category": "Zatrzymanie i środki przymusu",
+      "difficulty": "easy",
+      "question": "Osobę zatrzymano w sprawie o wykroczenie. Co należy zrobić natychmiast po zatrzymaniu?",
+      "choices": [
+        "Poinformować ją o przyczynach zatrzymania i przysługujących uprawnieniach oraz wysłuchać ją.",
+        "Od razu sporządzić wniosek o ukaranie bez kontaktu z zatrzymanym.",
+        "Zaczekać z informacjami do rozprawy.",
+        "Poinformować wyłącznie pracodawcę zatrzymanego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zatrzymanego należy natychmiast poinformować o przyczynach zatrzymania i uprawnieniach oraz wysłuchać.",
+      "source": "Art. 46 § 1"
+    },
+    {
+      "id": "kpsw-056",
+      "type": "single_choice",
+      "category": "Zatrzymanie i środki przymusu",
+      "difficulty": "medium",
+      "question": "Zatrzymany żąda kontaktu z adwokatem albo radcą prawnym. Jak należy postąpić?",
+      "choices": [
+        "Umożliwić mu nawiązanie kontaktu w dostępnej formie oraz bezpośrednią rozmowę, z możliwością zastrzeżenia obecności zatrzymującego.",
+        "Odmówić, bo sprawa dotyczy tylko wykroczenia.",
+        "Umożliwić kontakt dopiero po 24 godzinach.",
+        "Umożliwić kontakt wyłącznie z adwokatem, nigdy z radcą prawnym."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zatrzymanemu na żądanie umożliwia się kontakt z adwokatem albo radcą prawnym i bezpośrednią rozmowę; zatrzymujący może zastrzec swoją obecność.",
+      "source": "Art. 46 § 4"
+    },
+    {
+      "id": "kpsw-057",
+      "type": "single_choice",
+      "category": "Zatrzymanie i środki przymusu",
+      "difficulty": "medium",
+      "question": "Ustała przyczyna zatrzymania osoby w sprawie o wykroczenie. Co należy zrobić?",
+      "choices": [
+        "Natychmiast zwolnić zatrzymanego.",
+        "Czekać zawsze do upływu 24 godzin.",
+        "Czekać zawsze do decyzji oskarżyciela posiłkowego.",
+        "Zatrzymać osobę do pierwszej rozprawy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zatrzymanego należy natychmiast zwolnić, gdy ustanie przyczyna zatrzymania, a także z upływem czasu zatrzymania.",
+      "source": "Art. 46 § 5"
+    },
+    {
+      "id": "kpsw-058",
+      "type": "single_choice",
+      "category": "Zatrzymanie i środki przymusu",
+      "difficulty": "medium",
+      "question": "Osoba została zatrzymana, ale nie zachodzą podstawy do postępowania przyspieszonego. Jaki jest maksymalny czas zatrzymania?",
+      "choices": [
+        "24 godziny.",
+        "48 godzin.",
+        "7 dni.",
+        "Do końca czynności wyjaśniających."
+      ],
+      "correctIndex": 0,
+      "explanation": "Czas zatrzymania nie może przekroczyć 24 godzin, a w przypadkach związanych z postępowaniem przyspieszonym - 48 godzin.",
+      "source": "Art. 46 § 6"
+    },
+    {
+      "id": "kpsw-059",
+      "type": "single_choice",
+      "category": "Zatrzymanie i środki przymusu",
+      "difficulty": "medium",
+      "question": "Zatrzymany uważa, że zatrzymanie było niezasadne i nieprawidłowe. Jakiego środka może użyć?",
+      "choices": [
+        "Zażalenia na zatrzymanie do sądu.",
+        "Kasacji bezpośrednio do Sądu Najwyższego.",
+        "Sprzeciwu od mandatu.",
+        "Wniosku o wyłączenie pokrzywdzonego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zatrzymanemu przysługuje zażalenie na zatrzymanie do sądu, w którym może domagać się zbadania zasadności, legalności i prawidłowości zatrzymania.",
+      "source": "Art. 47 § 1"
+    },
+    {
+      "id": "kpsw-060",
+      "type": "single_choice",
+      "category": "Zatrzymanie i środki przymusu",
+      "difficulty": "medium",
+      "question": "Organ ujawnił wykroczenie zagrożone przepadkiem przedmiotów i chce zabezpieczyć wykonanie przyszłego przepadku. Co może zrobić?",
+      "choices": [
+        "Dokonać tymczasowego zajęcia przedmiotu i sporządzić protokół.",
+        "Sprzedać przedmiot przed rozpoznaniem sprawy.",
+        "Zatrzymać przedmiot bez dokumentowania.",
+        "Przekazać przedmiot pokrzywdzonemu bez decyzji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policja i inne uprawnione organy mogą dokonać tymczasowego zajęcia przedmiotu, gdy jest to niezbędne dla zabezpieczenia wykonania przepadku; z czynności sporządza się protokół.",
+      "source": "Art. 48 § 1"
+    },
+    {
+      "id": "kpsw-061",
+      "type": "single_choice",
+      "category": "Zatrzymanie i środki przymusu",
+      "difficulty": "hard",
+      "question": "Tymczasowo zajęto przedmiot w sprawie zagrożonej przepadkiem. W jakiej sytuacji zajęcie upada?",
+      "choices": [
+        "Jeżeli w ciągu 7 dni od zajęcia nie zostanie wydane postanowienie o zabezpieczeniu albo rozstrzygnięcie orzekające przepadek.",
+        "Jeżeli obwiniony odmówi złożenia wyjaśnień.",
+        "Zawsze po 24 godzinach.",
+        "Dopiero po przedawnieniu wykonania kary."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tymczasowe zajęcie upada, jeżeli w ciągu 7 dni od jego dokonania nie zostanie wydane postanowienie o zabezpieczeniu albo rozstrzygnięcie orzekające przepadek.",
+      "source": "Art. 48 § 2"
+    },
+    {
+      "id": "kpsw-062",
+      "type": "single_choice",
+      "category": "Zatrzymanie i środki przymusu",
+      "difficulty": "medium",
+      "question": "Świadek bez usprawiedliwienia nie stawił się na wezwanie organu. Jaką karę porządkową można na niego nałożyć przy pierwszym takim uchybieniu?",
+      "choices": [
+        "Od 50 do 1000 złotych.",
+        "Zawsze dokładnie 5000 złotych.",
+        "Wyłącznie naganę.",
+        "Nie można nałożyć żadnej kary porządkowej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Na świadka, biegłego, tłumacza lub specjalistę, który bez usprawiedliwienia nie stawił się na wezwanie, można nałożyć karę porządkową od 50 do 1000 zł.",
+      "source": "Art. 49 § 1"
+    },
+    {
+      "id": "kpsw-063",
+      "type": "single_choice",
+      "category": "Zatrzymanie i środki przymusu",
+      "difficulty": "medium",
+      "question": "Osoba ukarana karą porządkową w ciągu 7 dni od doręczenia postanowienia dostatecznie usprawiedliwiła swoje niestawiennictwo. Co należy zrobić z karą?",
+      "choices": [
+        "Uchylić ją.",
+        "Podwoić ją.",
+        "Zamienić ją na areszt.",
+        "Pozostawić bez zmian, bo usprawiedliwienie jest spóźnione."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nałożoną karę porządkową należy uchylić, jeżeli osoba ukarana w ciągu 7 dni dostatecznie usprawiedliwi niestawiennictwo lub inne uchybienie.",
+      "source": "Art. 49 § 3"
+    },
+    {
+      "id": "kpsw-064",
+      "type": "single_choice",
+      "category": "Zatrzymanie i środki przymusu",
+      "difficulty": "medium",
+      "question": "Świadek bez usprawiedliwienia nie stawił się na wezwanie. Organ chce zapewnić jego obecność. Co może zostać zarządzone niezależnie od kary porządkowej?",
+      "choices": [
+        "Zatrzymanie i przymusowe doprowadzenie przez Policję.",
+        "Automatyczne skazanie obwinionego.",
+        "Umorzenie postępowania.",
+        "Przymusowe doprowadzenie pokrzywdzonego zamiast świadka."
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie nieusprawiedliwionego niestawienia się świadka można, niezależnie od kary porządkowej, zarządzić jego zatrzymanie i przymusowe doprowadzenie przez Policję.",
+      "source": "Art. 50 § 1"
+    },
+    {
+      "id": "kpsw-065",
+      "type": "single_choice",
+      "category": "Zatrzymanie i środki przymusu",
+      "difficulty": "medium",
+      "question": "Miejsce pobytu osoby podejrzanej o popełnienie wykroczenia nie jest znane. Co może zarządzić sąd?",
+      "choices": [
+        "Ustalenie miejsca jej pobytu przez Policję.",
+        "Natychmiastowe wydanie wyroku nakazowego.",
+        "Uchylenie wszystkich czynności wyjaśniających.",
+        "Zastosowanie aresztu bez ustalenia miejsca pobytu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli miejsce pobytu osoby podejrzanej o wykroczenie nie jest znane, sąd może zarządzić jego ustalenie przez Policję.",
+      "source": "Art. 53"
+    },
+    {
+      "id": "kpsw-066",
+      "type": "single_choice",
+      "category": "Czynności wyjaśniające",
+      "difficulty": "easy",
+      "question": "Policja ujawniła wykroczenie. Jaki jest podstawowy cel czynności wyjaśniających?",
+      "choices": [
+        "Ustalenie, czy istnieją podstawy do wystąpienia z wnioskiem o ukaranie, oraz zebranie danych potrzebnych do jego sporządzenia.",
+        "Wydanie wyroku w imieniu sądu.",
+        "Zastąpienie całego postępowania sądowego.",
+        "Wyłącznie ustalenie wysokości kosztów postępowania."
+      ],
+      "correctIndex": 0,
+      "explanation": "Czynności wyjaśniające prowadzi się w celu ustalenia podstaw do wniosku o ukaranie i zebrania danych niezbędnych do jego sporządzenia.",
+      "source": "Art. 54 § 1"
+    },
+    {
+      "id": "kpsw-067",
+      "type": "single_choice",
+      "category": "Czynności wyjaśniające",
+      "difficulty": "medium",
+      "question": "Policja podjęła czynności wyjaśniające. W jakim czasie powinny być one zakończone w miarę zwykłego toku sprawy?",
+      "choices": [
+        "W ciągu miesiąca od ich podjęcia.",
+        "W ciągu 24 godzin.",
+        "W ciągu 7 dni od wpływu zawiadomienia.",
+        "Dopiero przed pierwszą rozprawą."
+      ],
+      "correctIndex": 0,
+      "explanation": "Czynności wyjaśniające powinny być zakończone w ciągu miesiąca od ich podjęcia.",
+      "source": "Art. 54 § 1"
+    },
+    {
+      "id": "kpsw-068",
+      "type": "single_choice",
+      "category": "Czynności wyjaśniające",
+      "difficulty": "medium",
+      "question": "Czynności wyjaśniające nie dały podstaw do wniesienia wniosku o ukaranie. Co należy zrobić wobec ujawnionego pokrzywdzonego?",
+      "choices": [
+        "Zawiadomić go o tym, wskazując przyczynę niewniesienia wniosku i pouczając o właściwych uprawnieniach.",
+        "Nie informować go, bo sprawa kończy się na etapie organu.",
+        "Zawsze nałożyć mandat na osobę wskazaną przez pokrzywdzonego.",
+        "Przekazać sprawę bezpośrednio do sądu bez materiałów."
+      ],
+      "correctIndex": 0,
+      "explanation": "Gdy czynności wyjaśniające nie dostarczyły podstaw do wniosku o ukaranie, zawiadamia się ujawnionych pokrzywdzonych, wskazując przyczynę i pouczając o uprawnieniach.",
+      "source": "Art. 54 § 2"
+    },
+    {
+      "id": "kpsw-069",
+      "type": "single_choice",
+      "category": "Czynności wyjaśniające",
+      "difficulty": "medium",
+      "question": "Okoliczności wykroczenia nie budzą wątpliwości. Jak można ograniczyć utrwalenie czynności wyjaśniających?",
+      "choices": [
+        "Do notatki urzędowej zawierającej ustalenia niezbędne do sporządzenia wniosku o ukaranie.",
+        "Do ustnego meldunku bez akt.",
+        "Do wyłącznie nagrania telefonem prywatnym.",
+        "Do podpisu obwinionego bez opisu czynności."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli okoliczności czynu nie budzą wątpliwości, utrwalenie czynności można ograniczyć do notatki urzędowej z niezbędnymi ustaleniami.",
+      "source": "Art. 54 § 3"
+    },
+    {
+      "id": "kpsw-070",
+      "type": "single_choice",
+      "category": "Czynności wyjaśniające",
+      "difficulty": "medium",
+      "question": "Okoliczności czynu budzą wątpliwości i trzeba przeprowadzić dowód. Jak należy utrwalić taką czynność?",
+      "choices": [
+        "Protokołem.",
+        "Wyłącznie notatką służbową bez podpisu.",
+        "Mandatem karnym.",
+        "Nie utrwala się jej, jeśli dowód jest oczywisty."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli dla wyjaśnienia wątpliwości przeprowadza się dowód, utrwalenie takiej czynności następuje w formie protokołu.",
+      "source": "Art. 54 § 4"
+    },
+    {
+      "id": "kpsw-071",
+      "type": "single_choice",
+      "category": "Czynności wyjaśniające",
+      "difficulty": "easy",
+      "question": "Istnieje uzasadniona podstawa do sporządzenia przeciwko osobie wniosku o ukaranie. Co należy co do zasady zrobić z tą osobą?",
+      "choices": [
+        "Niezwłocznie ją przesłuchać po powiadomieniu o treści zarzutu.",
+        "Od razu skierować sprawę do sądu bez kontaktu z osobą.",
+        "Przesłuchać ją dopiero po wydaniu wyroku.",
+        "Zawsze odstąpić od przesłuchania."
+      ],
+      "correctIndex": 0,
+      "explanation": "Osobę, wobec której istnieje uzasadniona podstawa do sporządzenia wniosku o ukaranie, należy niezwłocznie przesłuchać, zaczynając od powiadomienia o treści zarzutu.",
+      "source": "Art. 54 § 6"
+    },
+    {
+      "id": "kpsw-072",
+      "type": "single_choice",
+      "category": "Czynności wyjaśniające",
+      "difficulty": "medium",
+      "question": "Osoba przesłuchiwana w związku z możliwością sporządzenia wniosku o ukaranie pyta, czy musi składać wyjaśnienia. Co należy jej przekazać?",
+      "choices": [
+        "Ma prawo odmówić złożenia wyjaśnień i zgłaszać wnioski dowodowe.",
+        "Musi złożyć wyjaśnienia pod rygorem odpowiedzialności.",
+        "Może milczeć tylko za zgodą sądu.",
+        "Nie ma prawa zgłaszać wniosków dowodowych na tym etapie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Osoba przesłuchiwana przed ewentualnym wnioskiem o ukaranie ma prawo odmówić wyjaśnień oraz zgłaszać wnioski dowodowe i należy ją o tym pouczyć.",
+      "source": "Art. 54 § 6"
+    },
+    {
+      "id": "kpsw-073",
+      "type": "single_choice",
+      "category": "Czynności wyjaśniające",
+      "difficulty": "medium",
+      "question": "Osoba przesłuchana w toku czynności wyjaśniających wyjeżdża na ponad 7 dni. Jaki obowiązek powinien być jej wcześniej wskazany?",
+      "choices": [
+        "Obowiązek informowania organu o każdej zmianie miejsca zamieszkania lub pobytu trwającej dłużej niż 7 dni.",
+        "Obowiązek codziennego meldowania się w sądzie.",
+        "Obowiązek zapłaty z góry potencjalnej grzywny.",
+        "Obowiązek uzyskania zgody pokrzywdzonego na wyjazd."
+      ],
+      "correctIndex": 0,
+      "explanation": "Osoba przesłuchana w tym trybie ma obowiązek informować organ o każdej zmianie miejsca zamieszkania lub pobytu trwającej dłużej niż 7 dni oraz stawiać się na wezwanie.",
+      "source": "Art. 54 § 6a"
+    },
+    {
+      "id": "kpsw-074",
+      "type": "single_choice",
+      "category": "Czynności wyjaśniające",
+      "difficulty": "medium",
+      "question": "Przesłuchanie osoby podejrzanej o wykroczenie byłoby połączone ze znacznymi trudnościami. Jak można postąpić?",
+      "choices": [
+        "Odstąpić od przesłuchania i pouczyć osobę, że może nadesłać wyjaśnienia w terminie 7 dni.",
+        "Zawsze umorzyć sprawę.",
+        "Zawsze zatrzymać osobę do czasu przesłuchania.",
+        "Zastąpić wyjaśnienia opinią pokrzywdzonego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Od przesłuchania można odstąpić, jeżeli byłoby połączone ze znacznymi trudnościami; osobę poucza się o możliwości nadesłania wyjaśnień w terminie 7 dni.",
+      "source": "Art. 54 § 7"
+    },
+    {
+      "id": "kpsw-075",
+      "type": "single_choice",
+      "category": "Czynności wyjaśniające",
+      "difficulty": "medium",
+      "question": "Organ prowadzący czynności widzi możliwość mediacji między osobą podejrzaną o wykroczenie a pokrzywdzonym. Kiedy może skierować sprawę do mediacji?",
+      "choices": [
+        "Z inicjatywy lub za zgodą tej osoby i pokrzywdzonego.",
+        "Wyłącznie na żądanie sądu odwoławczego.",
+        "Zawsze bez zgody stron.",
+        "Tylko po wydaniu mandatu karnego."
+      ],
+      "correctIndex": 0,
+      "explanation": "W toku czynności wyjaśniających organ może skierować sprawę do mediacji z inicjatywy lub za zgodą osoby podejrzanej i pokrzywdzonego.",
+      "source": "Art. 54 § 9"
+    },
+    {
+      "id": "kpsw-076",
+      "type": "single_choice",
+      "category": "Czynności wyjaśniające",
+      "difficulty": "medium",
+      "question": "Czynności wyjaśniające prowadzi organ, który nie jest prokuratorem. Kto sprawuje nad nimi nadzór?",
+      "choices": [
+        "Organ nadrzędny nad organem prowadzącym czynności.",
+        "Wyłącznie pokrzywdzony.",
+        "Każdy sąd apelacyjny.",
+        "Obwiniony."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nadzór nad czynnościami wyjaśniającymi sprawuje organ nadrzędny nad organem prowadzącym te czynności.",
+      "source": "Art. 56 § 4"
+    },
+    {
+      "id": "kpsw-077",
+      "type": "single_choice",
+      "category": "Czynności wyjaśniające",
+      "difficulty": "medium",
+      "question": "Osoba zawiadomiła o wykroczeniu, ale nie ma podstaw do samodzielnego działania jako oskarżyciel posiłkowy. Jak może zareagować na niewniesienie wniosku o ukaranie?",
+      "choices": [
+        "Może wnieść zażalenie do organu nadrzędnego.",
+        "Może samodzielnie wydać mandat.",
+        "Może żądać kasacji do Sądu Najwyższego.",
+        "Nie ma żadnego środka przewidzianego w kodeksie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli nie zachodzą przesłanki samodzielnego wniosku pokrzywdzonego, osoba, która złożyła zawiadomienie, może złożyć zażalenie do organu nadrzędnego na niewniesienie wniosku o ukaranie.",
+      "source": "Art. 56a"
+    },
+    {
+      "id": "kpsw-078",
+      "type": "single_choice",
+      "category": "Wniosek o ukaranie",
+      "difficulty": "easy",
+      "question": "Co stanowi podstawę do wszczęcia postępowania w sprawie o wykroczenie?",
+      "choices": [
+        "Wniosek o ukaranie złożony przez uprawniony organ, a w określonych przypadkach także przez pokrzywdzonego.",
+        "Sama notatka urzędowa bez wniosku.",
+        "Każde zawiadomienie telefoniczne.",
+        "Wyłącznie mandat karny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Podstawą do wszczęcia postępowania jest wniosek o ukaranie złożony przez uprawnionego oskarżyciela, a w określonych przypadkach także przez pokrzywdzonego.",
+      "source": "Art. 57 § 1"
+    },
+    {
+      "id": "kpsw-079",
+      "type": "single_choice",
+      "category": "Wniosek o ukaranie",
+      "difficulty": "medium",
+      "question": "Wniosek o ukaranie ma zostać sporządzony. Który element musi się w nim znaleźć?",
+      "choices": [
+        "Określenie zarzucanego czynu ze wskazaniem miejsca, czasu, sposobu i okoliczności jego popełnienia.",
+        "Zawsze propozycja kasacji.",
+        "Wyłącznie wysokość przewidywanej grzywny.",
+        "Pisemna zgoda obwinionego na ukaranie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wniosek o ukaranie powinien zawierać określenie czynu z podaniem miejsca, czasu, sposobu i okoliczności jego popełnienia.",
+      "source": "Art. 57 § 2 pkt 2"
+    },
+    {
+      "id": "kpsw-080",
+      "type": "single_choice",
+      "category": "Wniosek o ukaranie",
+      "difficulty": "medium",
+      "question": "Oskarżyciel publiczny składa wniosek o ukaranie i powołuje się na wcześniejsze podobne ukaranie obwinionego. Co powinien dodatkowo wskazać?",
+      "choices": [
+        "Dane dotyczące uprzedniego skazania za podobne przestępstwo lub wykroczenie.",
+        "Zgodę obwinionego na ujawnienie danych.",
+        "Opinię rady gminy.",
+        "Wysokość przyszłych kosztów kasacji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wniosek oskarżyciela publicznego powinien zawierać dane o uprzednim skazaniu za podobne przestępstwo lub wykroczenie, jeżeli oskarżyciel powołuje się na tę okoliczność.",
+      "source": "Art. 57 § 3 pkt 7"
+    },
+    {
+      "id": "kpsw-081",
+      "type": "single_choice",
+      "category": "Wniosek o ukaranie",
+      "difficulty": "medium",
+      "question": "Oskarżyciel publiczny chce, za zgodą obwinionego, zawrzeć we wniosku propozycję skazania bez rozprawy. Kiedy jest to możliwe?",
+      "choices": [
+        "Gdy obwiniony był wcześniej przesłuchany, dowody i okoliczności nie budzą wątpliwości, a cele postępowania zostaną osiągnięte mimo braku rozprawy.",
+        "Zawsze, nawet bez przesłuchania i bez zgody obwinionego.",
+        "Tylko po pierwszym terminie rozprawy.",
+        "Nigdy w sprawach o wykroczenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wniosek o skazanie bez rozprawy wymaga zgody wcześniej przesłuchanego obwinionego oraz braku wątpliwości co do dowodów, wyjaśnień i okoliczności czynu.",
+      "source": "Art. 58 § 1-2"
+    },
+    {
+      "id": "kpsw-082",
+      "type": "single_choice",
+      "category": "Wniosek o ukaranie",
+      "difficulty": "medium",
+      "question": "Wniosek o ukaranie ma braki formalne. Co robi prezes sądu?",
+      "choices": [
+        "Zwraca wniosek w celu usunięcia braków w terminie 7 dni.",
+        "Automatycznie wydaje wyrok skazujący.",
+        "Zawsze umarza sprawę bez możliwości poprawy.",
+        "Nakłada mandat na sporządzającego wniosek."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli wniosek o ukaranie nie spełnia wymagań formalnych, prezes sądu zwraca go w celu usunięcia braków w terminie 7 dni.",
+      "source": "Art. 59 § 1"
+    },
+    {
+      "id": "kpsw-083",
+      "type": "single_choice",
+      "category": "Wniosek o ukaranie",
+      "difficulty": "medium",
+      "question": "Po wszczęciu postępowania prezes sądu stwierdza możliwość wydania wyroku nakazowego. Co powinien zrobić?",
+      "choices": [
+        "Skierować sprawę na posiedzenie.",
+        "Obowiązkowo wyznaczyć rozprawę z udziałem wszystkich stron.",
+        "Zwrócić sprawę Policji bez rozpoznania.",
+        "Umorzyć postępowanie z urzędu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Prezes sądu kieruje sprawę na posiedzenie, gdy zachodzi możliwość wydania wyroku nakazowego.",
+      "source": "Art. 60 § 1 pkt 7"
+    },
+    {
+      "id": "kpsw-084",
+      "type": "single_choice",
+      "category": "Wniosek o ukaranie",
+      "difficulty": "medium",
+      "question": "W sprawie ten sam czyn ma jednocześnie znamiona przestępstwa i wykroczenia, a postępowanie karne z oskarżenia publicznego już się toczy. Co może zrobić sąd w sprawie o wykroczenie?",
+      "choices": [
+        "Odmówić wszczęcia albo umorzyć postępowanie.",
+        "Zawsze kontynuować sprawę wykroczeniową do wyroku.",
+        "Wydać mandat karny zamiast sądu karnego.",
+        "Przekazać sprawę wyłącznie pokrzywdzonemu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Można odmówić wszczęcia postępowania albo wszczęte umorzyć, jeżeli o ten sam czyn jako przestępstwo i wykroczenie toczy się postępowanie karne z oskarżenia publicznego.",
+      "source": "Art. 61 § 1 pkt 1"
+    },
+    {
+      "id": "kpsw-085",
+      "type": "single_choice",
+      "category": "Wniosek o ukaranie",
+      "difficulty": "medium",
+      "question": "Wobec sprawcy zastosowano pouczenie, które stanowi wystarczającą reakcję na wykroczenie. Jak może zareagować sąd?",
+      "choices": [
+        "Może odmówić wszczęcia postępowania albo wszczęte umorzyć.",
+        "Musi zawsze orzec grzywnę.",
+        "Musi wydać wyrok nakazowy.",
+        "Nie może uwzględniać wcześniejszego pouczenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Można odmówić wszczęcia albo umorzyć postępowanie, jeżeli zastosowany środek oddziaływania jest wystarczającą reakcją na wykroczenie.",
+      "source": "Art. 61 § 1 pkt 2"
+    },
+    {
+      "id": "kpsw-086",
+      "type": "single_choice",
+      "category": "Wniosek o ukaranie",
+      "difficulty": "hard",
+      "question": "Po rozpoczęciu przewodu sądowego okazuje się, że czynu nie popełniono albo brak danych dostatecznie uzasadniających podejrzenie. Jakie rozstrzygnięcie powinien wydać sąd, jeżeli sprawca nie był niepoczytalny?",
+      "choices": [
+        "Wyrok uniewinniający.",
+        "Postanowienie o odmowie wszczęcia.",
+        "Mandat karny za czyn uboczny.",
+        "Zarządzenie o zwrocie wniosku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli po rozpoczęciu przewodu sądowego stwierdzono brak popełnienia czynu albo brak znamion wykroczenia, sąd wydaje wyrok uniewinniający, chyba że sprawca był niepoczytalny.",
+      "source": "Art. 62 § 3"
+    },
+    {
+      "id": "kpsw-087",
+      "type": "single_choice",
+      "category": "Wniosek o ukaranie",
+      "difficulty": "medium",
+      "question": "Sąd uwzględnia wniosek oskarżyciela publicznego o skazanie bez rozprawy. W jakiej formie skazuje obwinionego?",
+      "choices": [
+        "Wyrokiem.",
+        "Mandatem zaocznym.",
+        "Notatką urzędową.",
+        "Zarządzeniem prezesa sądu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Uwzględniając wniosek o skazanie bez rozprawy, sąd skazuje obwinionego wyrokiem.",
+      "source": "Art. 63 § 4"
+    },
+    {
+      "id": "kpsw-088",
+      "type": "single_choice",
+      "category": "Wniosek o ukaranie",
+      "difficulty": "hard",
+      "question": "Obwiniony złożył wniosek o skazanie bez przeprowadzania rozprawy, a oskarżyciel publiczny prawidłowo zawiadomiony o posiedzeniu nie stawił się i nie przedstawił stanowiska. Czy brak stanowiska blokuje uwzględnienie wniosku?",
+      "choices": [
+        "Nie, jeżeli oskarżyciel prawidłowo zawiadomiony nie stawił się bez usprawiedliwienia.",
+        "Tak, brak stanowiska zawsze blokuje wniosek.",
+        "Tak, chyba że pokrzywdzony nie żyje.",
+        "Nie, ale tylko gdy obwiniony zapłaci grzywnę przed posiedzeniem."
+      ],
+      "correctIndex": 0,
+      "explanation": "Brak stanowiska oskarżyciela w przedmiocie sprzeciwu nie przeszkadza uwzględnieniu wniosku, jeżeli oskarżyciel prawidłowo powiadomiony nie stawił się bez usprawiedliwienia.",
+      "source": "Art. 64 § 4"
+    },
+    {
+      "id": "kpsw-089",
+      "type": "single_choice",
+      "category": "Rozprawa",
+      "difficulty": "easy",
+      "question": "Prezes sądu kieruje sprawę na rozprawę. Kogo zawiadamia o jej miejscu i terminie?",
+      "choices": [
+        "Oskarżyciela, pokrzywdzonego, obwinionego oraz obrońcę i pełnomocnika, gdy zostali ustanowieni.",
+        "Wyłącznie obwinionego.",
+        "Tylko oskarżyciela publicznego.",
+        "Wyłącznie świadków."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kierując sprawę na rozprawę, prezes sądu zarządza zawiadomienie wskazanych uczestników oraz wezwanie świadków i sprowadzenie dowodów.",
+      "source": "Art. 65 § 1"
+    },
+    {
+      "id": "kpsw-090",
+      "type": "single_choice",
+      "category": "Rozprawa",
+      "difficulty": "medium",
+      "question": "Sąd uznał udział obwinionego na rozprawie za niezbędny. Jak powinno wyglądać zawiadomienie?",
+      "choices": [
+        "Należy wezwać obwinionego do osobistego stawiennictwa pod rygorem przymusowego doprowadzenia.",
+        "Wystarczy zwykłe zawiadomienie bez pouczeń.",
+        "Obwinionego nie informuje się o rozprawie.",
+        "Obwiniony może stawić się tylko przez pełnomocnika."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli udział obwinionego jest niezbędny, prezes sądu zarządza wezwanie do osobistego stawiennictwa pod rygorem przymusowego doprowadzenia.",
+      "source": "Art. 65 § 3"
+    },
+    {
+      "id": "kpsw-091",
+      "type": "single_choice",
+      "category": "Rozprawa",
+      "difficulty": "medium",
+      "question": "Obwiniony został zawiadomiony o pierwszej rozprawie. Jakie pouczenie powinien otrzymać w zakresie dowodów obrony?",
+      "choices": [
+        "Że może sprowadzić świadków i przedstawić inne dowody albo wskazać je sądowi w odpowiednim czasie, nie później niż w terminie 7 dni od doręczenia zawiadomienia.",
+        "Że dowody może składać dopiero w apelacji.",
+        "Że nie wolno mu samodzielnie przedstawiać dowodów.",
+        "Że dowody obrony może zgłaszać tylko przez oskarżyciela publicznego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zawiadomienie o pierwszej rozprawie powinno pouczać obwinionego o możliwości sprowadzenia świadków i przedstawienia lub wskazania dowodów w czasie umożliwiającym ich przeprowadzenie, nie później niż 7 dni od doręczenia.",
+      "source": "Art. 67 § 2"
+    },
+    {
+      "id": "kpsw-092",
+      "type": "single_choice",
+      "category": "Rozprawa",
+      "difficulty": "easy",
+      "question": "Jaka jest podstawowa zasada dotycząca rozprawy w sprawie o wykroczenie?",
+      "choices": [
+        "Odbywa się ustnie i jawnie.",
+        "Zawsze odbywa się niejawnie.",
+        "Zawsze odbywa się wyłącznie pisemnie.",
+        "Nigdy nie może być utrwalana."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozprawa odbywa się ustnie i jawnie, z wyjątkami przewidzianymi w ustawie.",
+      "source": "Art. 70 § 1"
+    },
+    {
+      "id": "kpsw-093",
+      "type": "single_choice",
+      "category": "Rozprawa",
+      "difficulty": "medium",
+      "question": "Sąd stwierdza, że jawność rozprawy mogłaby obrażać dobre obyczaje albo wywołać zakłócenie spokoju publicznego. Co może zrobić?",
+      "choices": [
+        "Wyłączyć jawność całości lub części rozprawy.",
+        "Obowiązkowo umorzyć sprawę.",
+        "Przenieść sprawę do postępowania mandatowego.",
+        "Zakazać stronom zadawania pytań."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sąd wyłącza jawność całości lub części rozprawy, jeżeli jawność mogłaby obrażać dobre obyczaje, wywołać zakłócenie spokoju publicznego lub gdy wymaga tego ważny interes prywatny.",
+      "source": "Art. 70 § 2"
+    },
+    {
+      "id": "kpsw-094",
+      "type": "single_choice",
+      "category": "Rozprawa",
+      "difficulty": "medium",
+      "question": "Na rozprawie brakuje dowodu doręczenia wezwania obwinionemu. Co powinien zrobić sąd?",
+      "choices": [
+        "Odroczyć rozprawę, choć może przeprowadzić określone dowody, jeżeli uzna to za celowe.",
+        "Zawsze prowadzić rozprawę zaocznie.",
+        "Wydać wyrok nakazowy.",
+        "Uchylić wniosek o ukaranie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli obwiniony nie stawił się i brak dowodu doręczenia wezwania lub zawiadomienia, rozprawę odracza się; sąd może jednak przeprowadzić dowody, jeśli uzna to za celowe.",
+      "source": "Art. 71 § 2"
+    },
+    {
+      "id": "kpsw-095",
+      "type": "single_choice",
+      "category": "Rozprawa",
+      "difficulty": "medium",
+      "question": "Obwiniony został prawidłowo wezwany, ale bez usprawiedliwienia nie stawił się na rozprawę. Co co do zasady może zrobić sąd?",
+      "choices": [
+        "Przeprowadzić rozprawę zaocznie, chyba że uzna udział obwinionego za konieczny.",
+        "Zawsze umorzyć sprawę.",
+        "Zawsze przekazać sprawę do mediacji.",
+        "Nie może wykonać żadnej czynności dowodowej."
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie nieusprawiedliwionej nieobecności prawidłowo wezwanego obwinionego przeprowadza się rozprawę zaocznie, chyba że sąd uzna jego udział za konieczny.",
+      "source": "Art. 71 § 4"
+    },
+    {
+      "id": "kpsw-096",
+      "type": "single_choice",
+      "category": "Rozprawa",
+      "difficulty": "easy",
+      "question": "Od czego rozpoczyna się przewód sądowy w sprawie o wykroczenie?",
+      "choices": [
+        "Od odczytania wniosku o ukaranie.",
+        "Od głosów końcowych stron.",
+        "Od sporządzenia apelacji.",
+        "Od wydania mandatu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przewód sądowy rozpoczyna się od odczytania wniosku o ukaranie.",
+      "source": "Art. 72 § 1"
+    },
+    {
+      "id": "kpsw-097",
+      "type": "single_choice",
+      "category": "Rozprawa",
+      "difficulty": "medium",
+      "question": "Obwiniony przyznał się do winy, a jego wyjaśnienia nie budzą wątpliwości. Żadna z obecnych stron nie sprzeciwia się. Co może zrobić sąd z dalszymi dowodami?",
+      "choices": [
+        "Może ich nie przeprowadzać.",
+        "Musi zawsze przeprowadzić wszystkie dowody.",
+        "Musi umorzyć postępowanie.",
+        "Musi przekazać sprawę do trybu mandatowego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli obwiniony przyznaje się do winy, jego wyjaśnienia nie budzą wątpliwości i żadna obecna strona się nie sprzeciwia, można nie przeprowadzać dalszych dowodów.",
+      "source": "Art. 72 § 3"
+    },
+    {
+      "id": "kpsw-098",
+      "type": "single_choice",
+      "category": "Rozprawa",
+      "difficulty": "medium",
+      "question": "Obwiniony chce jeszcze na rozprawie złożyć wniosek o skazanie bez przeprowadzania postępowania dowodowego. Do kiedy może to zrobić?",
+      "choices": [
+        "Do chwili zakończenia pierwszego przesłuchania na rozprawie.",
+        "Dopiero po ogłoszeniu wyroku.",
+        "Wyłącznie przed doręczeniem zawiadomienia o rozprawie.",
+        "Tylko w apelacji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Obwiniony może złożyć taki wniosek do chwili zakończenia pierwszego przesłuchania na rozprawie.",
+      "source": "Art. 73"
+    },
+    {
+      "id": "kpsw-099",
+      "type": "single_choice",
+      "category": "Rozprawa",
+      "difficulty": "medium",
+      "question": "Obwiniony na rozprawie odmawia złożenia wyjaśnień. Czy sąd może odczytać jego wcześniejsze wyjaśnienia złożone w tej sprawie?",
+      "choices": [
+        "Tak, w odpowiednim zakresie.",
+        "Nie, wcześniejsze wyjaśnienia zawsze przepadają.",
+        "Tak, ale tylko po zgodzie pokrzywdzonego.",
+        "Nie, chyba że obwiniony jest nieobecny za granicą."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli obwiniony odmawia wyjaśnień, wyjaśnia odmiennie lub nie pamięta okoliczności, można odczytać jego wcześniejsze wyjaśnienia w odpowiednim zakresie.",
+      "source": "Art. 74 § 1"
+    },
+    {
+      "id": "kpsw-100",
+      "type": "single_choice",
+      "category": "Rozprawa",
+      "difficulty": "medium",
+      "question": "Na rozprawie zaocznej w aktach są wcześniejsze wyjaśnienia obwinionego z tej sprawy. Co się z nimi dzieje?",
+      "choices": [
+        "Podlegają odczytaniu.",
+        "Nie wolno ich ujawniać.",
+        "Zastępują cały wyrok.",
+        "Można je odczytać wyłącznie na wniosek prokuratora."
+      ],
+      "correctIndex": 0,
+      "explanation": "Na rozprawie zaocznej wcześniejsze wyjaśnienia obwinionego złożone w tej sprawie podlegają odczytaniu.",
+      "source": "Art. 74 § 2"
+    },
+    {
+      "id": "kpsw-101",
+      "type": "single_choice",
+      "category": "Rozprawa",
+      "difficulty": "medium",
+      "question": "Świadek na rozprawie zeznaje inaczej niż poprzednio. Co wolno zrobić sądowi?",
+      "choices": [
+        "Odczytać w odpowiednim zakresie jego wcześniejsze zeznania.",
+        "Zawsze ukarać obwinionego bez dalszych czynności.",
+        "Pominąć wszystkie zeznania świadka.",
+        "Zakończyć sprawę mandatem."
+      ],
+      "correctIndex": 0,
+      "explanation": "Do świadka stosuje się odpowiednio reguły pozwalające odczytać wcześniejsze zeznania, gdy odmawia zeznań, zeznaje odmiennie lub nie pamięta okoliczności.",
+      "source": "Art. 75 § 1"
+    },
+    {
+      "id": "kpsw-102",
+      "type": "single_choice",
+      "category": "Rozprawa",
+      "difficulty": "medium",
+      "question": "Na rozprawie sąd chce ujawnić protokół przeszukania znajdujący się w aktach. Czy może uznać go za ujawniony bez odczytywania?",
+      "choices": [
+        "Tak, jeżeli żadna z obecnych stron temu się nie sprzeciwia.",
+        "Nie, zawsze trzeba odczytać cały dokument.",
+        "Tak, ale wyłącznie gdy obwiniony nie ma obrońcy.",
+        "Nie, protokoły przeszukania są wyłączone z akt."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sąd może odczytywać protokoły i inne dokumenty albo uznać je za ujawnione bez odczytywania, jeżeli żadna z obecnych stron się temu nie sprzeciwia.",
+      "source": "Art. 76 § 1"
+    },
+    {
+      "id": "kpsw-103",
+      "type": "single_choice",
+      "category": "Rozprawa",
+      "difficulty": "medium",
+      "question": "Strona zadaje świadkowi pytanie sugerujące odpowiedź. Jak powinien zareagować sąd?",
+      "choices": [
+        "Uchylić pytanie.",
+        "Nakazać świadkowi odpowiedzieć.",
+        "Umorzyć postępowanie.",
+        "Zamienić pytanie na wniosek dowodowy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sąd uchyla pytania nieistotne, sugerujące treść odpowiedzi albo z innych powodów niestosowne.",
+      "source": "Art. 77"
+    },
+    {
+      "id": "kpsw-104",
+      "type": "single_choice",
+      "category": "Rozprawa",
+      "difficulty": "medium",
+      "question": "Sąd zarządził przerwę w rozprawie. Jaki jest maksymalny czas każdorazowej przerwy?",
+      "choices": [
+        "21 dni.",
+        "7 dni.",
+        "3 miesiące.",
+        "60 dni."
+      ],
+      "correctIndex": 0,
+      "explanation": "Każdorazowa przerwa w rozprawie nie może trwać dłużej niż 21 dni; po przekroczeniu tego terminu rozprawę uważa się za odroczoną.",
+      "source": "Art. 79 § 1"
+    },
+    {
+      "id": "kpsw-105",
+      "type": "single_choice",
+      "category": "Rozprawa",
+      "difficulty": "medium",
+      "question": "Rozprawę przerwano, a następnie skład sądu uległ zmianie. Czy sprawę trzeba zawsze prowadzić od początku?",
+      "choices": [
+        "Nie, rozprawę przerwaną lub odroczoną prowadzi się dalej, chyba że sąd po wysłuchaniu obecnych stron postanowi inaczej.",
+        "Tak, zawsze od początku.",
+        "Nie, ale wyłącznie gdy obwiniony się przyznał.",
+        "Tak, chyba że zgodę wyrazi oskarżyciel publiczny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozprawę przerwaną lub odroczoną prowadzi się w dalszym ciągu mimo zmiany składu, chyba że sąd po wysłuchaniu obecnych stron postanowi inaczej.",
+      "source": "Art. 80"
+    },
+    {
+      "id": "kpsw-106",
+      "type": "single_choice",
+      "category": "Rozprawa",
+      "difficulty": "hard",
+      "question": "Obwiniony został zatrzymany, a sąd wymierza karę ograniczenia wolności. Jak zalicza się jeden dzień zatrzymania na poczet tej kary?",
+      "choices": [
+        "Jako równoważny dwóm dniom kary ograniczenia wolności.",
+        "Jako równoważny jednemu miesiącowi kary.",
+        "Nie zalicza się go wcale.",
+        "Jako równoważny grzywnie 1000 zł."
+      ],
+      "correctIndex": 0,
+      "explanation": "Okres zatrzymania zalicza się na poczet kary ograniczenia wolności, przyjmując jeden dzień zatrzymania za równoważny dwóm dniom tej kary.",
+      "source": "Art. 82 § 3"
+    },
+    {
+      "id": "kpsw-107",
+      "type": "single_choice",
+      "category": "Rozprawa",
+      "difficulty": "hard",
+      "question": "Obwiniony nie ma stałego miejsca zamieszkania w Polsce i został skazany na grzywnę. Zachodzi uzasadniona obawa, że wykonanie wyroku będzie znacznie utrudnione. Co może orzec sąd?",
+      "choices": [
+        "Natychmiastową wykonalność wyroku skazującego.",
+        "Obowiązkowe umorzenie sprawy.",
+        "Brak możliwości wykonania wyroku.",
+        "Zawsze tylko pouczenie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wobec osoby czasowo przebywającej w Polsce albo bez stałego miejsca zamieszkania lub pobytu można orzec natychmiastową wykonalność wyroku skazującego, gdy wykonanie byłoby niemożliwe lub znacznie utrudnione.",
+      "source": "Art. 82 § 4"
+    },
+    {
+      "id": "kpsw-108",
+      "type": "single_choice",
+      "category": "Rozprawa",
+      "difficulty": "medium",
+      "question": "Wyroku zaocznego nie doręczono obwinionemu przez 3 miesiące od jego wydania, a karalność wykroczenia już się przedawniła. Co może zrobić sąd?",
+      "choices": [
+        "Umorzyć postępowanie.",
+        "Zawsze ponowić doręczenie bez końca.",
+        "Zamienić wyrok zaoczny na mandat.",
+        "Przekazać sprawę pokrzywdzonemu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli wyrok zaoczny nie został doręczony obwinionemu w terminie 3 miesięcy od wydania, sąd może umorzyć postępowanie, jeżeli upłynął termin przedawnienia karalności.",
+      "source": "Art. 83"
+    },
+    {
+      "id": "kpsw-109",
+      "type": "single_choice",
+      "category": "Postępowanie wojskowe",
+      "difficulty": "medium",
+      "question": "Sprawa o wykroczenie podlega orzecznictwu sądu wojskowego. Kto sporządza lub zatwierdza wniosek o ukaranie będący podstawą wszczęcia postępowania?",
+      "choices": [
+        "Prokurator do spraw wojskowych.",
+        "Dowolny policjant.",
+        "Pokrzywdzony w każdym przypadku.",
+        "Sąd odwoławczy."
+      ],
+      "correctIndex": 0,
+      "explanation": "W postępowaniu przed sądem wojskowym podstawę wszczęcia stanowi wniosek o ukaranie sporządzony lub zatwierdzony przez prokuratora do spraw wojskowych.",
+      "source": "Art. 85 § 1"
+    },
+    {
+      "id": "kpsw-110",
+      "type": "single_choice",
+      "category": "Postępowanie wojskowe",
+      "difficulty": "medium",
+      "question": "Żołnierz popełnił wykroczenie podlegające orzecznictwu sądów wojskowych. Kogo należy zawiadomić o jego popełnieniu?",
+      "choices": [
+        "Prokuratora do spraw wojskowych.",
+        "Wyłącznie wójta.",
+        "Tylko sąd rodzinny.",
+        "Dowolny organ mandatowy."
+      ],
+      "correctIndex": 0,
+      "explanation": "O popełnieniu przez osobę podlegającą orzecznictwu sądów wojskowych wykroczenia zawiadamia się prokuratora do spraw wojskowych.",
+      "source": "Art. 86 § 1"
+    },
+    {
+      "id": "kpsw-111",
+      "type": "single_choice",
+      "category": "Postępowanie wojskowe",
+      "difficulty": "medium",
+      "question": "Przeciwko żołnierzowi wszczęto postępowanie o wykroczenie. Kogo należy powiadomić?",
+      "choices": [
+        "Właściwego dowódcę jednostki wojskowej.",
+        "Wyłącznie ministra sprawiedliwości.",
+        "Każdego pokrzywdzonego w kraju.",
+        "Bank obsługujący grzywny."
+      ],
+      "correctIndex": 0,
+      "explanation": "O wszczęciu postępowania przeciwko żołnierzowi powiadamia się właściwego dowódcę jednostki wojskowej.",
+      "source": "Art. 86 § 2"
+    },
+    {
+      "id": "kpsw-112",
+      "type": "single_choice",
+      "category": "Postępowanie wojskowe",
+      "difficulty": "hard",
+      "question": "Sąd wojskowy uznaje, że reakcja dyscyplinarna będzie wystarczająca wobec wykroczenia. Co może zrobić?",
+      "choices": [
+        "Odmówić wszczęcia albo umorzyć postępowanie i przekazać sprawę właściwemu dowódcy z wnioskiem o wymierzenie kary dyscyplinarnej.",
+        "Zawsze musi prowadzić sprawę do wyroku.",
+        "Może sam wymierzyć karę dyscyplinarną jako przełożony wojskowy.",
+        "Musi przekazać sprawę sądowi rejonowemu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sąd wojskowy może odmówić wszczęcia lub umorzyć postępowanie i przekazać sprawę dowódcy, jeżeli uzna karę dyscyplinarną za wystarczającą reakcję.",
+      "source": "Art. 87 § 1"
+    },
+    {
+      "id": "kpsw-113",
+      "type": "single_choice",
+      "category": "Postępowanie przyspieszone",
+      "difficulty": "medium",
+      "question": "Sprawca nie ma stałego miejsca zamieszkania ani pobytu. Istnieje uzasadniona obawa, że zwykłe rozpoznanie sprawy będzie niemożliwe lub znacznie utrudnione. Jaki tryb może mieć zastosowanie?",
+      "choices": [
+        "Postępowanie przyspieszone.",
+        "Wyłącznie postępowanie nakazowe.",
+        "Wyłącznie kasacja.",
+        "Tylko mediacja."
+      ],
+      "correctIndex": 0,
+      "explanation": "Postępowanie przyspieszone stosuje się do osób bez stałego miejsca zamieszkania lub pobytu, jeżeli zachodzi uzasadniona obawa utrudnienia rozpoznania sprawy w trybie zwyczajnym.",
+      "source": "Art. 90 § 1"
+    },
+    {
+      "id": "kpsw-114",
+      "type": "single_choice",
+      "category": "Postępowanie przyspieszone",
+      "difficulty": "medium",
+      "question": "Sprawca przebywa tylko czasowo w Polsce, a zachodzi uzasadniona obawa, że zwyczajne rozpoznanie sprawy będzie znacznie utrudnione. Czy można zastosować tryb przyspieszony?",
+      "choices": [
+        "Tak, jeżeli spełnione są ustawowe przesłanki.",
+        "Nie, wobec cudzoziemców nigdy nie stosuje się tego trybu.",
+        "Tak, ale tylko po zgodzie pokrzywdzonego.",
+        "Nie, można wyłącznie nałożyć mandat."
+      ],
+      "correctIndex": 0,
+      "explanation": "Postępowanie przyspieszone stosuje się także do osób przebywających jedynie czasowo w Polsce, jeżeli zachodzi uzasadniona obawa utrudnienia zwyczajnego rozpoznania sprawy.",
+      "source": "Art. 90 § 2"
+    },
+    {
+      "id": "kpsw-115",
+      "type": "single_choice",
+      "category": "Postępowanie przyspieszone",
+      "difficulty": "medium",
+      "question": "Sprawa dotyczy osoby podlegającej orzecznictwu sądów wojskowych. Czy można zastosować postępowanie przyspieszone?",
+      "choices": [
+        "Nie, tego trybu się wobec takich osób nie stosuje.",
+        "Tak, zawsze.",
+        "Tak, ale wyłącznie za zgodą dowódcy.",
+        "Tak, jeśli sprawca odmówi mandatu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Postępowania przyspieszonego nie stosuje się wobec osób podlegających orzecznictwu sądów wojskowych.",
+      "source": "Art. 90 § 5"
+    },
+    {
+      "id": "kpsw-116",
+      "type": "single_choice",
+      "category": "Postępowanie przyspieszone",
+      "difficulty": "medium",
+      "question": "Organ chce prowadzić sprawę w trybie przyspieszonym. Sprawca został ujęty bezpośrednio po wykroczeniu. Jaki dodatkowy warunek co do przekazania sprawy do sądu co do zasady musi być spełniony?",
+      "choices": [
+        "Sprawcę należy niezwłocznie doprowadzić do sądu.",
+        "Sprawcę należy zwolnić na co najmniej 7 dni.",
+        "Należy najpierw uzyskać kasację.",
+        "Należy zawsze przeprowadzić mediację."
+      ],
+      "correctIndex": 0,
+      "explanation": "W postępowaniu przyspieszonym orzeka się, gdy sprawca został ujęty na gorącym uczynku lub bezpośrednio po wykroczeniu i niezwłocznie doprowadzono go do sądu.",
+      "source": "Art. 91 § 1"
+    },
+    {
+      "id": "kpsw-117",
+      "type": "single_choice",
+      "category": "Postępowanie przyspieszone",
+      "difficulty": "hard",
+      "question": "Organ zapewnił udział sprawcy we wszystkich czynnościach sądowych na odległość z jednoczesnym przekazem obrazu i dźwięku. Czy może odstąpić od przymusowego doprowadzenia do sądu?",
+      "choices": [
+        "Tak, jeżeli zapewniono udział w czynnościach sądowych, w których sprawca ma prawo uczestniczyć.",
+        "Nie, doprowadzenie jest zawsze obowiązkowe.",
+        "Tak, ale tylko po wydaniu wyroku.",
+        "Nie, jeżeli sprawca chce złożyć wyjaśnienia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Organ może odstąpić od przymusowego doprowadzenia, jeżeli zapewnione jest uczestniczenie sprawcy w czynnościach sądowych na odległość z bezpośrednim przekazem obrazu i dźwięku.",
+      "source": "Art. 91 § 2a"
+    },
+    {
+      "id": "kpsw-118",
+      "type": "single_choice",
+      "category": "Postępowanie przyspieszone",
+      "difficulty": "medium",
+      "question": "W trybie przyspieszonym rozprawę przerwano na okres dłuższy niż 3 dni. Co dzieje się ze sprawą?",
+      "choices": [
+        "Rozpoznaje się ją w postępowaniu zwyczajnym.",
+        "Umarza się ją automatycznie.",
+        "Zawsze wydaje się wyrok nakazowy.",
+        "Przekazuje się ją prokuratorowi do kasacji."
+      ],
+      "correctIndex": 0,
+      "explanation": "W postępowaniu przyspieszonym przerwanie rozprawy na okres dłuższy niż 3 dni powoduje rozpoznanie sprawy w postępowaniu zwyczajnym.",
+      "source": "Art. 92 § 1 pkt 4"
+    },
+    {
+      "id": "kpsw-119",
+      "type": "single_choice",
+      "category": "Postępowanie przyspieszone",
+      "difficulty": "medium",
+      "question": "Strona chce wnieść środek odwoławczy w postępowaniu przyspieszonym. Jaki termin co do zasady obowiązuje?",
+      "choices": [
+        "3 dni od doręczenia wyroku z uzasadnieniem.",
+        "7 dni od ustalenia sprawcy.",
+        "14 dni od wystawienia mandatu.",
+        "Miesiąc od pierwszej rozprawy."
+      ],
+      "correctIndex": 0,
+      "explanation": "W postępowaniu przyspieszonym termin do wniesienia środka odwoławczego wynosi 3 dni od doręczenia wyroku z uzasadnieniem.",
+      "source": "Art. 92 § 1 pkt 6"
+    },
+    {
+      "id": "kpsw-120",
+      "type": "single_choice",
+      "category": "Postępowanie nakazowe",
+      "difficulty": "medium",
+      "question": "Sąd rozważa wydanie wyroku nakazowego. Kiedy jest to dopuszczalne?",
+      "choices": [
+        "Gdy okoliczności czynu i wina obwinionego nie budzą wątpliwości.",
+        "Zawsze, gdy obwiniony nie przyszedł na rozprawę.",
+        "Tylko gdy oskarżycielem jest prokurator.",
+        "Wyłącznie w sprawach wojskowych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Orzekanie w postępowaniu nakazowym może nastąpić, gdy okoliczności czynu i wina obwinionego nie budzą wątpliwości.",
+      "source": "Art. 93 § 2"
+    },
+    {
+      "id": "kpsw-121",
+      "type": "single_choice",
+      "category": "Postępowanie nakazowe",
+      "difficulty": "medium",
+      "question": "Sąd chce wydać wyrok nakazowy wobec obwinionego, który musi mieć obrońcę z powodu przesłanek obrony obowiązkowej. Czy to dopuszczalne?",
+      "choices": [
+        "Nie, postępowanie nakazowe jest w takiej sytuacji niedopuszczalne.",
+        "Tak, jeżeli obrońca nie złoży sprzeciwu.",
+        "Tak, ale tylko przy grzywnie.",
+        "Tak, jeżeli obwiniony zna język polski."
+      ],
+      "correctIndex": 0,
+      "explanation": "Postępowanie nakazowe jest niedopuszczalne, jeżeli zachodzą okoliczności obrony obowiązkowej.",
+      "source": "Art. 93 § 4"
+    },
+    {
+      "id": "kpsw-122",
+      "type": "single_choice",
+      "category": "Postępowanie nakazowe",
+      "difficulty": "medium",
+      "question": "Od wyroku nakazowego nie wniesiono sprzeciwu. Jaki jest skutek?",
+      "choices": [
+        "Wyrok staje się prawomocny.",
+        "Wyrok zawsze traci moc.",
+        "Sprawa automatycznie trafia do mediacji.",
+        "Wyrok wymaga zatwierdzenia przez Policję."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wyrok nakazowy, od którego nie wniesiono sprzeciwu albo sprzeciw cofnięto, staje się prawomocny.",
+      "source": "Art. 94 § 3"
+    },
+    {
+      "id": "kpsw-123",
+      "type": "single_choice",
+      "category": "Postępowanie mandatowe",
+      "difficulty": "easy",
+      "question": "Który organ co do zasady prowadzi postępowanie mandatowe?",
+      "choices": [
+        "Policja, a inne organy wtedy, gdy przepis szczególny tak stanowi.",
+        "Wyłącznie sąd rejonowy.",
+        "Wyłącznie prokurator.",
+        "Każdy pokrzywdzony."
+      ],
+      "correctIndex": 0,
+      "explanation": "Postępowanie mandatowe prowadzi Policja, a inne organy, gdy przepis szczególny tak stanowi.",
+      "source": "Art. 95 § 1"
+    },
+    {
+      "id": "kpsw-124",
+      "type": "single_choice",
+      "category": "Postępowanie mandatowe",
+      "difficulty": "medium",
+      "question": "W postępowaniu mandatowym funkcjonariusz chce nałożyć grzywnę w zwykłej sprawie, bez szczególnych podwyższonych limitów. Jaki jest podstawowy limit?",
+      "choices": [
+        "Do 500 złotych.",
+        "Do 5000 złotych w każdej sprawie.",
+        "Do 30 000 złotych.",
+        "Bez ustawowego limitu."
+      ],
+      "correctIndex": 0,
+      "explanation": "W postępowaniu mandatowym można co do zasady nałożyć grzywnę do 500 zł, a w przypadku zbiegu wykroczeń do 1000 zł.",
+      "source": "Art. 96 § 1"
+    },
+    {
+      "id": "kpsw-125",
+      "type": "single_choice",
+      "category": "Postępowanie mandatowe",
+      "difficulty": "medium",
+      "question": "Funkcjonariusz rozważa mandat w sprawie, w której za wykroczenie należałoby orzec środek karny. Czy może nałożyć grzywnę mandatem?",
+      "choices": [
+        "Nie, w drodze mandatu nie nakłada się grzywny za wykroczenia, za które należałoby orzec środek karny.",
+        "Tak, zawsze.",
+        "Tak, jeżeli obwiniony zgodzi się na mandat.",
+        "Tak, ale tylko do 100 zł."
+      ],
+      "correctIndex": 0,
+      "explanation": "W drodze mandatu karnego nie nakłada się grzywny za wykroczenia, za które należałoby orzec środek karny.",
+      "source": "Art. 96 § 2"
+    },
+    {
+      "id": "kpsw-126",
+      "type": "single_choice",
+      "category": "Postępowanie mandatowe",
+      "difficulty": "medium",
+      "question": "Sprawcę schwytano na gorącym uczynku wykroczenia. Czy funkcjonariusz może co do zasady nałożyć mandat, jeżeli ustawa nie stanowi inaczej?",
+      "choices": [
+        "Tak, jeżeli spełnione są pozostałe warunki postępowania mandatowego.",
+        "Nie, mandat jest możliwy tylko po wyroku sądu.",
+        "Nie, mandat dotyczy tylko spraw z urządzeń rejestrujących.",
+        "Tak, ale dopiero po upływie 60 dni."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mandat można nałożyć, gdy schwytano sprawcę na gorącym uczynku lub bezpośrednio po popełnieniu wykroczenia.",
+      "source": "Art. 97 § 1 pkt 1"
+    },
+    {
+      "id": "kpsw-127",
+      "type": "single_choice",
+      "category": "Postępowanie mandatowe",
+      "difficulty": "medium",
+      "question": "Wykroczenie stwierdzono urządzeniem rejestrującym, sprawcy nie schwytano na miejscu, ale nie ma wątpliwości co do osoby sprawcy. Czy mandat jest co do zasady możliwy?",
+      "choices": [
+        "Tak, także po niezbędnych czynnościach wyjaśniających podjętych niezwłocznie po ujawnieniu wykroczenia.",
+        "Nie, bo sprawca musi zawsze zostać schwytany na miejscu.",
+        "Tak, ale bez obowiązku ustalenia sprawcy.",
+        "Nie, takie sprawy zawsze wymagają kasacji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mandat można nałożyć także przy stwierdzeniu wykroczenia m.in. urządzeniem rejestrującym, gdy nie ma wątpliwości co do sprawcy, w razie potrzeby po niezbędnych czynnościach wyjaśniających.",
+      "source": "Art. 97 § 1 pkt 3"
+    },
+    {
+      "id": "kpsw-128",
+      "type": "single_choice",
+      "category": "Postępowanie mandatowe",
+      "difficulty": "medium",
+      "question": "Od dnia ustalenia sprawcy minęło więcej niż 60 dni. Czy można jeszcze nałożyć grzywnę mandatem?",
+      "choices": [
+        "Nie, mandat nie może zostać nałożony po upływie 60 dni od ustalenia sprawcy.",
+        "Tak, termin wynosi 6 miesięcy.",
+        "Tak, bez ograniczeń czasowych.",
+        "Tak, jeśli pokrzywdzony tego żąda."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nałożenie grzywny mandatem nie może nastąpić po upływie 60 dni od dnia ustalenia sprawcy wykroczenia.",
+      "source": "Art. 97 § 1"
+    },
+    {
+      "id": "kpsw-129",
+      "type": "single_choice",
+      "category": "Postępowanie mandatowe",
+      "difficulty": "easy",
+      "question": "Sprawca nie zgadza się z mandatem karnym. Jakie ma uprawnienie?",
+      "choices": [
+        "Może odmówić przyjęcia mandatu.",
+        "Musi przyjąć mandat i nie ma dalszych praw.",
+        "Może odmówić tylko za zgodą policjanta.",
+        "Może odmówić wyłącznie w obecności adwokata."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sprawca wykroczenia może odmówić przyjęcia mandatu karnego.",
+      "source": "Art. 97 § 2"
+    },
+    {
+      "id": "kpsw-130",
+      "type": "single_choice",
+      "category": "Postępowanie mandatowe",
+      "difficulty": "medium",
+      "question": "Funkcjonariusz nakłada mandat. O czym musi poinformować sprawcę?",
+      "choices": [
+        "Między innymi o prawie odmowy przyjęcia mandatu i skutkach prawnych odmowy.",
+        "Wyłącznie o numerze służbowym funkcjonariusza.",
+        "Tylko o tym, że mandat jest zawsze ostateczny.",
+        "Wyłącznie o możliwości kasacji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Funkcjonariusz musi wskazać wysokość grzywny, zachowanie, czas, miejsce, kwalifikację prawną oraz poinformować o prawie odmowy przyjęcia mandatu i skutkach odmowy.",
+      "source": "Art. 97 § 3"
+    },
+    {
+      "id": "kpsw-131",
+      "type": "single_choice",
+      "category": "Postępowanie mandatowe",
+      "difficulty": "medium",
+      "question": "Funkcjonariusz nakłada mandat gotówkowy wobec osoby czasowo przebywającej w Polsce. Kiedy taki mandat staje się prawomocny?",
+      "choices": [
+        "Z chwilą uiszczenia grzywny funkcjonariuszowi, który ją nałożył.",
+        "Z chwilą podpisania przez pokrzywdzonego.",
+        "Po 7 dniach od wystawienia, niezależnie od zapłaty.",
+        "Dopiero po zatwierdzeniu przez sąd."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mandat gotówkowy może być nałożony wobec osoby czasowo przebywającej w Polsce lub bez stałego miejsca zamieszkania albo pobytu i staje się prawomocny z chwilą zapłaty funkcjonariuszowi.",
+      "source": "Art. 98 § 2"
+    },
+    {
+      "id": "kpsw-132",
+      "type": "single_choice",
+      "category": "Postępowanie mandatowe",
+      "difficulty": "medium",
+      "question": "Ukaranemu wydano mandat kredytowany za pokwitowaniem odbioru. Kiedy staje się prawomocny?",
+      "choices": [
+        "Z chwilą pokwitowania odbioru przez ukaranego.",
+        "Dopiero po 14 dniach od wystawienia.",
+        "Z chwilą wpływu sprawy do sądu.",
+        "Po podpisie pokrzywdzonego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mandat kredytowany staje się prawomocny z chwilą pokwitowania jego odbioru przez ukaranego.",
+      "source": "Art. 98 § 3"
+    },
+    {
+      "id": "kpsw-133",
+      "type": "single_choice",
+      "category": "Postępowanie mandatowe",
+      "difficulty": "medium",
+      "question": "Ukarany chce zapłacić mandat kartą płatniczą, a funkcjonariusz ma urządzenie do autoryzacji. Kiedy grzywnę uważa się za uiszczoną?",
+      "choices": [
+        "Z chwilą potwierdzenia dokonania płatności uzyskanego z urządzenia do autoryzacji rozliczeń.",
+        "Dopiero po 30 dniach.",
+        "Z chwilą wystawienia mandatu, nawet bez płatności.",
+        "Dopiero po zatwierdzeniu przez naczelnika urzędu skarbowego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Grzywna uiszczona bezgotówkowo jest zapłacona z chwilą potwierdzenia płatności z urządzenia do autoryzacji rozliczeń.",
+      "source": "Art. 98 § 3a"
+    },
+    {
+      "id": "kpsw-134",
+      "type": "single_choice",
+      "category": "Postępowanie mandatowe",
+      "difficulty": "medium",
+      "question": "Sprawcy nie zastano na miejscu wykroczenia, ale nie ma wątpliwości co do jego osoby. Jaki rodzaj mandatu może być zastosowany?",
+      "choices": [
+        "Mandat zaoczny.",
+        "Wyłącznie mandat gotówkowy.",
+        "Wyrok nakazowy zamiast mandatu.",
+        "Kasacja mandatowa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mandat zaoczny można nałożyć, gdy sprawcy nie zastano na miejscu popełnienia wykroczenia, ale nie ma wątpliwości co do jego osoby.",
+      "source": "Art. 98 § 4"
+    },
+    {
+      "id": "kpsw-135",
+      "type": "single_choice",
+      "category": "Postępowanie mandatowe",
+      "difficulty": "medium",
+      "question": "Sprawca odmówił przyjęcia mandatu. Co robi organ, którego funkcjonariusz nałożył grzywnę?",
+      "choices": [
+        "Występuje do sądu z wnioskiem o ukaranie.",
+        "Uznaje mandat za prawomocny mimo odmowy.",
+        "Zawsze odstępuje od sprawy.",
+        "Kieruje od razu kasację."
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie odmowy przyjęcia mandatu organ występuje do sądu z wnioskiem o ukaranie, zaznaczając odmowę i w miarę możności jej przyczyny.",
+      "source": "Art. 99"
+    },
+    {
+      "id": "kpsw-136",
+      "type": "single_choice",
+      "category": "Postępowanie mandatowe",
+      "difficulty": "medium",
+      "question": "Sprawca nie uiścił w terminie grzywny nałożonej mandatem zaocznym. Co powinien zrobić organ?",
+      "choices": [
+        "Wystąpić do sądu z wnioskiem o ukaranie.",
+        "Uznać mandat za prawomocny bez zapłaty.",
+        "Zastosować zatrzymanie bez decyzji sądu.",
+        "Zwrócić sprawę pokrzywdzonemu."
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie nieuiszczenia w terminie grzywny z mandatu zaocznego organ występuje do sądu z wnioskiem o ukaranie.",
+      "source": "Art. 99"
+    },
+    {
+      "id": "kpsw-137",
+      "type": "single_choice",
+      "category": "Postępowanie mandatowe",
+      "difficulty": "hard",
+      "question": "Prawomocny mandat nałożono na osobę, która w chwili czynu nie ukończyła 17 lat. Jak należy postąpić?",
+      "choices": [
+        "Mandat podlega niezwłocznemu uchyleniu.",
+        "Mandat pozostaje ważny, jeżeli został zapłacony.",
+        "Mandat można tylko obniżyć o połowę.",
+        "Mandat uchyla wyłącznie organ, który go nałożył, bez udziału sądu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Prawomocny mandat karny podlega niezwłocznemu uchyleniu, jeżeli grzywnę nałożono na osobę, która popełniła czyn zabroniony przed ukończeniem 17 lat.",
+      "source": "Art. 101 § 1"
+    },
+    {
+      "id": "kpsw-138",
+      "type": "single_choice",
+      "category": "Postępowanie mandatowe",
+      "difficulty": "medium",
+      "question": "Ukarany chce złożyć wniosek o uchylenie mandatu z powodu nałożenia grzywny za czyn niebędący wykroczeniem. Jaki termin obowiązuje?",
+      "choices": [
+        "Nie później niż 7 dni od uprawomocnienia się mandatu.",
+        "30 dni od wystawienia mandatu.",
+        "3 miesiące od odmowy przyjęcia mandatu.",
+        "Bez terminu w każdym przypadku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wniosek ukaranego o uchylenie mandatu z przyczyn podstawowych składa się nie później niż w terminie 7 dni od uprawomocnienia się mandatu.",
+      "source": "Art. 101 § 1"
+    },
+    {
+      "id": "kpsw-139",
+      "type": "single_choice",
+      "category": "Postępowanie mandatowe",
+      "difficulty": "medium",
+      "question": "Sąd uchyla mandat karny, a grzywna została już zapłacona. Co należy orzec co do zapłaconej kwoty?",
+      "choices": [
+        "Nakazać zwrot uiszczonej kwoty podmiotowi, na którego rachunek ją pobrano.",
+        "Zatrzymać kwotę na koszt postępowania.",
+        "Przekazać kwotę pokrzywdzonemu zawsze i bez wyjątku.",
+        "Zamienić kwotę na kaucję."
+      ],
+      "correctIndex": 0,
+      "explanation": "Uchylając mandat karny, nakazuje się podmiotowi, na rachunek którego pobrano grzywnę, zwrot uiszczonej kwoty.",
+      "source": "Art. 101 § 3"
+    },
+    {
+      "id": "kpsw-140",
+      "type": "single_choice",
+      "category": "Postępowanie mandatowe",
+      "difficulty": "medium",
+      "question": "Kto sprawuje nadzór nad postępowaniem mandatowym co do zasady, poza sprawami należącymi do inspektora pracy?",
+      "choices": [
+        "Minister właściwy do spraw wewnętrznych.",
+        "Sąd Najwyższy.",
+        "Rzecznik Praw Obywatelskich.",
+        "Każdy naczelnik urzędu skarbowego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nadzór nad postępowaniem mandatowym sprawuje minister właściwy do spraw wewnętrznych, a w sprawach inspektora pracy - Główny Inspektor Pracy.",
+      "source": "Art. 102"
+    },
+    {
+      "id": "kpsw-141",
+      "type": "single_choice",
+      "category": "Środki odwoławcze",
+      "difficulty": "easy",
+      "question": "Jakie środki odwoławcze przewiduje kodeks w sprawach o wykroczenia?",
+      "choices": [
+        "Apelację i zażalenie.",
+        "Kasację i wznowienie jako zwykłe środki.",
+        "Wyłącznie sprzeciw od mandatu.",
+        "Odwołanie administracyjne."
+      ],
+      "correctIndex": 0,
+      "explanation": "Środkami odwoławczymi są apelacja i zażalenie.",
+      "source": "Art. 103 § 1"
+    },
+    {
+      "id": "kpsw-142",
+      "type": "single_choice",
+      "category": "Środki odwoławcze",
+      "difficulty": "medium",
+      "question": "Referendarz sądowy wydał postanowienie, które dotyczy strony. Jaki środek może przysługiwać od takiego postanowienia?",
+      "choices": [
+        "Sprzeciw.",
+        "Kasacja.",
+        "Mandat kredytowany.",
+        "Wniosek o mediację."
+      ],
+      "correctIndex": 0,
+      "explanation": "Od postanowień i zarządzeń referendarza sądowego może być wniesiony sprzeciw, który powoduje utratę mocy rozstrzygnięcia.",
+      "source": "Art. 103 § 3a-3b"
+    },
+    {
+      "id": "kpsw-143",
+      "type": "single_choice",
+      "category": "Środki odwoławcze",
+      "difficulty": "medium",
+      "question": "Obwiniony nie miał obrońcy mimo obrony obowiązkowej. Co powinien zrobić sąd odwoławczy z takim orzeczeniem?",
+      "choices": [
+        "Uchylić je niezależnie od granic zaskarżenia i wpływu uchybienia na treść orzeczenia.",
+        "Utrzymać je zawsze w mocy.",
+        "Zamienić karę na pouczenie.",
+        "Przekazać sprawę organowi mandatowemu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sąd odwoławczy uchyla orzeczenie niezależnie od granic zaskarżenia, jeżeli obwiniony nie miał obrońcy w przypadkach obrony obowiązkowej albo obrońca nie uczestniczył w czynnościach obowiązkowych.",
+      "source": "Art. 104 § 1 pkt 6"
+    },
+    {
+      "id": "kpsw-144",
+      "type": "single_choice",
+      "category": "Środki odwoławcze",
+      "difficulty": "medium",
+      "question": "Strona otrzymała wyrok sądu pierwszej instancji z uzasadnieniem. W jakim terminie wnosi apelację, gdy ustawa nie stanowi inaczej?",
+      "choices": [
+        "W terminie 7 dni od otrzymania wyroku wraz z uzasadnieniem.",
+        "W terminie 3 dni od ogłoszenia wyroku bez uzasadnienia.",
+        "W terminie 30 dni od czynu.",
+        "W dowolnym czasie przed wykonaniem kary."
+      ],
+      "correctIndex": 0,
+      "explanation": "Apelację wnosi się na piśmie w terminie 7 dni od daty otrzymania wyroku wraz z uzasadnieniem, chyba że ustawa stanowi inaczej.",
+      "source": "Art. 105 § 1"
+    },
+    {
+      "id": "kpsw-145",
+      "type": "single_choice",
+      "category": "Środki odwoławcze",
+      "difficulty": "medium",
+      "question": "Obwiniony pozbawiony wolności chce uczestniczyć w rozprawie odwoławczej. Kiedy powinien złożyć żądanie sprowadzenia?",
+      "choices": [
+        "Nie później niż w ciągu 7 dni od zawiadomienia o przyjęciu apelacji.",
+        "W dowolnym dniu po rozprawie odwoławczej.",
+        "Wyłącznie przed wydaniem wyroku pierwszej instancji.",
+        "Nie ma takiego uprawnienia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sąd odwoławczy zarządza sprowadzenie obwinionego pozbawionego wolności na jego żądanie złożone nie później niż w ciągu 7 dni od zawiadomienia o przyjęciu apelacji, chyba że wystarczy udział obrońcy.",
+      "source": "Art. 106 § 2"
+    },
+    {
+      "id": "kpsw-146",
+      "type": "single_choice",
+      "category": "Środki odwoławcze",
+      "difficulty": "medium",
+      "question": "Sąd odwoławczy uznaje, że trzeba uzupełnić przewód sądowy, a nie trzeba powtarzać go w całości. Czy może przeprowadzić dowód na rozprawie?",
+      "choices": [
+        "Tak, jeżeli przyczyni się to do przyspieszenia postępowania.",
+        "Nie, musi zawsze uchylić wyrok.",
+        "Tak, ale tylko dowód z dokumentu mandatu.",
+        "Nie, dowody przeprowadza wyłącznie sąd pierwszej instancji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sąd odwoławczy może przeprowadzić dowód, jeżeli uzupełnienie przewodu przyspieszy postępowanie i nie jest konieczne prowadzenie go od nowa w całości.",
+      "source": "Art. 106a"
+    },
+    {
+      "id": "kpsw-147",
+      "type": "single_choice",
+      "category": "Środki odwoławcze",
+      "difficulty": "medium",
+      "question": "Strona chce wnieść zażalenie. Jaki jest podstawowy termin, gdy ustawa nie stanowi inaczej?",
+      "choices": [
+        "7 dni od ogłoszenia rozstrzygnięcia albo od doręczenia, jeśli podlega doręczeniu.",
+        "3 dni od ustalenia sprawcy.",
+        "Miesiąc od wniesienia wniosku o ukaranie.",
+        "Bez ograniczenia czasowego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zażalenie wnosi się w terminie 7 dni od ogłoszenia rozstrzygnięcia albo od doręczenia, gdy rozstrzygnięcie podlega doręczeniu, chyba że ustawa stanowi inaczej.",
+      "source": "Art. 108 § 1"
+    },
+    {
+      "id": "kpsw-148",
+      "type": "single_choice",
+      "category": "Nadzwyczajne środki zaskarżenia",
+      "difficulty": "medium",
+      "question": "Obwiniony chce samodzielnie wnieść kasację w sprawie o wykroczenie. Czy ma do tego uprawnienie?",
+      "choices": [
+        "Nie, kasację może wnieść wyłącznie wskazany w ustawie organ lub rzecznik.",
+        "Tak, każdy obwiniony może sam wnieść kasację.",
+        "Tak, ale tylko w terminie 7 dni.",
+        "Tak, jeśli zapłaci opłatę za wznowienie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kasację w sprawach o wykroczenia mogą wnieść wyłącznie podmioty wymienione w kodeksie, m.in. Prokurator Generalny, Rzecznik Praw Obywatelskich oraz w określonych sprawach inne wskazane organy.",
+      "source": "Art. 110 § 1"
+    },
+    {
+      "id": "kpsw-149",
+      "type": "single_choice",
+      "category": "Nadzwyczajne środki zaskarżenia",
+      "difficulty": "medium",
+      "question": "Kasacja na niekorzyść obwinionego została wniesiona po upływie 3 miesięcy od uprawomocnienia się orzeczenia. Czy można ją uwzględnić?",
+      "choices": [
+        "Nie, jest to niedopuszczalne.",
+        "Tak, zawsze.",
+        "Tak, jeżeli dotyczy mandatu.",
+        "Tak, jeżeli wniosek złoży pokrzywdzony."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niedopuszczalne jest uwzględnienie kasacji na niekorzyść obwinionego wniesionej po upływie 3 miesięcy od uprawomocnienia się orzeczenia.",
+      "source": "Art. 110 § 2"
+    },
+    {
+      "id": "kpsw-150",
+      "type": "single_choice",
+      "category": "Nadzwyczajne środki zaskarżenia",
+      "difficulty": "medium",
+      "question": "Kasacja ma dotyczyć wyłącznie niewspółmierności kary. Czy taka kasacja jest dopuszczalna?",
+      "choices": [
+        "Nie, kasacji nie można wnieść wyłącznie z powodu niewspółmierności kary.",
+        "Tak, to podstawowa przyczyna kasacji.",
+        "Tak, ale tylko na korzyść obwinionego.",
+        "Tak, jeżeli kara była grzywną."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kasacja może być wniesiona tylko z powodu określonych uchybień lub innego rażącego naruszenia prawa i nie może opierać się wyłącznie na niewspółmierności kary.",
+      "source": "Art. 111"
+    },
+    {
+      "id": "kpsw-151",
+      "type": "single_choice",
+      "category": "Nadzwyczajne środki zaskarżenia",
+      "difficulty": "medium",
+      "question": "Strona niebędąca prokuratorem składa wniosek o wznowienie postępowania. Co powinna dołączyć?",
+      "choices": [
+        "Dowód wniesienia opłaty sądowej.",
+        "Mandat gotówkowy.",
+        "Zgodę oskarżyciela publicznego.",
+        "Pouczenie dla obwinionego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Do wniosku o wznowienie postępowania strona niebędąca prokuratorem dołącza dowód wniesienia opłaty sądowej; opłata podlega zwrotowi w razie uwzględnienia wniosku.",
+      "source": "Art. 113 § 2"
+    },
+    {
+      "id": "kpsw-152",
+      "type": "single_choice",
+      "category": "Nadzwyczajne środki zaskarżenia",
+      "difficulty": "medium",
+      "question": "Sprawa zakończyła się prawomocnie orzeczeniem sądu rejonowego. Który sąd co do zasady orzeka w kwestii wznowienia?",
+      "choices": [
+        "Sąd okręgowy na posiedzeniu jednoosobowo.",
+        "Ten sam sąd rejonowy w składzie ławniczym.",
+        "Wyłącznie Sąd Najwyższy.",
+        "Organ prowadzący czynności wyjaśniające."
+      ],
+      "correctIndex": 0,
+      "explanation": "W kwestii wznowienia orzeka na posiedzeniu jednoosobowo sąd okręgowy, a w sprawie zakończonej orzeczeniem tego sądu - sąd apelacyjny.",
+      "source": "Art. 113 § 3"
+    },
+    {
+      "id": "kpsw-153",
+      "type": "single_choice",
+      "category": "Odszkodowanie i koszty",
+      "difficulty": "medium",
+      "question": "Obwiniony został ukarany, ale po kasacji lub wznowieniu postępowania następnie go uniewinniono. Czego może żądać od Skarbu Państwa, jeśli wykonano wobec niego karę lub środek karny, którego nie powinien ponieść?",
+      "choices": [
+        "Odszkodowania za szkodę i zadośćuczynienia za krzywdę.",
+        "Wyłącznie zwrotu opłaty za mandat.",
+        "Tylko przeprosin od pokrzywdzonego.",
+        "Automatycznego awansu służbowego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Obwinionemu uniewinnionemu po kasacji lub wznowieniu albo objętemu umorzeniem z nowych przyczyn przysługuje odszkodowanie i zadośćuczynienie za wykonanie kary lub środka, których nie powinien ponieść.",
+      "source": "Art. 114 § 1"
+    },
+    {
+      "id": "kpsw-154",
+      "type": "single_choice",
+      "category": "Odszkodowanie i koszty",
+      "difficulty": "medium",
+      "question": "Osoba została niewątpliwie niesłusznie zatrzymana w sprawie o wykroczenie. Czy może dochodzić odszkodowania i zadośćuczynienia?",
+      "choices": [
+        "Tak, kodeks przewiduje takie roszczenie.",
+        "Nie, dotyczy to tylko przestępstw.",
+        "Tak, ale tylko gdy przyjęła mandat.",
+        "Nie, jeżeli zatrzymanie trwało krócej niż 24 godziny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Odszkodowanie i zadośćuczynienie przysługuje także osobie niewątpliwie niesłusznie zatrzymanej.",
+      "source": "Art. 114 § 2"
+    },
+    {
+      "id": "kpsw-155",
+      "type": "single_choice",
+      "category": "Odszkodowanie i koszty",
+      "difficulty": "medium",
+      "question": "Gdzie należy zgłosić roszczenie o odszkodowanie i zadośćuczynienie za niesłuszne ukaranie lub zatrzymanie?",
+      "choices": [
+        "W sądzie okręgowym, w którego okręgu wydano orzeczenie w pierwszej instancji lub nastąpiło zwolnienie zatrzymanego.",
+        "W dowolnym komisariacie Policji.",
+        "Wyłącznie w Sądzie Najwyższym.",
+        "Do organu, który wystawił mandat."
+      ],
+      "correctIndex": 0,
+      "explanation": "Roszczenie zgłasza się w sądzie okręgowym, w którego okręgu wydano orzeczenie pierwszej instancji albo nastąpiło zwolnienie zatrzymanego.",
+      "source": "Art. 115 § 1"
+    },
+    {
+      "id": "kpsw-156",
+      "type": "single_choice",
+      "category": "Odszkodowanie i koszty",
+      "difficulty": "medium",
+      "question": "Osoba chce dochodzić odszkodowania za niewątpliwie niesłuszne zatrzymanie. W jakim terminie przedawnia się roszczenie liczone od zwolnienia zatrzymanego?",
+      "choices": [
+        "Po upływie 6 miesięcy.",
+        "Po upływie 7 dni.",
+        "Po upływie 3 lat.",
+        "Nie przedawnia się."
+      ],
+      "correctIndex": 0,
+      "explanation": "Roszczenia o odszkodowanie i zadośćuczynienie przedawniają się po upływie 6 miesięcy, m.in. od daty zwolnienia zatrzymanego.",
+      "source": "Art. 115 § 2"
+    },
+    {
+      "id": "kpsw-157",
+      "type": "single_choice",
+      "category": "Odszkodowanie i koszty",
+      "difficulty": "easy",
+      "question": "Kto tymczasowo wykłada wydatki w toku postępowania w sprawach o wykroczenia, jeżeli ustawa nie stanowi inaczej?",
+      "choices": [
+        "Skarb Państwa.",
+        "Zawsze pokrzywdzony.",
+        "Zawsze obwiniony przed wyrokiem.",
+        "Dowolna organizacja społeczna."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli ustawa nie stanowi inaczej, wydatki w toku postępowania w sprawach o wykroczenia tymczasowo wykłada Skarb Państwa.",
+      "source": "Art. 117 § 1"
+    },
+    {
+      "id": "kpsw-158",
+      "type": "single_choice",
+      "category": "Odszkodowanie i koszty",
+      "difficulty": "medium",
+      "question": "Strona ustanowiła obrońcę lub pełnomocnika z wyboru. Kto tymczasowo wykłada związane z tym wydatki?",
+      "choices": [
+        "Strona, która go ustanowiła.",
+        "Zawsze Skarb Państwa.",
+        "Zawsze pokrzywdzony.",
+        "Organ prowadzący czynności wyjaśniające."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wydatki związane z ustanowieniem obrońcy lub pełnomocnika wykłada strona, która go ustanowiła.",
+      "source": "Art. 117 § 2"
+    },
+    {
+      "id": "kpsw-159",
+      "type": "single_choice",
+      "category": "Odszkodowanie i koszty",
+      "difficulty": "medium",
+      "question": "Obwiniony został skazany. Jak sąd co do zasady rozstrzyga o kosztach?",
+      "choices": [
+        "Zasądza od obwinionego opłatę, zryczałtowane wydatki, określone należności oraz wydatki na rzecz oskarżyciela posiłkowego.",
+        "Zawsze obciąża wyłącznie Skarb Państwa.",
+        "Nigdy nie orzeka o kosztach.",
+        "Koszty zawsze ponosi pokrzywdzony."
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie skazania od obwinionego zasądza się opłatę, zryczałtowane wydatki i określone należności oraz wydatki na rzecz oskarżyciela posiłkowego.",
+      "source": "Art. 119 § 1"
+    },
+    {
+      "id": "kpsw-160",
+      "type": "single_choice",
+      "category": "Odszkodowanie i koszty",
+      "difficulty": "medium",
+      "question": "W sprawie z wniosku oskarżyciela publicznego obwinionego uniewinniono. Kto co do zasady ponosi koszty postępowania?",
+      "choices": [
+        "Odpowiednio Skarb Państwa albo jednostka samorządu terytorialnego, z ustawowym wyjątkiem dotyczącym pełnomocnika oskarżyciela posiłkowego.",
+        "Zawsze obwiniony.",
+        "Zawsze pokrzywdzony.",
+        "Zawsze oskarżyciel publiczny osobiście."
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie uniewinnienia lub umorzenia w sprawie z wniosku oskarżyciela publicznego koszty ponosi odpowiednio Skarb Państwa lub jednostka samorządu terytorialnego, z przewidzianym wyjątkiem.",
+      "source": "Art. 119 § 2 pkt 1"
+    },
+    {
+      "id": "kpsw-161",
+      "type": "single_choice",
+      "category": "Odszkodowanie i koszty",
+      "difficulty": "medium",
+      "question": "W postępowaniu potrzebny jest tłumacz, aby zapewnić obwinionemu prawo do obrony. Kto ponosi takie koszty?",
+      "choices": [
+        "Odpowiednio Skarb Państwa albo jednostka samorządu terytorialnego.",
+        "Zawsze obwiniony, nawet gdy zostanie uniewinniony.",
+        "Zawsze tłumacz.",
+        "Wyłącznie pokrzywdzony."
+      ],
+      "correctIndex": 0,
+      "explanation": "Koszty udziału tłumacza w zakresie koniecznym dla prawa obwinionego do obrony ponosi odpowiednio Skarb Państwa albo jednostka samorządu terytorialnego.",
+      "source": "Art. 119 § 4"
+    },
+    {
+      "id": "kpsw-162",
+      "type": "single_choice",
+      "category": "Współpraca międzynarodowa",
+      "difficulty": "hard",
+      "question": "Organ rozważa wystąpienie do państwa członkowskiego Unii Europejskiej o przeprowadzenie dowodu na podstawie europejskiego nakazu dochodzeniowego w sprawie o wykroczenie. W jakich sprawach jest to dopuszczalne według tego kodeksu?",
+      "choices": [
+        "W sprawach o wykroczenia przewidziane w rozdziałach dotyczących bezpieczeństwa i porządku w komunikacji oraz mienia w Kodeksie wykroczeń.",
+        "We wszystkich sprawach o wykroczenia bez ograniczeń.",
+        "Wyłącznie w sprawach mandatowych zakończonych prawomocnym mandatem.",
+        "Tylko w sprawach o wykroczenia wojskowe."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wystąpienie o przeprowadzenie dowodu na podstawie europejskiego nakazu dochodzeniowego jest dopuszczalne w sprawach o wykroczenia z rozdziałów XI i XIV Kodeksu wykroczeń.",
+      "source": "Art. 116c § 2"
+    }
+  ]
+}

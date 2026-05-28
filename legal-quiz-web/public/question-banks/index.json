@@ -1,7 +1,115 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-28T09:45:10.607Z",
+  "generatedAt": "2026-05-28T10:26:47.888Z",
   "banks": [
+    {
+      "path": "/question-banks/Rozporządzenie w sprawie dokumentów uniemożliwiających ustalenie danych identyfikujących policjanta.json",
+      "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 maja 2002 r. w sprawie szczegółowych zasad i trybu wydawania, posługiwania się, przechowywania i ewidencji dokumentów, które uniemożliwiają ustalenie danych identyfikujących policjanta lub osobę udzielającą pomocy Policji oraz środków, którymi posługują się przy wykonywaniu zadań służbowych",
+      "question_count": 44,
+      "detected_question_count": 44,
+      "categories": [
+        "Dokumentacja",
+        "Dokumenty kwalifikacyjne",
+        "Dokumenty uzyskane w trybie szczególnym",
+        "Ewidencja dokumentów",
+        "Ewidencja upoważnień",
+        "Ewidencja wykorzystywania",
+        "Niszczenie dokumentów",
+        "Obowiązki przełożonych",
+        "Ochrona informacji",
+        "Okres używania dokumentu",
+        "Postępowanie z dokumentem po zwrocie",
+        "Posługiwanie się dokumentem",
+        "Przechowywanie dokumentów",
+        "Rodzaje dokumentów i środków",
+        "Upoważnienie do wydawania dokumentów",
+        "Utrata lub zniszczenie dokumentu",
+        "Uzyskanie kolejnego dokumentu",
+        "Uzyskiwanie dokumentów od innych podmiotów",
+        "Wejście w życie",
+        "Wniosek o wydanie dokumentu",
+        "Wnioskodawcy",
+        "Wydanie i zwrot dokumentu",
+        "Wydawanie dokumentów",
+        "Zakres regulacji",
+        "Zwrot dokumentu"
+      ],
+      "types": [
+        "single_choice"
+      ]
+    },
+    {
+      "path": "/question-banks/Rozporz%C4%85dzenie%20w%20sprawie%20kontroli%20ruchu%20drogowego.json",
+      "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 5 listopada 2019 r. w sprawie kontroli ruchu drogowego",
+      "question_count": 194,
+      "detected_question_count": 194,
+      "categories": [
+        "Akumulator i instalacja",
+        "Czynności po zatrzymaniu",
+        "Dodatkowe badanie techniczne",
+        "Dokumentacja kontroli",
+        "Dokumenty i pokwitowania",
+        "Drogomierz",
+        "Drogowa kontrola techniczna",
+        "Identyfikacja pojazdu",
+        "Inne organy kontroli",
+        "Kategorie usterek",
+        "Kierujący",
+        "Kontrola odpadów",
+        "Kontrola zabezpieczenia ładunku",
+        "Koła i opony",
+        "Miejsce kontroli",
+        "Ochrona środowiska",
+        "Oświetlenie",
+        "Pasy i wyposażenie",
+        "Podwozie i nadwozie",
+        "Pojazd Policji",
+        "Pojazdy do przewozu osób",
+        "Pojazdy szczególnej rejestracji",
+        "Przepisy przejściowe",
+        "Szczegółowa kontrola techniczna",
+        "Szkolenie do kontroli",
+        "Tachografy",
+        "Układ hamulcowy",
+        "Układ kierowniczy",
+        "Upoważnienia do kontroli",
+        "Uprawnienia kontrolującego",
+        "Widoczność",
+        "Wstępna kontrola techniczna",
+        "Zachowanie kontrolowanego",
+        "Zatrzymywanie pojazdów",
+        "Zawieszenie"
+      ],
+      "types": [
+        "single_choice"
+      ]
+    },
+    {
+      "path": "/question-banks/Rozporz%C4%85dzenie%20Rady%20Ministr%C3%B3w%20z%20dnia%204%20lutego%202020%20r.%20w%20sprawie%20post%C4%99powania%20przy%20wykonywaniu%20niekt%C3%B3rych%20uprawnie%C5%84%20policjant%C3%B3w.json",
+      "title": "Rozporządzenie Rady Ministrów z dnia 4 lutego 2020 r. w sprawie postępowania przy wykonywaniu niektórych uprawnień policjantów",
+      "question_count": 99,
+      "detected_question_count": 99,
+      "categories": [
+        "Dokumentowanie legitymowania",
+        "Identyfikacja daktyloskopijna",
+        "Legitymowanie",
+        "Obserwowanie i rejestrowanie",
+        "Pobieranie wymazu i materiału biologicznego",
+        "Protokół zatrzymania",
+        "Przepisy przejściowe i wejście w życie",
+        "Rzeczy i dokumenty użyczone Policji",
+        "Sprawdzenie prewencyjne",
+        "Uprawnienia osoby zatrzymanej",
+        "Wydawanie poleceń",
+        "Zakres rozporządzenia",
+        "Zasady ogólne czynności",
+        "Zatrzymywanie osób",
+        "Żądanie i udzielanie pomocy"
+      ],
+      "types": [
+        "single_choice"
+      ]
+    },
     {
       "path": "/question-banks/Prawo o ruchu drogowym.json",
       "title": "Ustawa z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym",
@@ -142,6 +250,36 @@
         "Zasady użycia",
         "Zatrzymywanie pojazdów",
         "Środki pirotechniczne"
+      ],
+      "types": [
+        "single_choice"
+      ]
+    },
+    {
+      "path": "/question-banks/Postepowanie w sprawach o kykroczenia.json",
+      "title": "Ustawa z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia",
+      "question_count": 162,
+      "detected_question_count": 162,
+      "categories": [
+        "Czynności procesowe",
+        "Czynności wyjaśniające",
+        "Dowody i przeszukanie",
+        "Nadzwyczajne środki zaskarżenia",
+        "Obwiniony i obrona",
+        "Odszkodowanie i koszty",
+        "Oskarżyciel publiczny",
+        "Pokrzywdzony i oskarżyciel posiłkowy",
+        "Postępowanie mandatowe",
+        "Postępowanie nakazowe",
+        "Postępowanie przyspieszone",
+        "Postępowanie wojskowe",
+        "Rozprawa",
+        "Sąd i właściwość",
+        "Wniosek o ukaranie",
+        "Współpraca międzynarodowa",
+        "Zasady ogólne",
+        "Zatrzymanie i środki przymusu",
+        "Środki odwoławcze"
       ],
       "types": [
         "single_choice"

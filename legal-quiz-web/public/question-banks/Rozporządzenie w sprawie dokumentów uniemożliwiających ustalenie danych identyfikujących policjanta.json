@@ -1,0 +1,711 @@
+{
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 maja 2002 r. w sprawie szczegółowych zasad i trybu wydawania, posługiwania się, przechowywania i ewidencji dokumentów, które uniemożliwiają ustalenie danych identyfikujących policjanta lub osobę udzielającą pomocy Policji oraz środków, którymi posługują się przy wykonywaniu zadań służbowych",
+  "description": "Baza pytań praktycznych opracowana wyłącznie na podstawie przesłanego aktu prawnego.",
+  "question_count": 44,
+  "questions": [
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-001",
+      "type": "single_choice",
+      "category": "Zakres regulacji",
+      "difficulty": "easy",
+      "question": "Policjant wykonujący czynności operacyjno-rozpoznawcze ma korzystać z dokumentu ukrywającego jego prawdziwe dane identyfikacyjne. Który obszar postępowania jest objęty tym rozporządzeniem?",
+      "choices": [
+        "Zasady wydawania, posługiwania się, przechowywania i ewidencji takich dokumentów oraz środków używanych przy zadaniach służbowych",
+        "Wyłącznie zasady odpowiedzialności karnej policjanta używającego takiego dokumentu",
+        "Wyłącznie tryb zwrotu dokumentu po zakończeniu czynności sądowych",
+        "Zasady prowadzenia postępowania mandatowego wobec osoby udzielającej pomocy Policji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozporządzenie obejmuje szczegółowe zasady i tryb wydawania, posługiwania się, przechowywania i ewidencji dokumentów uniemożliwiających ustalenie danych identyfikujących policjanta lub osobę udzielającą pomocy Policji oraz środków używanych podczas czynności operacyjno-rozpoznawczych albo udzielania pomocy. Podstawa: § 1.",
+      "source": "§ 1"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-002",
+      "type": "single_choice",
+      "category": "Wydawanie dokumentów",
+      "difficulty": "easy",
+      "question": "Jednostka Policji chce uzyskać dokument uniemożliwiający ustalenie danych identyfikujących policjanta. Kto jest organem uprawnionym do wydawania takich dokumentów w Policji?",
+      "choices": [
+        "Komendant Główny Policji",
+        "Komendant wojewódzki Policji właściwy dla miejsca wykonywania czynności",
+        "Kierownik komórki, w której dokument ma być wykorzystywany",
+        "Policjant wyznaczony przez wnioskodawcę do prowadzenia ewidencji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Organem uprawnionym w Policji do wydawania takich dokumentów oraz środków jest Komendant Główny Policji. Podstawa: § 2 ust. 1.",
+      "source": "§ 2 ust. 1"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-003",
+      "type": "single_choice",
+      "category": "Wniosek o wydanie dokumentu",
+      "difficulty": "easy",
+      "question": "Kierownik uprawnionej jednostki przygotowuje wniosek o wydanie dokumentu. Jak powinien przekazać go do organu właściwego do wydania dokumentu?",
+      "choices": [
+        "Za pośrednictwem kierownika właściwej komórki organizacyjnej Komendy Głównej Policji określonej w odrębnych przepisach",
+        "Bezpośrednio do dowolnej komendy wojewódzkiej Policji",
+        "Przez policjanta, który ma używać dokumentu, bez udziału komórki wydającej",
+        "Przez organ administracji samorządowej właściwy dla miejsca wykorzystania dokumentu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wnioski o wydanie dokumentów składa się do Komendanta Głównego Policji za pośrednictwem kierownika komórki organizacyjnej Komendy Głównej Policji określonej w odrębnych przepisach, zwanej komórką wydającą. Podstawa: § 2 ust. 2.",
+      "source": "§ 2 ust. 2"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-004",
+      "type": "single_choice",
+      "category": "Wnioskodawcy",
+      "difficulty": "easy",
+      "question": "Komendant wojewódzki Policji chce wystąpić o dokumenty potrzebne do czynności operacyjno-rozpoznawczych. Czy może być wnioskodawcą?",
+      "choices": [
+        "Tak, komendanci wojewódzcy Policji należą do podmiotów składających wnioski",
+        "Nie, wnioski mogą składać wyłącznie kierownicy komórek Komendy Głównej Policji",
+        "Nie, wnioski składa wyłącznie policjant, który będzie używał dokumentu",
+        "Tak, ale tylko po wcześniejszym uzyskaniu dokumentu od organu administracji samorządowej"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wnioskodawcami są między innymi kierownicy komórek organizacyjnych Komendy Głównej Policji, komendanci wojewódzcy Policji oraz kierownicy uprawnionych organów, służb i instytucji państwowych. Podstawa: § 2 ust. 3.",
+      "source": "§ 2 ust. 3"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-005",
+      "type": "single_choice",
+      "category": "Wnioskodawcy",
+      "difficulty": "medium",
+      "question": "Kierownik instytucji państwowej uprawnionej na podstawie odrębnych przepisów do posługiwania się dokumentami chce wystąpić o ich wydanie. Które rozwiązanie jest zgodne z rozporządzeniem?",
+      "choices": [
+        "Może być wnioskodawcą, jeżeli chodzi o dokumenty, do których posługiwania się instytucja jest uprawniona na podstawie odrębnych przepisów",
+        "Nie może być wnioskodawcą, bo uprawnienie do występowania z wnioskiem mają wyłącznie organy Policji",
+        "Może wystąpić bezpośrednio do dowolnego organu administracji publicznej z pominięciem trybu policyjnego",
+        "Może wystąpić wyłącznie wtedy, gdy użytkownikiem dokumentu będzie funkcjonariusz Policji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wnioski mogą składać także kierownicy organów, służb i instytucji państwowych uprawnionych do posługiwania się dokumentami na podstawie odrębnych przepisów. Podstawa: § 2 ust. 3 pkt 3.",
+      "source": "§ 2 ust. 3 pkt 3"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-006",
+      "type": "single_choice",
+      "category": "Wniosek o wydanie dokumentu",
+      "difficulty": "easy",
+      "question": "Wniosek o wydanie dokumentu ma być przygotowany dla konkretnej jednostki. Która informacja powinna się w nim znaleźć?",
+      "choices": [
+        "Nazwa jednostki lub komórki organizacyjnej, w której dokument będzie wykorzystywany",
+        "Opis prywatnych planów użytkownika dokumentu po zakończeniu zadania",
+        "Zgoda osoby postronnej na zapoznanie się z treścią dokumentu",
+        "Numer sprawy sądowej, nawet jeśli dokument ma służyć wyłącznie czynnościom operacyjnym"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pisemny wniosek powinien zawierać nazwę jednostki lub komórki organizacyjnej, w której dokument będzie wykorzystywany. Podstawa: § 2 ust. 4 pkt 1.",
+      "source": "§ 2 ust. 4 pkt 1"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-007",
+      "type": "single_choice",
+      "category": "Wniosek o wydanie dokumentu",
+      "difficulty": "easy",
+      "question": "Wnioskodawca chce uzyskać dokument dla policjanta wykonującego czynności operacyjne. Co powinien wykazać w uzasadnieniu wniosku?",
+      "choices": [
+        "Potrzebę posiadania dokumentu oraz okoliczności, w jakich będzie wykorzystywany",
+        "Wyłącznie przewidywany termin zakończenia służby przez policjanta",
+        "Wyłącznie informację, że dokument będzie używany w dowolnych przyszłych czynnościach",
+        "Wyłącznie zgodę użytkownika na przechowywanie dokumentu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wniosek musi zawierać uzasadnienie potrzeby posiadania dokumentu przy wykonywaniu czynności operacyjno-rozpoznawczych lub udzielaniu pomocy oraz określenie okoliczności, w jakich będzie wykorzystywany. Podstawa: § 2 ust. 4 pkt 2.",
+      "source": "§ 2 ust. 4 pkt 2"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-008",
+      "type": "single_choice",
+      "category": "Wniosek o wydanie dokumentu",
+      "difficulty": "medium",
+      "question": "Dla przygotowania dokumentu konieczne jest wskazanie danych użytkownika. Który zestaw informacji odpowiada wymaganiom rozporządzenia?",
+      "choices": [
+        "Rzeczywiste i fikcyjne dane osobowe użytkownika w zakresie niezbędnym do opracowania dokumentu",
+        "Wyłącznie fikcyjne imię użytkownika bez danych rzeczywistych",
+        "Wyłącznie numer służbowy policjanta bez danych osobowych",
+        "Dane osobowe dowolnego przełożonego zamiast danych użytkownika"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wniosek powinien zawierać rzeczywiste i fikcyjne dane osobowe użytkownika w zakresie niezbędnym do opracowania danego rodzaju dokumentu. Podstawa: § 2 ust. 4 pkt 3.",
+      "source": "§ 2 ust. 4 pkt 3"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-009",
+      "type": "single_choice",
+      "category": "Wniosek o wydanie dokumentu",
+      "difficulty": "medium",
+      "question": "Wniosek dotyczy dokumentu potwierdzającego kwalifikacje. Jakie dodatkowe potwierdzenie powinno zostać dołączone, gdy jest wymagane?",
+      "choices": [
+        "Potwierdzenie posiadania uprawnień lub kwalifikacji",
+        "Potwierdzenie zgody właściwego sądu na prowadzenie czynności",
+        "Potwierdzenie zakończenia wszystkich czynności operacyjnych",
+        "Potwierdzenie, że dokument nie będzie ewidencjonowany"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli wniosek dotyczy wydania dokumentu potwierdzającego uprawnienia lub kwalifikacje, powinien zawierać potwierdzenie ich posiadania. Podstawa: § 2 ust. 4 pkt 5.",
+      "source": "§ 2 ust. 4 pkt 5"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-010",
+      "type": "single_choice",
+      "category": "Wniosek o wydanie dokumentu",
+      "difficulty": "medium",
+      "question": "Wniosek dotyczy dokumentu rejestracyjnego dla środka transportu wykorzystywanego w zadaniu. Co powinno znaleźć się we wniosku?",
+      "choices": [
+        "Potwierdzenie wykonania badań technicznych środka transportu",
+        "Wyłącznie oświadczenie użytkownika, że pojazd jest sprawny",
+        "Zgoda osoby udzielającej pomocy na prowadzenie pojazdu bez badań technicznych",
+        "Informacja, że dokument nie będzie podlegał zwrotowi"
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadku występowania o wydanie dokumentu rejestracyjnego wniosek powinien zawierać potwierdzenie wykonania badań technicznych środka transportu. Podstawa: § 2 ust. 4 pkt 6.",
+      "source": "§ 2 ust. 4 pkt 6"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-011",
+      "type": "single_choice",
+      "category": "Wniosek o wydanie dokumentu",
+      "difficulty": "medium",
+      "question": "Wnioskodawca występuje o dokumenty dotyczące obiektu. Która informacja powinna znaleźć się we wniosku?",
+      "choices": [
+        "Kryptonim i numer rejestracyjny teczki obiektu",
+        "Wyłącznie adres prywatny policjanta prowadzącego sprawę",
+        "Wyłącznie numer telefonu osoby udzielającej pomocy",
+        "Numer legitymacji służbowej przełożonego komórki wydającej"
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy występowaniu o wydanie dokumentów dotyczących obiektu wniosek powinien zawierać kryptonim i numer rejestracyjny teczki obiektu. Podstawa: § 2 ust. 4 pkt 8.",
+      "source": "§ 2 ust. 4 pkt 8"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-012",
+      "type": "single_choice",
+      "category": "Upoważnienie do wydawania dokumentów",
+      "difficulty": "medium",
+      "question": "Kierownik komórki Komendy Głównej Policji chce wydawać określony rodzaj dokumentu we własnym zakresie. Które działanie jest dopuszczalne?",
+      "choices": [
+        "W uzasadnionym przypadku może wystąpić o upoważnienie z zachowaniem właściwego trybu",
+        "Może samodzielnie rozpocząć wydawanie dokumentów bez upoważnienia",
+        "Może wydać dokument tylko po decyzji komendanta powiatowego Policji",
+        "Może wydać dokument bez informowania komórki wydającej"
+      ],
+      "correctIndex": 0,
+      "explanation": "W uzasadnionych przypadkach wskazani wnioskodawcy mogą wystąpić, z zachowaniem trybu składania wniosku, o upoważnienie do wydawania określonego rodzaju dokumentu we własnym zakresie. Podstawa: § 2 ust. 5.",
+      "source": "§ 2 ust. 5"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-013",
+      "type": "single_choice",
+      "category": "Upoważnienie do wydawania dokumentów",
+      "difficulty": "medium",
+      "question": "Jednostka wydała dokument we własnym zakresie na podstawie uzyskanego upoważnienia. Co powinna zrobić po jego wydaniu?",
+      "choices": [
+        "Pisemnie zawiadomić o tym komórkę wydającą",
+        "Nie podejmować żadnych dalszych czynności, bo dokument wydano lokalnie",
+        "Przekazać dokument bezpośrednio do archiwum i nie ewidencjonować go",
+        "Zawiadomić wyłącznie użytkownika dokumentu"
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadku wydania dokumentu na podstawie upoważnienia do wydawania dokumentów we własnym zakresie wnioskodawca ma obowiązek pisemnie zawiadomić o tym komórkę wydającą. Podstawa: § 2 ust. 6.",
+      "source": "§ 2 ust. 6"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-014",
+      "type": "single_choice",
+      "category": "Uzyskanie kolejnego dokumentu",
+      "difficulty": "medium",
+      "question": "Policjant posiada dokument i zachodzi potrzeba uzyskania na jego podstawie kolejnego dokumentu od organu administracji. Jakie rozwiązanie przewiduje rozporządzenie?",
+      "choices": [
+        "Komendant Główny Policji może pisemnie upoważnić policjanta do podjęcia czynności zmierzających do uzyskania kolejnego dokumentu",
+        "Policjant może zawsze samodzielnie uzyskać kolejny dokument bez odrębnego upoważnienia",
+        "Decyzję o uzyskaniu kolejnego dokumentu podejmuje wyłącznie organ administracji samorządowej",
+        "Uzyskanie kolejnego dokumentu jest w każdym przypadku zakazane"
+      ],
+      "correctIndex": 0,
+      "explanation": "Komendant Główny Policji może pisemnie upoważnić policjanta lub osobę udzielającą pomocy do czynności mających na celu uzyskanie kolejnego dokumentu na podstawie posiadanego dokumentu. Podstawa: § 3 ust. 1.",
+      "source": "§ 3 ust. 1"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-015",
+      "type": "single_choice",
+      "category": "Uzyskanie kolejnego dokumentu",
+      "difficulty": "medium",
+      "question": "Po uzyskaniu kolejnego dokumentu na podstawie pisemnego upoważnienia wnioskodawca musi wykonać dodatkową czynność. Która jest właściwa?",
+      "choices": [
+        "Pisemnie zawiadomić komórkę wydającą o otrzymaniu dokumentu",
+        "Przekazać dokument bez ewidencji bezpośrednio użytkownikowi",
+        "Zniszczyć poprzedni dokument bez protokołu",
+        "Zachować dokument wyłącznie w prywatnym posiadaniu użytkownika"
+      ],
+      "correctIndex": 0,
+      "explanation": "Po otrzymaniu dokumentu na podstawie upoważnienia wnioskodawca ma obowiązek pisemnie zawiadomić o tym komórkę wydającą. Podstawa: § 3 ust. 2.",
+      "source": "§ 3 ust. 2"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-016",
+      "type": "single_choice",
+      "category": "Ewidencja upoważnień",
+      "difficulty": "medium",
+      "question": "Wydano upoważnienia do uzyskania kolejnych dokumentów oraz do wydawania dokumentów we własnym zakresie. Kto prowadzi ewidencję takich upoważnień?",
+      "choices": [
+        "Komórka wydająca",
+        "Dowolny użytkownik dokumentu",
+        "Organ administracji, który wydał kolejny dokument",
+        "Każda osoba udzielająca pomocy Policji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ewidencję upoważnień do uzyskania kolejnego dokumentu oraz upoważnień do wydawania określonego rodzaju dokumentu we własnym zakresie prowadzi komórka wydająca. Podstawa: § 3 ust. 3.",
+      "source": "§ 3 ust. 3"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-017",
+      "type": "single_choice",
+      "category": "Uzyskiwanie dokumentów od innych podmiotów",
+      "difficulty": "medium",
+      "question": "Policja potrzebuje dokumentu od organu administracji rządowej albo zagranicznej organizacji właściwej do zwalczania przestępczości. Kto występuje z wnioskiem o jego wydanie?",
+      "choices": [
+        "Komendant Główny Policji",
+        "Policjant, który będzie posługiwał się dokumentem",
+        "Osoba udzielająca pomocy Policji",
+        "Kierownik lokalnego posterunku Policji"
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadku potrzeby uzyskania dokumentu od wskazanych organów, służb, instytucji oraz organizacji krajowych, zagranicznych lub międzynarodowych z wnioskiem występuje Komendant Główny Policji. Podstawa: § 4.",
+      "source": "§ 4"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-018",
+      "type": "single_choice",
+      "category": "Dokumenty kwalifikacyjne",
+      "difficulty": "easy",
+      "question": "Policjant ma otrzymać dokument potwierdzający określone kwalifikacje. Kiedy zasadniczo można mu taki dokument wydać?",
+      "choices": [
+        "Gdy jest uprawniony do uzyskania takiego dokumentu na podstawie odrębnych przepisów",
+        "Gdy sam oświadczy, że kwalifikacje będą mu potrzebne w przyszłości",
+        "Gdy dokument jest potrzebny tylko do celów prywatnych",
+        "Gdy dokument nie będzie nigdzie ewidencjonowany"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dokument potwierdzający określone uprawnienia lub kwalifikacje można wydać policjantowi albo osobie udzielającej pomocy, jeśli są uprawnieni do uzyskania takiego dokumentu na podstawie odrębnych przepisów. Podstawa: § 5 ust. 1.",
+      "source": "§ 5 ust. 1"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-019",
+      "type": "single_choice",
+      "category": "Dokumenty kwalifikacyjne",
+      "difficulty": "hard",
+      "question": "W szczególnie ważnej sprawie rozważane jest wydanie dokumentu potwierdzającego kwalifikacje osobie, która faktycznie ich nie posiada. Które rozwiązanie jest zgodne z rozporządzeniem?",
+      "choices": [
+        "Dokument może zostać wydany w szczególnym przypadku, ale użytkownikowi wolno zakazać wykonywania czynności, do których dokument uprawnia",
+        "Dokument może zostać wydany i użytkownik może wykonywać wszystkie czynności, do których formalnie uprawnia",
+        "Dokumentu nigdy nie można wydać osobie bez wymaganych uprawnień, bez żadnych wyjątków",
+        "Dokument można wydać, ale tylko bez prowadzenia ewidencji"
+      ],
+      "correctIndex": 0,
+      "explanation": "W szczególnym przypadku, uzasadnionym wagą sprawy, dokument potwierdzający uprawnienia lub kwalifikacje można wydać osobie nieposiadającej wymaganych uprawnień, ale zabronione jest podejmowanie czynności, do których wykonywania dokument uprawnia. Podstawa: § 5 ust. 2–3.",
+      "source": "§ 5 ust. 2–3"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-020",
+      "type": "single_choice",
+      "category": "Rodzaje dokumentów i środków",
+      "difficulty": "easy",
+      "question": "Do użytku służbowego potrzebne są dokumenty zagraniczne oraz przedmioty zapewniające kamuflaż. Czy rozporządzenie dopuszcza takie rozwiązanie?",
+      "choices": [
+        "Tak, mogą być wydane krajowe i zagraniczne dokumenty oraz przedmioty służące do ich zabezpieczenia lub zapewnienia kamuflażu",
+        "Nie, mogą być wydawane wyłącznie dokumenty krajowe bez dodatkowych przedmiotów",
+        "Nie, rozporządzenie dotyczy tylko dokumentów rejestracyjnych pojazdów",
+        "Tak, ale tylko wtedy, gdy dokumenty nie będą używane w czynnościach służbowych"
+      ],
+      "correctIndex": 0,
+      "explanation": "Do użytku służbowego mogą być wydane krajowe i zagraniczne dokumenty, a także przedmioty służące do ich zabezpieczenia lub zapewnienia kamuflażu. Podstawa: § 6.",
+      "source": "§ 6"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-021",
+      "type": "single_choice",
+      "category": "Posługiwanie się dokumentem",
+      "difficulty": "easy",
+      "question": "Policjant chce użyć dokumentu w sytuacji innej niż wskazana we wniosku o jego wydanie. Które zachowanie jest prawidłowe?",
+      "choices": [
+        "Nie powinien używać dokumentu poza okolicznościami określonymi we wniosku",
+        "Może użyć dokumentu w każdej czynności służbowej bez dodatkowych ograniczeń",
+        "Może użyć dokumentu prywatnie, jeżeli nie ujawni danych rzeczywistych",
+        "Może użyć dokumentu w dowolnej sprawie po ustnym poleceniu innego policjanta"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dokumentem można posługiwać się wyłącznie w okolicznościach określonych we wniosku o jego wydanie. Podstawa: § 7.",
+      "source": "§ 7"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-022",
+      "type": "single_choice",
+      "category": "Okres używania dokumentu",
+      "difficulty": "easy",
+      "question": "Dokument ma zostać wydany osobie udzielającej pomocy Policji. Na jaki okres powinien zostać wydany?",
+      "choices": [
+        "Na okres niezbędny do wykonania zadania służbowego",
+        "Na czas nieograniczony, niezależnie od potrzeb zadania",
+        "Zawsze na jeden rok kalendarzowy",
+        "Wyłącznie na czas nie dłuższy niż 24 godziny"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dokumenty wydaje się policjantowi lub osobie udzielającej pomocy na okres niezbędny do wykonania zadania służbowego. Podstawa: § 8 ust. 1.",
+      "source": "§ 8 ust. 1"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-023",
+      "type": "single_choice",
+      "category": "Zwrot dokumentu",
+      "difficulty": "easy",
+      "question": "Dokument utracił ważność i nie może być dalej używany w dotychczasowej formie. Co należy z nim zrobić w pierwszej kolejności?",
+      "choices": [
+        "Niezwłocznie zwrócić go do komórki wydającej",
+        "Pozostawić go użytkownikowi bez żadnych dalszych czynności",
+        "Przekazać go dowolnej osobie udzielającej pomocy Policji",
+        "Zniszczyć samodzielnie bez protokołu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dokumenty, które utraciły ważność lub są nieprzydatne, podlegają niezwłocznemu zwrotowi do komórki wydającej. Podstawa: § 8 ust. 2.",
+      "source": "§ 8 ust. 2"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-024",
+      "type": "single_choice",
+      "category": "Postępowanie z dokumentem po zwrocie",
+      "difficulty": "medium",
+      "question": "Dokument utracił ważność, ale nadal istnieje potrzeba jego dalszego wykorzystywania. Jak należy z nim postąpić?",
+      "choices": [
+        "Zaktualizować go i zwrócić wnioskodawcy",
+        "Zniszczyć go komisyjnie jako trwale nieprzydatny",
+        "Pozostawić bez aktualizacji w odrębnym zbiorze",
+        "Przekazać do prywatnego przechowania użytkownika"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dokumenty, które utraciły ważność, a istnieje potrzeba dalszego ich wykorzystywania, podlegają aktualizacji i zwrotowi do wnioskodawcy. Podstawa: § 8 ust. 3 pkt 1.",
+      "source": "§ 8 ust. 3 pkt 1"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-025",
+      "type": "single_choice",
+      "category": "Postępowanie z dokumentem po zwrocie",
+      "difficulty": "medium",
+      "question": "Dokument jest nieprzydatny w danej sprawie, ale może jeszcze przydać się w przyszłości. Jakie postępowanie przewiduje rozporządzenie?",
+      "choices": [
+        "Przechowywanie go w odrębnych zbiorach okresowo weryfikowanych pod względem ewentualnej przydatności",
+        "Natychmiastowe zniszczenie bez oceny jego przydatności",
+        "Przekazanie go osobie postronnej do dalszego wykorzystania",
+        "Pozostawienie go poza ewidencją do decyzji użytkownika"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dokumenty nieprzydatne w danej sprawie przechowuje się w odrębnych zbiorach, okresowo weryfikowanych pod względem ewentualnej przydatności w przyszłości. Podstawa: § 8 ust. 3 pkt 2.",
+      "source": "§ 8 ust. 3 pkt 2"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-026",
+      "type": "single_choice",
+      "category": "Niszczenie dokumentów",
+      "difficulty": "medium",
+      "question": "Dokument trwale utracił przydatność. Jaki sposób zakończenia jego obiegu jest właściwy?",
+      "choices": [
+        "Komisyjne, protokolarne zniszczenie",
+        "Samodzielne zniszczenie przez użytkownika bez dokumentowania",
+        "Przekazanie dokumentu do swobodnego użycia innej jednostce",
+        "Pozostawienie dokumentu użytkownikowi bez obowiązku zwrotu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dokumenty, które trwale utraciły swoją przydatność, podlegają komisyjnemu, protokolarnemu zniszczeniu. Podstawa: § 8 ust. 3 pkt 3.",
+      "source": "§ 8 ust. 3 pkt 3"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-027",
+      "type": "single_choice",
+      "category": "Dokumenty uzyskane w trybie szczególnym",
+      "difficulty": "medium",
+      "question": "Dokument został uzyskany przez jednostkę w trybie upoważnienia do wydawania lub uzyskania dokumentu. Kto wykonuje czynności związane z aktualizacją, przechowywaniem lub zniszczeniem takiego dokumentu?",
+      "choices": [
+        "Jednostka lub komórka organizacyjna, w której dokument był wykorzystywany, z powiadomieniem komórki wydającej",
+        "Wyłącznie użytkownik dokumentu bez obowiązku informowania kogokolwiek",
+        "Dowolny organ administracji publicznej wskazany przez użytkownika",
+        "Wyłącznie osoba udzielająca pomocy Policji"
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadku uzyskania dokumentu w trybie upoważnienia do wydawania we własnym zakresie lub uzyskania kolejnego dokumentu czynności dotyczące dalszego postępowania z dokumentem wykonuje jednostka lub komórka, w której dokument był wykorzystywany, powiadamiając komórkę wydającą. Podstawa: § 8 ust. 4.",
+      "source": "§ 8 ust. 4"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-028",
+      "type": "single_choice",
+      "category": "Zwrot dokumentu",
+      "difficulty": "medium",
+      "question": "Dokument został wydany bez obowiązku zwrotu. Czy stosuje się do niego zwykłe zasady wydania na okres zadania, zwrotu i dalszego postępowania po zwrocie?",
+      "choices": [
+        "Nie, tych zasad nie stosuje się do dokumentów wydanych bez obowiązku zwrotu",
+        "Tak, zawsze stosuje się je w pełnym zakresie",
+        "Tak, ale tylko wobec dokumentów krajowych",
+        "Nie, ale wyłącznie wtedy, gdy użytkownikiem jest kierownik komórki"
+      ],
+      "correctIndex": 0,
+      "explanation": "Przepisów dotyczących wydania na okres niezbędny do zadania, zwrotu oraz dalszego postępowania z dokumentami nie stosuje się do dokumentów wydanych bez obowiązku ich zwrotu. Podstawa: § 8 ust. 5.",
+      "source": "§ 8 ust. 5"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-029",
+      "type": "single_choice",
+      "category": "Dokumentacja",
+      "difficulty": "easy",
+      "question": "Kto prowadzi dokumentację dotyczącą wykonania, wydawania, przedłużania, zwrotu i wykorzystywania dokumentów?",
+      "choices": [
+        "Policjanci wyznaczeni przez wnioskodawców, w postaci wyodrębnionych zbiorów",
+        "Każdy użytkownik dokumentu prywatnie i bez wyodrębniania zbiorów",
+        "Wyłącznie organy administracji samorządowej",
+        "Dowolna osoba udzielająca pomocy Policji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dokumentację dotyczącą wykonania, wydawania, przedłużania, zwrotu i wykorzystywania dokumentów prowadzą w postaci wyodrębnionych zbiorów policjanci wyznaczeni przez wnioskodawców. Podstawa: § 9.",
+      "source": "§ 9"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-030",
+      "type": "single_choice",
+      "category": "Ewidencja dokumentów",
+      "difficulty": "medium",
+      "question": "Dokument został wydany w podstawowym trybie przez właściwy organ Policji. Gdzie powinna być prowadzona jego ewidencja?",
+      "choices": [
+        "W komórce wydającej, a w odniesieniu do wszystkich dokumentów posiadanych przez komórkę także w komórce organizacyjnej wnioskodawcy",
+        "Wyłącznie u użytkownika dokumentu",
+        "Wyłącznie w organie administracji, który ma kontakt z dokumentem",
+        "Nigdzie, jeżeli dokument dotyczy czynności operacyjno-rozpoznawczych"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ewidencja dokumentów jest prowadzona w komórce wydającej w odniesieniu do dokumentów wydanych w określonych trybach oraz w komórce organizacyjnej wnioskodawcy w odniesieniu do wszystkich dokumentów posiadanych przez tę komórkę. Podstawa: § 10 ust. 1.",
+      "source": "§ 10 ust. 1"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-031",
+      "type": "single_choice",
+      "category": "Ewidencja dokumentów",
+      "difficulty": "easy",
+      "question": "Komórka chce prowadzić ewidencję dokumentów w formie elektronicznej zamiast kartoteki. Czy rozporządzenie to dopuszcza?",
+      "choices": [
+        "Tak, ewidencja może być prowadzona w postaci kartoteki albo w systemie elektronicznym",
+        "Nie, ewidencja musi być prowadzona wyłącznie w formie papierowej księgi",
+        "Nie, rozporządzenie zabrania prowadzenia ewidencji dokumentów",
+        "Tak, ale tylko po zakończeniu wszystkich czynności z dokumentem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ewidencja może być prowadzona w postaci kartoteki albo w systemie elektronicznym. Podstawa: § 10 ust. 2.",
+      "source": "§ 10 ust. 2"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-032",
+      "type": "single_choice",
+      "category": "Ewidencja dokumentów",
+      "difficulty": "medium",
+      "question": "W ewidencji dokumentu trzeba odnotować informacje pozwalające go zidentyfikować. Który wpis jest wymagany?",
+      "choices": [
+        "Nazwa i cechy identyfikacyjne dokumentu",
+        "Wyłącznie ocena skuteczności czynności operacyjnych",
+        "Wyłącznie informacja o prywatnym adresie przełożonego",
+        "Wyłącznie ogólny opis sprawy bez danych dokumentu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ewidencja powinna zawierać informacje o nazwie i cechach identyfikacyjnych dokumentu. Podstawa: § 10 ust. 2 pkt 1.",
+      "source": "§ 10 ust. 2 pkt 1"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-033",
+      "type": "single_choice",
+      "category": "Ewidencja dokumentów",
+      "difficulty": "medium",
+      "question": "Ewidencja dotyczy dokumentu rejestracyjnego używanego przy środku transportu. Która informacja powinna zostać w niej ujęta?",
+      "choices": [
+        "Dane identyfikujące środek transportu",
+        "Wyłącznie kolor pojazdu wskazany przez użytkownika",
+        "Wyłącznie trasa przejazdu w czasie zadania",
+        "Wyłącznie dane osoby, która zatankowała pojazd"
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadku dokumentu rejestracyjnego ewidencja powinna zawierać dane identyfikujące środek transportu. Podstawa: § 10 ust. 2 pkt 5.",
+      "source": "§ 10 ust. 2 pkt 5"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-034",
+      "type": "single_choice",
+      "category": "Ewidencja dokumentów",
+      "difficulty": "medium",
+      "question": "Dokument został utracony albo zniszczony. Jaka informacja powinna pojawić się w ewidencji?",
+      "choices": [
+        "Informacja o skreśleniu dokumentu z ewidencji w przypadku jego utraty lub zniszczenia",
+        "Wyłącznie ustne wyjaśnienie użytkownika bez wpisu w ewidencji",
+        "Adnotacja, że dokument pozostaje ważny bez zmian",
+        "Informacja o przekazaniu dokumentu do dalszego użycia innej osobie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ewidencja powinna zawierać informację o skreśleniu dokumentu z ewidencji w przypadku jego utraty lub zniszczenia. Podstawa: § 10 ust. 2 pkt 6.",
+      "source": "§ 10 ust. 2 pkt 6"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-035",
+      "type": "single_choice",
+      "category": "Przechowywanie dokumentów",
+      "difficulty": "easy",
+      "question": "Dokumenty są aktualnie użytkowane, ale nie ma potrzeby stałego posiadania ich przez użytkownika. Kto powinien je przechowywać?",
+      "choices": [
+        "Policjanci wyznaczeni przez wnioskodawcę",
+        "Dowolna osoba postronna wskazana przez użytkownika",
+        "Użytkownik bez żadnej ewidencji",
+        "Organ samorządowy właściwy dla miejsca wykonywania czynności"
+      ],
+      "correctIndex": 0,
+      "explanation": "Użytkowane dokumenty przechowują policjanci wyznaczeni przez wnioskodawcę, chyba że zachodzi potrzeba stałego posiadania dokumentu przez użytkownika. Podstawa: § 11 ust. 1–2.",
+      "source": "§ 11 ust. 1–2"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-036",
+      "type": "single_choice",
+      "category": "Przechowywanie dokumentów",
+      "difficulty": "medium",
+      "question": "Użytkownik musi stale posiadać dokument przy sobie ze względu na charakter zadania. Czy zasada przechowywania dokumentu przez wyznaczonych policjantów zawsze ma wtedy zastosowanie?",
+      "choices": [
+        "Nie, nie stosuje się jej, jeżeli zachodzi potrzeba stałego posiadania dokumentu przez użytkownika",
+        "Tak, dokument zawsze musi pozostawać fizycznie u policjanta prowadzącego ewidencję",
+        "Tak, ale wyłącznie w godzinach pracy jednostki",
+        "Nie, lecz tylko wtedy, gdy dokument został zniszczony"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zasady przechowywania użytkowanych dokumentów przez wyznaczonych policjantów nie stosuje się, jeżeli zachodzi potrzeba stałego posiadania dokumentu przez użytkownika. Podstawa: § 11 ust. 2.",
+      "source": "§ 11 ust. 2"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-037",
+      "type": "single_choice",
+      "category": "Wydanie i zwrot dokumentu",
+      "difficulty": "easy",
+      "question": "Użytkownik pobiera dokument do zadania, a po jego wykorzystaniu zwraca go. Jak powinny być potwierdzone te czynności?",
+      "choices": [
+        "Za pokwitowaniem przy wydaniu i zwrocie dokumentu",
+        "Wyłącznie ustnym oświadczeniem użytkownika",
+        "Nie wymagają żadnego potwierdzenia",
+        "Wyłącznie wpisem w prywatnym notatniku użytkownika"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wydanie i zwrot dokumentu przez użytkownika odbywa się za pokwitowaniem. Podstawa: § 11 ust. 3.",
+      "source": "§ 11 ust. 3"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-038",
+      "type": "single_choice",
+      "category": "Ewidencja wykorzystywania",
+      "difficulty": "medium",
+      "question": "Policjant prowadzący ewidencję wykorzystywania dokumentów odnotowuje pobranie dokumentu. Który zestaw informacji powinien ująć?",
+      "choices": [
+        "Dane pobierającego, datę pobrania i zwrotu, oznaczenie sprawy oraz pokwitowanie pobrania i zwrotu",
+        "Wyłącznie datę rozpoczęcia zadania bez danych pobierającego",
+        "Wyłącznie nazwisko przełożonego bez oznaczenia sprawy",
+        "Wyłącznie opis efektów operacyjnych uzyskanych z użyciem dokumentu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ewidencja wykorzystywania dokumentów zawiera w szczególności dane osobowe pobierającego, datę pobrania i zwrotu dokumentu, oznaczenie sprawy oraz pokwitowanie pobrania i zwrotu. Podstawa: § 11 ust. 4.",
+      "source": "§ 11 ust. 4"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-039",
+      "type": "single_choice",
+      "category": "Utrata lub zniszczenie dokumentu",
+      "difficulty": "medium",
+      "question": "Dokument został utracony podczas realizacji zadania. Jakie działanie powinien podjąć wnioskodawca?",
+      "choices": [
+        "Przeprowadzić czynności wyjaśniające w celu określenia przyczyn i skutków utraty oraz wystąpić o skreślenie dokumentu z ewidencji",
+        "Poprzestać na ustnym zgłoszeniu użytkownika bez dalszych czynności",
+        "Wystawić nowy dokument bez informowania właściwego organu",
+        "Zniszczyć pozostałą dokumentację dotyczącą utraconego dokumentu"
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadku utraty lub całkowitego zniszczenia dokumentu wnioskodawca przeprowadza czynności wyjaśniające, a następnie występuje do Komendanta Głównego Policji za pośrednictwem komórki wydającej o skreślenie dokumentu z ewidencji. Podstawa: § 12.",
+      "source": "§ 12"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-040",
+      "type": "single_choice",
+      "category": "Utrata lub zniszczenie dokumentu",
+      "difficulty": "medium",
+      "question": "Wnioskodawca składa wniosek o skreślenie z ewidencji dokumentu, który uległ całkowitemu zniszczeniu. Co powinien umieścić we wniosku?",
+      "choices": [
+        "Informację o wynikach czynności wyjaśniających",
+        "Wyłącznie prośbę użytkownika o wydanie nowego dokumentu",
+        "Wyłącznie nazwę komórki, która dokument wykorzystywała",
+        "Informację o odstąpieniu od ustalania przyczyn zniszczenia"
+      ],
+      "correctIndex": 0,
+      "explanation": "We wniosku o skreślenie dokumentu z ewidencji umieszcza się informację o wynikach czynności wyjaśniających dotyczących przyczyn i skutków utraty lub zniszczenia. Podstawa: § 12.",
+      "source": "§ 12"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-041",
+      "type": "single_choice",
+      "category": "Obowiązki przełożonych",
+      "difficulty": "easy",
+      "question": "Przełożony zleca zadanie służbowe z wykorzystaniem dokumentu ukrywającego dane identyfikujące. Jak powinien organizować służbę i zadania?",
+      "choices": [
+        "W sposób niezagrażający bezpieczeństwu policjanta lub osoby udzielającej pomocy",
+        "W sposób zapewniający maksymalne ujawnienie metod działania",
+        "Bez uwzględniania bezpieczeństwa osoby udzielającej pomocy",
+        "Wyłącznie według uznania użytkownika dokumentu, bez obowiązków przełożonego"
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy zlecaniu zadań służbowych z wykorzystaniem dokumentów przełożeni mają obowiązek organizować służbę i określać zadania w sposób niezagrażający bezpieczeństwu policjanta lub osoby udzielającej pomocy. Podstawa: § 13 pkt 1.",
+      "source": "§ 13 pkt 1"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-042",
+      "type": "single_choice",
+      "category": "Obowiązki przełożonych",
+      "difficulty": "medium",
+      "question": "Podczas zadania pojawia się zdarzenie grożące ujawnieniem wykonywanych czynności. Co powinien zrobić przełożony?",
+      "choices": [
+        "Niezwłocznie podjąć działania w celu usunięcia lub maksymalnego ograniczenia skutków takiego zdarzenia",
+        "Odłożyć reakcję do zakończenia całej sprawy",
+        "Pozostawić reakcję wyłącznie użytkownikowi dokumentu bez własnego działania",
+        "Zaniechać działań, jeżeli dokument został wcześniej wydany prawidłowo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Przełożeni są obowiązani niezwłocznie podjąć działania w celu usunięcia lub maksymalnego ograniczenia skutków zdarzeń grożących ujawnieniem wykonywanych zadań służbowych. Podstawa: § 13 pkt 2.",
+      "source": "§ 13 pkt 2"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-043",
+      "type": "single_choice",
+      "category": "Ochrona informacji",
+      "difficulty": "easy",
+      "question": "Komórka organizacyjna opracowuje procedurę przechowywania i ewidencji dokumentów. Jakie przepisy musi uwzględnić przy tych czynnościach?",
+      "choices": [
+        "Przepisy o ochronie informacji niejawnych",
+        "Wyłącznie przepisy o archiwizacji jawnych dokumentów biurowych",
+        "Wyłącznie wewnętrzne ustalenia użytkownika dokumentu",
+        "Wyłącznie przepisy o postępowaniu mandatowym"
+      ],
+      "correctIndex": 0,
+      "explanation": "Do wydawania, posługiwania się, przechowywania i ewidencji dokumentów stosuje się przepisy o ochronie informacji niejawnych. Podstawa: § 14.",
+      "source": "§ 14"
+    },
+    {
+      "id": "rozporzadzenie-dokumenty-policyjne-044",
+      "type": "single_choice",
+      "category": "Wejście w życie",
+      "difficulty": "easy",
+      "question": "Jednostka ustala, od kiedy należy stosować nowe zasady wynikające z rozporządzenia. Który moment jest właściwy?",
+      "choices": [
+        "Po upływie 14 dni od dnia ogłoszenia rozporządzenia",
+        "W dniu podpisania rozporządzenia przez ministra",
+        "Po upływie roku od dnia ogłoszenia",
+        "Wyłącznie od dnia wydania pierwszego dokumentu na jego podstawie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Podstawa: § 16.",
+      "source": "§ 16"
+    }
+  ]
+}

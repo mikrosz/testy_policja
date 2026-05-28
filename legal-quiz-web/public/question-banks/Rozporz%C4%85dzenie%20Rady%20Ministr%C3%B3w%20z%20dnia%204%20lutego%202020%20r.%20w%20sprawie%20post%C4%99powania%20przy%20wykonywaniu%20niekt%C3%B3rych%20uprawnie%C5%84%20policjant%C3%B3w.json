@@ -1,0 +1,1591 @@
+{
+  "title": "Rozporządzenie Rady Ministrów z dnia 4 lutego 2020 r. w sprawie postępowania przy wykonywaniu niektórych uprawnień policjantów",
+  "description": "Baza pytań praktycznych opracowana wyłącznie na podstawie przesłanego aktu prawnego.",
+  "question_count": 99,
+  "questions": [
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-001",
+      "type": "single_choice",
+      "category": "Zakres rozporządzenia",
+      "difficulty": "easy",
+      "question": "Policjant ma ustalić tożsamość osoby podczas interwencji. Który aktowy obszar procedury obejmuje ta czynność?",
+      "choices": [
+        "Legitymowanie osób w celu ustalenia ich tożsamości.",
+        "Wyłącznie czynności operacyjno-rozpoznawcze prowadzone niejawnie.",
+        "Wyłącznie dokumentowanie użycia środków przymusu bezpośredniego.",
+        "Tylko czynności wykonywane po zatrzymaniu osoby w jednostce Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozporządzenie obejmuje sposób postępowania i wzory dokumentów przy legitymowaniu osób w celu ustalenia ich tożsamości. Podstawa: § 1 pkt 1.",
+      "source": "§ 1 pkt 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-002",
+      "type": "single_choice",
+      "category": "Zakres rozporządzenia",
+      "difficulty": "easy",
+      "question": "Patrol ma zatrzymać osobę, która po zezwoleniu na opuszczenie zakładu karnego nie wróciła w wyznaczonym terminie. Czy ten przypadek jest objęty rozporządzeniem?",
+      "choices": [
+        "Tak, rozporządzenie obejmuje taki rodzaj zatrzymania.",
+        "Nie, rozporządzenie dotyczy tylko legitymowania.",
+        "Tak, ale wyłącznie gdy osoba zgodzi się na doprowadzenie.",
+        "Nie, bo taki przypadek może być dokumentowany tylko w notatniku służbowym."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozporządzenie obejmuje zatrzymywanie osób pozbawionych wolności, które na podstawie zezwolenia opuściły areszt śledczy albo zakład karny i w terminie nie powróciły. Podstawa: § 1 pkt 2 lit. a.",
+      "source": "§ 1 pkt 2 lit. a"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-003",
+      "type": "single_choice",
+      "category": "Zakres rozporządzenia",
+      "difficulty": "easy",
+      "question": "Policjant podejmuje czynność wobec osoby stwarzającej oczywiste bezpośrednie zagrożenie dla życia ludzi i mienia. Który typ uprawnienia jest w tej sytuacji właściwy?",
+      "choices": [
+        "Zatrzymanie osoby objęte procedurą rozporządzenia.",
+        "Wyłącznie pouczenie osoby o możliwości złożenia skargi.",
+        "Tylko zwrócenie się do osoby postronnej o pomoc.",
+        "Wyłącznie obserwowanie i rejestrowanie obrazu zdarzenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozporządzenie obejmuje zatrzymywanie osób stwarzających w sposób oczywisty bezpośrednie zagrożenie dla życia lub zdrowia ludzkiego, a także dla mienia. Podstawa: § 1 pkt 2 lit. b.",
+      "source": "§ 1 pkt 2 lit. b"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-004",
+      "type": "single_choice",
+      "category": "Zakres rozporządzenia",
+      "difficulty": "medium",
+      "question": "Policjant ma pobrać wymaz ze śluzówki policzków od osoby, której tożsamości nie da się ustalić innymi metodami. Czy rozporządzenie reguluje taką czynność?",
+      "choices": [
+        "Nie, bo pobieranie materiału biologicznego zawsze odbywa się wyłącznie według procedury medycznej.",
+        "Tak, gdy chodzi o identyfikację osoby o nieustalonej tożsamości albo osoby próbującej ją ukryć.",
+        "Tak, ale tylko po uprzednim wydaniu postanowienia przez sąd.",
+        "Nie, rozporządzenie dotyczy wyłącznie zatrzymania osób."
+      ],
+      "correctIndex": 1,
+      "explanation": "Rozporządzenie obejmuje pobieranie od osób o nieustalonej tożsamości oraz osób usiłujących ukryć swoją tożsamość odcisków linii papilarnych lub wymazu ze śluzówki policzków w celu identyfikacji, gdy ustalenie tożsamości w inny sposób nie jest możliwe. Podstawa: § 1 pkt 3 lit. a.",
+      "source": "§ 1 pkt 3 lit. a"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-005",
+      "type": "single_choice",
+      "category": "Zakres rozporządzenia",
+      "difficulty": "medium",
+      "question": "Rodzina osoby zaginionej zgadza się na pobranie wymazu w celu identyfikacji zwłok o nieustalonej tożsamości. Które rozwiązanie odpowiada procedurze z rozporządzenia?",
+      "choices": [
+        "Pobranie wymazu po uzyskaniu zgody osoby, od której ma być pobrany materiał.",
+        "Pobranie wymazu wyłącznie po zatrzymaniu tej osoby.",
+        "Pobranie wymazu tylko po zastosowaniu sprawdzenia prewencyjnego.",
+        "Odmowa pobrania, bo rozporządzenie nie obejmuje identyfikacji osób zaginionych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozporządzenie obejmuje pobieranie, po uzyskaniu zgody, wymazu ze śluzówki policzków w celu identyfikacji osób zaginionych lub zwłok o nieustalonej tożsamości. Podstawa: § 1 pkt 3 lit. b.",
+      "source": "§ 1 pkt 3 lit. b"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-006",
+      "type": "single_choice",
+      "category": "Zakres rozporządzenia",
+      "difficulty": "easy",
+      "question": "Podczas interwencji poza miejscem publicznym policjant ma rejestrować obraz lub dźwięk. Czy rozporządzenie obejmuje taki sposób wykonywania uprawnienia?",
+      "choices": [
+        "Tak, jeżeli chodzi o przypadki interwencji w miejscach innych niż publiczne wskazane w rozporządzeniu.",
+        "Nie, rejestrowanie jest dopuszczalne tylko na drogach publicznych.",
+        "Tak, ale wyłącznie bez dokumentowania miejsca i czasu czynności.",
+        "Nie, bo rozporządzenie reguluje tylko czynności wykonywane w jednostce Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozporządzenie obejmuje obserwowanie i rejestrowanie obrazu lub dźwięku m.in. w trakcie interwencji w miejscach innych niż publiczne i w policyjnych środkach transportu oraz określa sposób przechowywania, odtwarzania i kopiowania zapisów. Podstawa: § 1 pkt 5 lit. b.",
+      "source": "§ 1 pkt 5 lit. b"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-007",
+      "type": "single_choice",
+      "category": "Zakres rozporządzenia",
+      "difficulty": "medium",
+      "question": "Policjant potrzebuje pomocy od przedsiębiorcy wykonującego zadania użyteczności publicznej. Który tryb wynika z rozporządzenia?",
+      "choices": [
+        "Żądanie udzielenia niezbędnej pomocy.",
+        "Wyłącznie dobrowolna prośba bez obowiązku dokumentowania.",
+        "Zawsze sporządzenie protokołu zatrzymania osoby.",
+        "Tylko ustne wezwanie bez późniejszego potwierdzenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozporządzenie obejmuje żądanie niezbędnej pomocy od instytucji państwowych, organów administracji oraz przedsiębiorców prowadzących działalność w zakresie użyteczności publicznej. Podstawa: § 1 pkt 6.",
+      "source": "§ 1 pkt 6"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-008",
+      "type": "single_choice",
+      "category": "Zakres rozporządzenia",
+      "difficulty": "medium",
+      "question": "Policjant chce wydać osobie polecenie określonego zachowania się, aby uniknąć bezpośredniego zagrożenia dla bezpieczeństwa osób. Czy rozporządzenie obejmuje sposób takiego działania?",
+      "choices": [
+        "Tak, rozporządzenie obejmuje wydawanie poleceń, gdy jest to niezbędne do realizacji zadań Policji lub uniknięcia zagrożenia.",
+        "Nie, bo takie polecenia nigdy nie są dokumentowane.",
+        "Tak, ale wyłącznie w pomieszczeniach dla osób zatrzymanych.",
+        "Nie, bo rozporządzenie dotyczy tylko pomocy udzielanej Policji przez instytucje."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozporządzenie obejmuje wydawanie osobom poleceń określonego zachowania się m.in. w celu uniknięcia bezpośredniego zagrożenia bezpieczeństwa osób lub mienia oraz sprawnej realizacji zadań Policji. Podstawa: § 1 pkt 9.",
+      "source": "§ 1 pkt 9"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-009",
+      "type": "single_choice",
+      "category": "Zasady ogólne czynności",
+      "difficulty": "easy",
+      "question": "Policjant przystępuje do legitymowania osoby. Jakie informacje powinien podać na początku czynności?",
+      "choices": [
+        "Stopień, imię i nazwisko oraz przyczynę podjęcia czynności, a na żądanie także podstawę prawną.",
+        "Wyłącznie numer identyfikacyjny i nazwę komisariatu.",
+        "Tylko przyczynę czynności, bez danych umożliwiających identyfikację policjanta.",
+        "Nie musi podawać żadnych informacji, jeżeli czynność jest krótka."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy czynnościach związanych m.in. z legitymowaniem policjant podaje stopień, imię i nazwisko w sposób umożliwiający odnotowanie danych, przyczynę czynności, a na żądanie podstawę prawną. Podstawa: § 2 ust. 1.",
+      "source": "§ 2 ust. 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-010",
+      "type": "single_choice",
+      "category": "Zasady ogólne czynności",
+      "difficulty": "easy",
+      "question": "Policjant nieumundurowany wykonuje czynność wobec osoby i nie zachodzi wyjątek dotyczący szczególnego trybu z ustawy o Policji. Jak powinien postąpić z legitymacją służbową?",
+      "choices": [
+        "Powinien okazać legitymację, a na żądanie okazać ją tak, aby można było odnotować zawarte w niej dane.",
+        "Powinien okazać legitymację dopiero po zakończeniu czynności.",
+        "Nie okazuje legitymacji, jeżeli poda nazwisko ustnie.",
+        "Okazuje legitymację wyłącznie przełożonemu obecnemu na miejscu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant nieumundurowany przy wykonywaniu wskazanych uprawnień okazuje legitymację służbową, a na żądanie osoby okazuje ją w sposób umożliwiający odnotowanie danych. Podstawa: § 2 ust. 2.",
+      "source": "§ 2 ust. 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-011",
+      "type": "single_choice",
+      "category": "Zasady ogólne czynności",
+      "difficulty": "medium",
+      "question": "Policjant dokonuje sprawdzenia prewencyjnego osoby. Kiedy musi podać stopień, imię, nazwisko i przyczynę czynności?",
+      "choices": [
+        "Zawsze przed dotknięciem bagażu, niezależnie od okoliczności.",
+        "Na żądanie osoby, wobec której czynność jest realizowana.",
+        "Dopiero po sporządzeniu notatki urzędowej.",
+        "Tylko wtedy, gdy czynność zakończy się odebraniem przedmiotu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Przy sprawdzeniu prewencyjnym oraz wydawaniu poleceń informacje z § 2 ust. 1 podaje się na żądanie osoby, wobec której czynność jest realizowana. Podstawa: § 2 ust. 3.",
+      "source": "§ 2 ust. 3"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-012",
+      "type": "single_choice",
+      "category": "Zasady ogólne czynności",
+      "difficulty": "easy",
+      "question": "Po zakończeniu legitymowania osoba pyta, czy może zakwestionować sposób przeprowadzenia czynności. Co powinien zrobić policjant?",
+      "choices": [
+        "Ustnie poinformować o prawie złożenia zażalenia do właściwego miejscowo prokuratora.",
+        "Poinformować, że zażalenie jest dopuszczalne wyłącznie do sądu okręgowego.",
+        "Odmówić informacji, bo pouczenia udziela się tylko osobom zatrzymanym.",
+        "Poinformować, że skarga jest możliwa dopiero po wszczęciu postępowania karnego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Po zakończeniu m.in. legitymowania policjant informuje ustnie osobę o prawie złożenia do właściwego miejscowo prokuratora zażalenia na sposób przeprowadzenia czynności. Podstawa: § 2 ust. 4.",
+      "source": "§ 2 ust. 4"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-013",
+      "type": "single_choice",
+      "category": "Zasady ogólne czynności",
+      "difficulty": "medium",
+      "question": "Podczas czynności policjant ujawnia przedmiot stwarzający niebezpieczeństwo dla życia ludzi. Jak powinien zareagować w granicach dostępnych środków?",
+      "choices": [
+        "Niezwłocznie podjąć czynności ochronne, zabezpieczyć miejsce i powiadomić dyżurnego właściwej jednostki o potrzebie działań usuwających niebezpieczeństwo.",
+        "Zabezpieczyć przedmiot dopiero po uzyskaniu pisemnego polecenia prokuratora.",
+        "Poprzestać na wpisie w notatniku, jeżeli właściciel przedmiotu jest znany.",
+        "Przekazać przedmiot osobie postronnej do przechowania."
+      ],
+      "correctIndex": 0,
+      "explanation": "Gdy ujawnione przedmioty stwarzają niebezpieczeństwo dla życia, zdrowia lub mienia, policjant niezwłocznie podejmuje czynności ochronne, w szczególności zabezpiecza miejsce i powiadamia dyżurnego o konieczności działań usuwających niebezpieczeństwo. Podstawa: § 3.",
+      "source": "§ 3"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-014",
+      "type": "single_choice",
+      "category": "Legitymowanie",
+      "difficulty": "easy",
+      "question": "Osoba okazuje dowód osobisty. Czy policjant może ustalić na tej podstawie jej tożsamość?",
+      "choices": [
+        "Tak, dowód osobisty jest jedną z podstaw ustalenia tożsamości.",
+        "Nie, potrzebny jest wyłącznie dokument paszportowy.",
+        "Tak, ale tylko gdy inna osoba potwierdzi dane z dokumentu.",
+        "Nie, jeżeli osoba znajduje się w pojeździe."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant ustala tożsamość osoby legitymowanej m.in. na podstawie dowodu osobistego. Podstawa: § 4 pkt 1.",
+      "source": "§ 4 pkt 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-015",
+      "type": "single_choice",
+      "category": "Legitymowanie",
+      "difficulty": "easy",
+      "question": "Cudzoziemiec okazuje dokument paszportowy. Jak powinien ocenić to policjant wykonujący legitymowanie?",
+      "choices": [
+        "Może ustalić tożsamość na podstawie dokumentu paszportowego.",
+        "Musi odmówić, bo rozporządzenie dopuszcza wyłącznie dokument polski.",
+        "Może użyć dokumentu paszportowego tylko razem z oświadczeniem świadka.",
+        "Może przyjąć dokument paszportowy wyłącznie po zatrzymaniu osoby."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dokument paszportowy jest wskazany jako jedna z podstaw ustalenia tożsamości osoby legitymowanej. Podstawa: § 4 pkt 2.",
+      "source": "§ 4 pkt 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-016",
+      "type": "single_choice",
+      "category": "Legitymowanie",
+      "difficulty": "medium",
+      "question": "Osoba okazuje zagraniczny dokument tożsamości. Która decyzja jest zgodna z rozporządzeniem?",
+      "choices": [
+        "Policjant może ustalić tożsamość na podstawie takiego dokumentu.",
+        "Policjant może przyjąć wyłącznie polski dowód osobisty.",
+        "Policjant musi każdorazowo pobrać odciski linii papilarnych.",
+        "Policjant może przyjąć dokument tylko wtedy, gdy jest przetłumaczony przez tłumacza przysięgłego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tożsamość osoby legitymowanej może być ustalona na podstawie zagranicznego dokumentu tożsamości. Podstawa: § 4 pkt 3.",
+      "source": "§ 4 pkt 3"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-017",
+      "type": "single_choice",
+      "category": "Legitymowanie",
+      "difficulty": "medium",
+      "question": "Osoba chce potwierdzić tożsamość dokumentem elektronicznym. Co jest istotne dla prawidłowego wykorzystania takiego dokumentu?",
+      "choices": [
+        "Dokument elektroniczny musi być okazany lub przekazany odpowiednio do żądania funkcjonariusza w celu potwierdzenia jego integralności, pochodzenia i ważności.",
+        "Dokument elektroniczny może być użyty tylko po wydrukowaniu go przez osobę legitymowaną.",
+        "Dokument elektroniczny nie może służyć do ustalenia tożsamości.",
+        "Wystarczy ustne zapewnienie osoby, że dokument znajduje się w telefonie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozporządzenie dopuszcza ustalenie tożsamości na podstawie dokumentu elektronicznego, który został okazany lub przekazany w celu potwierdzenia integralności, pochodzenia i ważności. Podstawa: § 4 pkt 4.",
+      "source": "§ 4 pkt 4"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-018",
+      "type": "single_choice",
+      "category": "Legitymowanie",
+      "difficulty": "medium",
+      "question": "Osoba nie ma dowodu ani paszportu, ale posiada inny dokument ze zdjęciem i numerem. Czy taki dokument może posłużyć do ustalenia tożsamości?",
+      "choices": [
+        "Tak, jeżeli dokument zawiera fotografię i jest oznaczony numerem lub serią.",
+        "Nie, bo jedyną podstawą jest dowód osobisty.",
+        "Tak, ale tylko jeśli dokument wystawiła Policja.",
+        "Nie, chyba że osoba zostanie wcześniej zatrzymana."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tożsamość można ustalić także na podstawie innego dokumentu zawierającego fotografię i oznaczonego numerem lub serią. Podstawa: § 4 pkt 5.",
+      "source": "§ 4 pkt 5"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-019",
+      "type": "single_choice",
+      "category": "Legitymowanie",
+      "difficulty": "hard",
+      "question": "Osoba nie ma dokumentu, ale w policyjnych zbiorach znajduje się jej zdjęcie z opisem wizerunku. Które działanie odpowiada rozporządzeniu?",
+      "choices": [
+        "Można ustalić tożsamość na podstawie informacji o osobie w postaci zdjęcia z opisem wizerunku zgromadzonych w dostępnych zbiorach.",
+        "Nie można użyć takich informacji, bo dopuszczalne są tylko dokumenty papierowe.",
+        "Trzeba odstąpić od czynności i wezwać osobę później z dokumentem.",
+        "Można użyć wyłącznie oświadczenia osoby legitymowanej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozporządzenie pozwala ustalić tożsamość na podstawie informacji o osobie w postaci zdjęcia wraz z opisem wizerunku lub odcisków linii papilarnych zgromadzonych w policyjnych zbiorach danych albo zbiorach, do których Policja ma dostęp. Podstawa: § 4 pkt 6.",
+      "source": "§ 4 pkt 6"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-020",
+      "type": "single_choice",
+      "category": "Legitymowanie",
+      "difficulty": "medium",
+      "question": "Osoba nie ma dokumentu, ale towarzyszy jej druga osoba, której tożsamość ustalono z dokumentu ze zdjęciem i numerem. Czy oświadczenie tej drugiej osoby może posłużyć do ustalenia tożsamości legitymowanej?",
+      "choices": [
+        "Tak, jeżeli tożsamość osoby składającej oświadczenie została ustalona na podstawie dopuszczonych dokumentów.",
+        "Nie, oświadczenia innych osób nigdy nie są podstawą ustalenia tożsamości.",
+        "Tak, ale tylko gdy osoba składająca oświadczenie jest funkcjonariuszem publicznym.",
+        "Nie, bo w takiej sytuacji zawsze trzeba pobrać wymaz ze śluzówki policzków."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tożsamość można ustalić na podstawie oświadczenia innej osoby, której tożsamość została ustalona na podstawie dokumentów wymienionych w rozporządzeniu. Podstawa: § 4 pkt 7.",
+      "source": "§ 4 pkt 7"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-021",
+      "type": "single_choice",
+      "category": "Legitymowanie",
+      "difficulty": "easy",
+      "question": "Policjant legitymuje osobę siedzącą w samochodzie i z powodów bezpieczeństwa chce, aby wysiadła. Czy może tego zażądać?",
+      "choices": [
+        "Tak, może żądać opuszczenia pojazdu przez tę osobę oraz inne osoby znajdujące się w pojeździe.",
+        "Nie, osoba legitymowana zawsze pozostaje w pojeździe.",
+        "Tak, ale tylko po wcześniejszym zatrzymaniu pojazdu jako dowodu rzeczowego.",
+        "Nie, chyba że osoba sama o to poprosi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy legitymowaniu osoby znajdującej się w pojeździe policjant, ze względów bezpieczeństwa, może żądać opuszczenia pojazdu przez tę osobę oraz inne osoby znajdujące się w pojeździe. Podstawa: § 5 ust. 1.",
+      "source": "§ 5 ust. 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-022",
+      "type": "single_choice",
+      "category": "Legitymowanie",
+      "difficulty": "medium",
+      "question": "Umundurowany policjant legitymuje kolejno kilka osób z tej samej przyczyny, stojących obok siebie. Jak może wykonać obowiązki informacyjne?",
+      "choices": [
+        "Może jednokrotnie wykonać obowiązki informacyjne łącznie wobec wszystkich tych osób.",
+        "Musi każdej osobie osobno odczytać pełne pouczenie z formularza zatrzymania.",
+        "Nie musi podawać żadnych danych, bo jest umundurowany.",
+        "Może wykonać obowiązki informacyjne wyłącznie wobec pierwszej osoby."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy następującym bezpośrednio po sobie legitymowaniu z tej samej przyczyny kolejnych osób znajdujących się w pobliżu policjant umundurowany jednokrotnie wykonuje czynności informacyjne łącznie wobec wszystkich tych osób. Podstawa: § 5 ust. 2.",
+      "source": "§ 5 ust. 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-023",
+      "type": "single_choice",
+      "category": "Legitymowanie",
+      "difficulty": "easy",
+      "question": "Policjant osobiście zna osobę, której tożsamość ma ustalić. Czy w takiej sytuacji konieczne jest klasyczne legitymowanie dokumentem?",
+      "choices": [
+        "Nie, jeżeli osoba jest znana osobiście policjantowi, ustalenie jej tożsamości nie wymaga legitymowania.",
+        "Tak, zawsze trzeba żądać dowodu osobistego.",
+        "Tak, chyba że osoba jest pracownikiem administracji publicznej.",
+        "Nie, ale tylko jeśli czynność odbywa się w jednostce Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Gdy osoba jest znana osobiście policjantowi, ustalenie jej tożsamości nie wymaga legitymowania. Podstawa: § 6.",
+      "source": "§ 6"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-024",
+      "type": "single_choice",
+      "category": "Dokumentowanie legitymowania",
+      "difficulty": "easy",
+      "question": "Policjant dokumentuje legitymowanie. Który zestaw informacji musi ująć co do samej czynności?",
+      "choices": [
+        "Datę, czas, miejsce i przyczynę legitymowania.",
+        "Wyłącznie datę i numer patrolu.",
+        "Tylko przyczynę czynności, bez miejsca jej wykonania.",
+        "Jedynie nazwę jednostki, w której pełni służbę."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dokumentując legitymowanie, policjant określa datę, czas, miejsce i przyczynę legitymowania. Podstawa: § 7 ust. 1.",
+      "source": "§ 7 ust. 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-025",
+      "type": "single_choice",
+      "category": "Dokumentowanie legitymowania",
+      "difficulty": "medium",
+      "question": "W dokumentacji legitymowania trzeba opisać osobę. Który zestaw danych jest zgodny z rozporządzeniem?",
+      "choices": [
+        "Imię lub imiona, nazwisko oraz adres zamieszkania lub pobytu.",
+        "Wyłącznie imię i numer telefonu.",
+        "Tylko pseudonim, jeżeli osoba go używa.",
+        "Wyłącznie numer rejestracyjny pojazdu, jeżeli osoba siedziała w samochodzie."
+      ],
+      "correctIndex": 0,
+      "explanation": "W dokumentacji legitymowania wskazuje się imię lub imiona, nazwisko oraz adres zamieszkania lub pobytu osoby legitymowanej. Podstawa: § 7 ust. 1 pkt 1.",
+      "source": "§ 7 ust. 1 pkt 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-026",
+      "type": "single_choice",
+      "category": "Dokumentowanie legitymowania",
+      "difficulty": "medium",
+      "question": "Osoba legitymowana nie ma ustalonego numeru identyfikacyjnego mieszkańca. Jakie dane powinny znaleźć się w dokumentacji zamiast niego?",
+      "choices": [
+        "Data i miejsce urodzenia, imiona rodziców oraz nazwisko rodowe.",
+        "Wyłącznie przybliżony wiek osoby.",
+        "Numer telefonu i miejsce pracy.",
+        "Tylko imię ojca i adres pobytu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Gdy brak informacji o numerze PESEL, dokumentacja obejmuje datę i miejsce urodzenia oraz imiona rodziców i nazwisko rodowe. Podstawa: § 7 ust. 1 pkt 2.",
+      "source": "§ 7 ust. 1 pkt 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-027",
+      "type": "single_choice",
+      "category": "Dokumentowanie legitymowania",
+      "difficulty": "medium",
+      "question": "Tożsamość osoby ustalono na podstawie informacji ze zbiorów policyjnych, a nie z dokumentu. Jak należy to ująć w dokumentacji?",
+      "choices": [
+        "Wskazać rodzaj informacji, na podstawie której ustalono tożsamość.",
+        "Pominąć podstawę ustalenia tożsamości, bo nie było dokumentu.",
+        "Wpisać fikcyjny numer dokumentu służbowego.",
+        "Wskazać wyłącznie nazwisko policjanta prowadzącego czynność."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli tożsamość ustalono na podstawie informacji, o której mowa w przepisach o legitymowaniu, dokumentacja obejmuje rodzaj tej informacji. Podstawa: § 7 ust. 1 pkt 3.",
+      "source": "§ 7 ust. 1 pkt 3"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-028",
+      "type": "single_choice",
+      "category": "Dokumentowanie legitymowania",
+      "difficulty": "easy",
+      "question": "Jednostka korzysta z elektronicznego dokumentowania czynności. Czy legitymowanie może zostać udokumentowane w takiej postaci?",
+      "choices": [
+        "Tak, dokumentowanie legitymowania może być realizowane w postaci elektronicznej.",
+        "Nie, zawsze wymagany jest wyłącznie papierowy notatnik służbowy.",
+        "Tak, ale tylko po zgodzie osoby legitymowanej.",
+        "Nie, postać elektroniczna jest dopuszczalna wyłącznie przy nagraniach obrazu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozporządzenie dopuszcza dokumentowanie legitymowania w postaci elektronicznej. Podstawa: § 7 ust. 2.",
+      "source": "§ 7 ust. 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-029",
+      "type": "single_choice",
+      "category": "Zatrzymywanie osób",
+      "difficulty": "easy",
+      "question": "Policjant przystępuje do standardowego zatrzymania osoby. Co powinien zrobić jako element procedury przed doprowadzeniem jej do jednostki?",
+      "choices": [
+        "Wykonać obowiązki informacyjne, dokonać sprawdzenia prewencyjnego, odebrać niebezpieczne przedmioty, wylegitymować osobę i poinformować ją o zatrzymaniu oraz obowiązku podporządkowania się poleceniom.",
+        "Wyłącznie założyć kajdanki i przewieźć osobę do jednostki.",
+        "Pobrać wymaz ze śluzówki policzków niezależnie od celu zatrzymania.",
+        "Sporządzić protokół na miejscu i odstąpić od doprowadzenia do jednostki."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy zatrzymywaniu osoby policjant wykonuje czynności informacyjne, dokonuje sprawdzenia prewencyjnego, odbiera wskazane przedmioty i urządzenia, legitymuje osobę, informuje ją o zatrzymaniu i doprowadza do jednostki. Podstawa: § 8 ust. 1.",
+      "source": "§ 8 ust. 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-030",
+      "type": "single_choice",
+      "category": "Zatrzymywanie osób",
+      "difficulty": "medium",
+      "question": "Podczas zatrzymania policjant sprawdza osobę pod kątem przedmiotów mogących posłużyć do czynu zabronionego. Które przedmioty powinien odebrać, jeżeli je ujawni?",
+      "choices": [
+        "Broń, niebezpieczne przedmioty, przedmioty zabronione, dowodowe lub podlegające przepadkowi oraz urządzenia telekomunikacyjne wskazane w procedurze.",
+        "Tylko dokumenty tożsamości osoby zatrzymywanej.",
+        "Wyłącznie pieniądze i karty płatnicze.",
+        "Tylko przedmioty, które osoba dobrowolnie wskaże."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozporządzenie nakazuje sprawdzenie m.in. broni, innych niebezpiecznych przedmiotów, przedmiotów zabronionych, mogących stanowić dowód, podlegających przepadkowi oraz urządzeń telekomunikacyjnych, a następnie ich odebranie. Podstawa: § 8 ust. 1 pkt 2 i 3.",
+      "source": "§ 8 ust. 1 pkt 2 i 3"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-031",
+      "type": "single_choice",
+      "category": "Zatrzymywanie osób",
+      "difficulty": "easy",
+      "question": "Policjant zatrzymuje osobę. Jaką informację powinien przekazać jej w związku z możliwością użycia środków przymusu?",
+      "choices": [
+        "Powinien uprzedzić ją o obowiązku podporządkowania się poleceniom oraz o możliwości użycia środków przymusu bezpośredniego lub broni palnej.",
+        "Powinien poinformować, że środki przymusu mogą być użyte tylko po pisemnej zgodzie dyżurnego.",
+        "Nie przekazuje takiej informacji, bo wystarczy sam fakt zatrzymania.",
+        "Powinien poinformować wyłącznie o prawie do odmowy podania danych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy zatrzymaniu policjant informuje osobę o zatrzymaniu oraz uprzedza o obowiązku podporządkowania się poleceniom i możliwości użycia środków przymusu bezpośredniego lub broni palnej. Podstawa: § 8 ust. 1 pkt 5.",
+      "source": "§ 8 ust. 1 pkt 5"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-032",
+      "type": "single_choice",
+      "category": "Zatrzymywanie osób",
+      "difficulty": "medium",
+      "question": "Policjant wie z posiadanych informacji, że zatrzymywana osoba może mieć broń. Jak powinien rozpocząć czynność?",
+      "choices": [
+        "Poprzedzić zatrzymanie okrzykiem „Policja!”, a następnie wykonać sprawdzenie prewencyjne i odebrać ujawnione przedmioty.",
+        "Najpierw sporządzić protokół zatrzymania, a dopiero potem podejść do osoby.",
+        "Odstąpić od zatrzymania, dopóki osoba sama nie odłoży broni.",
+        "Najpierw wręczyć pouczenie o uprawnieniach osoby zatrzymanej."
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadku osoby, co do której wynika, że może posiadać broń lub inne niebezpieczne przedmioty, policjant poprzedza zatrzymanie okrzykiem „Policja!”, a następnie dokonuje sprawdzenia prewencyjnego i odbiera wskazane przedmioty. Podstawa: § 8 ust. 2.",
+      "source": "§ 8 ust. 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-033",
+      "type": "single_choice",
+      "category": "Zatrzymywanie osób",
+      "difficulty": "hard",
+      "question": "W sytuacji wysokiego ryzyka policjant najpierw wykonał sprawdzenie prewencyjne i odebrał niebezpieczne przedmioty, a dopiero później podał dane identyfikujące policjanta i przyczynę czynności. Czy taka kolejność może odpowiadać procedurze?",
+      "choices": [
+        "Tak, w opisanej sytuacji procedura przewiduje najpierw okrzyk, sprawdzenie i odebranie przedmiotów, a następnie wykonanie obowiązków informacyjnych.",
+        "Nie, obowiązki informacyjne zawsze muszą poprzedzać każdą czynność wobec osoby.",
+        "Nie, sprawdzenie prewencyjne można wykonać dopiero po sporządzeniu protokołu.",
+        "Tak, ale tylko wtedy, gdy osoba jest już w jednostce Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy zatrzymywaniu osoby, która może posiadać broń lub inne niebezpieczne przedmioty, po okrzyku „Policja!” najpierw wykonuje się sprawdzenie prewencyjne i odbiera przedmioty, a dopiero potem wykonuje obowiązki informacyjne. Podstawa: § 8 ust. 2 pkt 1–3.",
+      "source": "§ 8 ust. 2 pkt 1-3"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-034",
+      "type": "single_choice",
+      "category": "Zatrzymywanie osób",
+      "difficulty": "easy",
+      "question": "Po doprowadzeniu osoby zatrzymanej do jednostki Policji policjant ma wykonać czynności formalne. Który zestaw jest prawidłowy?",
+      "choices": [
+        "Poinformować o prawach, wręczyć pouczenie, wysłuchać osobę, sporządzić protokół i doręczyć jego kopię za potwierdzeniem odbioru.",
+        "Wyłącznie umieścić osobę w pomieszczeniu i sporządzić raport po zakończeniu służby.",
+        "Pobrać odciski i odstąpić od protokołu, jeżeli osoba odmawia podpisu.",
+        "Poinformować tylko dyżurnego, bez wręczania pouczenia osobie zatrzymanej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Po doprowadzeniu do jednostki policjant informuje zatrzymanego o prawach, wręcza pouczenie, wysłuchuje osobę, sporządza protokół zatrzymania i doręcza jego kopię za potwierdzeniem odbioru. Podstawa: § 9 ust. 1 pkt 1–4.",
+      "source": "§ 9 ust. 1 pkt 1-4"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-035",
+      "type": "single_choice",
+      "category": "Zatrzymywanie osób",
+      "difficulty": "medium",
+      "question": "Osoba zatrzymana po pouczeniu żąda realizacji przysługujących jej praw. Jak powinien postąpić policjant?",
+      "choices": [
+        "Podjąć czynności mające na celu realizację tych praw.",
+        "Odmówić, jeżeli osoba została zatrzymana w godzinach nocnych.",
+        "Wstrzymać realizację praw do czasu zakończenia całego postępowania.",
+        "Poprzestać na ustnym odnotowaniu żądania bez dalszych czynności."
+      ],
+      "correctIndex": 0,
+      "explanation": "Po doprowadzeniu osoby zatrzymanej policjant podejmuje czynności mające na celu realizację praw, jeżeli osoba zatrzymana tego zażądała. Podstawa: § 9 ust. 1 pkt 5.",
+      "source": "§ 9 ust. 1 pkt 5"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-036",
+      "type": "single_choice",
+      "category": "Zatrzymywanie osób",
+      "difficulty": "medium",
+      "question": "Po zatrzymaniu osoby policjant ustala, że jest ona żołnierzem. Jaka czynność jest wymagana po doprowadzeniu jej do jednostki?",
+      "choices": [
+        "Zawiadomienie dowódcy jednostki wojskowej.",
+        "Wyłącznie zawiadomienie rodziny zatrzymanego.",
+        "Odstąpienie od sporządzenia protokołu zatrzymania.",
+        "Niezwłoczne skierowanie sprawy do organizacji społecznej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Po doprowadzeniu osoby zatrzymanej do jednostki Policji zawiadamia się dowódcę jednostki wojskowej w razie powzięcia wiadomości, że osoba zatrzymana jest żołnierzem. Podstawa: § 9 ust. 1 pkt 7.",
+      "source": "§ 9 ust. 1 pkt 7"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-037",
+      "type": "single_choice",
+      "category": "Zatrzymywanie osób",
+      "difficulty": "hard",
+      "question": "Zatrzymano osobę pozbawioną wolności, która nie wróciła z legalnego czasowego opuszczenia jednostki penitencjarnej. Czy po doprowadzeniu do jednostki Policji trzeba zawiadomić miejscowo właściwego prokuratora?",
+      "choices": [
+        "Nie, w tym przypadku nie wykonuje się czynności zawiadomienia prokuratora przewidzianej dla innych zatrzymań.",
+        "Tak, zawsze zawiadamia się prokuratora bez wyjątków.",
+        "Tak, ale tylko jeśli osoba żąda kontaktu z obrońcą.",
+        "Nie, ale tylko wtedy, gdy osoba nie ma dokumentu tożsamości."
+      ],
+      "correctIndex": 0,
+      "explanation": "Czynności zawiadomienia miejscowo właściwego prokuratora nie wykonuje się wobec osób pozbawionych wolności, które na podstawie zezwolenia opuściły areszt śledczy albo zakład karny i w wyznaczonym terminie nie powróciły. Podstawa: § 9 ust. 2.",
+      "source": "§ 9 ust. 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-038",
+      "type": "single_choice",
+      "category": "Zatrzymywanie osób",
+      "difficulty": "medium",
+      "question": "Osoba zatrzymana jest pod wpływem środka, który zakłóca jej świadomość. Kiedy należy wykonać wobec niej pouczenie o prawach i doręczyć kopię protokołu?",
+      "choices": [
+        "Po ustaniu przyczyn zakłócających świadomość.",
+        "Natychmiast, bez względu na stan osoby.",
+        "Dopiero po decyzji sądu.",
+        "Nie wykonuje się tych czynności w ogóle."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli zachowanie zatrzymanego wskazuje na wpływ alkoholu, podobnego środka albo inne zakłócenie świadomości, czynności poinformowania o prawach i doręczenia kopii protokołu wykonuje się po ustaniu przyczyn zakłócających świadomość. Podstawa: § 9 ust. 3.",
+      "source": "§ 9 ust. 3"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-039",
+      "type": "single_choice",
+      "category": "Zatrzymywanie osób",
+      "difficulty": "easy",
+      "question": "Zatrzymana osoba kwestionuje zasadność, legalność i prawidłowość zatrzymania. Do kogo należy niezwłocznie przekazać kopię protokołu wraz z materiałami uzasadniającymi zatrzymanie w przypadku opisanym dla osoby stwarzającej oczywiste zagrożenie?",
+      "choices": [
+        "Do właściwego sądu.",
+        "Do organizacji społecznej wskazanej przez zatrzymanego.",
+        "Do właściwego starosty.",
+        "Wyłącznie do bezpośredniego przełożonego policjanta."
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadku zażalenia na zasadność, legalność lub prawidłowość zatrzymania osoby stwarzającej oczywiste zagrożenie kopię protokołu wraz z materiałami niezwłocznie przekazuje się właściwemu sądowi. Podstawa: § 10 ust. 1.",
+      "source": "§ 10 ust. 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-040",
+      "type": "single_choice",
+      "category": "Zatrzymywanie osób",
+      "difficulty": "easy",
+      "question": "Zatrzymany składa zażalenie nie na samo zatrzymanie, lecz na sposób jego przeprowadzenia. Komu należy przekazać kopię protokołu i materiały uzasadniające zatrzymanie?",
+      "choices": [
+        "Właściwemu prokuratorowi.",
+        "Sądowi rodzinnemu.",
+        "Komendantowi wojewódzkiemu jako jedynemu adresatowi.",
+        "Właścicielowi miejsca zatrzymania."
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadku zażalenia na sposób przeprowadzenia zatrzymania kopię protokołu wraz z materiałami przekazuje się właściwemu prokuratorowi. Podstawa: § 10 ust. 2.",
+      "source": "§ 10 ust. 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-041",
+      "type": "single_choice",
+      "category": "Protokół zatrzymania",
+      "difficulty": "medium",
+      "question": "Policjant sporządza protokół zatrzymania. Która informacja dotycząca samej czynności powinna znaleźć się w formularzu?",
+      "choices": [
+        "Czas i miejsce zatrzymania oraz dane policjanta dokonującego zatrzymania.",
+        "Wyłącznie nazwa sądu właściwego dla miejsca zatrzymania.",
+        "Tylko numer telefonu osoby zatrzymanej.",
+        "Jedynie informacja, czy osoba zgodziła się na zatrzymanie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wzór protokołu zatrzymania przewiduje wpisanie czasu zatrzymania, miejsca zatrzymania oraz stopnia, imienia i nazwiska policjanta i nazwy jednostki Policji. Podstawa: załącznik nr 1.",
+      "source": "Załącznik nr 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-042",
+      "type": "single_choice",
+      "category": "Protokół zatrzymania",
+      "difficulty": "medium",
+      "question": "Nie udało się ustalić tożsamości zatrzymanego w chwili sporządzania protokołu. Co przewiduje wzór protokołu?",
+      "choices": [
+        "Ujęcie rysopisu osoby w razie niemożności ustalenia tożsamości.",
+        "Pozostawienie wszystkich pól identyfikacyjnych pustych bez wyjaśnienia.",
+        "Wpisanie danych przypadkowo podanych przez osobę postronną.",
+        "Zastąpienie protokołu zwykłą notatką służbową."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wzór protokołu zatrzymania osoby zawiera miejsce na rysopis zatrzymanego w razie niemożności ustalenia tożsamości. Podstawa: załącznik nr 1.",
+      "source": "Załącznik nr 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-043",
+      "type": "single_choice",
+      "category": "Protokół zatrzymania",
+      "difficulty": "hard",
+      "question": "Podczas zatrzymania użyto środków przymusu bezpośredniego. Jak należy ująć to w protokole według wzoru?",
+      "choices": [
+        "Wskazać, jakich środków użyto albo wykorzystano oraz jakie były przyczyny ich użycia lub wykorzystania.",
+        "Wpisać tylko informację, że czynność przebiegła dynamicznie.",
+        "Nie opisywać tego w protokole zatrzymania, bo dotyczy to odrębnej dokumentacji.",
+        "Wskazać wyłącznie nazwę jednostki Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wzór protokołu przewiduje odnotowanie użycia albo wykorzystania środków przymusu bezpośredniego lub broni palnej, wskazanie ich rodzaju oraz przyczyn użycia lub wykorzystania. Podstawa: załącznik nr 1.",
+      "source": "Załącznik nr 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-044",
+      "type": "single_choice",
+      "category": "Uprawnienia osoby zatrzymanej",
+      "difficulty": "medium",
+      "question": "Osoba zatrzymana za stworzenie oczywistego bezpośredniego zagrożenia dla życia, zdrowia lub mienia chce zaskarżyć sposób przeprowadzenia zatrzymania. Jaki termin wynika ze wzoru pouczenia?",
+      "choices": [
+        "Siedem dni od zatrzymania.",
+        "Dwadzieścia cztery godziny od zatrzymania.",
+        "Trzy miesiące od zakończenia czynności.",
+        "Nie ma takiego uprawnienia w pouczeniu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wzór pouczenia dla osoby zatrzymanej na tej podstawie wskazuje prawo do złożenia do miejscowo właściwego prokuratora zażalenia na sposób przeprowadzenia zatrzymania w terminie 7 dni od zatrzymania. Podstawa: załącznik nr 2.",
+      "source": "Załącznik nr 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-045",
+      "type": "single_choice",
+      "category": "Uprawnienia osoby zatrzymanej",
+      "difficulty": "medium",
+      "question": "Osoba zatrzymana na podstawie dotyczącej osoby, która nie powróciła do jednostki penitencjarnej, pyta o prawo do pomocy medycznej. Która odpowiedź wynika ze wzoru pouczenia?",
+      "choices": [
+        "Przysługuje jej prawo do niezwłocznego badania lekarskiego lub pierwszej pomocy medycznej w razie uzasadnionej potrzeby.",
+        "Pomoc medyczna przysługuje wyłącznie po decyzji sądu.",
+        "Pomoc medyczna przysługuje dopiero po przewiezieniu do zakładu karnego.",
+        "Wzór pouczenia nie przewiduje żadnych informacji o pomocy medycznej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wzór pouczenia dla osoby zatrzymanej na podstawie dotyczącej niepowrotu z aresztu śledczego albo zakładu karnego wskazuje prawo do niezwłocznego badania lekarskiego lub udzielenia pierwszej pomocy medycznej w razie uzasadnionej potrzeby. Podstawa: załącznik nr 2.",
+      "source": "Załącznik nr 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-046",
+      "type": "single_choice",
+      "category": "Uprawnienia osoby zatrzymanej",
+      "difficulty": "easy",
+      "question": "Osoba zatrzymana w trybie dotyczącym oczywistego zagrożenia nie zna wystarczająco języka polskiego. Jakie prawo wynika z pouczenia?",
+      "choices": [
+        "Prawo do korzystania z bezpłatnej pomocy tłumacza.",
+        "Prawo do odmowy przyjęcia protokołu jako jedyne uprawnienie.",
+        "Prawo do automatycznego zwolnienia bez dalszych czynności.",
+        "Prawo do prowadzenia czynności wyłącznie na piśmie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wzór pouczenia osoby zatrzymanej w trybie dotyczącym oczywistego zagrożenia zawiera prawo do korzystania z bezpłatnej pomocy tłumacza, jeżeli zatrzymany nie zna wystarczająco języka polskiego. Podstawa: załącznik nr 3.",
+      "source": "Załącznik nr 3"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-047",
+      "type": "single_choice",
+      "category": "Uprawnienia osoby zatrzymanej",
+      "difficulty": "medium",
+      "question": "Osoba zatrzymana w trybie dotyczącym oczywistego zagrożenia chce skontaktować się z adwokatem. Jak należy ocenić jej uprawnienie według pouczenia?",
+      "choices": [
+        "Przysługuje jej prawo do niezwłocznego kontaktu z adwokatem lub radcą prawnym i bezpośredniej rozmowy, z możliwością obecności policjanta w wyjątkowych przypadkach.",
+        "Przysługuje jej kontakt wyłącznie po zakończeniu wszystkich czynności.",
+        "Może rozmawiać tylko telefonicznie z dowolną osobą wskazaną przez policjanta.",
+        "Nie przysługuje jej kontakt z prawnikiem w tym trybie zatrzymania."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wzór pouczenia wskazuje prawo do niezwłocznego kontaktu z adwokatem lub radcą prawnym i bezpośredniej rozmowy; w wyjątkowych przypadkach policjant może zastrzec obecność przy rozmowie. Podstawa: załącznik nr 3.",
+      "source": "Załącznik nr 3"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-048",
+      "type": "single_choice",
+      "category": "Uprawnienia osoby zatrzymanej",
+      "difficulty": "hard",
+      "question": "Zatrzymany cudzoziemiec chce kontaktu z przedstawicielstwem swojego państwa. Co wynika ze wzoru pouczenia?",
+      "choices": [
+        "Jeżeli nie jest obywatelem polskim, przysługuje mu prawo do kontaktu z urzędem konsularnym lub przedstawicielstwem dyplomatycznym państwa obywatelstwa, a w razie braku obywatelstwa z przedstawicielem państwa stałego zamieszkania.",
+        "Kontakt z konsulatem jest wykluczony do czasu zakończenia interwencji.",
+        "Kontakt jest możliwy tylko, gdy zatrzymany zna język polski.",
+        "Pouczenie przewiduje kontakt wyłącznie z rodziną mieszkającą w Polsce."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wzór pouczenia osoby zatrzymanej w trybie dotyczącym oczywistego zagrożenia przewiduje prawo do kontaktu z właściwym urzędem konsularnym lub przedstawicielstwem dyplomatycznym, a przy braku obywatelstwa z przedstawicielem państwa stałego zamieszkania. Podstawa: załącznik nr 3.",
+      "source": "Załącznik nr 3"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-049",
+      "type": "single_choice",
+      "category": "Uprawnienia osoby zatrzymanej",
+      "difficulty": "hard",
+      "question": "Osoba zatrzymana w trybie dotyczącym oczywistego zagrożenia pyta, kiedy musi zostać zwolniona, jeżeli nie zostanie przekazana do dyspozycji sądu. Która odpowiedź jest zgodna z pouczeniem?",
+      "choices": [
+        "Powinna zostać zwolniona natychmiast, gdy przyczyny zatrzymania przestały istnieć, albo po upływie 48 godzin, jeżeli nie przekazano jej w tym czasie do dyspozycji sądu z właściwym wnioskiem.",
+        "Może pozostawać zatrzymana przez 7 dni bez decyzji sądu.",
+        "Zwolnienie następuje wyłącznie po złożeniu pisemnego wniosku przez zatrzymanego.",
+        "Termin zwolnienia nie jest ujęty w pouczeniu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wzór pouczenia wskazuje prawo do natychmiastowego zwolnienia, gdy przyczyny zatrzymania przestały istnieć, albo po upływie 48 godzin, o ile osoba nie zostanie przekazana do dyspozycji sądu z wnioskiem o tymczasowe aresztowanie. Podstawa: załącznik nr 3.",
+      "source": "Załącznik nr 3"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-050",
+      "type": "single_choice",
+      "category": "Pobieranie wymazu i materiału biologicznego",
+      "difficulty": "easy",
+      "question": "Policjant ma pobrać wymaz ze śluzówki policzków od osoby. Jakiego rodzaju pakietu powinien użyć?",
+      "choices": [
+        "Specjalnego pakietu kryminalistycznego oznakowanego indywidualnym kodem kreskowym.",
+        "Dowolnej koperty służbowej opisanej ręcznie.",
+        "Pojemnika bez oznaczenia, jeżeli próbka zostanie szybko przekazana.",
+        "Wyłącznie opakowania dostarczonego przez osobę, od której pobiera się wymaz."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wymaz ze śluzówki policzków oraz materiał biologiczny ze zwłok pobiera się przy użyciu specjalnych pakietów kryminalistycznych oznakowanych indywidualnym kodem kreskowym. Podstawa: § 11 ust. 1.",
+      "source": "§ 11 ust. 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-051",
+      "type": "single_choice",
+      "category": "Pobieranie wymazu i materiału biologicznego",
+      "difficulty": "medium",
+      "question": "Po pobraniu wymazu od osoby usiłującej ukryć tożsamość policjant zastanawia się, czy wystarczy sama notatka. Jak należy udokumentować czynność?",
+      "choices": [
+        "Sporządzić protokół pobrania.",
+        "Poprzestać na ustnym zgłoszeniu dyżurnemu.",
+        "Sporządzić wyłącznie pokwitowanie rzeczy.",
+        "Nie dokumentować, jeżeli osoba nie podaje danych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Z czynności pobrania wymazu od osoby o nieustalonej tożsamości oraz osoby usiłującej ukryć swoją tożsamość sporządza się protokół. Podstawa: § 11 ust. 2 pkt 1.",
+      "source": "§ 11 ust. 2 pkt 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-052",
+      "type": "single_choice",
+      "category": "Pobieranie wymazu i materiału biologicznego",
+      "difficulty": "medium",
+      "question": "Pobrano materiał biologiczny ze zwłok ludzkich o nieustalonej tożsamości. Jak należy oznaczyć pojemnik z materiałem?",
+      "choices": [
+        "Tym samym kodem kreskowym, którym oznaczono pakiet kryminalistyczny użyty do pobrania.",
+        "Wyłącznie numerem telefonu jednostki prowadzącej sprawę.",
+        "Losowym numerem wpisanym przez policjanta w notatniku.",
+        "Oznaczenie nie jest wymagane, jeżeli protokół zawiera opis miejsca."
+      ],
+      "correctIndex": 0,
+      "explanation": "Materiał biologiczny pobrany ze zwłok o nieustalonej tożsamości umieszcza się w pojemniku oznaczonym tym samym kodem kreskowym co pakiet kryminalistyczny. Podstawa: § 11 ust. 3.",
+      "source": "§ 11 ust. 3"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-053",
+      "type": "single_choice",
+      "category": "Pobieranie wymazu i materiału biologicznego",
+      "difficulty": "hard",
+      "question": "Policjant sporządza protokół pobrania wymazu. Jak należy powiązać protokół z użytym pakietem kryminalistycznym?",
+      "choices": [
+        "Oznaczyć protokół tym samym kodem kreskowym, którym oznaczono pakiet użyty do pobrania.",
+        "Wpisać jedynie datę czynności bez kodu pakietu.",
+        "Nadać protokołowi inny kod niż próbce, aby nie łączyć dokumentu z materiałem.",
+        "Nie oznaczać protokołu, jeżeli osoba podpisała dokument."
+      ],
+      "correctIndex": 0,
+      "explanation": "Protokoły pobrania oznacza się tym samym kodem kreskowym, którym oznaczono pakiet kryminalistyczny użyty do pobrania. Podstawa: § 11 ust. 4.",
+      "source": "§ 11 ust. 4"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-054",
+      "type": "single_choice",
+      "category": "Pobieranie wymazu i materiału biologicznego",
+      "difficulty": "easy",
+      "question": "Kto co do zasady pobiera wymaz ze śluzówki policzków lub materiał biologiczny ze zwłok o nieustalonej tożsamości?",
+      "choices": [
+        "Policjant przeszkolony w tym zakresie.",
+        "Każdy funkcjonariusz bez dodatkowych warunków.",
+        "Wyłącznie osoba wskazana przez rodzinę.",
+        "Tylko dyżurny jednostki organizacyjnej Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wymaz od osób oraz materiał biologiczny ze zwłok o nieustalonej tożsamości pobiera policjant przeszkolony w tym zakresie. Podstawa: § 12 ust. 1.",
+      "source": "§ 12 ust. 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-055",
+      "type": "single_choice",
+      "category": "Pobieranie wymazu i materiału biologicznego",
+      "difficulty": "medium",
+      "question": "Policjant nie może osobiście pobrać wymazu ani materiału biologicznego. Co przewiduje procedura?",
+      "choices": [
+        "Powinien złożyć pisemny wniosek do uprawnionego pracownika służby zdrowia albo instytucji naukowej lub specjalistycznej powołanej do badań genetycznych.",
+        "Może zlecić pobranie dowolnej osobie pełnoletniej.",
+        "Powinien odstąpić od czynności bez dokumentowania.",
+        "Musi poczekać, aż osoba sama dostarczy próbkę."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli policjant nie może osobiście pobrać wymazu lub materiału biologicznego, składa pisemny wniosek do uprawnionego pracownika służby zdrowia albo właściwej instytucji naukowej lub specjalistycznej. Podstawa: § 12 ust. 2.",
+      "source": "§ 12 ust. 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-056",
+      "type": "single_choice",
+      "category": "Pobieranie wymazu i materiału biologicznego",
+      "difficulty": "hard",
+      "question": "Na miejscu ujawnienia zwłok konieczne jest natychmiastowe działanie. Kiedy przeszkolony policjant może sam pobrać próbkę włosów?",
+      "choices": [
+        "W uzasadnionym przypadku, gdy chodzi o próbkę z tkanek w postaci włosów z cebulkami i częścią dokorzeniową o wymaganej długości.",
+        "Zawsze, niezależnie od przeszkolenia i rodzaju próbki.",
+        "Nigdy, bo każdą próbkę ze zwłok pobiera wyłącznie lekarz.",
+        "Tylko wtedy, gdy rodzina zwłok wyrazi zgodę."
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadkach uzasadnionych koniecznością natychmiastowego działania policjant przeszkolony w tym zakresie może pobrać ze zwłok o nieustalonej tożsamości próbkę z tkanek w postaci włosów z cebulkami oraz częścią dokorzeniową o długości co najmniej 1 cm. Podstawa: § 12 ust. 3.",
+      "source": "§ 12 ust. 3"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-057",
+      "type": "single_choice",
+      "category": "Identyfikacja daktyloskopijna",
+      "difficulty": "easy",
+      "question": "Policjant chce ustalić tożsamość osoby na podstawie odcisków linii papilarnych. Jak nazywa się czynność przewidziana w rozporządzeniu?",
+      "choices": [
+        "Wywiad daktyloskopijny.",
+        "Kontrola osobista.",
+        "Pokwitowanie użyczenia dokumentu.",
+        "Zgłoszenie pomocy doraźnej."
+      ],
+      "correctIndex": 0,
+      "explanation": "W celu ustalenia, potwierdzenia lub weryfikacji tożsamości osoby na podstawie odcisków linii papilarnych przeprowadza się wywiad daktyloskopijny. Podstawa: § 13 ust. 1.",
+      "source": "§ 13 ust. 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-058",
+      "type": "single_choice",
+      "category": "Identyfikacja daktyloskopijna",
+      "difficulty": "medium",
+      "question": "Kiedy w stosunku do osoby przeprowadza się wywiad daktyloskopijny zamiast oparcia się na szybkiej identyfikacji?",
+      "choices": [
+        "Gdy brak dostępu do urządzenia do szybkiej identyfikacji, uzyskano wynik negatywny albo powstały uzasadnione wątpliwości co do wyniku.",
+        "Zawsze przed każdym legitymowaniem, nawet gdy osoba ma dowód osobisty.",
+        "Wyłącznie wtedy, gdy osoba jest żołnierzem.",
+        "Tylko po wydaniu pisemnej zgody przez osobę legitymowaną."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wywiad daktyloskopijny wobec osób przeprowadza się przy braku dostępu do urządzenia szybkiej identyfikacji, wyniku negatywnym albo uzasadnionych wątpliwościach co do wyniku ustalenia, potwierdzenia lub weryfikacji tożsamości. Podstawa: § 13 ust. 2.",
+      "source": "§ 13 ust. 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-059",
+      "type": "single_choice",
+      "category": "Identyfikacja daktyloskopijna",
+      "difficulty": "medium",
+      "question": "Policjant pobiera odciski linii papilarnych od osoby o nieustalonej tożsamości do wywiadu daktyloskopijnego. Jaki powód powinien wpisać na kartach albo w systemie?",
+      "choices": [
+        "„WYWIAD”.",
+        "„POMOC”.",
+        "„ZATRZYMANIE”.",
+        "„PROTOKÓŁ”."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy pobraniu odcisków do wywiadu daktyloskopijnego osoby wpisuje się „WYWIAD” jako powód daktyloskopowania. Podstawa: § 13 ust. 3.",
+      "source": "§ 13 ust. 3"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-060",
+      "type": "single_choice",
+      "category": "Identyfikacja daktyloskopijna",
+      "difficulty": "medium",
+      "question": "Policjant pobrał odciski linii papilarnych do wywiadu daktyloskopijnego. Dokąd powinny zostać dostarczone albo przesłane?",
+      "choices": [
+        "Do Zakładu Daktyloskopii Centralnego Laboratorium Kryminalistycznego Policji.",
+        "Do urzędu gminy właściwego dla miejsca czynności.",
+        "Do najbliższej organizacji społecznej.",
+        "Wyłącznie do akt podręcznych patrolu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Odciski pobrane do wywiadu daktyloskopijnego policjant dostarcza lub przesyła za pomocą teleinformatycznego systemu transmisji obrazów do Zakładu Daktyloskopii Centralnego Laboratorium Kryminalistycznego Policji. Podstawa: § 13 ust. 5.",
+      "source": "§ 13 ust. 5"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-061",
+      "type": "single_choice",
+      "category": "Identyfikacja daktyloskopijna",
+      "difficulty": "medium",
+      "question": "Policjant pobiera odciski linii papilarnych w celu identyfikacji lub wykrywania sprawców przestępstw. Co powinien zrobić przed pobraniem?",
+      "choices": [
+        "Sprawdzić obecność odcisków tej osoby w odpowiednich zbiorach danych daktyloskopijnych.",
+        "Zawsze najpierw pobrać wymaz ze śluzówki policzków.",
+        "Wystąpić do przedsiębiorcy o udzielenie pomocy.",
+        "Odstąpić od sprawdzenia, jeżeli osoba podała imię i nazwisko."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przed pobraniem odcisków w celu identyfikacji lub wykrywania sprawców przestępstw policjant sprawdza obecność odcisków osoby w odpowiednich zbiorach danych. Podstawa: § 14 ust. 2.",
+      "source": "§ 14 ust. 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-062",
+      "type": "single_choice",
+      "category": "Identyfikacja daktyloskopijna",
+      "difficulty": "easy",
+      "question": "Jaką metodą co do zasady policjant pobiera odciski palców i dłoni od osoby w celu identyfikacji lub wykrywania sprawców przestępstw?",
+      "choices": [
+        "Za pomocą urządzenia do elektronicznego daktyloskopowania, samodzielnie albo przy pomocy specjalisty techniki kryminalistycznej.",
+        "Wyłącznie metodą tuszową, niezależnie od dostępności sprzętu.",
+        "Przez zeskanowanie dowodu osobistego osoby.",
+        "Wyłącznie przez pracownika służby zdrowia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant pobiera odciski palców i dłoni samodzielnie lub przy pomocy specjalisty techniki kryminalistycznej za pomocą urządzenia do elektronicznego daktyloskopowania. Podstawa: § 14 ust. 3.",
+      "source": "§ 14 ust. 3"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-063",
+      "type": "single_choice",
+      "category": "Identyfikacja daktyloskopijna",
+      "difficulty": "medium",
+      "question": "Urządzenie do elektronicznego daktyloskopowania nie może zostać użyte z przyczyn technicznych. Co może zrobić policjant?",
+      "choices": [
+        "Pobrać odciski metodą tuszową na karty daktyloskopijne, samodzielnie albo przy pomocy specjalisty techniki kryminalistycznej.",
+        "Zrezygnować z czynności bez dalszych działań.",
+        "Pobrać wyłącznie podpis osoby na kartce papieru.",
+        "Przekazać osobę do organizacji społecznej w celu identyfikacji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli pobranie odcisków elektronicznie jest niemożliwe z przyczyn technicznych, policjant pobiera je metodą tuszową na karty daktyloskopijne, samodzielnie albo przy pomocy specjalisty. Podstawa: § 14 ust. 4.",
+      "source": "§ 14 ust. 4"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-064",
+      "type": "single_choice",
+      "category": "Obserwowanie i rejestrowanie",
+      "difficulty": "easy",
+      "question": "Policjanci są fizycznie obecni w miejscu, w którym rejestrują przebieg zdarzeń. Jaki sposób wykonywania obserwacji opisuje ta sytuacja?",
+      "choices": [
+        "Bezpośredni.",
+        "Wyłącznie zdalny.",
+        "Tylko utajniony.",
+        "Wyłącznie archiwalny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Obserwowanie i rejestrowanie w sposób bezpośredni występuje przy obecności policjantów w miejscu prowadzenia obserwacji i rejestracji. Podstawa: § 15 pkt 1.",
+      "source": "§ 15 pkt 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-065",
+      "type": "single_choice",
+      "category": "Obserwowanie i rejestrowanie",
+      "difficulty": "easy",
+      "question": "Obraz zdarzeń jest przekazywany na odległość przy użyciu urządzeń teleinformatycznych. Jak określić taki sposób rejestrowania?",
+      "choices": [
+        "Zdalny.",
+        "Protokolarny.",
+        "Daktyloskopijny.",
+        "Doraźny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sposób zdalny polega na użyciu urządzeń teleinformatycznych przekazujących obraz lub dźwięk zdarzeń na odległość. Podstawa: § 15 pkt 2.",
+      "source": "§ 15 pkt 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-066",
+      "type": "single_choice",
+      "category": "Obserwowanie i rejestrowanie",
+      "difficulty": "medium",
+      "question": "Policja prowadzi rejestrowanie w taki sposób, aby osoby nieupoważnione nie ustaliły faktu obserwacji. Czy rozporządzenie przewiduje taki wariant?",
+      "choices": [
+        "Tak, obserwacja i rejestracja mogą być jawne albo prowadzone metodami uniemożliwiającymi ustalenie faktu ich prowadzenia osobom nieupoważnionym.",
+        "Nie, każda rejestracja musi być jawnie oznaczona.",
+        "Tak, ale bez możliwości dokumentowania miejsca i czasu.",
+        "Nie, taki sposób dotyczy tylko czynności cywilnoprawnych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozporządzenie przewiduje wykonywanie obserwowania i rejestrowania jawnie lub przy użyciu metod uniemożliwiających osobom nieupoważnionym ustalenie faktu prowadzenia obserwacji i rejestracji. Podstawa: § 15 pkt 3.",
+      "source": "§ 15 pkt 3"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-067",
+      "type": "single_choice",
+      "category": "Obserwowanie i rejestrowanie",
+      "difficulty": "medium",
+      "question": "Policjant dokumentuje czynność obserwowania i rejestrowania obrazu. Które elementy powinien określić stosownie do okoliczności?",
+      "choices": [
+        "Miejsce i czas rozpoczęcia oraz zakończenia czynności, a także rodzaj użytych środków technicznych.",
+        "Wyłącznie dane osoby, która żądała kopii nagrania.",
+        "Tylko numer rejestracyjny pojazdu służbowego.",
+        "Jedynie nazwę pliku z nagraniem."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dokumentacja obserwowania i rejestrowania obejmuje m.in. miejsce i czas rozpoczęcia i zakończenia oraz rodzaj użytych środków technicznych. Podstawa: § 16 ust. 1.",
+      "source": "§ 16 ust. 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-068",
+      "type": "single_choice",
+      "category": "Obserwowanie i rejestrowanie",
+      "difficulty": "easy",
+      "question": "Czy dokumentowanie obserwowania i rejestrowania obrazu lub dźwięku może być prowadzone elektronicznie?",
+      "choices": [
+        "Tak, dokumentowanie może być realizowane w postaci elektronicznej.",
+        "Nie, zawsze wymagany jest wyłącznie papierowy komunikat.",
+        "Tak, ale tylko gdy zapis jest jawny.",
+        "Nie, elektroniczna postać dotyczy tylko legitymowania."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dokumentowanie czynności obserwowania i rejestrowania może być realizowane w postaci elektronicznej. Podstawa: § 16 ust. 2.",
+      "source": "§ 16 ust. 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-069",
+      "type": "single_choice",
+      "category": "Obserwowanie i rejestrowanie",
+      "difficulty": "medium",
+      "question": "Jednostka przechowuje zapis obrazu i dźwięku z interwencji. Jakie wymagania musi spełniać sposób przechowywania?",
+      "choices": [
+        "Ma zapewniać poufność, integralność oraz ochronę przed utratą i zniszczeniem.",
+        "Wystarczy przechowywanie na dowolnym prywatnym nośniku funkcjonariusza.",
+        "Wymaga wyłącznie opisania nagrania datą.",
+        "Może odbywać się bez zabezpieczeń, jeżeli kopia trafiła do akt."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zapis obrazu i dźwięku przechowuje się na informatycznym nośniku danych w sposób zapewniający poufność, integralność i ochronę przed utratą oraz zniszczeniem. Podstawa: § 17 ust. 1.",
+      "source": "§ 17 ust. 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-070",
+      "type": "single_choice",
+      "category": "Obserwowanie i rejestrowanie",
+      "difficulty": "hard",
+      "question": "Kto odpowiada za prawidłowe zabezpieczenie zapisanego obrazu i dźwięku przed utratą, zniekształceniem lub nieuprawnionym ujawnieniem?",
+      "choices": [
+        "Kierownik jednostki organizacyjnej Policji lub osoba przez niego upoważniona.",
+        "Wyłącznie policjant, który wystąpił o pomoc od przedsiębiorcy.",
+        "Osoba zatrzymana, jeżeli była nagrywana.",
+        "Tylko właściciel informatycznego nośnika danych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Za prawidłowe zabezpieczenie zapisanego obrazu i dźwięku odpowiada kierownik jednostki organizacyjnej Policji lub osoba przez niego upoważniona. Podstawa: § 17 ust. 2.",
+      "source": "§ 17 ust. 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-071",
+      "type": "single_choice",
+      "category": "Obserwowanie i rejestrowanie",
+      "difficulty": "medium",
+      "question": "W trakcie odtwarzania utrwalonej czynności obraz jest słaby technicznie. Czy można użyć urządzenia korygującego lub wzmacniającego obraz albo dźwięk?",
+      "choices": [
+        "Tak, podczas odtwarzania można użyć urządzenia korygującego lub wzmacniającego utrwalony obraz lub dźwięk.",
+        "Nie, zapis wolno odtwarzać tylko w pierwotnej jakości bez żadnych urządzeń.",
+        "Tak, ale wyłącznie po zgodzie osoby utrwalonej na nagraniu.",
+        "Nie, rozporządzenie w ogóle nie reguluje odtwarzania zapisów."
+      ],
+      "correctIndex": 0,
+      "explanation": "W celu prezentacji obrazu lub dźwięku zapis odtwarza się za pomocą przeznaczonego urządzenia; podczas odtwarzania można użyć urządzenia korygującego lub wzmacniającego utrwalony obraz lub dźwięk. Podstawa: § 18.",
+      "source": "§ 18"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-072",
+      "type": "single_choice",
+      "category": "Obserwowanie i rejestrowanie",
+      "difficulty": "medium",
+      "question": "Trzeba wykonać kopię zapisu obrazu lub dźwięku. Kto ją sporządza zgodnie z rozporządzeniem?",
+      "choices": [
+        "Kierownik jednostki organizacyjnej Policji albo osoba przez niego upoważniona.",
+        "Każda osoba obecna przy interwencji.",
+        "Wyłącznie osoba, której czynność dotyczyła.",
+        "Przedsiębiorca, który udzielił pomocy Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kopię zapisu obrazu lub dźwięku sporządza kierownik jednostki organizacyjnej Policji albo osoba przez niego upoważniona. Podstawa: § 19 ust. 3.",
+      "source": "§ 19 ust. 3"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-073",
+      "type": "single_choice",
+      "category": "Obserwowanie i rejestrowanie",
+      "difficulty": "hard",
+      "question": "Wykonano kolejną kopię nagrania z interwencji. Jak należy postąpić z informacją o wykonaniu kopii?",
+      "choices": [
+        "Odnotować każde wykonanie kopii w ewidencji przekazanych zapisów obrazów i dźwięków prowadzonej we właściwej jednostce.",
+        "Nie odnotowywać kolejnych kopii, jeżeli pierwsza kopia została opisana.",
+        "Wpisać informację wyłącznie do prywatnych notatek policjanta.",
+        "Odnotować tylko kopie wykonane dla osoby zatrzymanej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Każde wykonanie kopii zapisu obrazu lub dźwięku odnotowuje się w ewidencji przekazanych zapisów obrazów i dźwięków prowadzonej we właściwej jednostce Policji. Podstawa: § 19 ust. 4.",
+      "source": "§ 19 ust. 4"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-074",
+      "type": "single_choice",
+      "category": "Żądanie i udzielanie pomocy",
+      "difficulty": "easy",
+      "question": "Policjant żąda niezbędnej pomocy od instytucji państwowej. Do kogo może skierować żądanie w tej instytucji?",
+      "choices": [
+        "Do osoby pełniącej funkcję organu, kierownika instytucji albo innej osoby upoważnionej lub dysponującej możliwościami udzielenia pomocy.",
+        "Wyłącznie do przypadkowego pracownika obecnego przy wejściu.",
+        "Tylko do osoby zatrzymanej w danej sprawie.",
+        "Wyłącznie do prokuratora miejscowo właściwego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Żądanie pomocy kieruje się do osób pełniących funkcje organów, kierowników instytucji lub przedsiębiorców albo innych osób upoważnionych do decyzji lub w danym czasie dysponujących możliwościami pomocy. Podstawa: § 20 ust. 1.",
+      "source": "§ 20 ust. 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-075",
+      "type": "single_choice",
+      "category": "Żądanie i udzielanie pomocy",
+      "difficulty": "medium",
+      "question": "Właściwy organ Policji kieruje żądanie udzielenia niezbędnej pomocy. W jakiej formie może je przekazać?",
+      "choices": [
+        "Może je doręczyć albo przekazać drogą elektroniczną.",
+        "Wyłącznie ustnie, bez późniejszego potwierdzenia.",
+        "Tylko przez osobę, wobec której prowadzona jest czynność.",
+        "Wyłącznie za pośrednictwem sądu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Żądanie udzielenia niezbędnej pomocy doręcza lub przekazuje drogą elektroniczną właściwy organ Policji lub policjant działający z jego upoważnienia. Podstawa: § 20 ust. 2.",
+      "source": "§ 20 ust. 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-076",
+      "type": "single_choice",
+      "category": "Żądanie i udzielanie pomocy",
+      "difficulty": "medium",
+      "question": "Policjant przygotowuje żądanie niezbędnej pomocy. Który element musi znaleźć się w treści żądania?",
+      "choices": [
+        "Rodzaj i zakres niezbędnej pomocy oraz wskazanie policjanta korzystającego z pomocy.",
+        "Wyłącznie numer telefonu dyżurnego jednostki.",
+        "Opis prywatnych danych osoby udzielającej pomocy bez związku ze sprawą.",
+        "Tylko termin zwrotu rzeczy, nawet gdy nie dochodzi do użyczenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Żądanie pomocy zawiera powołanie podstawy prawnej, określenie rodzaju i zakresu niezbędnej pomocy oraz wskazanie policjanta korzystającego z pomocy. Podstawa: § 20 ust. 3.",
+      "source": "§ 20 ust. 3"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-077",
+      "type": "single_choice",
+      "category": "Żądanie i udzielanie pomocy",
+      "difficulty": "easy",
+      "question": "Policjant ściga sprawcę czynu zabronionego i pilnie potrzebuje pomocy. Czy może zgłosić żądanie ustnie?",
+      "choices": [
+        "Tak, w sytuacji niecierpiącej zwłoki, w szczególności podczas pościgu.",
+        "Nie, każde żądanie musi najpierw przybrać formę pisemną.",
+        "Tak, ale tylko po zakończeniu pościgu.",
+        "Nie, bo pomoc w pościgu może być wyłącznie dobrowolna i bez trybu żądania."
+      ],
+      "correctIndex": 0,
+      "explanation": "Każdy policjant, który potrzebuje niezbędnej pomocy, może zgłosić żądanie ustnie w sytuacjach niecierpiących zwłoki, w szczególności podczas ratowania życia, zdrowia, ochrony wolności lub mienia oraz w trakcie pościgu. Podstawa: § 21 ust. 1 pkt 1.",
+      "source": "§ 21 ust. 1 pkt 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-078",
+      "type": "single_choice",
+      "category": "Żądanie i udzielanie pomocy",
+      "difficulty": "medium",
+      "question": "Policjant ustnie żąda pomocy w sytuacji niecierpiącej zwłoki. Co musi przekazać osobie, do której kieruje żądanie?",
+      "choices": [
+        "Informację o działaniu w sytuacji niecierpiącej zwłoki albo na polecenie uprawnionego organu oraz dane wymagane dla żądania pomocy.",
+        "Wyłącznie swoje imię, bez określania rodzaju pomocy.",
+        "Tylko informację, że później zostanie sporządzona notatka.",
+        "Nie musi przekazywać żadnych informacji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy ustnym żądaniu policjant informuje o sytuacji niecierpiącej zwłoki albo działaniu na polecenie sądu, prokuratora lub organu administracji publicznej oraz przekazuje informacje wymagane dla żądania. Podstawa: § 21 ust. 2.",
+      "source": "§ 21 ust. 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-079",
+      "type": "single_choice",
+      "category": "Żądanie i udzielanie pomocy",
+      "difficulty": "hard",
+      "question": "Policjant zgłosił ustnie żądanie niezbędnej pomocy. Co powinno nastąpić później?",
+      "choices": [
+        "Żądanie należy niezwłocznie potwierdzić w przewidzianej formie doręczenia albo przekazania elektronicznego.",
+        "Nie trzeba nic potwierdzać, jeżeli pomoc została udzielona.",
+        "Należy sporządzić protokół zatrzymania osoby.",
+        "Wystarczy zapamiętać dane osoby udzielającej pomocy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustnie zgłoszone żądanie udzielenia niezbędnej pomocy potwierdza się niezwłocznie w sposób przewidziany dla doręczenia albo przekazania drogą elektroniczną. Podstawa: § 21 ust. 3 w zw. z § 20 ust. 2.",
+      "source": "§ 21 ust. 3 w zw. z § 20 ust. 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-080",
+      "type": "single_choice",
+      "category": "Żądanie i udzielanie pomocy",
+      "difficulty": "medium",
+      "question": "Policjant zwraca się o pomoc do organizacji społecznej. Do jakich osób powinien skierować takie zwrócenie się?",
+      "choices": [
+        "Do kierowników, członków zarządu albo innych osób upoważnionych lub dysponujących możliwością udzielenia pomocy.",
+        "Wyłącznie do dowolnego wolontariusza, bez znaczenia dla jego upoważnienia.",
+        "Tylko do prokuratora nadzorującego organizację.",
+        "Wyłącznie do osoby zatrzymanej w danej sprawie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy zwracaniu się o pomoc do innych przedsiębiorców lub organizacji społecznych policjant kieruje się do kierowników, członków zarządu albo innych osób upoważnionych lub w danym czasie dysponujących możliwościami pomocy. Podstawa: § 22 ust. 1.",
+      "source": "§ 22 ust. 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-081",
+      "type": "single_choice",
+      "category": "Żądanie i udzielanie pomocy",
+      "difficulty": "easy",
+      "question": "W nagłym wypadku policjant ustnie zwraca się do osoby postronnej o pomoc. Co powinien jej powiedzieć?",
+      "choices": [
+        "Powiadomić ją o nagłym wypadku oraz przekazać informacje wymagane dla żądania pomocy.",
+        "Wyłącznie polecić natychmiastowe wykonanie czynności bez żadnych informacji.",
+        "Poinformować ją tylko o możliwości mandatu.",
+        "Nie przekazywać żadnych informacji do czasu zakończenia czynności."
+      ],
+      "correctIndex": 0,
+      "explanation": "W nagłym wypadku policjant zwracający się ustnie do osoby o udzielenie niezbędnej pomocy powiadamia ją o nagłym wypadku i przekazuje informacje wymagane dla żądania pomocy. Podstawa: § 23.",
+      "source": "§ 23"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-082",
+      "type": "single_choice",
+      "category": "Żądanie i udzielanie pomocy",
+      "difficulty": "hard",
+      "question": "Osoba udziela pomocy przy niejawnych czynnościach służbowych. O czym policjant musi ją uprzedzić?",
+      "choices": [
+        "O obowiązku zachowania w tajemnicy faktu udzielenia pomocy i szczegółów z tym związanych oraz o odpowiedzialności karnej za nieuprawnione ujawnienie informacji niejawnych.",
+        "Wyłącznie o terminie zwrotu użyczonej rzeczy.",
+        "O tym, że może swobodnie opowiedzieć o pomocy po zakończeniu czynności.",
+        "Tylko o prawie do odmowy podpisania notatnika służbowego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy niejawnych czynnościach policjant uprzedza osobę udzielającą pomocy o obowiązku zachowania tajemnicy faktu i szczegółów pomocy oraz odpowiedzialności karnej za nieuprawnione ujawnienie informacji niejawnych. Podstawa: § 24.",
+      "source": "§ 24"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-083",
+      "type": "single_choice",
+      "category": "Żądanie i udzielanie pomocy",
+      "difficulty": "medium",
+      "question": "Po zakończeniu czynności, w których policjant żądał albo zwracał się o niezbędną pomoc, co powinien zrobić wobec przełożonego?",
+      "choices": [
+        "Złożyć bezpośredniemu przełożonemu raport z informacją o żądaniu lub zwróceniu się o pomoc.",
+        "Nie ma żadnego obowiązku informacyjnego po zakończeniu czynności.",
+        "Sporządzić protokół zatrzymania osoby udzielającej pomocy.",
+        "Przekazać raport wyłącznie właścicielowi rzeczy użyczonej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Po zakończeniu czynności policjant składa bezpośredniemu przełożonemu raport zawierający informację o wystąpieniu z żądaniem pomocy lub o zwróceniu się o pomoc. Podstawa: § 25.",
+      "source": "§ 25"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-084",
+      "type": "single_choice",
+      "category": "Rzeczy i dokumenty użyczone Policji",
+      "difficulty": "easy",
+      "question": "W ramach pomocy Policji użyczono rzecz. Co co do zasady sporządza policjant?",
+      "choices": [
+        "Pisemne pokwitowanie na użyczoną rzecz lub dokument.",
+        "Wyłącznie ustne podziękowanie.",
+        "Protokół zatrzymania osoby.",
+        "Kartę daktyloskopijną."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant sporządza pisemne pokwitowanie na rzeczy lub dokumenty użyczone w ramach pomocy. Podstawa: § 26 ust. 1.",
+      "source": "§ 26 ust. 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-085",
+      "type": "single_choice",
+      "category": "Rzeczy i dokumenty użyczone Policji",
+      "difficulty": "medium",
+      "question": "Policjant przejmuje użyczony pojazd. Jakie informacje o pojeździe powinny znaleźć się w pokwitowaniu?",
+      "choices": [
+        "Marka, typ, model, numer rejestracyjny, ilość paliwa w zbiorniku oraz przebieg według wskazań liczników.",
+        "Wyłącznie kolor pojazdu i nazwisko kierowcy.",
+        "Tylko numer telefonu właściciela pojazdu.",
+        "Jedynie przybliżona wartość pojazdu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pokwitowanie w odniesieniu do pojazdu obejmuje markę, typ, model, numer rejestracyjny, ilość paliwa w zbiorniku oraz przebieg według wskazań liczników. Podstawa: § 26 ust. 2 pkt 4.",
+      "source": "§ 26 ust. 2 pkt 4"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-086",
+      "type": "single_choice",
+      "category": "Rzeczy i dokumenty użyczone Policji",
+      "difficulty": "medium",
+      "question": "Osoba użycza Policji rzecz, a policjant sporządza pokwitowanie. Jakie pouczenie musi się w nim znaleźć?",
+      "choices": [
+        "Pouczenie o prawie do odszkodowania z tytułu uszkodzenia lub zniszczenia użyczonej rzeczy albo dokumentu.",
+        "Pouczenie o prawie do odmowy legitymowania.",
+        "Pouczenie o prawie do wywiadu daktyloskopijnego.",
+        "Pouczenie o obowiązku zachowania tajemnicy zawsze, nawet przy jawnych czynnościach."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pokwitowanie zawiera pouczenie o prawie do odszkodowania z tytułu uszkodzenia lub zniszczenia użyczonej rzeczy albo dokumentu. Podstawa: § 26 ust. 2 pkt 5.",
+      "source": "§ 26 ust. 2 pkt 5"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-087",
+      "type": "single_choice",
+      "category": "Rzeczy i dokumenty użyczone Policji",
+      "difficulty": "medium",
+      "question": "W czasie pościgu policjant musi natychmiast użyć rzeczy i nie może sporządzić pisemnego pokwitowania. Jak może postąpić?",
+      "choices": [
+        "Może odstąpić od pisemnego pokwitowania i ustnie poinformować właściciela albo posiadacza o wymaganych danych, prawie do odszkodowania oraz miejscu i możliwym terminie zwrotu.",
+        "Nie może skorzystać z rzeczy bez wcześniejszego pisemnego pokwitowania.",
+        "Może użyć rzeczy bez przekazywania jakichkolwiek informacji.",
+        "Musi najpierw uzyskać zgodę organizacji społecznej."
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadkach uzasadnionych koniecznością niezwłocznego działania policjant może odstąpić od pisemnego pokwitowania i ustnie poinformować o danych policjanta, prawie do odszkodowania oraz miejscu i w miarę możliwości terminie zwrotu. Podstawa: § 26 ust. 4.",
+      "source": "§ 26 ust. 4"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-088",
+      "type": "single_choice",
+      "category": "Rzeczy i dokumenty użyczone Policji",
+      "difficulty": "medium",
+      "question": "W pokwitowaniu nie określono terminu zwrotu użyczonego dokumentu. Kiedy policjant powinien go zwrócić?",
+      "choices": [
+        "Niezwłocznie po wykonaniu czynności służbowych albo po ustaniu potrzeby dalszego korzystania z dokumentu.",
+        "Dopiero po upływie 30 dni.",
+        "Wyłącznie po pisemnym wezwaniu właściciela.",
+        "Nie ma obowiązku zwrotu, jeżeli dokument był użyty w pościgu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli nie określono terminu zwrotu albo odstąpiono od pisemnego pokwitowania, rzecz lub dokument zwraca się niezwłocznie po wykonaniu czynności albo po ustaniu potrzeby dalszego korzystania. Podstawa: § 26 ust. 5.",
+      "source": "§ 26 ust. 5"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-089",
+      "type": "single_choice",
+      "category": "Rzeczy i dokumenty użyczone Policji",
+      "difficulty": "easy",
+      "question": "Jak powinien odbywać się zwrot użyczonej rzeczy lub dokumentu?",
+      "choices": [
+        "Protokolarnie, w terminie i miejscu uzgodnionym z właścicielem lub posiadaczem.",
+        "Bez dokumentowania, jeżeli rzecz nie została uszkodzona.",
+        "Wyłącznie przez pozostawienie rzeczy w jednostce Policji.",
+        "Tylko przez przesłanie wiadomości elektronicznej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zwrot użyczonej rzeczy lub dokumentu odbywa się protokolarnie w terminie i miejscu uzgodnionym z właścicielem lub posiadaczem. Podstawa: § 27 ust. 1.",
+      "source": "§ 27 ust. 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-090",
+      "type": "single_choice",
+      "category": "Rzeczy i dokumenty użyczone Policji",
+      "difficulty": "hard",
+      "question": "Policjant zwraca użyczony pojazd. Co powinien zawierać protokół zwrotu w odniesieniu do stanu pojazdu?",
+      "choices": [
+        "Opis stanu przed i po użyciu, ewentualne uszkodzenia, a także markę, typ, model, numer rejestracyjny, szacunkową ilość paliwa i przebieg według liczników.",
+        "Wyłącznie informację, że pojazd został oddany.",
+        "Tylko podpis policjanta, bez opisu stanu pojazdu.",
+        "Jedynie oświadczenie, że właściciel nie ma zastrzeżeń."
+      ],
+      "correctIndex": 0,
+      "explanation": "Protokół zwrotu opisuje stan użyczonej rzeczy przed i po użyciu, wskazuje ewentualne uszkodzenia, a w odniesieniu do pojazdu zawiera markę, typ, model, numer rejestracyjny, szacunkową ilość paliwa i przebieg według liczników. Podstawa: § 27 ust. 2 pkt 4.",
+      "source": "§ 27 ust. 2 pkt 4"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-091",
+      "type": "single_choice",
+      "category": "Sprawdzenie prewencyjne",
+      "difficulty": "easy",
+      "question": "Policjant dokumentuje sprawdzenie prewencyjne osoby. Który element powinien określić w dokumentacji?",
+      "choices": [
+        "Czas i miejsce czynności oraz przyczynę sprawdzenia.",
+        "Wyłącznie numer telefonu osoby sprawdzanej.",
+        "Tylko nazwę miejscowości bez czasu czynności.",
+        "Jedynie informację, że czynność wykonano."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dokumentacja sprawdzenia prewencyjnego obejmuje m.in. czas i miejsce przeprowadzenia czynności oraz przyczynę dokonania sprawdzenia. Podstawa: § 28 ust. 1 pkt 1 i 2.",
+      "source": "§ 28 ust. 1 pkt 1 i 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-092",
+      "type": "single_choice",
+      "category": "Sprawdzenie prewencyjne",
+      "difficulty": "medium",
+      "question": "Po sprawdzeniu prewencyjnym policjant sporządza notatkę. Jakie informacje o osobach i przebiegu powinien uwzględnić?",
+      "choices": [
+        "Osobę, wobec której podjęto czynności, lub inną osobę obecną podczas czynności oraz sposób przeprowadzenia i wynik czynności.",
+        "Wyłącznie imię osoby kontrolującej.",
+        "Tylko dane właściciela miejsca, w którym wykonano czynność.",
+        "Nie ujmuje się wyniku czynności, jeżeli niczego nie odebrano."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy dokumentowaniu sprawdzenia prewencyjnego określa się osobę, wobec której podejmowane są czynności, lub inną osobę obecną podczas czynności, a także sposób przeprowadzenia i wynik czynności. Podstawa: § 28 ust. 1 pkt 3 i 4.",
+      "source": "§ 28 ust. 1 pkt 3 i 4"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-093",
+      "type": "single_choice",
+      "category": "Sprawdzenie prewencyjne",
+      "difficulty": "easy",
+      "question": "Czy dokumentowanie sprawdzenia prewencyjnego może być prowadzone w postaci elektronicznej?",
+      "choices": [
+        "Tak, rozporządzenie dopuszcza postać elektroniczną.",
+        "Nie, zawsze wymagany jest papierowy protokół.",
+        "Tak, ale tylko przy osobach zatrzymanych.",
+        "Nie, elektroniczna postać jest dopuszczalna wyłącznie przy legitymowaniu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dokumentowanie sprawdzenia prewencyjnego może być realizowane w postaci elektronicznej. Podstawa: § 28 ust. 2.",
+      "source": "§ 28 ust. 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-094",
+      "type": "single_choice",
+      "category": "Wydawanie poleceń",
+      "difficulty": "easy",
+      "question": "Policjant chce wydać osobie polecenie określonego zachowania się. Kiedy realizuje to uprawnienie według rozporządzenia?",
+      "choices": [
+        "Gdy jest to niezbędne do sprawnego i zgodnego z przepisami wykonania czynności służbowych.",
+        "Zawsze, gdy chce ułatwić sobie rozmowę, bez związku z czynnością służbową.",
+        "Wyłącznie po zatrzymaniu osoby.",
+        "Tylko wtedy, gdy osoba wcześniej złożyła pisemny wniosek."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant realizuje uprawnienie do wydawania poleceń, gdy jest to niezbędne do sprawnego i zgodnego z przepisami wykonania czynności służbowych. Podstawa: § 29 ust. 1.",
+      "source": "§ 29 ust. 1"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-095",
+      "type": "single_choice",
+      "category": "Wydawanie poleceń",
+      "difficulty": "medium",
+      "question": "Podczas zabezpieczania miejsca zdarzenia policjant wydaje polecenie grupie osób. Jak powinno być ono sformułowane?",
+      "choices": [
+        "Jednoznacznie i zrozumiale, także przy użyciu urządzeń technicznych.",
+        "W dowolny sposób, jeżeli osoby domyślą się celu polecenia.",
+        "Wyłącznie pisemnie, bez użycia urządzeń technicznych.",
+        "Tylko przez dyżurnego jednostki, a nie przez policjanta na miejscu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wydanie polecenia określonego zachowania się następuje w sposób jednoznaczny i zrozumiały, w tym przy użyciu urządzeń technicznych. Podstawa: § 29 ust. 2.",
+      "source": "§ 29 ust. 2"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-096",
+      "type": "single_choice",
+      "category": "Wydawanie poleceń",
+      "difficulty": "medium",
+      "question": "Policjant dokumentuje wydanie polecenia określonego zachowania się. Który zestaw informacji powinien uwzględnić?",
+      "choices": [
+        "Czas i miejsce czynności, osobę, wobec której wydano polecenie, oraz cel i opis czynności.",
+        "Wyłącznie nazwę jednostki Policji.",
+        "Tylko wskazanie, że polecenie zostało wykonane.",
+        "Jedynie dane osoby, która nagrywała czynność telefonem."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dokumentacja wydania polecenia obejmuje w szczególności czas i miejsce czynności, osobę, wobec której wydano polecenie, oraz cel i opis czynności. Podstawa: § 29 ust. 3.",
+      "source": "§ 29 ust. 3"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-097",
+      "type": "single_choice",
+      "category": "Wydawanie poleceń",
+      "difficulty": "easy",
+      "question": "Czy dokumentowanie wydania polecenia określonego zachowania się może być realizowane elektronicznie?",
+      "choices": [
+        "Tak, dokumentowanie może być realizowane w postaci elektronicznej.",
+        "Nie, dopuszczalny jest tylko protokół papierowy.",
+        "Tak, ale tylko jeżeli polecenie wydano urządzeniem technicznym.",
+        "Nie, bo poleceń nie dokumentuje się w ogóle."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dokumentowanie wydania polecenia może być realizowane w postaci elektronicznej. Podstawa: § 29 ust. 4.",
+      "source": "§ 29 ust. 4"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-098",
+      "type": "single_choice",
+      "category": "Przepisy przejściowe i wejście w życie",
+      "difficulty": "medium",
+      "question": "Jednostka ma zapas starych wzorów protokołów pobrania materiału. Jak długo mogły być stosowane według przepisu przejściowego?",
+      "choices": [
+        "Do wyczerpania zapasów, nie dłużej jednak niż do końca 2020 roku.",
+        "Bezterminowo, jeżeli były zgodne z poprzednim rozporządzeniem.",
+        "Tylko przez 7 dni od ogłoszenia rozporządzenia.",
+        "Nie mogły być stosowane od dnia wejścia rozporządzenia w życie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dotychczasowe wzory protokołów wskazane w przepisie przejściowym mogły być stosowane do wyczerpania zapasów, nie dłużej niż do dnia 31 grudnia 2020 r. Podstawa: § 30.",
+      "source": "§ 30"
+    },
+    {
+      "id": "rozporzadzenie-uprawnienia-policjantow-099",
+      "type": "single_choice",
+      "category": "Przepisy przejściowe i wejście w życie",
+      "difficulty": "easy",
+      "question": "Kiedy rozporządzenie zaczęło obowiązywać?",
+      "choices": [
+        "Z dniem 7 lutego 2020 roku.",
+        "Z dniem 1 stycznia 2021 roku.",
+        "Po upływie 30 dni od ogłoszenia.",
+        "Z dniem 31 grudnia 2020 roku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozporządzenie wchodzi w życie z dniem 7 lutego 2020 r. Podstawa: § 31.",
+      "source": "§ 31"
+    }
+  ]
+}

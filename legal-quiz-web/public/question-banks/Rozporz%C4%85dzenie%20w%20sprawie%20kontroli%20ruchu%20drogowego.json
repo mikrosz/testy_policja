@@ -1,0 +1,3111 @@
+{
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 5 listopada 2019 r. w sprawie kontroli ruchu drogowego",
+  "description": "Baza pytań praktycznych opracowana wyłącznie na podstawie przesłanego aktu prawnego.",
+  "question_count": 194,
+  "questions": [
+    {
+      "id": "kontrola-ruchu-drogowego-001",
+      "type": "single_choice",
+      "category": "Zatrzymywanie pojazdów",
+      "difficulty": "easy",
+      "question": "Umundurowany policjant pełni służbę w dzień, przy dobrej widoczności, i chce zatrzymać pojazd do kontroli. Który sposób podania sygnału jest prawidłowy?",
+      "choices": [
+        "Podanie sygnału tarczą do zatrzymywania pojazdów albo ręką.",
+        "Podanie sygnału wyłącznie latarką ze światłem czerwonym.",
+        "Podanie sygnału wyłącznie przez włączenie świateł awaryjnych radiowozu.",
+        "Podanie sygnału wyłącznie przez ustawienie trójkąta ostrzegawczego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy dostatecznej widoczności policjant umundurowany podaje sygnał tarczą do zatrzymywania pojazdów lub ręką.",
+      "source": "§ 2 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-002",
+      "type": "single_choice",
+      "category": "Zatrzymywanie pojazdów",
+      "difficulty": "easy",
+      "question": "Umundurowany policjant chce zatrzymać pojazd po zmroku, gdy widoczność jest niedostateczna. Jak powinien podać sygnał?",
+      "choices": [
+        "Ręką, bez dodatkowych środków.",
+        "Latarką ze światłem czerwonym albo tarczą ze światłem odblaskowym lub czerwonym.",
+        "Wyłącznie przez krótkie użycie sygnału dźwiękowego.",
+        "Tylko przez ustawienie pojazdu służbowego za kontrolowanym pojazdem."
+      ],
+      "correctIndex": 1,
+      "explanation": "W warunkach niedostatecznej widoczności policjant umundurowany używa latarki ze światłem czerwonym albo tarczy ze światłem odblaskowym lub czerwonym.",
+      "source": "§ 2 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-003",
+      "type": "single_choice",
+      "category": "Zatrzymywanie pojazdów",
+      "difficulty": "easy",
+      "question": "Policjant nieumundurowany zauważa wykroczenie poza obszarem zabudowanym i chce zatrzymać kierującego do kontroli. Które zachowanie będzie zgodne z rozporządzeniem?",
+      "choices": [
+        "Może zatrzymać pojazd, jeżeli użyje tarczy do zatrzymywania pojazdów.",
+        "Może zatrzymać pojazd, jeżeli wykroczenie było oczywiste.",
+        "Nie powinien zatrzymywać pojazdu, bo policjant nieumundurowany może to zrobić wyłącznie na obszarze zabudowanym.",
+        "Może zatrzymać pojazd, jeżeli kierujący jedzie z małą prędkością."
+      ],
+      "correctIndex": 2,
+      "explanation": "Policjant nieumundurowany jest uprawniony do zatrzymania kierującego pojazdem wyłącznie na obszarze zabudowanym.",
+      "source": "§ 2 ust. 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-004",
+      "type": "single_choice",
+      "category": "Zatrzymywanie pojazdów",
+      "difficulty": "easy",
+      "question": "Policjant nieumundurowany działa na obszarze zabudowanym, w dzień i przy dobrej widoczności. Jak powinien podać sygnał do zatrzymania pojazdu?",
+      "choices": [
+        "Wyłącznie ręką.",
+        "Tylko urządzeniem nagłaśniającym.",
+        "Tarczą do zatrzymywania pojazdów.",
+        "Dowolnym gestem, jeżeli kierujący go zauważy."
+      ],
+      "correctIndex": 2,
+      "explanation": "Policjant nieumundurowany w warunkach dostatecznej widoczności podaje sygnał tarczą do zatrzymywania pojazdów.",
+      "source": "§ 2 ust. 3"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-005",
+      "type": "single_choice",
+      "category": "Zatrzymywanie pojazdów",
+      "difficulty": "medium",
+      "question": "Policjant nieumundurowany prowadzi kontrolę na obszarze zabudowanym po zmroku. Który zestaw środków może zastosować do zatrzymania pojazdu?",
+      "choices": [
+        "Ręka albo gwizdek.",
+        "Latarka ze światłem czerwonym albo tarcza ze światłem odblaskowym lub czerwonym.",
+        "Wyłącznie znak ustawiony na jezdni.",
+        "Wyłącznie światła mijania pojazdu służbowego."
+      ],
+      "correctIndex": 1,
+      "explanation": "W warunkach niedostatecznej widoczności policjant nieumundurowany używa latarki ze światłem czerwonym albo tarczy ze światłem odblaskowym lub czerwonym.",
+      "source": "§ 2 ust. 3"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-006",
+      "type": "single_choice",
+      "category": "Zatrzymywanie pojazdów",
+      "difficulty": "easy",
+      "question": "Policjant jedzie pojazdem Policji i musi wydać kierującemu polecenie określonego zachowania. Który sposób jest przewidziany w rozporządzeniu?",
+      "choices": [
+        "Wyłącznie machnięcie ręką przez szybę radiowozu.",
+        "Użycie urządzeń nagłaśniających, sygnalizacyjnych lub świetlnych.",
+        "Wyłącznie pisemne polecenie doręczone po zatrzymaniu.",
+        "Użycie świateł awaryjnych pojazdu kontrolowanego."
+      ],
+      "correctIndex": 1,
+      "explanation": "Policjant poruszający się pojazdem Policji może podawać polecenia za pomocą urządzeń nagłaśniających, sygnalizacyjnych lub świetlnych.",
+      "source": "§ 2 ust. 4"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-007",
+      "type": "single_choice",
+      "category": "Zatrzymywanie pojazdów",
+      "difficulty": "medium",
+      "question": "Policjant znajduje się na statku powietrznym i ma wydać polecenie zatrzymania pojazdu. Który sposób jest dopuszczony?",
+      "choices": [
+        "Tylko przez telefon do kierującego.",
+        "Za pomocą urządzeń nagłaśniających lub świetlnych albo sygnałów dźwiękowych i świetlnych.",
+        "Wyłącznie przez ustawienie znaku przy drodze.",
+        "Wyłącznie przez przekazanie polecenia innemu kierującemu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Policjant znajdujący się na statku wodnym albo powietrznym podaje polecenie zatrzymania pojazdu urządzeniami nagłaśniającymi lub świetlnymi albo sygnałami dźwiękowymi i świetlnymi.",
+      "source": "§ 2 ust. 5"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-008",
+      "type": "single_choice",
+      "category": "Zatrzymywanie pojazdów",
+      "difficulty": "medium",
+      "question": "Radiowóz trzeba ustawić w miejscu, gdzie postój jest normalnie zabroniony, bo inaczej nie da się przeprowadzić kontroli. Kiedy jest to dopuszczalne?",
+      "choices": [
+        "Zawsze, jeżeli kontrola dotyczy wykroczenia drogowego.",
+        "Tylko wtedy, gdy pojazd Policji ma włączone światła mijania.",
+        "Gdy jest to konieczne dla czynności kontrolnych i nie zagraża bezpieczeństwu ruchu.",
+        "Nigdy, bo pojazd Policji nie może być unieruchomiony w takim miejscu."
+      ],
+      "correctIndex": 2,
+      "explanation": "Pojazd Policji może zostać unieruchomiony w miejscu zabronionym, jeżeli jest to konieczne dla kontroli i nie zagraża bezpieczeństwu ruchu drogowego.",
+      "source": "§ 2 ust. 6"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-009",
+      "type": "single_choice",
+      "category": "Zatrzymywanie pojazdów",
+      "difficulty": "easy",
+      "question": "Policjant podaje kierującemu polecenie zatrzymania pojazdu. Jak powinien dobrać odległość i sposób podania sygnału?",
+      "choices": [
+        "Tak, aby kierujący mógł sygnał dostrzec i bezpiecznie zatrzymać pojazd w miejscu wskazanym przez policjanta.",
+        "Z dowolnej odległości, jeżeli policjant ma pierwszeństwo wykonywania czynności.",
+        "Jak najbliżej pojazdu, aby kierujący nie miał czasu zmienić pasa ruchu.",
+        "Wyłącznie po uprzednim ustawieniu znaku na jezdni."
+      ],
+      "correctIndex": 0,
+      "explanation": "Polecenie zatrzymania podaje się z dostatecznej odległości, w sposób zapewniający jego dostrzeżenie i bezpieczne zatrzymanie w miejscu wskazanym przez policjanta.",
+      "source": "§ 2 ust. 7"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-010",
+      "type": "single_choice",
+      "category": "Zatrzymywanie pojazdów",
+      "difficulty": "easy",
+      "question": "Policjanci organizują punkt kontroli. Jak mogą wyznaczyć miejsce zatrzymania pojazdu?",
+      "choices": [
+        "Tylko przez ręczne wskazanie miejsca przez policjanta.",
+        "Przez ustawienie znaku 'stój - kontrola drogowa'.",
+        "Wyłącznie przez zaparkowanie radiowozu na środku pasa ruchu.",
+        "Wyłącznie przez ustawienie pachołków bez dodatkowego oznaczenia."
+      ],
+      "correctIndex": 1,
+      "explanation": "Miejsce zatrzymania pojazdu może być wyznaczone przez ustawienie znaku 'stój - kontrola drogowa'.",
+      "source": "§ 2 ust. 8"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-011",
+      "type": "single_choice",
+      "category": "Zatrzymywanie pojazdów",
+      "difficulty": "easy",
+      "question": "Kierujący może nie zauważyć podawanego sygnału do zatrzymania. Co może zrobić policjant, aby zwrócić uwagę na sygnał lub polecenie?",
+      "choices": [
+        "Użyć sygnałów dźwiękowych.",
+        "Wymusić zatrzymanie przez nagłe zajechanie drogi.",
+        "Zrezygnować z kontroli.",
+        "Wysłać kierującemu wiadomość tekstową."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dla zwrócenia uwagi na podawane sygnały lub polecenia policjant może używać sygnałów dźwiękowych.",
+      "source": "§ 2 ust. 9"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-012",
+      "type": "single_choice",
+      "category": "Miejsce kontroli",
+      "difficulty": "easy",
+      "question": "Policjant wybiera miejsce zatrzymania pojazdu do kontroli. Jaka zasada powinna kierować wyborem miejsca?",
+      "choices": [
+        "Ma być to miejsce najbliższe ujawnienia wykroczenia, niezależnie od ryzyka.",
+        "Ma być to miejsce, w którym zatrzymanie nie zagraża bezpieczeństwu ruchu.",
+        "Ma być to zawsze najbliższy parking płatny.",
+        "Ma być to wyłącznie miejsce poza obszarem zabudowanym."
+      ],
+      "correctIndex": 1,
+      "explanation": "Zasadą jest zatrzymywanie pojazdu do kontroli w miejscu, w którym nie zagraża to bezpieczeństwu ruchu.",
+      "source": "§ 3 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-013",
+      "type": "single_choice",
+      "category": "Miejsce kontroli",
+      "difficulty": "easy",
+      "question": "Miejsce bezpiecznej kontroli znajduje się kilkaset metrów dalej. Jakie polecenie może wydać policjant kierującemu?",
+      "choices": [
+        "Polecenie jazdy za pojazdem Policji do miejsca kontroli.",
+        "Polecenie pozostawienia pojazdu na pasie ruchu i dojścia pieszo.",
+        "Polecenie cofania po poboczu do najbliższego zjazdu.",
+        "Polecenie natychmiastowego wyłączenia świateł mijania."
+      ],
+      "correctIndex": 0,
+      "explanation": "W celu dojazdu do bezpiecznego miejsca policjant może wydać kontrolowanemu polecenie jazdy za pojazdem Policji.",
+      "source": "§ 3 ust. 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-014",
+      "type": "single_choice",
+      "category": "Miejsce kontroli",
+      "difficulty": "medium",
+      "question": "Policjanci prowadzą pościg i muszą zatrzymać pojazd w miejscu, które normalnie nie byłoby wybrane do kontroli. Czy zasada wyboru miejsca niezagrażającego ruchowi ma tu zastosowanie bez wyjątku?",
+      "choices": [
+        "Tak, zawsze trzeba najpierw wybrać miejsce całkowicie neutralne dla ruchu.",
+        "Nie, wyjątek dotyczy konieczności zatrzymania pojazdu w wyniku prowadzonych działań pościgowych.",
+        "Nie, ale tylko wtedy, gdy kierujący sam o to poprosi.",
+        "Tak, chyba że kontrola dotyczy pojazdu ciężarowego."
+      ],
+      "correctIndex": 1,
+      "explanation": "Zasady zatrzymania w miejscu niezagrażającym ruchowi nie stosuje się w razie konieczności zatrzymania pojazdu w wyniku działań pościgowych.",
+      "source": "§ 3 ust. 3 pkt 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-015",
+      "type": "single_choice",
+      "category": "Miejsce kontroli",
+      "difficulty": "medium",
+      "question": "Policjant widzi pojazd, którego stan techniczny może zagrażać bezpieczeństwu ruchu. Czy może odstąpić od zwykłej zasady wyboru miejsca zatrzymania?",
+      "choices": [
+        "Nie, bo stan techniczny pojazdu nie ma znaczenia dla miejsca zatrzymania.",
+        "Tak, jeżeli zachodzi uzasadnione podejrzenie zagrożenia bezpieczeństwa ze względu na stan techniczny lub zachowanie kierującego.",
+        "Tak, ale wyłącznie na autostradzie.",
+        "Nie, chyba że pojazd ma zagraniczne tablice rejestracyjne."
+      ],
+      "correctIndex": 1,
+      "explanation": "Wyjątek obejmuje konieczność zatrzymania pojazdu, co do którego zachodzi uzasadnione podejrzenie zagrożenia bezpieczeństwa ze względu na stan techniczny lub zachowanie kierującego.",
+      "source": "§ 3 ust. 3 pkt 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-016",
+      "type": "single_choice",
+      "category": "Miejsce kontroli",
+      "difficulty": "easy",
+      "question": "Polecenie zatrzymania zostało podane z jadącego radiowozu. Jak, w miarę możliwości, powinien być ustawiony pojazd Policji po zatrzymaniu?",
+      "choices": [
+        "Przed zatrzymanym pojazdem.",
+        "Równolegle do zatrzymanego pojazdu na sąsiednim pasie.",
+        "Za zatrzymanym pojazdem.",
+        "W dowolnym miejscu, aby nie ujawniać pozycji patrolu."
+      ],
+      "correctIndex": 2,
+      "explanation": "Jeżeli polecenie zatrzymania podano z poruszającego się pojazdu Policji, pojazd Policji powinien być w miarę możliwości ustawiony za zatrzymanym pojazdem.",
+      "source": "§ 3 ust. 4"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-017",
+      "type": "single_choice",
+      "category": "Miejsce kontroli",
+      "difficulty": "medium",
+      "question": "Kierujący radiowozem zatrzymał pojazd na jezdni w miejscu, gdzie zatrzymanie jest zabronione. Co powinien zrobić przed przystąpieniem do kontroli?",
+      "choices": [
+        "Włączyć niebieskie światło błyskowe.",
+        "Ustawić za pojazdem gaśnicę.",
+        "Wyłączyć wszystkie światła radiowozu.",
+        "Nakazać kierującemu wysiadanie bez dalszych czynności."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przed przystąpieniem do kontroli w takim miejscu kierujący pojazdem Policji włącza niebieskie światło błyskowe.",
+      "source": "§ 3 ust. 5"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-018",
+      "type": "single_choice",
+      "category": "Czynności po zatrzymaniu",
+      "difficulty": "easy",
+      "question": "Policjant po zatrzymaniu pojazdu rozpoczyna zwykłą kontrolę. Jakie informacje powinien podać kierującemu?",
+      "choices": [
+        "Tylko numer rejestracyjny radiowozu.",
+        "Stopień, imię i nazwisko oraz przyczynę zatrzymania.",
+        "Wyłącznie podstawę prawną zatrzymania dokumentów.",
+        "Tylko nazwę jednostki, bez przyczyny kontroli."
+      ],
+      "correctIndex": 1,
+      "explanation": "Po zatrzymaniu pojazdu policjant podaje kierującemu stopień, imię i nazwisko oraz przyczynę zatrzymania.",
+      "source": "§ 4 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-019",
+      "type": "single_choice",
+      "category": "Czynności po zatrzymaniu",
+      "difficulty": "easy",
+      "question": "Umundurowany policjant prowadzi zwykłą kontrolę drogową. Kiedy okazuje legitymację służbową kontrolowanemu uczestnikowi ruchu?",
+      "choices": [
+        "Zawsze bez wezwania.",
+        "Tylko po zakończeniu kontroli.",
+        "Na żądanie kontrolowanego uczestnika ruchu.",
+        "Wyłącznie wtedy, gdy zamierza zatrzymać dokument."
+      ],
+      "correctIndex": 2,
+      "explanation": "Policjant umundurowany okazuje legitymację służbową na żądanie kontrolowanego uczestnika ruchu.",
+      "source": "§ 4 ust. 1 pkt 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-020",
+      "type": "single_choice",
+      "category": "Czynności po zatrzymaniu",
+      "difficulty": "easy",
+      "question": "Policjant nieumundurowany rozpoczyna kontrolę drogową. Jak powinien postąpić z legitymacją służbową?",
+      "choices": [
+        "Okazać ją bez wezwania.",
+        "Okazać ją dopiero po sporządzeniu notatki.",
+        "Okazać ją wyłącznie na pisemny wniosek kierującego.",
+        "Nie okazywać jej, jeżeli poda imię i nazwisko."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant nieumundurowany okazuje legitymację służbową bez wezwania.",
+      "source": "§ 4 ust. 1 pkt 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-021",
+      "type": "single_choice",
+      "category": "Czynności po zatrzymaniu",
+      "difficulty": "easy",
+      "question": "Kontrolowany chce zanotować dane policjanta z legitymacji służbowej. Jak powinna być okazana legitymacja?",
+      "choices": [
+        "Tak, aby kontrolowany mógł odczytać i zanotować dane pozwalające na identyfikację policjanta.",
+        "Tylko przez krótkie pokazanie okładki dokumentu.",
+        "Wyłącznie w sposób uniemożliwiający odczytanie nazwy organu wydającego.",
+        "Dopiero w jednostce Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Legitymację okazuje się w sposób umożliwiający odczytanie i zanotowanie danych identyfikujących policjanta, w szczególności stopnia, imienia, nazwiska oraz organu wydającego dokument.",
+      "source": "§ 4 ust. 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-022",
+      "type": "single_choice",
+      "category": "Czynności po zatrzymaniu",
+      "difficulty": "easy",
+      "question": "Policjant przystępuje do kontroli pojazdu i chce ograniczyć ryzyko jego nagłego ruszenia. Jakie polecenie może wydać kierującemu?",
+      "choices": [
+        "Polecenie unieruchomienia silnika pojazdu.",
+        "Polecenie wyjęcia wszystkich bezpieczników.",
+        "Polecenie zdjęcia tablic rejestracyjnych.",
+        "Polecenie opuszczenia miejsca kontroli."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przystępując do czynności kontrolnych, policjant może wydać polecenie unieruchomienia silnika pojazdu.",
+      "source": "§ 4 ust. 3"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-023",
+      "type": "single_choice",
+      "category": "Czynności po zatrzymaniu",
+      "difficulty": "medium",
+      "question": "Pojazd zatrzymano w wyniku pościgu. Czy policjant musi przed dalszymi czynnościami zachować zwykłą kolejność podawania stopnia, danych i przyczyny zatrzymania?",
+      "choices": [
+        "Tak, bez żadnych wyjątków.",
+        "Nie, rozporządzenie przewiduje wyjątek dla zatrzymania w wyniku działań pościgowych.",
+        "Tak, ale tylko poza obszarem zabudowanym.",
+        "Nie, ale tylko gdy kierujący nie ma dokumentów."
+      ],
+      "correctIndex": 1,
+      "explanation": "Obowiązku podania danych i przyczyny w tym trybie nie stosuje się w razie zatrzymania pojazdu w wyniku działań pościgowych.",
+      "source": "§ 4 ust. 4 pkt 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-024",
+      "type": "single_choice",
+      "category": "Czynności po zatrzymaniu",
+      "difficulty": "medium",
+      "question": "Policjant zatrzymuje pojazd, co do którego istnieje uzasadnione podejrzenie, że pochodzi z przestępstwa. Jak wpływa to na standardowe czynności informacyjne po zatrzymaniu?",
+      "choices": [
+        "Policjant może działać w trybie wyjątku od zwykłego podawania danych i przyczyny zatrzymania.",
+        "Policjant musi odstąpić od kontroli do czasu przybycia prokuratora.",
+        "Policjant może jedynie pouczyć kierującego i zezwolić na odjazd.",
+        "Policjant może wykonać kontrolę tylko na parkingu strzeżonym."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wyjątek od zwykłych czynności informacyjnych dotyczy zatrzymania pojazdu, co do którego istnieje uzasadnione podejrzenie, że pochodzi z przestępstwa.",
+      "source": "§ 4 ust. 4 pkt 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-025",
+      "type": "single_choice",
+      "category": "Czynności po zatrzymaniu",
+      "difficulty": "medium",
+      "question": "W pojeździe mogą znajdować się osoby, które popełniły przestępstwo. Która decyzja policjanta jest zgodna z rozporządzeniem?",
+      "choices": [
+        "Musi najpierw szczegółowo wyjaśnić wszystkie przyczyny kontroli.",
+        "Może zastosować wyjątek od standardowego trybu czynności informacyjnych po zatrzymaniu.",
+        "Nie może podejmować żadnych czynności do czasu zgody kierującego.",
+        "Może prowadzić tylko kontrolę dokumentów pojazdu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Wyjątek obejmuje sytuację, gdy zachodzi uzasadnione podejrzenie, że w pojeździe znajdują się osoby, które popełniły przestępstwo.",
+      "source": "§ 4 ust. 4 pkt 3"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-026",
+      "type": "single_choice",
+      "category": "Czynności po zatrzymaniu",
+      "difficulty": "medium",
+      "question": "Umundurowani policjanci prowadzą zorganizowaną akcję trzeźwości, nastawioną na badanie jak największej liczby kierujących. Co wystarczy podać kierującemu po zatrzymaniu?",
+      "choices": [
+        "Wyłącznie numer radiowozu.",
+        "Przyczynę zatrzymania, z zachowaniem prawa kierującego do żądania okazania legitymacji przez policjanta umundurowanego.",
+        "Pełne pouczenie o wszystkich środkach zaskarżenia.",
+        "Dane wszystkich funkcjonariuszy biorących udział w akcji."
+      ],
+      "correctIndex": 1,
+      "explanation": "W takich zorganizowanych działaniach policjant, który zatrzymał pojazd, poprzestaje na podaniu przyczyny zatrzymania, przy czym umundurowany policjant okazuje legitymację na żądanie.",
+      "source": "§ 4 ust. 5"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-027",
+      "type": "single_choice",
+      "category": "Czynności po zatrzymaniu",
+      "difficulty": "easy",
+      "question": "Podczas kontroli względy bezpieczeństwa uzasadniają wyprowadzenie osoby z pojazdu. Które polecenie może wydać policjant?",
+      "choices": [
+        "Polecenie opuszczenia pojazdu przez kierującego lub pasażera.",
+        "Polecenie oddania kluczy na okres 30 dni.",
+        "Polecenie zdjęcia tablic rejestracyjnych.",
+        "Polecenie pozostawienia pojazdu bez nadzoru na pasie ruchu."
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadkach uzasadnionych bezpieczeństwem lub charakterem kontroli policjant może polecić kierującemu albo pasażerowi opuszczenie pojazdu.",
+      "source": "§ 4 ust. 6"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-028",
+      "type": "single_choice",
+      "category": "Pojazd Policji",
+      "difficulty": "easy",
+      "question": "Kontrolowany uczestnik ruchu chce wejść do pojazdu Policji bez szczególnego powodu. Kiedy może być wpuszczony?",
+      "choices": [
+        "Zawsze, jeżeli poprosi o rozmowę w radiowozie.",
+        "Tylko w razie konieczności wskazanej w rozporządzeniu, np. udzielenia pomocy, badania trzeźwości albo okazania zarejestrowanego wykroczenia.",
+        "Wyłącznie wtedy, gdy jest właścicielem kontrolowanego pojazdu.",
+        "Nigdy, nawet w celu udzielenia pomocy rannemu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Uczestnik ruchu może być wpuszczony do pojazdu Policji tylko w razie konieczności w przypadkach wymienionych w rozporządzeniu.",
+      "source": "§ 4 ust. 7"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-029",
+      "type": "single_choice",
+      "category": "Pojazd Policji",
+      "difficulty": "easy",
+      "question": "Kierujący chce obejrzeć przebieg zarejestrowanego wykroczenia. Czy może zostać wpuszczony do pojazdu Policji w tym celu?",
+      "choices": [
+        "Tak, jeżeli jest to konieczne do okazania przebiegu zarejestrowanego wykroczenia.",
+        "Nie, rozporządzenie nie przewiduje takiej sytuacji.",
+        "Tak, ale tylko po zakończeniu służby patrolu.",
+        "Nie, chyba że kierujący jest świadkiem, a nie sprawcą wykroczenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jednym z przypadków dopuszczenia uczestnika ruchu do pojazdu Policji jest okazanie przebiegu zarejestrowanego wykroczenia.",
+      "source": "§ 4 ust. 7 pkt 4"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-030",
+      "type": "single_choice",
+      "category": "Pojazd Policji",
+      "difficulty": "medium",
+      "question": "Kierujący ma uiścić grzywnę mandatem w formie bezgotówkowej. Czy może zostać wpuszczony do pojazdu Policji?",
+      "choices": [
+        "Nie, płatność może odbyć się wyłącznie poza pojazdem Policji.",
+        "Tak, jeżeli jest to konieczne do umożliwienia uiszczenia grzywny kartą płatniczą lub innym instrumentem płatniczym.",
+        "Tak, ale tylko przy mandacie za parkowanie.",
+        "Nie, ponieważ rozporządzenie dotyczy wyłącznie zatrzymywania pojazdów."
+      ],
+      "correctIndex": 1,
+      "explanation": "Rozporządzenie dopuszcza wpuszczenie uczestnika do pojazdu Policji w celu umożliwienia bezgotówkowego uiszczenia grzywny albo kaucji.",
+      "source": "§ 4 ust. 7 pkt 6"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-031",
+      "type": "single_choice",
+      "category": "Pojazd Policji",
+      "difficulty": "medium",
+      "question": "Osoba kontrolowana może próbować uciec. Które działanie jest przewidziane w rozporządzeniu?",
+      "choices": [
+        "Wpuszczenie jej do pojazdu Policji, jeżeli jest to konieczne do przeciwdziałania próbie ucieczki.",
+        "Nakazanie jej samodzielnego dojścia do jednostki Policji.",
+        "Zezwolenie na dalszą jazdę i późniejsze wezwanie.",
+        "Zatrzymanie jej wyłącznie przez zamknięcie w pojeździe kontrolowanym."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wpuszczenie uczestnika ruchu do pojazdu Policji jest dopuszczalne m.in. dla przeciwdziałania próbie ucieczki, jeżeli zachodzi uzasadnione podejrzenie jej podjęcia.",
+      "source": "§ 4 ust. 7 pkt 7"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-032",
+      "type": "single_choice",
+      "category": "Drogowa kontrola techniczna",
+      "difficulty": "easy",
+      "question": "Kontrolujący wytypował pojazd do drogowej kontroli technicznej. Jakiego rodzaju kontroli może podlegać pojazd?",
+      "choices": [
+        "Wyłącznie kontroli szczegółowej.",
+        "Wyłącznie kontroli dokumentów przewozowych.",
+        "Wstępnej albo szczegółowej drogowej kontroli technicznej.",
+        "Tylko badaniu w stacji diagnostycznej bez czynności drogowych."
+      ],
+      "correctIndex": 2,
+      "explanation": "Pojazd wytypowany do drogowej kontroli technicznej podlega wstępnej lub szczegółowej drogowej kontroli technicznej.",
+      "source": "§ 5 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-033",
+      "type": "single_choice",
+      "category": "Drogowa kontrola techniczna",
+      "difficulty": "easy",
+      "question": "Kontrolujący rozpoczyna drogową kontrolę techniczną. Jaki minimalny zakres musi objąć kontrola?",
+      "choices": [
+        "Identyfikację pojazdu oraz sprawdzenie stanu technicznego co najmniej jednej pozycji z określonych obszarów.",
+        "Wyłącznie oględziny tablic rejestracyjnych.",
+        "Wyłącznie sprawdzenie ubezpieczenia pojazdu.",
+        "Zawsze pełne badanie wszystkich układów pojazdu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Drogowa kontrola techniczna obejmuje identyfikację pojazdu oraz sprawdzenie co najmniej jednej pozycji z wymienionych obszarów technicznych.",
+      "source": "§ 5 ust. 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-034",
+      "type": "single_choice",
+      "category": "Drogowa kontrola techniczna",
+      "difficulty": "easy",
+      "question": "Który obszar może być objęty drogową kontrolą techniczną pojazdu?",
+      "choices": [
+        "Kolor tapicerki.",
+        "Układ hamulcowy.",
+        "Historia sprzedaży pojazdu.",
+        "Preferencje kierowcy dotyczące trasy."
+      ],
+      "correctIndex": 1,
+      "explanation": "Jednym z obszarów drogowej kontroli technicznej jest układ hamulcowy.",
+      "source": "§ 5 ust. 2 pkt 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-035",
+      "type": "single_choice",
+      "category": "Drogowa kontrola techniczna",
+      "difficulty": "easy",
+      "question": "Kontrolujący sprawdza pojazd pod kątem elementów wpływających na kierowanie. Do którego obszaru kontroli należy ten zakres?",
+      "choices": [
+        "Układ kierowniczy.",
+        "Warunki dodatkowe.",
+        "Inne wyposażenie wyłącznie w zakresie tachografu.",
+        "Uciążliwość."
+      ],
+      "correctIndex": 0,
+      "explanation": "Układ kierowniczy jest jednym z obszarów drogowej kontroli technicznej.",
+      "source": "§ 5 ust. 2 pkt 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-036",
+      "type": "single_choice",
+      "category": "Drogowa kontrola techniczna",
+      "difficulty": "easy",
+      "question": "Kontrolujący ocenia emisję spalin oraz wycieki paliwa lub oleju. Jaki obszar kontroli jest realizowany?",
+      "choices": [
+        "Widoczność.",
+        "Uciążliwość.",
+        "Identyfikacja pojazdu.",
+        "Wyposażenie elektryczne."
+      ],
+      "correctIndex": 1,
+      "explanation": "Obszar uciążliwości obejmuje między innymi emisję spalin oraz wycieki paliwa lub oleju.",
+      "source": "§ 5 ust. 2 pkt 8"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-037",
+      "type": "single_choice",
+      "category": "Drogowa kontrola techniczna",
+      "difficulty": "medium",
+      "question": "Kontrolowany pojazd użytkowy należy do podmiotu o wysokim współczynniku ryzyka naruszeń czasu pracy kierowców lub stanu technicznego. Które obszary powinny być sprawdzone w szczególności?",
+      "choices": [
+        "Wyłącznie wygląd zewnętrzny i kolor pojazdu.",
+        "Hamulce, układ kierowniczy, osie z kołami i zawieszeniem, podwozie oraz uciążliwość.",
+        "Tylko tachograf i gaśnica.",
+        "Wyłącznie dokumentacja przewozowa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Dla pojazdu użytkowego użytkowanego przez podmiot o wysokim współczynniku ryzyka kontrola obejmuje w szczególności obszary hamulców, kierowniczego, osi/kół/opon/zawieszenia, podwozia oraz uciążliwości.",
+      "source": "§ 5 ust. 3"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-038",
+      "type": "single_choice",
+      "category": "Drogowa kontrola techniczna",
+      "difficulty": "medium",
+      "question": "Dokumentacja pojazdu użytkowego potwierdza, że dany obszar kontroli był sprawdzany w poprzednich trzech miesiącach. Kiedy kontrolujący mimo to powinien rozważyć ponowną kontrolę tego obszaru?",
+      "choices": [
+        "Gdy nieprawidłowości są oczywiste dla kontrolującego.",
+        "Zawsze, bo wcześniejsza kontrola nie ma znaczenia.",
+        "Tylko na pisemny wniosek kierowcy.",
+        "Wyłącznie wtedy, gdy pojazd jest autobusem."
+      ],
+      "correctIndex": 0,
+      "explanation": "Można nie przeprowadzać kontroli pozycji sprawdzanych w poprzednich trzech miesiącach, chyba że nieprawidłowości są oczywiste dla kontrolującego.",
+      "source": "§ 5 ust. 4"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-039",
+      "type": "single_choice",
+      "category": "Drogowa kontrola techniczna",
+      "difficulty": "medium",
+      "question": "Kontrolujący stwierdza usterkę, której nie ma w wykazie z załącznika. Jak powinien ją ocenić?",
+      "choices": [
+        "Nie może jej uwzględnić w wyniku kontroli.",
+        "Ocenia ją pod względem zagrożenia, jakie stwarza dla bezpieczeństwa ruchu drogowego.",
+        "Zawsze klasyfikuje ją jako drobną.",
+        "Zawsze kieruje pojazd na dodatkowe badanie okresowe."
+      ],
+      "correctIndex": 1,
+      "explanation": "Usterki niewymienione w załączniku ocenia się według zagrożenia, jakie stwarzają dla bezpieczeństwa ruchu drogowego.",
+      "source": "§ 5 ust. 5"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-040",
+      "type": "single_choice",
+      "category": "Drogowa kontrola techniczna",
+      "difficulty": "easy",
+      "question": "Kontrolujący chce przeprowadzić kontrolę stanu technicznego pojazdu przy użyciu kanału przeglądowego. Czy rozporządzenie to dopuszcza?",
+      "choices": [
+        "Tak, może korzystać z dodatkowego sprzętu, w szczególności podnośnika lub kanału przeglądowego.",
+        "Nie, kontrola drogowa może być wyłącznie wzrokowa.",
+        "Tak, ale tylko w przypadku motocykli.",
+        "Nie, chyba że kierujący dobrowolnie wyrazi zgodę na badanie w kanale."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kontrolę stanu technicznego przeprowadza się z użyciem dostępnych technik i sprzętu, a kontrolujący może korzystać z dodatkowego sprzętu, w szczególności podnośnika lub kanału przeglądowego.",
+      "source": "§ 5 ust. 6"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-041",
+      "type": "single_choice",
+      "category": "Kategorie usterek",
+      "difficulty": "easy",
+      "question": "Podczas kontroli ujawniono usterkę bez znaczącego wpływu na bezpieczeństwo pojazdu i wymagania ochrony środowiska, która nie ogranicza dalszego używania pojazdu. Jak należy ją zakwalifikować?",
+      "choices": [
+        "Jako usterkę niebezpieczną.",
+        "Jako usterkę poważną.",
+        "Jako usterkę drobną.",
+        "Jako podstawę do automatycznego niedopuszczenia pojazdu do ruchu."
+      ],
+      "correctIndex": 2,
+      "explanation": "Usterki drobne to usterki bez znaczącego wpływu na bezpieczeństwo pojazdu lub wymagania ochrony środowiska i niepowodujące ograniczenia dalszego używania pojazdu.",
+      "source": "§ 5 ust. 7 pkt 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-042",
+      "type": "single_choice",
+      "category": "Kategorie usterek",
+      "difficulty": "easy",
+      "question": "Usterka może zagrażać bezpieczeństwu ruchu albo naruszać wymagania ochrony środowiska i daje podstawę do ograniczenia dalszego używania pojazdu. Jaka to kategoria?",
+      "choices": [
+        "Usterka poważna.",
+        "Usterka drobna.",
+        "Usterka formalna.",
+        "Usterka archiwalna."
+      ],
+      "correctIndex": 0,
+      "explanation": "Usterki poważne mogą zagrażać bezpieczeństwu ruchu lub naruszać wymagania ochrony środowiska i dają podstawę do ograniczenia dalszego używania pojazdu oraz określenia warunków tego używania.",
+      "source": "§ 5 ust. 7 pkt 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-043",
+      "type": "single_choice",
+      "category": "Kategorie usterek",
+      "difficulty": "easy",
+      "question": "Pojazd ma usterkę powodującą bezpośrednie zagrożenie i niedopuszczenie do dalszego używania w ruchu drogowym. Jak należy ją zakwalifikować?",
+      "choices": [
+        "Jako drobną.",
+        "Jako poważną.",
+        "Jako niebezpieczną.",
+        "Jako wyłącznie administracyjną."
+      ],
+      "correctIndex": 2,
+      "explanation": "Usterki niebezpieczne powodują bezpośrednie zagrożenie lub naruszają wymagania ochrony środowiska w stopniu uniemożliwiającym używanie pojazdu w ruchu drogowym.",
+      "source": "§ 5 ust. 7 pkt 3"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-044",
+      "type": "single_choice",
+      "category": "Kategorie usterek",
+      "difficulty": "medium",
+      "question": "Podczas kontroli ujawniono usterki z kilku kategorii. Jak należy sklasyfikować wynik kontroli?",
+      "choices": [
+        "Według kategorii najłagodniejszej.",
+        "Według najpoważniejszej kategorii usterki.",
+        "Według liczby usterek drobnych.",
+        "Zawsze jako wynik pozytywny, jeżeli pojazd da się uruchomić."
+      ],
+      "correctIndex": 1,
+      "explanation": "Jeżeli usterki należą do więcej niż jednej kategorii, wynik kontroli klasyfikuje się na podstawie najpoważniejszej kategorii.",
+      "source": "§ 5 ust. 8"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-045",
+      "type": "single_choice",
+      "category": "Kategorie usterek",
+      "difficulty": "hard",
+      "question": "W jednym obszarze kontroli ujawniono kilka usterek, których łączny wpływ wyraźnie zwiększa zagrożenie dla bezpieczeństwa ruchu. Jak można sklasyfikować wynik?",
+      "choices": [
+        "Na podstawie poważniejszej kategorii usterek.",
+        "Zawsze według najłagodniejszej z ujawnionych usterek.",
+        "Wyłącznie jako usterkę drobną, jeżeli żadna pojedyncza usterka nie jest niebezpieczna.",
+        "Bez klasyfikacji, bo kilka usterek w jednym obszarze wyłącza ocenę."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kilka usterek w tych samych obszarach może prowadzić do zaklasyfikowania wyniku na podstawie poważniejszej kategorii, jeżeli ich skumulowany wpływ zwiększa zagrożenie.",
+      "source": "§ 5 ust. 9"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-046",
+      "type": "single_choice",
+      "category": "Wstępna kontrola techniczna",
+      "difficulty": "easy",
+      "question": "Kontrolujący rozpoczyna wstępną drogową kontrolę techniczną. Który obowiązek należy do tej kontroli?",
+      "choices": [
+        "Sprawdzenie wymaganej dokumentacji dotyczącej dopuszczenia pojazdu do ruchu.",
+        "Zawsze demontaż kół pojazdu.",
+        "Obowiązkowe ważenie każdego pojazdu.",
+        "Automatyczne skierowanie na stację kontroli pojazdów."
+      ],
+      "correctIndex": 0,
+      "explanation": "Podczas wstępnej kontroli kontrolujący sprawdza wymaganą dokumentację dopuszczenia pojazdu do ruchu, w szczególności dokument badania technicznego i ostatni protokół kontroli drogowej.",
+      "source": "§ 6 ust. 1 pkt 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-047",
+      "type": "single_choice",
+      "category": "Wstępna kontrola techniczna",
+      "difficulty": "easy",
+      "question": "Podczas wstępnej kontroli technicznej kontrolujący chce ocenić stan pojazdu bez użycia specjalistycznej stacji. Która czynność jest wprost przewidziana?",
+      "choices": [
+        "Wzrokowa ocena stanu technicznego pojazdu.",
+        "Obowiązkowe badanie emisji na hamowni.",
+        "Rozebranie układu hamulcowego.",
+        "Wydanie decyzji o zezłomowaniu pojazdu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wstępna drogowa kontrola techniczna obejmuje wzrokową ocenę stanu technicznego pojazdu.",
+      "source": "§ 6 ust. 1 pkt 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-048",
+      "type": "single_choice",
+      "category": "Wstępna kontrola techniczna",
+      "difficulty": "medium",
+      "question": "Podczas wstępnej kontroli pojazdu użytkowego poprzednia kontrola wykazała usterki. Co powinien sprawdzić kontrolujący?",
+      "choices": [
+        "Czy usterki zostały usunięte.",
+        "Wyłącznie, czy kierowca ma przy sobie dowód osobisty.",
+        "Tylko numer konta przedsiębiorcy.",
+        "Czy pojazd został umyty po poprzedniej kontroli."
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadku pojazdu użytkowego kontrolujący sprawdza, czy usterki ujawnione podczas poprzedniej drogowej kontroli technicznej zostały usunięte.",
+      "source": "§ 6 ust. 1 pkt 5"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-049",
+      "type": "single_choice",
+      "category": "Szczegółowa kontrola techniczna",
+      "difficulty": "medium",
+      "question": "Po wstępnej kontroli pojazdu użytkowego zachodzi uzasadnione podejrzenie, że pojazd zagraża bezpieczeństwu ruchu. Co powinien rozważyć kontrolujący?",
+      "choices": [
+        "Poddanie pojazdu szczegółowej drogowej kontroli technicznej.",
+        "Zakończenie kontroli bez dalszych czynności.",
+        "Wyłącznie pouczenie kierowcy.",
+        "Przekazanie sprawy zarządcy drogi bez dokumentowania."
+      ],
+      "correctIndex": 0,
+      "explanation": "Szczegółową drogową kontrolę techniczną pojazdu użytkowego przeprowadza się w szczególności, gdy zachodzi podejrzenie zagrożenia bezpieczeństwa ruchu lub naruszenia wymagań ochrony środowiska.",
+      "source": "§ 6 ust. 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-050",
+      "type": "single_choice",
+      "category": "Szczegółowa kontrola techniczna",
+      "difficulty": "medium",
+      "question": "Szczegółowa kontrola techniczna wymaga przejazdu pojazdu użytkowego do mobilnej stacji kontroli drogowej. Jaką rolę ma kontrolujący?",
+      "choices": [
+        "Nadzoruje ten przejazd.",
+        "Nie uczestniczy w przejeździe i kończy kontrolę.",
+        "Poleca kierowcy samodzielne zgłoszenie się następnego dnia.",
+        "Zatrzymuje pojazd bez możliwości przemieszczenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli szczegółowa kontrola wymaga przejazdu do mobilnej stacji albo wyznaczonego punktu, kontrolujący nadzoruje ten przejazd.",
+      "source": "§ 6 ust. 3"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-051",
+      "type": "single_choice",
+      "category": "Szczegółowa kontrola techniczna",
+      "difficulty": "medium",
+      "question": "Kontrolujący po wstępnych czynnościach nie będzie sam przeprowadzał szczegółowej kontroli technicznej. Co powinien przekazać osobie, która będzie ją wykonywać?",
+      "choices": [
+        "Pozycje z wykazu kontrolnego zawartego w protokole, które mają podlegać kontroli.",
+        "Wyłącznie numer służbowy kierującego.",
+        "Ustne polecenie bez wskazania zakresu kontroli.",
+        "Wyłącznie informację o marce pojazdu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kontrolujący wskazuje kontrolującemu, który będzie przeprowadzał szczegółową kontrolę, pozycje z wykazu kontrolnego podlegające tej kontroli.",
+      "source": "§ 6 ust. 4"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-052",
+      "type": "single_choice",
+      "category": "Szczegółowa kontrola techniczna",
+      "difficulty": "easy",
+      "question": "Po szczegółowej drogowej kontroli technicznej pojazdu użytkowego kontrolujący sporządza protokół. Ile egzemplarzy powinno powstać i komu przekazuje się drugi egzemplarz?",
+      "choices": [
+        "Jeden egzemplarz, pozostający wyłącznie u kontrolującego.",
+        "Dwa egzemplarze, z których drugi niezwłocznie przekazuje się kierowcy kontrolowanego pojazdu.",
+        "Trzy egzemplarze, z których każdy trafia do starosty.",
+        "Dwa egzemplarze, ale drugi wydaje się tylko na pisemny wniosek przedsiębiorcy."
+      ],
+      "correctIndex": 1,
+      "explanation": "Protokół sporządza się w dwóch egzemplarzach; pierwszy pozostaje w dyspozycji organu kontroli ruchu drogowego, drugi niezwłocznie otrzymuje kierowca.",
+      "source": "§ 6 ust. 6"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-053",
+      "type": "single_choice",
+      "category": "Szczegółowa kontrola techniczna",
+      "difficulty": "easy",
+      "question": "Kontrolujący sporządza protokół szczegółowej drogowej kontroli technicznej. Co powinien wpisać w części dotyczącej różnych uwag?",
+      "choices": [
+        "Pozycje z wykazu kontrolnego, które podlegały szczegółowej kontroli.",
+        "Wyłącznie dane osobowe pasażerów.",
+        "Opinie kierowcy o jakości drogi.",
+        "Informację o najbliższym warsztacie naprawczym."
+      ],
+      "correctIndex": 0,
+      "explanation": "W protokole w części 'Różne/uwagi' wpisuje się pozycje z wykazu kontrolnego, które podlegały szczegółowej kontroli.",
+      "source": "§ 6 ust. 5"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-054",
+      "type": "single_choice",
+      "category": "Dodatkowe badanie techniczne",
+      "difficulty": "medium",
+      "question": "Podczas kontroli pojazdu użytkowego zarejestrowanego w Polsce ujawniono wiele usterek poważnych lub niebezpiecznych uzasadniających dodatkowe badanie. Co robi organ kontroli ruchu drogowego?",
+      "choices": [
+        "Występuje do starosty z wnioskiem o skierowanie pojazdu na dodatkowe badanie techniczne.",
+        "Sam wydaje decyzję administracyjną o wyrejestrowaniu pojazdu.",
+        "Przekazuje wyłącznie ustną informację kierowcy.",
+        "Zawsze kończy kontrolę pouczeniem."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dla pojazdu zarejestrowanego w Polsce organ kontroli ruchu drogowego występuje do starosty z wnioskiem o skierowanie na dodatkowe badanie techniczne.",
+      "source": "§ 7 ust. 1 pkt 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-055",
+      "type": "single_choice",
+      "category": "Dodatkowe badanie techniczne",
+      "difficulty": "medium",
+      "question": "Podczas kontroli pojazdu użytkowego niezarejestrowanego w Polsce ujawniono wiele poważnych lub niebezpiecznych usterek. Co należy zrobić z wynikami kontroli?",
+      "choices": [
+        "Przekazać je Głównemu Inspektorowi Transportu Drogowego w wymaganym trybie i sposobie.",
+        "Zawsze przesłać je staroście właściwemu dla miejsca kontroli.",
+        "Zatrzymać je wyłącznie w dokumentacji patrolu.",
+        "Przekazać je właścicielowi drogi bez dalszych obowiązków."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wyniki kontroli pojazdu niezarejestrowanego w Polsce przekazuje się Głównemu Inspektorowi Transportu Drogowego w określonym trybie i sposobie.",
+      "source": "§ 7 ust. 1 pkt 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-056",
+      "type": "single_choice",
+      "category": "Dodatkowe badanie techniczne",
+      "difficulty": "easy",
+      "question": "Organ kieruje do starosty wniosek o dodatkowe badanie po szczegółowej kontroli pojazdu. Co powinno zostać dołączone, jeżeli pojazd był poddany takiej kontroli?",
+      "choices": [
+        "Kopia egzemplarza protokołu pozostającego w dyspozycji organu kontroli ruchu drogowego.",
+        "Dowód osobisty kierowcy.",
+        "Oryginał prawa jazdy kontrolującego.",
+        "Wydruk mapy z miejsca kontroli."
+      ],
+      "correctIndex": 0,
+      "explanation": "Do wniosku załącza się kopię pozostającego w dyspozycji organu egzemplarza protokołu szczegółowej drogowej kontroli technicznej, jeżeli pojazd był jej poddany.",
+      "source": "§ 7 ust. 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-057",
+      "type": "single_choice",
+      "category": "Kontrola zabezpieczenia ładunku",
+      "difficulty": "easy",
+      "question": "Kontrolujący wykonuje drogową kontrolę techniczną pojazdu przewożącego ładunek. Czy może objąć kontrolą także zabezpieczenie ładunku?",
+      "choices": [
+        "Tak, drogowa kontrola techniczna może obejmować kontrolę zabezpieczenia ładunku.",
+        "Nie, ładunek nigdy nie jest elementem drogowej kontroli technicznej.",
+        "Tak, ale wyłącznie gdy kierowca wyrazi pisemną zgodę.",
+        "Nie, chyba że ładunek jest odpadem niebezpiecznym."
+      ],
+      "correctIndex": 0,
+      "explanation": "Drogowa kontrola techniczna może obejmować również kontrolę zabezpieczenia ładunku.",
+      "source": "§ 8 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-058",
+      "type": "single_choice",
+      "category": "Kontrola zabezpieczenia ładunku",
+      "difficulty": "medium",
+      "question": "Kontrolujący ocenia zabezpieczenie ładunku. Która czynność mieści się w zakresie takiej kontroli?",
+      "choices": [
+        "Wzrokowe sprawdzenie środków zabezpieczających, pomiar sił rozciągających lub wyliczenie skuteczności zabezpieczenia.",
+        "Wyłącznie sprawdzenie faktury za przewożony towar.",
+        "Wyłącznie ustalenie wartości handlowej ładunku.",
+        "Obowiązkowe rozładowanie całego pojazdu w każdym przypadku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kontrola zabezpieczenia ładunku polega w szczególności na wzrokowym sprawdzeniu środków zabezpieczających, pomiarze sił rozciągających, wyliczeniu skuteczności zabezpieczenia i w uzasadnionych przypadkach sprawdzeniu świadectw.",
+      "source": "§ 8 ust. 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-059",
+      "type": "single_choice",
+      "category": "Kontrola zabezpieczenia ładunku",
+      "difficulty": "easy",
+      "question": "Ładunek jest odpowiednio zabezpieczony, ale wskazane byłoby dodatkowe oznaczenie dotyczące bezpieczeństwa. Jak klasyfikuje się taką usterkę zabezpieczenia ładunku?",
+      "choices": [
+        "Jako drobną.",
+        "Jako poważną.",
+        "Jako niebezpieczną.",
+        "Jako brak usterki, którego nie można odnotować."
+      ],
+      "correctIndex": 0,
+      "explanation": "Usterka drobna przy zabezpieczeniu ładunku występuje, gdy ładunek jest odpowiednio zabezpieczony, ale wskazane byłoby oznaczenie dotyczące zachowania bezpieczeństwa.",
+      "source": "§ 8 ust. 3 pkt 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-060",
+      "type": "single_choice",
+      "category": "Kontrola zabezpieczenia ładunku",
+      "difficulty": "easy",
+      "question": "Ładunek nie został wystarczająco zabezpieczony i możliwe jest znaczące przesunięcie jego części. Jaka to kategoria usterki?",
+      "choices": [
+        "Drobna.",
+        "Poważna.",
+        "Niebezpieczna tylko wtedy, gdy pojazd jest autobusem.",
+        "Niepodlegająca klasyfikacji."
+      ],
+      "correctIndex": 1,
+      "explanation": "Usterka poważna występuje, gdy ładunek nie został wystarczająco zabezpieczony i możliwe jest znaczące przesunięcie lub przewrócenie ładunku albo jego części.",
+      "source": "§ 8 ust. 3 pkt 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-061",
+      "type": "single_choice",
+      "category": "Kontrola zabezpieczenia ładunku",
+      "difficulty": "medium",
+      "question": "Podczas kontroli ładunku ujawniono bezpośrednie zagrożenie utratą części ładunku. Jak zakwalifikować usterkę?",
+      "choices": [
+        "Jako drobną, jeżeli kierowca obiecuje poprawić zabezpieczenie.",
+        "Jako poważną, bo każda utrata ładunku jest tylko potencjalna.",
+        "Jako niebezpieczną.",
+        "Nie klasyfikować, jeżeli pojazd nie wyruszył jeszcze w trasę."
+      ],
+      "correctIndex": 2,
+      "explanation": "Usterka niebezpieczna zabezpieczenia ładunku zachodzi m.in. przy bezpośrednim zagrożeniu bezpieczeństwa ruchu wynikającym z zagrożenia utratą ładunku lub jego części.",
+      "source": "§ 8 ust. 3 pkt 3 lit. a"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-062",
+      "type": "single_choice",
+      "category": "Kontrola zabezpieczenia ładunku",
+      "difficulty": "medium",
+      "question": "Przewóz ma usterki zabezpieczenia ładunku zaliczone do więcej niż jednej kategorii. Jak klasyfikuje się przewóz?",
+      "choices": [
+        "Do kategorii najniższej.",
+        "Do kategorii wyższej.",
+        "Jako przewóz bez usterki, jeśli kierowca zamierza poprawić zabezpieczenie.",
+        "Wyłącznie według masy ładunku."
+      ],
+      "correctIndex": 1,
+      "explanation": "Jeżeli usterki zabezpieczenia ładunku zaliczono do więcej niż jednej kategorii, przewóz klasyfikuje się do wyższej kategorii usterek.",
+      "source": "§ 8 ust. 4"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-063",
+      "type": "single_choice",
+      "category": "Kontrola zabezpieczenia ładunku",
+      "difficulty": "medium",
+      "question": "Przewóz ma kilka usterek zabezpieczenia ładunku w tej samej kategorii. Jak należy go sklasyfikować?",
+      "choices": [
+        "Pozostawić w tej samej kategorii bez możliwości podwyższenia.",
+        "Sklasyfikować do wyższej kategorii usterek.",
+        "Nie klasyfikować, bo usterki się dublują.",
+        "Zawsze uznać za usterkę drobną."
+      ],
+      "correctIndex": 1,
+      "explanation": "Przewóz, w którym stwierdzono kilka usterek w tej samej kategorii, klasyfikuje się do wyższej kategorii usterek.",
+      "source": "§ 8 ust. 5"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-064",
+      "type": "single_choice",
+      "category": "Tachografy",
+      "difficulty": "easy",
+      "question": "Kontrolujący sprawdza zapisy tachografu analogowego. Jak potwierdza tę czynność na bieżącej wykresówce?",
+      "choices": [
+        "Odciskiem pieczęci na odwrocie wykresówki oraz odnotowaniem godziny rozpoczęcia i zakończenia kontroli, a także daty i miejsca.",
+        "Wyłącznie podpisem kierowcy na przedniej stronie wykresówki.",
+        "Tylko wpisem do notatnika służbowego bez oznaczenia wykresówki.",
+        "Zawsze przez zatrzymanie wykresówki bez pokwitowania."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sprawdzenie zapisów tachografu analogowego potwierdza się odciskiem pieczęci na odwrocie bieżącej wykresówki, godziną rozpoczęcia i zakończenia kontroli oraz datą i miejscem kontroli.",
+      "source": "§ 9 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-065",
+      "type": "single_choice",
+      "category": "Tachografy",
+      "difficulty": "easy",
+      "question": "Kontrolujący ma kartę kontrolną i sprawdza tachograf cyfrowy oraz kartę kierowcy. Jaki podstawowy sposób przewiduje rozporządzenie?",
+      "choices": [
+        "Włożenie karty kontrolnej do tachografu, a następnie wyświetlenie i przeglądanie zapisów, wydruk lub pobranie danych.",
+        "Wyłącznie oględziny obudowy tachografu.",
+        "Zawsze demontaż tachografu.",
+        "Wyłącznie ustne oświadczenie kierowcy o czasie jazdy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zapisy z pamięci tachografu cyfrowego i karty kierowcy sprawdza się przez włożenie karty kontrolnej, a następnie wyświetlenie i przeglądanie zapisów, wydruk lub pobranie danych.",
+      "source": "§ 10 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-066",
+      "type": "single_choice",
+      "category": "Tachografy",
+      "difficulty": "medium",
+      "question": "Kontrolujący nie ma karty kontrolnej albo karta jest niezdatna do użytku. Jak sprawdza zapisy tachografu cyfrowego i karty kierowcy?",
+      "choices": [
+        "Nie może wykonać żadnej czynności kontrolnej.",
+        "Przez wyświetlenie i przeglądanie zapisów oraz ich wydruk.",
+        "Wyłącznie przez przesłuchanie kierowcy.",
+        "Tylko po odholowaniu pojazdu do serwisu tachografów."
+      ],
+      "correctIndex": 1,
+      "explanation": "Jeżeli kontrolujący nie posiada karty kontrolnej albo jest ona niezdatna, zapisy sprawdza się przez wyświetlenie i przeglądanie zapisów oraz ich wydruk.",
+      "source": "§ 10 ust. 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-067",
+      "type": "single_choice",
+      "category": "Tachografy",
+      "difficulty": "medium",
+      "question": "Kontrolowany nie ma karty kierowcy albo jest ona niezdatna do użytku. Co powinien nanieść na egzemplarzu wydruku pozostającym u kontrolującego?",
+      "choices": [
+        "Imię i nazwisko, numer karty kierowcy lub numer prawa jazdy oraz podpis.",
+        "Wyłącznie numer rejestracyjny pojazdu.",
+        "Adres przedsiębiorcy i numer telefonu dyspozytora.",
+        "Tylko godzinę zakończenia kontroli."
+      ],
+      "correctIndex": 0,
+      "explanation": "Gdy kontrolowany nie posiada karty kierowcy albo jest ona niezdatna, ma nanieść na wydruku pozostającym u kontrolującego swoje imię i nazwisko, numer karty kierowcy lub prawa jazdy oraz podpis.",
+      "source": "§ 10 ust. 4"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-068",
+      "type": "single_choice",
+      "category": "Tachografy",
+      "difficulty": "easy",
+      "question": "Na egzemplarzu wydruku z tachografu cyfrowego pozostawionym kontrolowanemu trzeba potwierdzić sprawdzenie zapisów. Jak robi to kontrolujący?",
+      "choices": [
+        "W sposób przewidziany dla potwierdzenia kontroli tachografu analogowego.",
+        "Wyłącznie przez wpisanie numeru telefonu jednostki.",
+        "Nie potwierdza, bo wydruk dla kontrolowanego nie wymaga oznaczenia.",
+        "Wyłącznie przez dołączenie kopii prawa jazdy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Na egzemplarzu wydruku pozostawionym kontrolowanemu potwierdza się sprawdzenie zapisów w sposób określony dla wykresówki tachografu analogowego.",
+      "source": "§ 10 ust. 3 w zw. z § 9 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-069",
+      "type": "single_choice",
+      "category": "Uprawnienia kontrolującego",
+      "difficulty": "medium",
+      "question": "Kontrolujący ma odpowiednie uprawnienie do kierowania pojazdami i musi sprawdzić skuteczność hamulców. Czy może kierować kontrolowanym pojazdem?",
+      "choices": [
+        "Tak, jeżeli jest to niezbędne do sprawdzenia stanu technicznego, w szczególności skuteczności hamulców.",
+        "Nie, kontrolującym nigdy nie wolno kierować kontrolowanym pojazdem.",
+        "Tak, ale tylko na pisemne żądanie kierowcy.",
+        "Nie, chyba że pojazd jest własnością Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kontrolujący może kierować kontrolowanym pojazdem w zakresie posiadanego uprawnienia, gdy jest to niezbędne do sprawdzenia stanu technicznego, w szczególności hamulców, masy lub nacisku osi.",
+      "source": "§ 11 pkt 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-070",
+      "type": "single_choice",
+      "category": "Uprawnienia kontrolującego",
+      "difficulty": "medium",
+      "question": "Pojazd zatrzymano w związku z podejrzeniem, że kierujący jest po alkoholu, a pojazd utrudnia ruch. Czy kontrolujący może nim kierować, aby sprowadzić go w bezpieczne miejsce?",
+      "choices": [
+        "Tak, jeżeli ma odpowiednie uprawnienie i jest to niezbędne do sprowadzenia pojazdu w miejsce, w którym nie utrudnia ruchu ani nie zagraża bezpieczeństwu.",
+        "Nie, pojazd zawsze musi pozostać w miejscu zatrzymania.",
+        "Tak, ale tylko po decyzji starosty.",
+        "Nie, jeżeli kierujący odmawia zgody."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kontrolujący może kierować pojazdem w zakresie posiadanego uprawnienia, aby sprowadzić go w miejsce nieutrudniające ruchu i niezagrażające bezpieczeństwu w przypadkach określonych w rozporządzeniu, m.in. przy podejrzeniu stanu po alkoholu.",
+      "source": "§ 11 pkt 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-071",
+      "type": "single_choice",
+      "category": "Drogomierz",
+      "difficulty": "easy",
+      "question": "Kontrolujący zatrzymał pojazd do kontroli, ale nie sprawdza jego stanu technicznego. Czy ma obowiązek odczytać wskazanie drogomierza?",
+      "choices": [
+        "Tak, dokonuje odczytu także wtedy, gdy nie poddaje pojazdu sprawdzeniu stanu technicznego.",
+        "Nie, drogomierz odczytuje się tylko przy badaniu technicznym.",
+        "Nie, chyba że kierowca sam poprosi o wpis.",
+        "Tak, ale tylko w pojeździe użytkowym."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kontrolujący dokonuje odczytu wskazań drogomierza pojazdu zatrzymanego do kontroli także wtedy, gdy nie poddaje go sprawdzeniu stanu technicznego.",
+      "source": "§ 12 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-072",
+      "type": "single_choice",
+      "category": "Drogomierz",
+      "difficulty": "medium",
+      "question": "Podczas zorganizowanej akcji trzeźwości prowadzonej przez umundurowanych policjantów kontrolujący bada wielu kierujących. Czy rozporządzenie dopuszcza odstąpienie od odczytu drogomierza?",
+      "choices": [
+        "Tak, przepisu o odczycie drogomierza można nie stosować w takiej sytuacji.",
+        "Nie, odczyt jest bezwzględnie obowiązkowy w każdym przypadku.",
+        "Tak, ale tylko przy pojazdach ciężarowych.",
+        "Nie, chyba że kierujący nie ma dowodu rejestracyjnego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przepisu o odczycie drogomierza można nie stosować m.in. w przypadku zorganizowanych działań kontrolnych ukierunkowanych na badanie jak największej liczby kierujących w zakresie alkoholu lub podobnych środków.",
+      "source": "§ 12 ust. 2 w zw. z § 4 ust. 5"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-073",
+      "type": "single_choice",
+      "category": "Drogomierz",
+      "difficulty": "medium",
+      "question": "Kontrolowany jest pojazd holowany lub przewożony. Kiedy kontrolujący może odczytać jego drogomierz?",
+      "choices": [
+        "Jeżeli istnieje taka możliwość i zachowane są zasady bezpieczeństwa osobistego.",
+        "Zawsze, nawet gdy wymaga to wejścia pod niestabilny pojazd.",
+        "Nigdy, bo pojazd nie porusza się samodzielnie.",
+        "Tylko po uzyskaniu zgody właściciela pojazdu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kontrolujący może odczytać wskazania drogomierza pojazdu holowanego lub przewożonego, jeżeli jest taka możliwość i z zachowaniem zasad bezpieczeństwa osobistego.",
+      "source": "§ 12 ust. 3"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-074",
+      "type": "single_choice",
+      "category": "Drogomierz",
+      "difficulty": "medium",
+      "question": "Kontrolujący odczytuje drogomierz pojazdu niezarejestrowanego. Co dodatkowo musi ustalić?",
+      "choices": [
+        "Numer VIN albo numer podwozia, nadwozia lub ramy oraz dane techniczne w zakresie marki i co najmniej jednej wymaganej pozycji danych technicznych.",
+        "Wyłącznie imię właściciela pojazdu.",
+        "Tylko kolor i przebieg pojazdu.",
+        "Numer polisy wszystkich poprzednich właścicieli."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy pojeździe niezarejestrowanym ustala się numer VIN albo numer podwozia, nadwozia lub ramy oraz określone dane techniczne pojazdu.",
+      "source": "§ 12 ust. 4"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-075",
+      "type": "single_choice",
+      "category": "Drogomierz",
+      "difficulty": "easy",
+      "question": "Po odczytaniu wskazania drogomierza kontrolujący ma dane wymagane przepisami. Co powinien z nimi zrobić?",
+      "choices": [
+        "Niezwłocznie przekazać je do centralnej ewidencji pojazdów.",
+        "Zachować je wyłącznie w notatniku bez dalszego przekazania.",
+        "Przekazać je tylko kierowcy.",
+        "Wysłać je do zarządcy drogi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dane dotyczące odczytu wskazania drogomierza, a przy pojeździe niezarejestrowanym także dodatkowe dane, przekazuje się niezwłocznie do centralnej ewidencji pojazdów.",
+      "source": "§ 12 ust. 5"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-076",
+      "type": "single_choice",
+      "category": "Dokumenty i pokwitowania",
+      "difficulty": "easy",
+      "question": "Kontrolujący zatrzymuje kierującemu kilka dokumentów. Jak powinien wydać pokwitowanie?",
+      "choices": [
+        "Jedno zbiorcze pokwitowanie dla wszystkich dokumentów.",
+        "Odrębne pokwitowanie dla każdego zatrzymanego dokumentu.",
+        "Pokwitowanie tylko dla prawa jazdy.",
+        "Bez pokwitowania, jeżeli dokumenty są zatrzymane czasowo."
+      ],
+      "correctIndex": 1,
+      "explanation": "Przy zatrzymaniu dokumentu stwierdzającego uprawnienie do kierowania lub używania pojazdu albo karty kierowcy wydaje się pokwitowanie odrębne dla każdego zatrzymanego dokumentu.",
+      "source": "§ 13 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-077",
+      "type": "single_choice",
+      "category": "Dokumenty i pokwitowania",
+      "difficulty": "easy",
+      "question": "Komu przekazuje się oryginał pokwitowania za zatrzymany dokument?",
+      "choices": [
+        "Osobie, której zatrzymano dokument.",
+        "Wyłącznie staroście.",
+        "Tylko organowi kontroli ruchu drogowego.",
+        "Zawsze właścicielowi pojazdu, nawet gdy nie jest obecny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Oryginał pokwitowania otrzymuje osoba, której zatrzymano dokument, a kopia pozostaje w dyspozycji organu kontroli ruchu drogowego.",
+      "source": "§ 13 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-078",
+      "type": "single_choice",
+      "category": "Dokumenty i pokwitowania",
+      "difficulty": "medium",
+      "question": "Kontrolujący zatrzymuje dokument pojazdu, bo istnieje uzasadnione przypuszczenie, że pojazd zagraża bezpieczeństwu lub narusza wymagania ochrony środowiska. Jaką dodatkową funkcję pełni pokwitowanie?",
+      "choices": [
+        "Stanowi jednocześnie skierowanie na dodatkowe badania techniczne.",
+        "Zastępuje ważne ubezpieczenie pojazdu.",
+        "Uprawnia do bezterminowego używania pojazdu.",
+        "Automatycznie anuluje obowiązek naprawy usterek."
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie uzasadnionego przypuszczenia zagrożenia bezpieczeństwa ruchu lub naruszenia wymagań ochrony środowiska pokwitowanie stanowi jednocześnie skierowanie na dodatkowe badania techniczne.",
+      "source": "§ 13 ust. 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-079",
+      "type": "single_choice",
+      "category": "Kontrola odpadów",
+      "difficulty": "medium",
+      "question": "Podczas fizycznej kontroli przewożonych odpadów trzeba zerwać plombę, a po kontroli kontrolujący zezwala na kontynuację jazdy. Co powinien zrobić z plombą?",
+      "choices": [
+        "Założyć plombę zastępczą, jeżeli zezwala na kontynuację jazdy.",
+        "Nie zakładać żadnej plomby i nie dokumentować czynności.",
+        "Zawsze skierować pojazd do postoju na 30 dni.",
+        "Przekazać decyzję wyłącznie kierowcy bez protokołu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli w celu fizycznej kontroli odpadów konieczne było zerwanie plomby, po zakończeniu kontroli kontrolujący zakłada plombę zastępczą, jeżeli zezwala na kontynuację jazdy.",
+      "source": "§ 14 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-080",
+      "type": "single_choice",
+      "category": "Kontrola odpadów",
+      "difficulty": "easy",
+      "question": "Kontrolujący zerwał plombę i założył plombę zastępczą przy kontroli przewożonych odpadów. Jak dokumentuje tę czynność?",
+      "choices": [
+        "Sporządza protokół, którego oryginał otrzymuje kierujący, a kopia zostaje w dyspozycji organu kontroli ruchu drogowego.",
+        "Nie sporządza żadnego dokumentu.",
+        "Sporządza wyłącznie ustną informację dla dyspozytora.",
+        "Wpisuje tylko numer plomby na mandacie karnym."
+      ],
+      "correctIndex": 0,
+      "explanation": "Z czynności zerwania plomby i założenia plomby zastępczej sporządza się protokół; oryginał otrzymuje kierujący, kopię organ kontroli.",
+      "source": "§ 14 ust. 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-081",
+      "type": "single_choice",
+      "category": "Kontrola odpadów",
+      "difficulty": "medium",
+      "question": "W pojeździe z odpadami znajduje się plomba założona przez organy celne. Kto może ją zerwać?",
+      "choices": [
+        "Wyłącznie funkcjonariusz Służby Celno-Skarbowej.",
+        "Każdy kontrolujący po okazaniu upoważnienia.",
+        "Wyłącznie kierowca pojazdu.",
+        "Tylko przedstawiciel zarządcy drogi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Do zerwania plomby założonej przez organy celne uprawniony jest wyłącznie funkcjonariusz Służby Celno-Skarbowej.",
+      "source": "§ 14 ust. 3"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-082",
+      "type": "single_choice",
+      "category": "Kierujący",
+      "difficulty": "medium",
+      "question": "Podczas kontroli kierującego posiadającego prawo jazdy kontrolujący stwierdza potrzebę oceny jego stanu zdrowia. Co powinien zrobić?",
+      "choices": [
+        "Wystąpić do starosty z wnioskiem o tę ocenę podpisanym przez kierownika jednostki lub osobę upoważnioną.",
+        "Samodzielnie zatrzymać uprawnienia bez żadnego wniosku.",
+        "Poprzestać na pouczeniu, bo stan zdrowia nie podlega kontroli.",
+        "Skierować kierującego wyłącznie do lekarza wybranego przez patrol."
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie stwierdzenia potrzeby oceny stanu zdrowia kierującego posiadającego prawo jazdy lub pozwolenie na kierowanie tramwajem kontrolujący występuje do starosty z wnioskiem, podpisanym przez kierownika jednostki albo osobę upoważnioną.",
+      "source": "§ 15"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-083",
+      "type": "single_choice",
+      "category": "Kierujący",
+      "difficulty": "medium",
+      "question": "Kontrolujący ma uzasadnione i poważne zastrzeżenia co do kwalifikacji kierującego pojazdem. Jaka czynność jest przewidziana?",
+      "choices": [
+        "Wniosek do starosty o skierowanie osoby na egzamin sprawdzający kwalifikacje.",
+        "Natychmiastowe cofnięcie uprawnienia przez kontrolującego.",
+        "Wystawienie wyłącznie notatki bez dalszych działań.",
+        "Obowiązkowe zatrzymanie kierującego do 48 godzin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli istnieją uzasadnione i poważne zastrzeżenia co do kwalifikacji kierującego, kontrolujący występuje do starosty z wnioskiem o skierowanie na egzamin sprawdzający kwalifikacje.",
+      "source": "§ 16"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-084",
+      "type": "single_choice",
+      "category": "Pojazdy szczególnej rejestracji",
+      "difficulty": "medium",
+      "question": "Weryfikacja w centralnej ewidencji pojazdów nie potwierdza pojazdu. Policjant podejrzewa, że to pojazd zarejestrowany w szczególnym trybie. Co powinien ustalić?",
+      "choices": [
+        "Na podstawie rozmowy z kierującym ustala, czy pojazd jest zarejestrowany w tym trybie i czy jego dane są w wyodrębnionym zbiorze.",
+        "Automatycznie uznaje pojazd za niezarejestrowany i kończy kontrolę.",
+        "Zatrzymuje kierującego bez sprawdzania dokumentów.",
+        "Weryfikuje wyłącznie kolor pojazdu i numer telefonu właściciela."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli pojazd nie figuruje w centralnej ewidencji, policjant ustala na podstawie rozmowy z kierującym, czy jest to pojazd zarejestrowany w szczególnym trybie, którego dane są w wyodrębnionym zbiorze.",
+      "source": "§ 17 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-085",
+      "type": "single_choice",
+      "category": "Pojazdy szczególnej rejestracji",
+      "difficulty": "medium",
+      "question": "Dane pojazdu zarejestrowanego w szczególnym trybie nie są widoczne w centralnej ewidencji. Na jakiej podstawie może nastąpić weryfikacja danych pojazdu i ubezpieczenia?",
+      "choices": [
+        "Na podstawie dokumentów okazanych przez kierującego.",
+        "Wyłącznie na podstawie oświadczenia osoby postronnej.",
+        "Tylko po kontakcie z producentem pojazdu.",
+        "Nie może nastąpić podczas kontroli."
+      ],
+      "correctIndex": 0,
+      "explanation": "W takim przypadku weryfikacja danych o pojeździe oraz ubezpieczeniu odpowiedzialności cywilnej może nastąpić na podstawie dokumentów okazanych przez kierującego.",
+      "source": "§ 17 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-086",
+      "type": "single_choice",
+      "category": "Pojazdy szczególnej rejestracji",
+      "difficulty": "medium",
+      "question": "Policjant stwierdza, że pojazd zarejestrowany w szczególnym trybie zagraża bezpieczeństwu lub narusza wymagania ochrony środowiska. Jakie polecenie wydaje?",
+      "choices": [
+        "Polecenie powstrzymania się od dalszego używania pojazdu i zobowiązanie do podjęcia czynności usunięcia go z drogi.",
+        "Zezwolenie na dalsze używanie przez 30 dni.",
+        "Tylko ustne pouczenie bez dokumentowania.",
+        "Natychmiastowe dopuszczenie do ruchu bez warunków."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy zagrożeniu bezpieczeństwa lub naruszeniu wymagań ochrony środowiska policjant poleca powstrzymać się od dalszego używania i zobowiązuje do usunięcia pojazdu z drogi we własnym zakresie.",
+      "source": "§ 17 ust. 2 pkt 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-087",
+      "type": "single_choice",
+      "category": "Pojazdy szczególnej rejestracji",
+      "difficulty": "medium",
+      "question": "Pojazd zarejestrowany w szczególnym trybie zagraża porządkowi ruchu albo nie przeszedł badania technicznego w terminie. Jak może postąpić policjant?",
+      "choices": [
+        "Zezwolić na dalsze używanie przez czas nieprzekraczający siedmiu dni i ustnie określić warunki tego używania.",
+        "Zezwolić na dalsze używanie bez terminu i warunków.",
+        "Obowiązkowo wyrejestrować pojazd na miejscu.",
+        "Zakazać używania pojazdu zawsze, bez względu na rodzaj zagrożenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "W takiej sytuacji policjant zezwala na dalsze używanie pojazdu przez czas nieprzekraczający 7 dni oraz ustnie określa warunki tego używania.",
+      "source": "§ 17 ust. 2 pkt 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-088",
+      "type": "single_choice",
+      "category": "Pojazdy szczególnej rejestracji",
+      "difficulty": "easy",
+      "question": "Policjant wydał polecenie lub zezwolenie dotyczące pojazdu zarejestrowanego w szczególnym trybie. Jak dokumentuje czynność i komu przesyła kopię?",
+      "choices": [
+        "Sporządza notatkę urzędową, a kopię przesyła organowi, który pojazd zarejestrował, niezwłocznie i nie później niż w najbliższym dniu roboczym po kontroli.",
+        "Nie dokumentuje czynności, jeżeli kierujący przyjął polecenie.",
+        "Sporządza wyłącznie protokół dla kierującego bez przesyłania kopii.",
+        "Przesyła kopię tylko zarządcy drogi po upływie miesiąca."
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadkach określonych w rozporządzeniu policjant sporządza notatkę urzędową i przesyła kopię organowi rejestrującemu niezwłocznie, nie później niż w najbliższym dniu roboczym po kontroli.",
+      "source": "§ 17 ust. 3"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-089",
+      "type": "single_choice",
+      "category": "Inne organy kontroli",
+      "difficulty": "medium",
+      "question": "Inspektor Inspekcji Transportu Drogowego prowadzi kontrolę ruchu drogowego. Czy część obowiązków i uprawnień policjanta stosuje się do niego odpowiednio?",
+      "choices": [
+        "Tak, w zakresie wskazanym w rozporządzeniu.",
+        "Nie, rozporządzenie dotyczy wyłącznie Policji.",
+        "Tak, ale tylko przy kontroli pieszych.",
+        "Nie, chyba że inspektor działa w patrolu z policjantem."
+      ],
+      "correctIndex": 0,
+      "explanation": "Do inspektora Inspekcji Transportu Drogowego stosuje się odpowiednio wskazane przepisy dotyczące obowiązków i uprawnień policjanta.",
+      "source": "§ 18"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-090",
+      "type": "single_choice",
+      "category": "Inne organy kontroli",
+      "difficulty": "easy",
+      "question": "Funkcjonariusz Straży Granicznej wykonuje kontrolę ruchu drogowego. Jaki warunek dotyczący umundurowania wynika z rozporządzenia?",
+      "choices": [
+        "Kontrolę wykonuje umundurowany funkcjonariusz Straży Granicznej.",
+        "Kontrolę może wykonywać wyłącznie funkcjonariusz nieumundurowany.",
+        "Umundurowanie jest wymagane tylko po zmroku.",
+        "Umundurowanie zależy wyłącznie od decyzji kierowcy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kontrolę ruchu drogowego wykonuje umundurowany funkcjonariusz Straży Granicznej.",
+      "source": "§ 19 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-091",
+      "type": "single_choice",
+      "category": "Inne organy kontroli",
+      "difficulty": "medium",
+      "question": "Funkcjonariusz Straży Granicznej podczas kontroli musi zatrzymać dokument stwierdzający uprawnienie do kierowania pojazdem. Co powinien zrobić?",
+      "choices": [
+        "Niezwłocznie powiadomić właściwą miejscowo jednostkę Policji.",
+        "Przekazać dokument zarządcy drogi.",
+        "Nie podejmować czynności, bo nie ma takiego obowiązku.",
+        "Wysłać dokument bezpośrednio do producenta pojazdu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Funkcjonariusz Straży Granicznej w przypadku konieczności zatrzymania dokumentu stwierdzającego uprawnienie do kierowania pojazdem niezwłocznie powiadamia właściwą miejscowo jednostkę Policji.",
+      "source": "§ 19 ust. 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-092",
+      "type": "single_choice",
+      "category": "Inne organy kontroli",
+      "difficulty": "easy",
+      "question": "Funkcjonariusz Służby Celno-Skarbowej wykonuje kontrolę ruchu drogowego. Jaki warunek dotyczący umundurowania wynika z rozporządzenia?",
+      "choices": [
+        "Kontrolę wykonuje umundurowany funkcjonariusz Służby Celno-Skarbowej.",
+        "Kontrolę wykonuje wyłącznie funkcjonariusz w ubraniu cywilnym.",
+        "Umundurowanie jest wymagane tylko przy kontroli granicznej.",
+        "Rozporządzenie nie określa tego wymogu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kontrolę ruchu drogowego wykonuje umundurowany funkcjonariusz Służby Celno-Skarbowej.",
+      "source": "§ 20 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-093",
+      "type": "single_choice",
+      "category": "Inne organy kontroli",
+      "difficulty": "medium",
+      "question": "Funkcjonariusz Służby Celno-Skarbowej podczas kontroli musi zatrzymać dokument stwierdzający uprawnienie do kierowania pojazdem. Co powinien zrobić?",
+      "choices": [
+        "Niezwłocznie powiadomić właściwą jednostkę Policji.",
+        "Zachować dokument bez powiadomienia Policji.",
+        "Przekazać dokument wyłącznie kierowcy po zakończeniu kontroli.",
+        "Wysłać dokument do gminy właściwej dla miejsca kontroli."
+      ],
+      "correctIndex": 0,
+      "explanation": "Funkcjonariusz Służby Celno-Skarbowej w razie konieczności zatrzymania dokumentów stwierdzających uprawnienie do kierowania pojazdem niezwłocznie powiadamia właściwą jednostkę Policji.",
+      "source": "§ 20 ust. 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-094",
+      "type": "single_choice",
+      "category": "Inne organy kontroli",
+      "difficulty": "medium",
+      "question": "Inspektor ochrony środowiska kontroluje transport odpadów i wymagania związane z tym transportem. W jakich warunkach wykonuje tę kontrolę?",
+      "choices": [
+        "W obecności funkcjonariusza Policji, inspektora Inspekcji Transportu Drogowego, funkcjonariusza Straży Granicznej lub funkcjonariusza Służby Celno-Skarbowej, nosząc ubiór łatwo rozpoznawalny.",
+        "Samodzielnie, wyłącznie po cywilnemu.",
+        "Wyłącznie w obecności zarządcy drogi.",
+        "Tylko na terenie bazy przedsiębiorcy, nigdy na drodze."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kontrolę transportu odpadów inspektor Inspekcji Ochrony Środowiska wykonuje w obecności jednego z wymienionych organów oraz nosi ubiór zapewniający łatwą rozpoznawalność.",
+      "source": "§ 21 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-095",
+      "type": "single_choice",
+      "category": "Inne organy kontroli",
+      "difficulty": "medium",
+      "question": "Inspektor ochrony środowiska zatrzymuje pojazd w celu kontroli transportu odpadów. Jak może się poruszać przy zatrzymywaniu?",
+      "choices": [
+        "Wyłącznie pieszo.",
+        "Dowolnym nieoznakowanym pojazdem.",
+        "Tylko pojazdem uprzywilejowanym.",
+        "Rowerem służbowym bez innych warunków."
+      ],
+      "correctIndex": 0,
+      "explanation": "W celu przeprowadzenia kontroli transportu odpadów inspektor Inspekcji Ochrony Środowiska zatrzymuje pojazdy, poruszając się wyłącznie pieszo i z zachowaniem wskazanych warunków.",
+      "source": "§ 21 ust. 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-096",
+      "type": "single_choice",
+      "category": "Inne organy kontroli",
+      "difficulty": "easy",
+      "question": "Strażnik leśny wykonuje czynności kontrolne w ruchu drogowym. Jaki wymóg dotyczący ubioru wynika z rozporządzenia?",
+      "choices": [
+        "Powinien wykonywać czynności jako umundurowany strażnik.",
+        "Powinien działać wyłącznie w ubraniu cywilnym.",
+        "Ubiór nie ma żadnego znaczenia.",
+        "Musi mieć ubiór identyczny jak policjant ruchu drogowego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Czynności kontrolne wykonuje umundurowany strażnik leśny, podobnie jak umundurowany strażnik gminny i funkcjonariusz Straży Parku.",
+      "source": "§ 22 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-097",
+      "type": "single_choice",
+      "category": "Inne organy kontroli",
+      "difficulty": "easy",
+      "question": "Osoba działająca w imieniu zarządcy drogi ma wykonywać czynności kontrolne. Jaki warunek dotyczący ubioru musi spełnić?",
+      "choices": [
+        "Musi nosić ubiór zapewniający jej łatwą rozpoznawalność.",
+        "Musi być umundurowana jak policjant.",
+        "Może działać w dowolnym stroju bez oznaczeń.",
+        "Musi mieć wyłącznie kamizelkę ostrzegawczą bez innych wymogów."
+      ],
+      "correctIndex": 0,
+      "explanation": "Osoba działająca w imieniu zarządcy drogi wykonuje czynności kontrolne, jeżeli nosi ubiór zapewniający łatwą rozpoznawalność.",
+      "source": "§ 22 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-098",
+      "type": "single_choice",
+      "category": "Inne organy kontroli",
+      "difficulty": "medium",
+      "question": "Strażnik leśny, funkcjonariusz Straży Parku albo osoba działająca w imieniu zarządcy drogi chce zatrzymać pojazd. Jak może się poruszać przy zatrzymywaniu?",
+      "choices": [
+        "Wyłącznie pieszo.",
+        "Dowolnym pojazdem prywatnym.",
+        "Oznakowanym pojazdem służbowym lub pieszo.",
+        "Nie może zatrzymywać pojazdów w żadnym przypadku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Strażnik leśny, funkcjonariusz Straży Parku i osoba działająca w imieniu zarządcy drogi zatrzymują pojazdy, poruszając się wyłącznie pieszo.",
+      "source": "§ 22 ust. 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-099",
+      "type": "single_choice",
+      "category": "Inne organy kontroli",
+      "difficulty": "medium",
+      "question": "Strażnik gminny zatrzymuje pojazd do kontroli. Jak może się poruszać?",
+      "choices": [
+        "Pieszo lub oznakowanym pojazdem służbowym.",
+        "Wyłącznie pieszo.",
+        "Wyłącznie nieoznakowanym pojazdem.",
+        "Tylko pojazdem Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Strażnik gminny może zatrzymywać pojazdy, poruszając się pieszo lub oznakowanym pojazdem służbowym, z zachowaniem wskazanych warunków.",
+      "source": "§ 22 ust. 3"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-100",
+      "type": "single_choice",
+      "category": "Inne organy kontroli",
+      "difficulty": "easy",
+      "question": "Strażnik gminny albo osoba działająca w imieniu zarządcy drogi przystępuje do czynności kontrolnych. Co powinien podać przed rozpoczęciem?",
+      "choices": [
+        "Imię i nazwisko oraz przyczynę przeprowadzenia czynności.",
+        "Wyłącznie nazwę miejscowości.",
+        "Tylko numer rejestracyjny kontrolowanego pojazdu.",
+        "Nie musi podawać żadnych informacji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przed przystąpieniem do czynności kontrolnych te osoby podają imię i nazwisko oraz przyczynę przeprowadzenia czynności.",
+      "source": "§ 22 ust. 4"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-101",
+      "type": "single_choice",
+      "category": "Inne organy kontroli",
+      "difficulty": "easy",
+      "question": "Kontrolowany żąda od strażnika gminnego okazania dokumentów uprawniających do kontroli. Co powinien okazać strażnik?",
+      "choices": [
+        "Legitymację służbową i upoważnienie do wykonywania kontroli ruchu drogowego.",
+        "Wyłącznie notatnik służbowy.",
+        "Tylko prawo jazdy.",
+        "Nie musi nic okazywać na żądanie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Na żądanie kontrolowanego strażnik gminny, strażnik leśny, funkcjonariusz Straży Parku oraz osoba działająca w imieniu zarządcy drogi okazuje legitymację służbową i upoważnienie do kontroli ruchu drogowego.",
+      "source": "§ 22 ust. 4"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-102",
+      "type": "single_choice",
+      "category": "Upoważnienia do kontroli",
+      "difficulty": "easy",
+      "question": "Strażnik gminny ma otrzymać upoważnienie do wykonywania kontroli ruchu drogowego. Jaki podstawowy warunek musi spełnić?",
+      "choices": [
+        "Ukończyć szkolenie określone w rozporządzeniu.",
+        "Posiadać prywatny pojazd.",
+        "Złożyć wyłącznie ustne oświadczenie o znajomości przepisów.",
+        "Odbyć co najmniej roczną służbę w Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Strażnik gminny i pozostałe wskazane osoby otrzymują upoważnienie po ukończeniu szkolenia, którego program określa załącznik do rozporządzenia.",
+      "source": "§ 23 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-103",
+      "type": "single_choice",
+      "category": "Upoważnienia do kontroli",
+      "difficulty": "medium",
+      "question": "Kto organizuje szkolenie osoby ubiegającej się o upoważnienie do wykonywania kontroli ruchu drogowego?",
+      "choices": [
+        "Jej przełożony, w porozumieniu z komendantem wojewódzkim Policji.",
+        "Wyłącznie starosta.",
+        "Dowolny ośrodek szkolenia kierowców.",
+        "Sam zainteresowany bez udziału przełożonego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Szkolenie organizuje przełożony osoby ubiegającej się o upoważnienie, w porozumieniu z komendantem wojewódzkim Policji.",
+      "source": "§ 23 ust. 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-104",
+      "type": "single_choice",
+      "category": "Upoważnienia do kontroli",
+      "difficulty": "medium",
+      "question": "Strażnik leśny przechodzi szkolenie wynikające z przepisów regulujących funkcjonowanie jego formacji. Czy szkolenie do kontroli ruchu drogowego może być jego częścią?",
+      "choices": [
+        "Tak, może stanowić część składową takiego szkolenia.",
+        "Nie, zawsze musi być całkowicie odrębne.",
+        "Tak, ale tylko dla strażników gminnych.",
+        "Nie, jeżeli obejmuje zajęcia praktyczne."
+      ],
+      "correctIndex": 0,
+      "explanation": "Szkolenie osoby ubiegającej się o upoważnienie może stanowić część szkolenia, któremu podlega ona na podstawie przepisów regulujących funkcjonowanie m.in. straży leśnych i Straży Parku.",
+      "source": "§ 23 ust. 3"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-105",
+      "type": "single_choice",
+      "category": "Upoważnienia do kontroli",
+      "difficulty": "easy",
+      "question": "Kto wydaje upoważnienie do wykonywania kontroli ruchu drogowego poza m.st. Warszawą?",
+      "choices": [
+        "Komendant powiatowy albo miejski Policji.",
+        "Starosta.",
+        "Wójt lub burmistrz.",
+        "Zarządca drogi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Upoważnienie wydaje komendant powiatowy lub miejski Policji, a w m.st. Warszawie Komendant Stołeczny Policji.",
+      "source": "§ 23 ust. 4"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-106",
+      "type": "single_choice",
+      "category": "Upoważnienia do kontroli",
+      "difficulty": "easy",
+      "question": "Kto wydaje upoważnienie do wykonywania kontroli ruchu drogowego w m.st. Warszawie?",
+      "choices": [
+        "Komendant Stołeczny Policji.",
+        "Komendant powiatowy Policji.",
+        "Prezydent m.st. Warszawy.",
+        "Minister właściwy do spraw wewnętrznych."
+      ],
+      "correctIndex": 0,
+      "explanation": "W m.st. Warszawie upoważnienie do kontroli ruchu drogowego wydaje Komendant Stołeczny Policji.",
+      "source": "§ 23 ust. 4"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-107",
+      "type": "single_choice",
+      "category": "Upoważnienia do kontroli",
+      "difficulty": "medium",
+      "question": "Osoba posiadająca upoważnienie do kontroli ruchu drogowego ukończyła szkolenie prawie pięć lat temu. Co powinno nastąpić przed upływem tego okresu?",
+      "choices": [
+        "Okresowe przeszkolenie uzupełniające zorganizowane przez przełożonego.",
+        "Automatyczne cofnięcie upoważnienia bez szkolenia.",
+        "Ponowne badanie techniczne pojazdu służbowego.",
+        "Złożenie oświadczenia przez kontrolowanego uczestnika ruchu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Osoba posiadająca upoważnienie podlega okresowemu przeszkoleniu uzupełniającemu organizowanemu przed upływem 5 lat od szkolenia lub poprzedniego przeszkolenia.",
+      "source": "§ 23 ust. 6"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-108",
+      "type": "single_choice",
+      "category": "Upoważnienia do kontroli",
+      "difficulty": "medium",
+      "question": "Co powinien uwzględniać program okresowego przeszkolenia uzupełniającego osoby upoważnionej do kontroli?",
+      "choices": [
+        "Zmiany w przepisach ruchu drogowego w zakresie objętym upoważnieniem do kontroli ruchu drogowego.",
+        "Wyłącznie techniki samoobrony.",
+        "Wyłącznie szkolenie z obsługi poczty elektronicznej.",
+        "Tylko przepisy dotyczące urlopów służbowych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Program przeszkolenia uzupełniającego powinien uwzględniać zmiany przepisów ruchu drogowego w zakresie objętym upoważnieniem.",
+      "source": "§ 23 ust. 6"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-109",
+      "type": "single_choice",
+      "category": "Zachowanie kontrolowanego",
+      "difficulty": "easy",
+      "question": "Kontrolujący podał polecenie zatrzymania pojazdu. Jak powinien zachować się kierujący bez dodatkowych poleceń?",
+      "choices": [
+        "Zatrzymać pojazd i trzymać ręce na kierownicy.",
+        "Wysiąść natychmiast z pojazdu.",
+        "Otworzyć bagażnik i odejść od pojazdu.",
+        "Wyłączyć telefon i opuścić miejsce kontroli."
+      ],
+      "correctIndex": 0,
+      "explanation": "Po poleceniu lub sygnale do zatrzymania kierujący zatrzymuje pojazd i trzyma ręce na kierownicy.",
+      "source": "§ 24 ust. 1 pkt 1-2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-110",
+      "type": "single_choice",
+      "category": "Zachowanie kontrolowanego",
+      "difficulty": "easy",
+      "question": "Kontrolujący po zatrzymaniu pojazdu poleca kierującemu wyłączyć silnik. Jak powinien zachować się kierujący?",
+      "choices": [
+        "Wykonać polecenie i wyłączyć silnik.",
+        "Wysiąść bez zezwolenia i wyjaśnić powód odmowy.",
+        "Kontynuować jazdę do najbliższej stacji paliw.",
+        "Włączyć wyłącznie światła drogowe."
+      ],
+      "correctIndex": 0,
+      "explanation": "Na polecenie kontrolującego kierujący wyłącza silnik pojazdu.",
+      "source": "§ 24 ust. 1 pkt 3 lit. a"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-111",
+      "type": "single_choice",
+      "category": "Zachowanie kontrolowanego",
+      "difficulty": "easy",
+      "question": "Kontrolujący poleca kierującemu włączyć światła awaryjne. Co powinien zrobić kierujący?",
+      "choices": [
+        "Włączyć światła awaryjne.",
+        "Włączyć światła drogowe zamiast awaryjnych.",
+        "Odmówić, bo światła awaryjne są używane tylko przy awarii.",
+        "Włączyć sygnały uprzywilejowania."
+      ],
+      "correctIndex": 0,
+      "explanation": "Na polecenie kontrolującego kierujący włącza światła awaryjne.",
+      "source": "§ 24 ust. 1 pkt 3 lit. b"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-112",
+      "type": "single_choice",
+      "category": "Zachowanie kontrolowanego",
+      "difficulty": "easy",
+      "question": "Kontrolujący chce zidentyfikować pojazd i poleca udostępnić komorę silnika. Jak powinien zachować się kierujący?",
+      "choices": [
+        "Umożliwić identyfikację pojazdu, w szczególności przez udostępnienie komory silnika i innych miejsc w pojeździe.",
+        "Odmówić, bo kontrolujący może sprawdzić tylko dokumenty.",
+        "Umożliwić dostęp wyłącznie do bagażnika.",
+        "Umożliwić dostęp tylko po zakończeniu kontroli."
+      ],
+      "correctIndex": 0,
+      "explanation": "Na polecenie kontrolującego kierujący umożliwia identyfikację pojazdu, w szczególności przez udostępnienie komory silnika oraz innych miejsc w pojeździe.",
+      "source": "§ 24 ust. 1 pkt 3 lit. c"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-113",
+      "type": "single_choice",
+      "category": "Zachowanie kontrolowanego",
+      "difficulty": "easy",
+      "question": "Pasażer chce wysiąść z kontrolowanego pojazdu bez zgody kontrolującego. Które zachowanie jest prawidłowe?",
+      "choices": [
+        "Może wysiąść tylko za zezwoleniem kontrolującego.",
+        "Może wysiąść zawsze, jeżeli nie jest kierującym.",
+        "Może wysiąść bez zezwolenia po zatrzymaniu silnika.",
+        "Nie może wysiąść nigdy, nawet za zezwoleniem."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kierujący lub pasażer mogą wysiadać z kontrolowanego pojazdu za zezwoleniem kontrolującego.",
+      "source": "§ 24 ust. 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-114",
+      "type": "single_choice",
+      "category": "Przepisy przejściowe",
+      "difficulty": "easy",
+      "question": "Szkolenie osoby upoważnionej do kontroli ruchu drogowego zostało przeprowadzone na podstawie dotychczasowych przepisów. Jak traktuje je rozporządzenie?",
+      "choices": [
+        "Uznaje je za spełniające wymagania określone w rozporządzeniu.",
+        "Unieważnia je z dniem wejścia w życie rozporządzenia.",
+        "Wymaga zawsze powtórzenia całego szkolenia w ciągu miesiąca.",
+        "Uznaje je tylko dla funkcjonariuszy Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Szkolenia osób upoważnionych do kontroli oraz okresowe przeszkolenia uzupełniające przeprowadzone na podstawie dotychczasowych przepisów uważa się za spełniające wymagania rozporządzenia.",
+      "source": "§ 25 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-115",
+      "type": "single_choice",
+      "category": "Przepisy przejściowe",
+      "difficulty": "medium",
+      "question": "Upoważnienie do kontroli wydane dla strażnika gminnego na podstawie dotychczasowych przepisów zachowuje ważność po wejściu w życie rozporządzenia. Przez jaki maksymalny czas?",
+      "choices": [
+        "Przez okres nieprzekraczający sześciu miesięcy od dnia wejścia w życie rozporządzenia.",
+        "Bezterminowo.",
+        "Przez pięć lat.",
+        "Tylko przez siedem dni."
+      ],
+      "correctIndex": 0,
+      "explanation": "Upoważnienia dla strażników gminnych lub miejskich wydane na podstawie dotychczasowych przepisów zachowują ważność przez okres nieprzekraczający 6 miesięcy od dnia wejścia w życie rozporządzenia.",
+      "source": "§ 25 ust. 3"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-116",
+      "type": "single_choice",
+      "category": "Przepisy przejściowe",
+      "difficulty": "easy",
+      "question": "Kiedy rozporządzenie weszło w życie co do zasady?",
+      "choices": [
+        "Z dniem 7 listopada 2019 r.",
+        "Z dniem 1 stycznia 2020 r. w całości.",
+        "Z dniem 31 grudnia 2019 r.",
+        "Po upływie sześciu miesięcy od ogłoszenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozporządzenie weszło w życie z dniem 7 listopada 2019 r., z wyjątkiem przepisu dotyczącego odczytu drogomierza, który wszedł w życie później.",
+      "source": "§ 27"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-117",
+      "type": "single_choice",
+      "category": "Przepisy przejściowe",
+      "difficulty": "medium",
+      "question": "Przepis dotyczący odczytu wskazań drogomierza miał odrębny termin wejścia w życie. Kiedy zaczął obowiązywać?",
+      "choices": [
+        "1 stycznia 2020 r.",
+        "7 listopada 2019 r.",
+        "1 marca 2020 r.",
+        "31 grudnia 2019 r."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przepis dotyczący odczytu drogomierza wszedł w życie z dniem 1 stycznia 2020 r.",
+      "source": "§ 27"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-118",
+      "type": "single_choice",
+      "category": "Identyfikacja pojazdu",
+      "difficulty": "easy",
+      "question": "Podczas kontroli pojazdu brakuje wymaganej tablicy rejestracyjnej albo jej mocowanie grozi odpadnięciem. Jak traktuje to wykaz usterek?",
+      "choices": [
+        "Jako usterkę ocenianą w obszarze tablic rejestracyjnych.",
+        "Jako okoliczność bez znaczenia dla wyniku kontroli.",
+        "Jako wyłącznie problem estetyczny.",
+        "Jako usterkę dotyczącą układu hamulcowego."
+      ],
+      "correctIndex": 0,
+      "explanation": "W załączniku brak tablicy rejestracyjnej lub mocowanie grożące odpadnięciem wskazano jako kryterium niezadowalającego stanu w pozycji dotyczącej tablic rejestracyjnych.",
+      "source": "Załącznik nr 1, poz. 0.1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-119",
+      "type": "single_choice",
+      "category": "Identyfikacja pojazdu",
+      "difficulty": "easy",
+      "question": "Numer rejestracyjny pojazdu nie zgadza się z dokumentami lub danymi pojazdu. Do jakiego obszaru kontroli należy ta nieprawidłowość?",
+      "choices": [
+        "Identyfikacja pojazdu.",
+        "Widoczność.",
+        "Zabezpieczenie ładunku.",
+        "Uciążliwość."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niezgodność numeru rejestracyjnego z dokumentami lub danymi pojazdu jest ujęta w obszarze identyfikacji pojazdu, przy tablicach rejestracyjnych.",
+      "source": "Załącznik nr 1, poz. 0.1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-120",
+      "type": "single_choice",
+      "category": "Identyfikacja pojazdu",
+      "difficulty": "medium",
+      "question": "Kontrolujący nie może odnaleźć numeru VIN ani numeru nadwozia, podwozia lub ramy. Jak należy traktować tę sytuację w kontroli technicznej?",
+      "choices": [
+        "Jako nieprawidłowość w obszarze identyfikacji pojazdu.",
+        "Jako usterkę wyłącznie dotyczącą oświetlenia.",
+        "Jako brak znaczenia, jeżeli tablice są czytelne.",
+        "Jako powód do pominięcia kontroli dokumentów."
+      ],
+      "correctIndex": 0,
+      "explanation": "Brak numeru VIN lub numeru nadwozia, podwozia lub ramy albo brak możliwości jego odszukania jest kryterium niezadowalającego stanu w obszarze identyfikacji pojazdu.",
+      "source": "Załącznik nr 1, poz. 0.2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-121",
+      "type": "single_choice",
+      "category": "Identyfikacja pojazdu",
+      "difficulty": "medium",
+      "question": "Numer identyfikacyjny pojazdu jest niekompletny, nieczytelny, wyraźnie sfałszowany albo nie zgadza się z dokumentami. Jaką decyzję powinien podjąć kontrolujący w ramach oceny technicznej?",
+      "choices": [
+        "Potraktować to jako nieprawidłowość w identyfikacji pojazdu.",
+        "Pominąć, jeżeli pojazd ma ważne ubezpieczenie.",
+        "Zawsze uznać kontrolę za pozytywną.",
+        "Ocenić wyłącznie głębokość bieżnika."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik wskazuje niekompletny, nieczytelny, wyraźnie sfałszowany albo niezgodny z dokumentami numer jako kryterium niezadowalającego stanu w pozycji dotyczącej VIN lub numeru nadwozia, podwozia albo ramy.",
+      "source": "Załącznik nr 1, poz. 0.2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-122",
+      "type": "single_choice",
+      "category": "Układ hamulcowy",
+      "difficulty": "medium",
+      "question": "W czasie kontroli pedał hamulca nie zwalnia się prawidłowo i ma to wpływ na działanie hamulca. Jak należy potraktować tę okoliczność?",
+      "choices": [
+        "Jako usterkę w obszarze stanu pedału hamulcowego lub dźwigni hamulca.",
+        "Jako usterkę dotyczącą wyłącznie szyb.",
+        "Jako brak usterki, jeżeli pojazd można uruchomić.",
+        "Jako wyłącznie podstawę do sprawdzenia tachografu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik ujmuje nieprawidłowe zwalnianie pedału hamulca jako kryterium niezadowalającego stanu, a gdy wpływa na działanie, ocena jest surowsza.",
+      "source": "Załącznik nr 1, poz. 1.1.2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-123",
+      "type": "single_choice",
+      "category": "Układ hamulcowy",
+      "difficulty": "medium",
+      "question": "W zbiorniku pompy hamulcowej nie ma płynu hamulcowego. Jak załącznik klasyfikuje ten rodzaj nieprawidłowości?",
+      "choices": [
+        "Jako usterkę niebezpieczną w obszarze urządzeń wspomagających układ hamulcowy i pompy hamulcowej.",
+        "Jako usterkę drobną bez wpływu na kontrolę.",
+        "Jako problem wyłącznie z dokumentacją pojazdu.",
+        "Jako usterkę dotyczącą wycieraczek."
+      ],
+      "correctIndex": 0,
+      "explanation": "Brak płynu hamulcowego w zbiorniku pompy hamulcowej jest wskazany w załączniku jako usterka niebezpieczna.",
+      "source": "Załącznik nr 1, poz. 1.1.10 lit. d"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-124",
+      "type": "single_choice",
+      "category": "Układ hamulcowy",
+      "difficulty": "medium",
+      "question": "Podczas kontroli stwierdzono nieszczelność przewodów lub połączeń w hydraulicznym układzie hamulcowym. Jak należy potraktować tę usterkę?",
+      "choices": [
+        "Jako poważną nieprawidłowość w układzie hamulcowym.",
+        "Jako drobną usterkę oświetlenia.",
+        "Jako okoliczność bez wpływu na ocenę.",
+        "Jako problem wyłącznie z ładunkiem."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik wskazuje nieszczelność przewodów lub połączeń w hydraulicznym układzie hamulcowym jako istotne kryterium niezadowalającego stanu przewodów hamulcowych.",
+      "source": "Załącznik nr 1, poz. 1.1.11 lit. b"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-125",
+      "type": "single_choice",
+      "category": "Układ hamulcowy",
+      "difficulty": "medium",
+      "question": "Kontrolujący stwierdza brak bębna lub tarczy hamulcowej. Jaka ocena wynika z wykazu usterek?",
+      "choices": [
+        "Jest to usterka niebezpieczna.",
+        "Jest to wyłącznie usterka drobna.",
+        "Nie ma znaczenia, jeśli działa hamulec postojowy.",
+        "Dotyczy wyłącznie widoczności."
+      ],
+      "correctIndex": 0,
+      "explanation": "Brak bębna lub tarczy hamulcowej wskazano w wykazie jako usterkę niebezpieczną.",
+      "source": "Załącznik nr 1, poz. 1.1.14 lit. c"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-126",
+      "type": "single_choice",
+      "category": "Układ hamulcowy",
+      "difficulty": "medium",
+      "question": "W pojeździe brakuje wymaganego urządzenia uruchamiającego hamulec postojowy albo urządzenie nie działa. Jak należy to ocenić?",
+      "choices": [
+        "Jako usterkę niebezpieczną.",
+        "Jako usterkę drobną bez wpływu na wynik.",
+        "Jako usterkę dotyczącą tylko pasów bezpieczeństwa.",
+        "Jako nieprawidłowość, której załącznik nie przewiduje."
+      ],
+      "correctIndex": 0,
+      "explanation": "Brak urządzenia uruchamiającego hamulec postojowy, jego uszkodzenie lub niedziałanie załącznik kwalifikuje jako usterkę niebezpieczną.",
+      "source": "Załącznik nr 1, poz. 1.1.6 lit. d"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-127",
+      "type": "single_choice",
+      "category": "Układ hamulcowy",
+      "difficulty": "hard",
+      "question": "Podczas badania hamulca roboczego jedno koło nie wykazuje siły hamowania. Jak należy potraktować wynik w tym obszarze?",
+      "choices": [
+        "Jako usterkę niebezpieczną dotyczącą sprawności hamulca roboczego.",
+        "Jako usterkę drobną, jeżeli pozostałe koła hamują.",
+        "Jako problem tylko z ustawieniem świateł.",
+        "Jako brak usterki, jeżeli pojazd nie przewozi ładunku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Brak siły hamowania co najmniej na jednym kole jest ujęty w wykazie jako usterka niebezpieczna przy sprawności hamulca roboczego.",
+      "source": "Załącznik nr 1, poz. 1.2.1 lit. a"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-128",
+      "type": "single_choice",
+      "category": "Układ hamulcowy",
+      "difficulty": "hard",
+      "question": "Skuteczność hamulca roboczego jest mniejsza niż połowa wymaganych wartości minimalnych. Jak należy ocenić usterkę?",
+      "choices": [
+        "Jako niebezpieczną.",
+        "Jako drobną.",
+        "Jako formalną bez wpływu na używanie pojazdu.",
+        "Jako dotyczącą wyłącznie tachografu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik przewiduje surowszą kwalifikację, gdy skuteczność hamulca roboczego jest mniejsza niż 50% wartości minimalnych określonych w wymaganiach technicznych.",
+      "source": "Załącznik nr 1, poz. 1.2.2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-129",
+      "type": "single_choice",
+      "category": "Układ hamulcowy",
+      "difficulty": "medium",
+      "question": "Kontrolka systemu samodiagnostyki ABS wskazuje uszkodzenie układu. Do którego obszaru należy ta usterka?",
+      "choices": [
+        "Układ przeciwblokujący ABS.",
+        "Stan szyb.",
+        "Kontrola ładunku.",
+        "Tablice rejestracyjne."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wskazanie uszkodzenia przez kontrolkę samodiagnostyki jest kryterium usterki w pozycji dotyczącej układu przeciwblokującego ABS.",
+      "source": "Załącznik nr 1, poz. 1.6 lit. b"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-130",
+      "type": "single_choice",
+      "category": "Układ kierowniczy",
+      "difficulty": "medium",
+      "question": "Podczas kontroli stwierdzono ruchome części układu kierowniczego kolidujące ze stałymi elementami podwozia. Jak należy to traktować?",
+      "choices": [
+        "Jako usterkę działania połączeń układu kierowniczego.",
+        "Jako usterkę oświetlenia zewnętrznego.",
+        "Jako okoliczność bez znaczenia.",
+        "Jako wyłącznie problem z dokumentacją."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kolidowanie ruchomych części układu kierowniczego ze stałymi elementami podwozia jest wskazane w załączniku jako nieprawidłowość w działaniu połączeń układu kierowniczego.",
+      "source": "Załącznik nr 1, poz. 2.1.4 lit. a"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-131",
+      "type": "single_choice",
+      "category": "Układ kierowniczy",
+      "difficulty": "medium",
+      "question": "Wspomaganie układu kierowniczego nie działa i wpływa to na poprawność działania układu. Jak należy ocenić sytuację?",
+      "choices": [
+        "Jako usterkę w obszarze wspomagania układu kierowniczego, z surowszą kwalifikacją przy wpływie na działanie.",
+        "Jako usterkę wyłącznie dotyczącą emisji spalin.",
+        "Jako brak usterki, jeżeli pojazd porusza się wolno.",
+        "Jako podstawę wyłącznie do pouczenia kierowcy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niedziałające wspomaganie układu kierowniczego jest ujęte w załączniku, a wpływ na poprawność działania układu kierowniczego skutkuje surowszą oceną.",
+      "source": "Załącznik nr 1, poz. 2.1.5 lit. c"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-132",
+      "type": "single_choice",
+      "category": "Układ kierowniczy",
+      "difficulty": "medium",
+      "question": "Kierownica ma ruch względem kolumny wskazujący na luz, a ryzyko rozłączenia jest bardzo poważne. Jak ocenić taką nieprawidłowość?",
+      "choices": [
+        "Jako usterkę niebezpieczną w obszarze stanu kierownicy.",
+        "Jako drobną usterkę bez wpływu na kierowanie.",
+        "Jako problem wyłącznie z siedzeniem kierowcy.",
+        "Jako nieprawidłowość dotyczącą zabezpieczenia ładunku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik przewiduje surowszą kwalifikację ruchu kierownicy względem kolumny, gdy występuje bardzo poważne ryzyko rozłączenia.",
+      "source": "Załącznik nr 1, poz. 2.2.1 lit. a"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-133",
+      "type": "single_choice",
+      "category": "Układ kierowniczy",
+      "difficulty": "easy",
+      "question": "W pojeździe ze wspomaganiem kierownicy kontrolujący sprawdza nadmierny ruch jałowy kierownicy. Jakie ustawienie pojazdu jest przewidziane w metodzie kontroli?",
+      "choices": [
+        "Silnik włączony, koła ustawione do jazdy na wprost i delikatne skręcanie kierownicą w lewo i w prawo.",
+        "Silnik wyłączony, koła zdjęte z pojazdu i demontaż kolumny.",
+        "Pojazd ustawiony wyłącznie na drodze gruntowej.",
+        "Kontrola bez dotykania kierownicy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wykaz wskazuje metodę kontroli luzu sumarycznego: w pojeździe ze wspomaganiem należy włączyć silnik, ustawić koła na wprost i delikatnie skręcać kierownicą.",
+      "source": "Załącznik nr 1, poz. 2.3"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-134",
+      "type": "single_choice",
+      "category": "Widoczność",
+      "difficulty": "medium",
+      "question": "Przeszkoda w polu widzenia kierowcy znacząco ogranicza widoczność do przodu lub na boki. W jakim obszarze ocenia się tę nieprawidłowość?",
+      "choices": [
+        "Pole widzenia.",
+        "Układ hamulcowy.",
+        "Tachograf.",
+        "Zabezpieczenie ładunku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przeszkody znacząco ograniczające widoczność do przodu lub na boki ocenia się w pozycji dotyczącej pola widzenia.",
+      "source": "Załącznik nr 1, poz. 3.1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-135",
+      "type": "single_choice",
+      "category": "Widoczność",
+      "difficulty": "medium",
+      "question": "Szyba pojazdu ma uszkodzenie znacząco ograniczające widoczność w obszarze oczyszczanym przez wycieraczki. Jak należy ocenić taką nieprawidłowość?",
+      "choices": [
+        "Jako poważniejszą usterkę stanu szyb.",
+        "Jako usterkę dotyczącą wyłącznie świateł cofania.",
+        "Jako brak usterki, jeżeli kierowca zna trasę.",
+        "Jako wyłącznie problem estetyczny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik przewiduje surowszą kwalifikację stanu szyb, gdy uszkodzenie znacząco ogranicza widoczność w obszarze oczyszczanym przez wycieraczki.",
+      "source": "Załącznik nr 1, poz. 3.2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-136",
+      "type": "single_choice",
+      "category": "Widoczność",
+      "difficulty": "easy",
+      "question": "Pojazd ma mniej niż dwa urządzenia zapewniające obserwację strefy za pojazdem. Jak traktuje to wykaz usterek?",
+      "choices": [
+        "Jako usterkę w obszarze lusterek lub urządzeń widzenia pośredniego.",
+        "Jako usterkę tachografu.",
+        "Jako brak problemu, jeżeli pojazd ma kamerę cofania niesprawną.",
+        "Jako wyłącznie sprawę komfortu kierowcy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Brak wymaganej liczby urządzeń umożliwiających obserwację strefy za pojazdem jest ujęty przy lusterkach lub innych urządzeniach widzenia pośredniego.",
+      "source": "Załącznik nr 1, poz. 3.3"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-137",
+      "type": "single_choice",
+      "category": "Widoczność",
+      "difficulty": "easy",
+      "question": "Wycieraczki przedniej szyby nie działają albo ich brak. Do jakiego obszaru kontroli należy ta nieprawidłowość?",
+      "choices": [
+        "Widoczność.",
+        "Podwozie.",
+        "Ładunek.",
+        "Pasy bezpieczeństwa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Brak albo niedziałanie wycieraczek przedniej szyby jest ujęte w obszarze widoczności.",
+      "source": "Załącznik nr 1, poz. 3.4"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-138",
+      "type": "single_choice",
+      "category": "Widoczność",
+      "difficulty": "easy",
+      "question": "Spryskiwacze przedniej szyby nie działają. Jak należy potraktować tę nieprawidłowość?",
+      "choices": [
+        "Jako usterkę w obszarze widoczności.",
+        "Jako usterkę hamulców.",
+        "Jako brak usterki, jeżeli szyba jest czysta.",
+        "Jako problem wyłącznie z wyposażeniem obowiązkowym autobusu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niedziałające spryskiwacze przedniej szyby są ujęte w wykazie usterek w obszarze widoczności.",
+      "source": "Załącznik nr 1, poz. 3.5"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-139",
+      "type": "single_choice",
+      "category": "Oświetlenie",
+      "difficulty": "medium",
+      "question": "W pojeździe nie działa pojedyncze źródło światła mijania, przez co widoczność światła jest poważnie pogorszona. Jak powinien traktować to kontrolujący?",
+      "choices": [
+        "Jako usterkę w obszarze świateł drogowych i mijania.",
+        "Jako okoliczność bez znaczenia, jeśli pojazd ma światła do jazdy dziennej.",
+        "Jako usterkę wyłącznie dotyczącą tablicy rejestracyjnej.",
+        "Jako podstawę tylko do kontroli tachografu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Brak lub uszkodzenie światła albo źródła światła jest kryterium oceny przy światłach drogowych i mijania, z surowszą oceną przy poważnie pogorszonej widoczności.",
+      "source": "Załącznik nr 1, poz. 4.1.1 lit. a"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-140",
+      "type": "single_choice",
+      "category": "Oświetlenie",
+      "difficulty": "medium",
+      "question": "Światła drogowe i mijania są rażąco źle ustawione. Jak należy zakwalifikować tę nieprawidłowość w wykazie?",
+      "choices": [
+        "Jako usterkę ustawienia świateł drogowych i mijania.",
+        "Jako usterkę zabezpieczenia ładunku.",
+        "Jako brak usterki, jeżeli kierowca używa tylko świateł dziennych.",
+        "Jako wyłącznie problem z dokumentacją pojazdu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rażąco złe ustawienie świateł drogowych i mijania jest ujęte w załączniku jako nieprawidłowość w pozycji dotyczącej ustawienia tych świateł.",
+      "source": "Załącznik nr 1, poz. 4.1.2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-141",
+      "type": "single_choice",
+      "category": "Oświetlenie",
+      "difficulty": "medium",
+      "question": "Z przodu pojazdu zamontowano światło czerwone albo z tyłu światło białe w ramach świateł pozycyjnych. Jak należy ocenić to w kontroli?",
+      "choices": [
+        "Jako poważniejszą niezgodność świateł z wymaganiami.",
+        "Jako usterkę drobną bez znaczenia.",
+        "Jako poprawne oznakowanie pojazdu.",
+        "Jako kwestię nieobjętą kontrolą techniczną."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik przewiduje surowszą ocenę niezgodności, gdy występuje czerwone światło z przodu lub białe światło z tyłu.",
+      "source": "Załącznik nr 1, poz. 4.2.3"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-142",
+      "type": "single_choice",
+      "category": "Oświetlenie",
+      "difficulty": "medium",
+      "question": "Żadne źródło światła hamowania nie działa. Jak należy potraktować tę sytuację?",
+      "choices": [
+        "Jako usterkę niebezpieczną w obszarze świateł hamowania.",
+        "Jako drobną usterkę, jeżeli pojazd ma sprawne kierunkowskazy.",
+        "Jako problem wyłącznie z akumulatorem.",
+        "Jako nieprawidłowość nieobjętą wykazem."
+      ],
+      "correctIndex": 0,
+      "explanation": "Brak działania wszystkich źródeł świateł hamowania jest w wykazie kwalifikowany jako usterka niebezpieczna.",
+      "source": "Załącznik nr 1, poz. 4.3.1 lit. a"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-143",
+      "type": "single_choice",
+      "category": "Oświetlenie",
+      "difficulty": "easy",
+      "question": "Kierunkowskazy migają z częstotliwością mniejszą niż dopuszczalna w wykazie. Jak klasyfikować tę nieprawidłowość?",
+      "choices": [
+        "Jako usterkę w pozycji częstotliwości błysków kierunkowskazów.",
+        "Jako usterkę układu hamulcowego.",
+        "Jako brak usterki, jeżeli kierowca sygnalizuje ręką.",
+        "Jako problem wyłącznie z tablicą rejestracyjną."
+      ],
+      "correctIndex": 0,
+      "explanation": "Częstotliwość błysków kierunkowskazów mniejsza niż 45 lub większa niż 150 cykli na minutę jest ujęta jako usterka.",
+      "source": "Załącznik nr 1, poz. 4.4.4"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-144",
+      "type": "single_choice",
+      "category": "Oświetlenie",
+      "difficulty": "medium",
+      "question": "Światło cofania można włączyć, gdy włączony jest bieg inny niż wsteczny. Jak traktuje to wykaz?",
+      "choices": [
+        "Jako usterkę przełącznika świateł cofania.",
+        "Jako prawidłowe działanie układu.",
+        "Jako usterkę układu kierowniczego.",
+        "Jako brak znaczenia dla kontroli."
+      ],
+      "correctIndex": 0,
+      "explanation": "Możliwość włączenia światła cofania przy biegu innym niż wsteczny wskazano w wykazie przy przełącznikach świateł cofania.",
+      "source": "Załącznik nr 1, poz. 4.6.3"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-145",
+      "type": "single_choice",
+      "category": "Oświetlenie",
+      "difficulty": "medium",
+      "question": "Przewody elektryczne pojazdu są w takim stanie, że istnieje bezpośrednie zagrożenie pożarem lub iskrzeniem. Jak ocenić tę usterkę?",
+      "choices": [
+        "Jako niebezpieczną usterkę złączy i przewodów elektrycznych.",
+        "Jako drobną usterkę bez wpływu na bezpieczeństwo.",
+        "Jako usterkę wyłącznie akumulatora bez dalszych skutków.",
+        "Jako element niepodlegający kontroli."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bezpośrednie zagrożenie pożarem lub iskrzeniem przy uszkodzonej lub zużytej izolacji przewodów jest kwalifikowane w wykazie jako usterka niebezpieczna.",
+      "source": "Załącznik nr 1, poz. 4.11 lit. c"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-146",
+      "type": "single_choice",
+      "category": "Koła i opony",
+      "difficulty": "medium",
+      "question": "W pojeździe brakuje elementów mocujących koło albo są tak obluzowane, że ma to bardzo poważny wpływ na bezpieczeństwo. Jak należy zakwalifikować usterkę?",
+      "choices": [
+        "Jako niebezpieczną usterkę piasty koła.",
+        "Jako drobną usterkę, jeżeli koło jeszcze się obraca.",
+        "Jako usterkę widoczności.",
+        "Jako brak usterki, jeżeli kierowca jedzie wolno."
+      ],
+      "correctIndex": 0,
+      "explanation": "Brak elementów mocujących koło lub ich obluzowanie mające bardzo poważny wpływ na bezpieczeństwo ruchu jest w wykazie traktowane jako usterka niebezpieczna.",
+      "source": "Załącznik nr 1, poz. 5.2.1 lit. a"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-147",
+      "type": "single_choice",
+      "category": "Koła i opony",
+      "difficulty": "medium",
+      "question": "Opona ma znaczące uszkodzenie lub przecięcie, a kord jest widoczny albo uszkodzony. Jak należy ocenić sytuację?",
+      "choices": [
+        "Jako poważniejszą usterkę opony, przy widocznym lub uszkodzonym kordzie jako niebezpieczną.",
+        "Jako brak usterki, jeśli ciśnienie jest prawidłowe.",
+        "Jako problem wyłącznie z amortyzatorem.",
+        "Jako kwestię nieobjętą kontrolą drogową."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik obejmuje znaczące uszkodzenie lub przecięcie opony oraz przewiduje surowszą kwalifikację przy widocznym lub uszkodzonym kordzie.",
+      "source": "Załącznik nr 1, poz. 5.2.3 lit. d"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-148",
+      "type": "single_choice",
+      "category": "Koła i opony",
+      "difficulty": "medium",
+      "question": "Głębokość rzeźby bieżnika opony jest niezgodna z wymaganiami technicznymi. Jak potraktować tę nieprawidłowość?",
+      "choices": [
+        "Jako usterkę opony w obszarze kół i opon.",
+        "Jako wyłącznie kwestię estetyczną.",
+        "Jako usterkę tachografu.",
+        "Jako brak usterki, jeżeli opona jest tej samej marki co pozostałe."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niezgodna z wymaganiami głębokość rzeźby bieżnika opony jest wskazana w wykazie usterek opon.",
+      "source": "Załącznik nr 1, poz. 5.2.3 lit. e"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-149",
+      "type": "single_choice",
+      "category": "Koła i opony",
+      "difficulty": "easy",
+      "question": "Na tej samej osi zamontowano opony o różnych rozmiarach. Do którego obszaru kontroli należy ta nieprawidłowość?",
+      "choices": [
+        "Koła i opony.",
+        "Układ tłumienia hałasu.",
+        "Tachograf.",
+        "Wnętrze autobusu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Różne rozmiary opon na tej samej osi lub kołach bliźniaczych są ujęte w pozycji dotyczącej opon.",
+      "source": "Załącznik nr 1, poz. 5.2.3 lit. b"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-150",
+      "type": "single_choice",
+      "category": "Zawieszenie",
+      "difficulty": "medium",
+      "question": "Kontrolujący stwierdza pęknięcie elementu zawieszenia mające wpływ na stabilność jazdy. Jak należy postąpić w ocenie technicznej?",
+      "choices": [
+        "Ocenić to jako istotną usterkę w obszarze zawieszenia, zgodnie z wykazem usterek.",
+        "Pominąć, jeżeli pojazd ma ważny przegląd okresowy.",
+        "Ocenić wyłącznie jako problem z oświetleniem.",
+        "Uznać, że rozporządzenie nie obejmuje zawieszenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik nr 1 obejmuje obszar osi, kół, opon i zawieszenia, w tym elementy zawieszenia takie jak resory, amortyzatory, wahacze, sworznie i zawieszenie pneumatyczne.",
+      "source": "Załącznik nr 1, dział 5"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-151",
+      "type": "single_choice",
+      "category": "Podwozie i nadwozie",
+      "difficulty": "medium",
+      "question": "Podczas kontroli ujawniono niepewne mocowanie elementu podwozia, które może wpływać na bezpieczeństwo. Do którego obszaru kontroli należy ta usterka?",
+      "choices": [
+        "Podwozie i elementy przymocowane do podwozia.",
+        "Wyłącznie tachograf.",
+        "Wyłącznie dokumenty kierowcy.",
+        "Wyłącznie kontrola ładunku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik obejmuje podwozie lub ramę i elementy do nich przymocowane, w tym ich stan i mocowanie.",
+      "source": "Załącznik nr 1, dział 6"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-152",
+      "type": "single_choice",
+      "category": "Podwozie i nadwozie",
+      "difficulty": "medium",
+      "question": "W kontrolowanym pojeździe wyciek paliwa z przewodu paliwowego stwarza zagrożenie. Jak należy traktować taką nieprawidłowość?",
+      "choices": [
+        "Jako usterkę w obszarze zbiornika paliwa i przewodów paliwowych.",
+        "Jako usterkę wyłącznie lusterek.",
+        "Jako brak usterki, jeżeli wyciek jest niewielki.",
+        "Jako okoliczność wyłącznie cywilnoprawną."
+      ],
+      "correctIndex": 0,
+      "explanation": "W załączniku w dziale podwozia i elementów przymocowanych do podwozia ujęto zbiornik paliwa i przewody paliwowe.",
+      "source": "Załącznik nr 1, poz. 6.1.3"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-153",
+      "type": "single_choice",
+      "category": "Podwozie i nadwozie",
+      "difficulty": "medium",
+      "question": "Kontrolujący stwierdza nieprawidłowość urządzenia sprzęgającego przeznaczonego do ciągnięcia przyczepy. W którym obszarze wykazu ocenia się tę usterkę?",
+      "choices": [
+        "Podwozie i elementy przymocowane do podwozia.",
+        "Widoczność.",
+        "Pasy bezpieczeństwa.",
+        "Kontrola drogomierza."
+      ],
+      "correctIndex": 0,
+      "explanation": "Urządzenia sprzęgające i przeznaczone do ciągnięcia są ujęte w załączniku w dziale dotyczącym podwozia i elementów przymocowanych do podwozia.",
+      "source": "Załącznik nr 1, poz. 6.1.6"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-154",
+      "type": "single_choice",
+      "category": "Pasy i wyposażenie",
+      "difficulty": "easy",
+      "question": "Pojazd ma niesprawne pasy bezpieczeństwa albo ich zapięcia. Do jakiego obszaru kontroli należy taka usterka?",
+      "choices": [
+        "Inne wyposażenie, w tym pasy bezpieczeństwa i zapięcia pasów.",
+        "Układ kierowniczy.",
+        "Kontrola ładunku.",
+        "Tablice rejestracyjne."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik nr 1 obejmuje pasy bezpieczeństwa, zapięcia pasów i inne urządzenia przytrzymujące w dziale innego wyposażenia.",
+      "source": "Załącznik nr 1, dział 7, poz. 7.1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-155",
+      "type": "single_choice",
+      "category": "Pasy i wyposażenie",
+      "difficulty": "medium",
+      "question": "System poduszki powietrznej sygnalizuje awarię. W którym obszarze kontroli technicznej należy szukać tej nieprawidłowości?",
+      "choices": [
+        "Inne wyposażenie, w części dotyczącej systemu poduszki powietrznej.",
+        "Tylko oświetlenie tablicy rejestracyjnej.",
+        "Wyłącznie kontrola techniczna ładunku.",
+        "Wyłącznie układ hamowania długotrwałego."
+      ],
+      "correctIndex": 0,
+      "explanation": "W załączniku w dziale innego wyposażenia wskazano system poduszki powietrznej jako odrębną pozycję kontroli.",
+      "source": "Załącznik nr 1, poz. 7.1.6"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-156",
+      "type": "single_choice",
+      "category": "Pasy i wyposażenie",
+      "difficulty": "easy",
+      "question": "W pojeździe wymagane są kliny zabezpieczające koła, ale ich brakuje. Do jakiej pozycji wykazu można odnieść tę nieprawidłowość?",
+      "choices": [
+        "Kliny zabezpieczające koła w dziale innego wyposażenia.",
+        "Światła drogowe i mijania.",
+        "Pole widzenia.",
+        "Zabezpieczenie ładunku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik nr 1 obejmuje kliny zabezpieczające koła jako pozycję w dziale innego wyposażenia.",
+      "source": "Załącznik nr 1, poz. 7.6"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-157",
+      "type": "single_choice",
+      "category": "Pasy i wyposażenie",
+      "difficulty": "medium",
+      "question": "Kontrolujący stwierdza usterkę tachografu jako elementu wyposażenia pojazdu. Gdzie w wykazie przewidziano taki obszar kontroli?",
+      "choices": [
+        "W dziale innego wyposażenia, w pozycji dotyczącej tachografu.",
+        "Wyłącznie w dziale widoczności.",
+        "Wyłącznie w dziale oświetlenia.",
+        "W rozporządzeniu nie przewidziano tachografu jako elementu kontroli technicznej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik nr 1 obejmuje tachograf w dziale innego wyposażenia.",
+      "source": "Załącznik nr 1, poz. 7.9"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-158",
+      "type": "single_choice",
+      "category": "Pasy i wyposażenie",
+      "difficulty": "medium",
+      "question": "Pojazd ma ogranicznik prędkości, który nie działa prawidłowo. Do jakiej pozycji wykazu należy odnieść tę usterkę?",
+      "choices": [
+        "Ogranicznik prędkości w dziale innego wyposażenia.",
+        "Układ hamulcowy.",
+        "Tablice rejestracyjne.",
+        "Wycieraczki szyby przedniej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ogranicznik prędkości jest ujęty w załączniku nr 1 w dziale innego wyposażenia.",
+      "source": "Załącznik nr 1, poz. 7.10"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-159",
+      "type": "single_choice",
+      "category": "Ochrona środowiska",
+      "difficulty": "medium",
+      "question": "Układ tłumienia hałasu jest w stanie, który może powodować nadmierną uciążliwość. W jakim dziale załącznika ocenia się taką usterkę?",
+      "choices": [
+        "Uciążliwość.",
+        "Identyfikacja pojazdu.",
+        "Zachowanie kontrolowanego.",
+        "Upoważnienia do kontroli."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik nr 1 w dziale uciążliwości obejmuje układ tłumienia hałasu.",
+      "source": "Załącznik nr 1, poz. 8.1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-160",
+      "type": "single_choice",
+      "category": "Ochrona środowiska",
+      "difficulty": "medium",
+      "question": "Kontrolujący ocenia nadmierną emisję spalin z silnika. Który dział załącznika obejmuje takie nieprawidłowości?",
+      "choices": [
+        "Uciążliwość, w części dotyczącej emisji spalin.",
+        "Kontrola dokumentów.",
+        "Zatrzymanie pojazdu do kontroli.",
+        "Szkolenie osób upoważnionych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik nr 1 obejmuje emisję spalin w dziale uciążliwości.",
+      "source": "Załącznik nr 1, poz. 8.2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-161",
+      "type": "single_choice",
+      "category": "Ochrona środowiska",
+      "difficulty": "medium",
+      "question": "Podczas kontroli widoczny jest wyciek płynów mogący naruszać wymagania ochrony środowiska. Gdzie w wykazie znajduje się taka kategoria?",
+      "choices": [
+        "Inne pozycje związane z ochroną środowiska, w tym wycieki płynów.",
+        "Wyłącznie tablice rejestracyjne.",
+        "Wyłącznie kontrola drogomierza.",
+        "Nie jest to element kontroli technicznej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik nr 1 obejmuje wycieki płynów w części dotyczącej innych pozycji związanych z ochroną środowiska.",
+      "source": "Załącznik nr 1, poz. 8.4.1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-162",
+      "type": "single_choice",
+      "category": "Pojazdy do przewozu osób",
+      "difficulty": "medium",
+      "question": "Kontrolowany jest autobus przeznaczony do przewozu osób, a drzwi wejściowe nie działają prawidłowo. W którym dziale załącznika ocenia się tę usterkę?",
+      "choices": [
+        "Warunki dodatkowe dotyczące pojazdów przeznaczonych do przewozu osób.",
+        "Kontrola tachografu analogowego.",
+        "Zatrzymanie dokumentów.",
+        "Odczyt drogomierza."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik nr 1 zawiera warunki dodatkowe dla pojazdów kategorii M2 i M3 przeznaczonych do przewozu osób, w tym drzwi wejściowe i wyjściowe.",
+      "source": "Załącznik nr 1, dział 9, poz. 9.1.1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-163",
+      "type": "single_choice",
+      "category": "Pojazdy do przewozu osób",
+      "difficulty": "medium",
+      "question": "W autobusie wyjście awaryjne jest niesprawne. Jaką część wykazu należy zastosować?",
+      "choices": [
+        "Warunki dodatkowe dotyczące pojazdów do przewozu osób, pozycję dotyczącą wyjść awaryjnych.",
+        "Wyłącznie dział identyfikacji pojazdu.",
+        "Wyłącznie przepisy o drogomierzu.",
+        "Dział dotyczący pieczęci tachografu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wyjścia awaryjne są ujęte w warunkach dodatkowych dla pojazdów przeznaczonych do przewozu osób.",
+      "source": "Załącznik nr 1, poz. 9.1.2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-164",
+      "type": "single_choice",
+      "category": "Pojazdy do przewozu osób",
+      "difficulty": "easy",
+      "question": "Kontrolujący sprawdza wentylację i ogrzewanie w pojeździe przeznaczonym do przewozu osób. Czy załącznik przewiduje taki obszar?",
+      "choices": [
+        "Tak, w warunkach dodatkowych dla pojazdów przeznaczonych do przewozu osób.",
+        "Nie, kontroluje się tylko układ hamulcowy.",
+        "Tak, ale wyłącznie w pojazdach osobowych prywatnych.",
+        "Nie, bo to sprawa komfortu bez żadnego znaczenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik nr 1 w warunkach dodatkowych dla pojazdów do przewozu osób obejmuje wentylację i ogrzewanie.",
+      "source": "Załącznik nr 1, poz. 9.3"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-165",
+      "type": "single_choice",
+      "category": "Pojazdy do przewozu osób",
+      "difficulty": "medium",
+      "question": "Autobus przewozi osoby stojące. W kontrolowanym pojeździe pojawia się problem dotyczący miejsc dla osób stojących. Czy wykaz przewiduje taki obszar?",
+      "choices": [
+        "Tak, w warunkach dodatkowych dla pojazdów przeznaczonych do przewozu osób.",
+        "Nie, przepisy kontrolne dotyczą wyłącznie kierowcy.",
+        "Tak, ale tylko w kontroli granicznej.",
+        "Nie, bo miejsca stojące nie mogą być kontrolowane."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik nr 1 zawiera pozycję dotyczącą miejsc dla osób stojących w dziale warunków dodatkowych dla pojazdów do przewozu osób.",
+      "source": "Załącznik nr 1, poz. 9.6"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-166",
+      "type": "single_choice",
+      "category": "Pojazdy do przewozu osób",
+      "difficulty": "medium",
+      "question": "Pojazd jest przystosowany do przewozu osób o ograniczonej możliwości poruszania się. Kontrolujący sprawdza rampę i podnośnik wózków inwalidzkich. W którym obszarze załącznika mieści się ta kontrola?",
+      "choices": [
+        "Wymogi dotyczące przewozu osób o ograniczonej możliwości poruszania się.",
+        "Wyłącznie identyfikacja pojazdu.",
+        "Kontrola urządzeń do pomiaru alkoholu.",
+        "Zabezpieczenie ładunku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik nr 1 przewiduje wymogi dotyczące przewozu osób o ograniczonej możliwości poruszania się, w tym drzwi, rampy i podnośniki wózków inwalidzkich.",
+      "source": "Załącznik nr 1, poz. 9.11.1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-167",
+      "type": "single_choice",
+      "category": "Kontrola zabezpieczenia ładunku",
+      "difficulty": "hard",
+      "question": "Podczas kontroli przewozu ładunku stwierdzono usterkę bezpośrednio narażającą ludzi na niebezpieczeństwo. Jak powinna zostać zakwalifikowana?",
+      "choices": [
+        "Jako usterka niebezpieczna.",
+        "Jako usterka drobna.",
+        "Jako usterka poważna wyłącznie po uszkodzeniu pojazdu.",
+        "Jako brak usterki, jeżeli ładunek nie wypadł."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bezpośrednie narażenie ludzi na niebezpieczeństwo przy zabezpieczeniu ładunku jest jedną z przesłanek usterki niebezpiecznej.",
+      "source": "§ 8 ust. 3 pkt 3 lit. c"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-168",
+      "type": "single_choice",
+      "category": "Kontrola zabezpieczenia ładunku",
+      "difficulty": "medium",
+      "question": "Kontrolujący chce sklasyfikować usterkę zabezpieczenia ładunku na podstawie szczegółowych nieprawidłowości. Z czego powinien skorzystać?",
+      "choices": [
+        "Z nieprawidłowości określonych w załączniku dotyczącym klasyfikacji usterek zabezpieczenia ładunku.",
+        "Wyłącznie z własnej praktyki bez wykazu.",
+        "Z katalogu kolorów środków transportu.",
+        "Z tabeli pieczęci do tachografów."
+      ],
+      "correctIndex": 0,
+      "explanation": "Klasyfikacji usterek zabezpieczenia ładunku dokonuje się na podstawie nieprawidłowości określonych w załączniku nr 4.",
+      "source": "§ 8 ust. 6"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-169",
+      "type": "single_choice",
+      "category": "Dokumentacja kontroli",
+      "difficulty": "easy",
+      "question": "Kontrolujący potrzebuje wzoru protokołu szczegółowej drogowej kontroli technicznej. Gdzie rozporządzenie odsyła po ten wzór?",
+      "choices": [
+        "Do załącznika zawierającego wzór protokołu szczegółowej drogowej kontroli technicznej z wykazem kontrolnym.",
+        "Do dokumentu sporządzanego dowolnie przez kierowcę.",
+        "Do wzoru prawa jazdy.",
+        "Do regulaminu pracy zarządcy drogi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wzór protokołu szczegółowej drogowej kontroli technicznej zawierającego wykaz kontrolny określa załącznik nr 2.",
+      "source": "§ 6 ust. 7"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-170",
+      "type": "single_choice",
+      "category": "Dokumentacja kontroli",
+      "difficulty": "easy",
+      "question": "Organ kieruje do starosty wniosek o dodatkowe badanie techniczne po ujawnieniu wielu poważnych lub niebezpiecznych usterek. Gdzie określono wzór tego wniosku?",
+      "choices": [
+        "W załączniku dotyczącym wniosku o skierowanie pojazdu na dodatkowe badanie techniczne.",
+        "W załączniku z pieczęcią do tachografów.",
+        "W notatce urzędowej policjanta.",
+        "W dokumentach okazanych przez kierującego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wzór wniosku do starosty o skierowanie na dodatkowe badanie techniczne określony jest w załączniku nr 3.",
+      "source": "§ 7 ust. 3"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-171",
+      "type": "single_choice",
+      "category": "Dokumentacja kontroli",
+      "difficulty": "easy",
+      "question": "Kontrolujący zatrzymuje dokument stwierdzający uprawnienie do kierowania. Gdzie określono wzór pokwitowania?",
+      "choices": [
+        "W załączniku dotyczącym pokwitowania za zatrzymany dokument.",
+        "W załączniku dotyczącym szkolenia strażników.",
+        "W załączniku dotyczącym tachografu analogowego.",
+        "W odręcznym notatniku patrolu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wzór pokwitowania za zatrzymany dokument określa załącznik nr 9.",
+      "source": "§ 13 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-172",
+      "type": "single_choice",
+      "category": "Dokumentacja kontroli",
+      "difficulty": "medium",
+      "question": "Kontrolujący zrywa plombę i zakłada plombę zastępczą przy kontroli odpadów. Gdzie określono wzór protokołu tej czynności?",
+      "choices": [
+        "W załączniku dotyczącym protokołu zerwania plomby i założenia plomby zastępczej.",
+        "W załączniku dotyczącym upoważnienia do kontroli ruchu drogowego.",
+        "W załączniku dotyczącym ustawienia świateł.",
+        "W załączniku dotyczącym opon."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wzór protokołu zerwania plomby i założenia plomby zastępczej określa załącznik nr 10.",
+      "source": "§ 14 ust. 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-173",
+      "type": "single_choice",
+      "category": "Dokumentacja kontroli",
+      "difficulty": "easy",
+      "question": "Kontrolujący przygotowuje wniosek do starosty o ocenę stanu zdrowia kierującego. Gdzie znajduje się wzór wniosku?",
+      "choices": [
+        "W załączniku nr 11.",
+        "W załączniku nr 1.",
+        "W załączniku nr 5.",
+        "W załączniku nr 14."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wzór wniosku o ocenę stanu zdrowia kierującego określa załącznik nr 11.",
+      "source": "§ 15"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-174",
+      "type": "single_choice",
+      "category": "Dokumentacja kontroli",
+      "difficulty": "easy",
+      "question": "Kontrolujący przygotowuje wniosek do starosty o skierowanie kierującego na egzamin sprawdzający kwalifikacje. Gdzie określono wzór wniosku?",
+      "choices": [
+        "W załączniku nr 12.",
+        "W załączniku nr 4.",
+        "W załączniku nr 8.",
+        "W załączniku nr 2."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wzór wniosku o skierowanie kierującego na egzamin sprawdzający kwalifikacje określa załącznik nr 12.",
+      "source": "§ 16"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-175",
+      "type": "single_choice",
+      "category": "Upoważnienia do kontroli",
+      "difficulty": "easy",
+      "question": "Osoba ma otrzymać dokument upoważniający do wykonywania kontroli ruchu drogowego. Gdzie określono wzór formularza upoważnienia?",
+      "choices": [
+        "W załączniku nr 14.",
+        "W załączniku nr 1.",
+        "W załączniku nr 9.",
+        "W załączniku nr 10."
+      ],
+      "correctIndex": 0,
+      "explanation": "Upoważnienie wydaje się na formularzu, którego wzór określa załącznik nr 14.",
+      "source": "§ 23 ust. 4"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-176",
+      "type": "single_choice",
+      "category": "Oświetlenie",
+      "difficulty": "medium",
+      "question": "Dodatkowe światło zamontowane w pojeździe emituje czerwone światło do przodu. Jak powinien potraktować to kontrolujący?",
+      "choices": [
+        "Jako poważniejszą niezgodność dodatkowych świateł z wymaganiami.",
+        "Jako prawidłowe dodatkowe oznakowanie.",
+        "Jako problem wyłącznie z dokumentami kierowcy.",
+        "Jako usterkę zabezpieczenia ładunku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik wskazuje wysyłanie lub odbijanie czerwonego światła do przodu jako surowszą niezgodność dodatkowych świateł lub świateł odblaskowych.",
+      "source": "Załącznik nr 1, poz. 4.12"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-177",
+      "type": "single_choice",
+      "category": "Oświetlenie",
+      "difficulty": "medium",
+      "question": "Światło albo element odblaskowy jest tak zamocowany, że istnieje bardzo poważne ryzyko odpadnięcia. Jak traktować tę usterkę?",
+      "choices": [
+        "Jako poważniejszą usterkę mocowania światła lub elementu odblaskowego.",
+        "Jako brak usterki, jeżeli element jeszcze się trzyma.",
+        "Jako wyłącznie usterkę drogomierza.",
+        "Jako problem z upoważnieniem do kontroli."
+      ],
+      "correctIndex": 0,
+      "explanation": "W wielu pozycjach załącznika niepewne mocowanie światła lub odblasku jest oceniane surowiej, gdy istnieje bardzo poważne ryzyko odpadnięcia.",
+      "source": "Załącznik nr 1, poz. 4.2.1 lit. c, 4.8.1 lit. b"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-178",
+      "type": "single_choice",
+      "category": "Akumulator i instalacja",
+      "difficulty": "medium",
+      "question": "Akumulator jest niewłaściwie zamocowany i może spowodować zwarcie. Jak należy zakwalifikować problem w kontroli?",
+      "choices": [
+        "Jako usterkę akumulatora w obszarze świateł i wyposażenia elektrycznego.",
+        "Jako usterkę układu hamulcowego.",
+        "Jako brak usterki, jeżeli silnik pracuje.",
+        "Jako wyłącznie problem z pasami bezpieczeństwa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niewłaściwe mocowanie akumulatora z możliwością spowodowania zwarcia jest ujęte w załączniku jako usterka akumulatora.",
+      "source": "Załącznik nr 1, poz. 4.13 lit. a"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-179",
+      "type": "single_choice",
+      "category": "Akumulator i instalacja",
+      "difficulty": "medium",
+      "question": "Z akumulatora wycieka substancja niebezpieczna. Jak należy traktować tę nieprawidłowość?",
+      "choices": [
+        "Jako poważniejszą usterkę akumulatora.",
+        "Jako usterkę drobną bez znaczenia.",
+        "Jako wyłącznie problem z nalepką kontrolną.",
+        "Jako okoliczność nieobjętą kontrolą."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wyciek substancji niebezpiecznych z akumulatora jest surowiej kwalifikowaną usterką w pozycji dotyczącej akumulatora.",
+      "source": "Załącznik nr 1, poz. 4.13 lit. b"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-180",
+      "type": "single_choice",
+      "category": "Zawieszenie",
+      "difficulty": "medium",
+      "question": "Kontrolujący stwierdza niepewne mocowanie osi do pojazdu, pogarszające stabilność toru jazdy. Jak należy to traktować?",
+      "choices": [
+        "Jako poważną usterkę osi w obszarze osi, kół, opon i zawieszenia.",
+        "Jako usterkę wyłącznie oświetlenia.",
+        "Jako brak usterki, jeżeli pojazd jedzie prosto na krótkim odcinku.",
+        "Jako wyłącznie problem z tablicą rejestracyjną."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niepewne mocowanie osi do pojazdu oraz pogorszenie stabilności toru jazdy są ujęte w wykazie usterek osi.",
+      "source": "Załącznik nr 1, poz. 5.1.1 lit. b"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-181",
+      "type": "single_choice",
+      "category": "Zawieszenie",
+      "difficulty": "hard",
+      "question": "Łożysko koła jest zakleszczone i grozi przegrzaniem albo zniszczeniem. Jak należy ocenić tę usterkę?",
+      "choices": [
+        "Jako poważniejszą usterkę łożyska koła.",
+        "Jako drobną usterkę bez wpływu na kontrolę.",
+        "Jako problem wyłącznie z dokumentami pojazdu.",
+        "Jako usterkę tachografu cyfrowego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Załącznik wskazuje zbyt ciasne lub zakleszczone łożysko koła, a przy niebezpieczeństwie przegrzania lub zniszczenia przewiduje surowszą ocenę.",
+      "source": "Załącznik nr 1, poz. 5.1.3 lit. b"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-182",
+      "type": "single_choice",
+      "category": "Koła i opony",
+      "difficulty": "hard",
+      "question": "Opona dotyka nieruchomych części pojazdu w sposób wpływający na bezpieczeństwo jazdy. Jak ocenić tę nieprawidłowość?",
+      "choices": [
+        "Jako usterkę niebezpieczną opony.",
+        "Jako usterkę drobną, bo opona nadal jest napompowana.",
+        "Jako problem wyłącznie z widocznością.",
+        "Jako brak podstaw do oceny w kontroli drogowej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wykaz wskazuje, że opona dotykająca nieruchomych części pojazdu w sposób wpływający na bezpieczeństwo jazdy jest kwalifikowana jako usterka niebezpieczna.",
+      "source": "Załącznik nr 1, poz. 5.2.3 lit. a"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-183",
+      "type": "single_choice",
+      "category": "Koła i opony",
+      "difficulty": "medium",
+      "question": "Na tej samej osi znajdują się opony o różnej budowie. Jak powinien potraktować to kontrolujący?",
+      "choices": [
+        "Jako usterkę opon w obszarze kół i opon.",
+        "Jako kwestię bez znaczenia, jeżeli opony mają podobny bieżnik.",
+        "Jako usterkę układu hamulcowego.",
+        "Jako problem z upoważnieniem do kontroli."
+      ],
+      "correctIndex": 0,
+      "explanation": "Opony o różnej budowie, np. radialnej i diagonalnej, na tej samej osi są wskazane w wykazie jako usterka opon.",
+      "source": "Załącznik nr 1, poz. 5.2.3 lit. c"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-184",
+      "type": "single_choice",
+      "category": "Koła i opony",
+      "difficulty": "medium",
+      "question": "Opona obciera o elementy nadwozia i ma to wpływ na bezpieczną jazdę. Jak należy to potraktować?",
+      "choices": [
+        "Jako poważniejszą usterkę opony.",
+        "Jako brak usterki, jeśli obcieranie występuje tylko przy skręcie.",
+        "Jako usterkę wyłącznie spryskiwaczy.",
+        "Jako podstawę do pominięcia kontroli opon."
+      ],
+      "correctIndex": 0,
+      "explanation": "Obcieranie opony o elementy nadwozia jest ujęte w wykazie, a wpływ na bezpieczną jazdę skutkuje surowszą oceną.",
+      "source": "Załącznik nr 1, poz. 5.2.3 lit. f"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-185",
+      "type": "single_choice",
+      "category": "Szkolenie do kontroli",
+      "difficulty": "medium",
+      "question": "Osoba ubiegająca się o upoważnienie do kontroli ma odbyć część praktyczną szkolenia. Kiedy odbywają się zajęcia praktyczne według programu?",
+      "choices": [
+        "Po przeprowadzeniu zajęć teoretycznych.",
+        "Przed jakimikolwiek zajęciami teoretycznymi.",
+        "Wyłącznie po wydaniu upoważnienia.",
+        "Tylko po pięciu latach wykonywania kontroli."
+      ],
+      "correctIndex": 0,
+      "explanation": "Program szkolenia wskazuje, że zajęcia praktyczne odbywają się po przeprowadzeniu zajęć teoretycznych.",
+      "source": "Załącznik nr 13, § 3 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-186",
+      "type": "single_choice",
+      "category": "Szkolenie do kontroli",
+      "difficulty": "medium",
+      "question": "Kto powinien prowadzić zajęcia teoretyczne na szkoleniu dla osób ubiegających się o upoważnienie?",
+      "choices": [
+        "Osoby posiadające odpowiednią wiedzę fachową.",
+        "Wyłącznie osoby losowo wybrane spośród uczestników.",
+        "Tylko kierowcy kontrolowani w ostatnim roku.",
+        "Wyłącznie pracownicy zarządów dróg bez względu na temat."
+      ],
+      "correctIndex": 0,
+      "explanation": "Program szkolenia przewiduje, że zajęcia teoretyczne prowadzą osoby posiadające odpowiednią wiedzę fachową.",
+      "source": "Załącznik nr 13, § 4 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-187",
+      "type": "single_choice",
+      "category": "Zatrzymywanie pojazdów",
+      "difficulty": "medium",
+      "question": "Strażnik gminny zatrzymuje pojazd z oznakowanego pojazdu służbowego. Po zatrzymaniu pojazdu radiowóz straży stoi na poboczu w miejscu, gdzie zatrzymanie jest zabronione. Jakie zasady stosuje się odpowiednio?",
+      "choices": [
+        "Powinien zachować warunki dotyczące ustawienia pojazdu służbowego i włączenia niebieskiego światła błyskowego, jeżeli rozporządzenie odsyła do tych obowiązków.",
+        "Nie stosuje żadnych zasad bezpieczeństwa, bo nie jest policjantem.",
+        "Może zatrzymać pojazd wyłącznie poza drogą publiczną.",
+        "Musi zawsze wezwać Policję przed przystąpieniem do kontroli."
+      ],
+      "correctIndex": 0,
+      "explanation": "Do strażnika gminnego zatrzymującego pojazdy pieszo lub oznakowanym pojazdem służbowym stosuje się wskazane warunki, w tym dotyczące miejsca kontroli, ustawienia pojazdu i włączenia niebieskiego światła błyskowego.",
+      "source": "§ 22 ust. 3 w zw. z § 3 ust. 1, 2, 4 i 5"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-188",
+      "type": "single_choice",
+      "category": "Inne organy kontroli",
+      "difficulty": "hard",
+      "question": "Osoba działająca w imieniu zarządcy drogi chce zatrzymywać pojazdy, jadąc samochodem służbowym. Które rozwiązanie jest zgodne z rozporządzeniem?",
+      "choices": [
+        "Nie może zatrzymywać pojazdów w ten sposób, bo powinna poruszać się wyłącznie pieszo.",
+        "Może zatrzymywać pojazdy każdym oznakowanym pojazdem.",
+        "Może zatrzymywać pojazdy nieoznakowanym pojazdem po zmroku.",
+        "Może zatrzymywać pojazdy tak samo jak policjant nieumundurowany."
+      ],
+      "correctIndex": 0,
+      "explanation": "Osoba działająca w imieniu zarządcy drogi zatrzymuje pojazdy, poruszając się wyłącznie pieszo.",
+      "source": "§ 22 ust. 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-189",
+      "type": "single_choice",
+      "category": "Inne organy kontroli",
+      "difficulty": "hard",
+      "question": "Strażnik gminny nie ukończył szkolenia wymaganego do upoważnienia, ale zna przepisy. Czy może otrzymać upoważnienie do kontroli ruchu drogowego?",
+      "choices": [
+        "Nie, upoważnienie otrzymuje po ukończeniu szkolenia.",
+        "Tak, sama znajomość przepisów wystarcza.",
+        "Tak, jeżeli kierownik jednostki wyrazi zgodę ustnie.",
+        "Tak, ale tylko na jeden dzień."
+      ],
+      "correctIndex": 0,
+      "explanation": "Warunkiem otrzymania upoważnienia jest ukończenie szkolenia, którego program określa załącznik do rozporządzenia.",
+      "source": "§ 23 ust. 1"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-190",
+      "type": "single_choice",
+      "category": "Zachowanie kontrolowanego",
+      "difficulty": "medium",
+      "question": "Kierujący po zatrzymaniu pojazdu chce samodzielnie otworzyć komorę silnika i wysiąść z pojazdu. Co powinien uwzględnić?",
+      "choices": [
+        "Może wysiąść tylko za zezwoleniem kontrolującego, a identyfikację pojazdu umożliwia na jego polecenie.",
+        "Może wysiąść zawsze bez zgody, bo kontrola już się rozpoczęła.",
+        "Nie może nigdy otwierać komory silnika, nawet na polecenie.",
+        "Powinien odjechać do warsztatu i tam oczekiwać na kontrolującego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kierujący umożliwia identyfikację pojazdu na polecenie kontrolującego, a wysiada z pojazdu za zezwoleniem kontrolującego.",
+      "source": "§ 24 ust. 1 pkt 3 lit. c oraz § 24 ust. 2"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-191",
+      "type": "single_choice",
+      "category": "Drogowa kontrola techniczna",
+      "difficulty": "hard",
+      "question": "Kontrolujący chce zrezygnować ze sprawdzenia danego obszaru w pojeździe użytkowym, bo w dokumentacji jest potwierdzenie kontroli sprzed dwóch miesięcy. Jednocześnie widzi oczywistą nieprawidłowość w tym obszarze. Co powinien przyjąć?",
+      "choices": [
+        "Nie powinien korzystać z możliwości pominięcia kontroli tego obszaru, bo nieprawidłowości są oczywiste.",
+        "Musi pominąć ten obszar bez względu na widoczne nieprawidłowości.",
+        "Może sprawdzić tylko tablice rejestracyjne.",
+        "Powinien zakończyć kontrolę bez dokumentowania."
+      ],
+      "correctIndex": 0,
+      "explanation": "Możliwość pominięcia pozycji kontrolowanych w poprzednich trzech miesiącach nie działa, gdy nieprawidłowości są oczywiste dla kontrolującego.",
+      "source": "§ 5 ust. 4"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-192",
+      "type": "single_choice",
+      "category": "Kategorie usterek",
+      "difficulty": "hard",
+      "question": "Pojazd ma jedną usterkę drobną i jedną niebezpieczną. Jak powinien zostać sklasyfikowany wynik kontroli?",
+      "choices": [
+        "Na podstawie usterki niebezpiecznej.",
+        "Na podstawie usterki drobnej, bo jest ich tyle samo.",
+        "Jako wynik bezusterkowy.",
+        "Według decyzji kierowcy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli usterki należą do więcej niż jednej kategorii, wynik kontroli klasyfikuje się według najpoważniejszej kategorii.",
+      "source": "§ 5 ust. 8"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-193",
+      "type": "single_choice",
+      "category": "Tachografy",
+      "difficulty": "hard",
+      "question": "Kontrolujący ma sprawdzić tachograf cyfrowy, ale karta kierowcy jest nieważna. Jak może sprawdzić zapisy i co musi zrobić kontrolowany na wydruku pozostającym u kontrolującego?",
+      "choices": [
+        "Zapisy sprawdza się na podstawie wydruku lub danych pobranych z tachografu, a kontrolowany nanosi imię i nazwisko, numer karty kierowcy albo prawa jazdy oraz podpis.",
+        "Kontrola jest niemożliwa i nie sporządza się żadnych dokumentów.",
+        "Kontrolowany wpisuje wyłącznie numer rejestracyjny pojazdu.",
+        "Kontrolujący może wyłącznie zatrzymać pojazd bez sprawdzania zapisów."
+      ],
+      "correctIndex": 0,
+      "explanation": "Gdy karta kierowcy jest niezdatna z powodu uszkodzenia, utraty ważności lub innych przyczyn, kontrolujący sprawdza zapisy z tachografu na podstawie wydruku lub danych, a kontrolowany nanosi wymagane dane i podpis na egzemplarzu pozostającym u kontrolującego.",
+      "source": "§ 10 ust. 4"
+    },
+    {
+      "id": "kontrola-ruchu-drogowego-194",
+      "type": "single_choice",
+      "category": "Dokumenty i pokwitowania",
+      "difficulty": "hard",
+      "question": "Kontrolujący zatrzymuje dokument pojazdu ze względu na zagrożenie bezpieczeństwa ruchu i jednocześnie trzeba wystąpić do starosty o dodatkowe badanie po wielu poważnych usterkach. Co powinno znaleźć się w pokwitowaniu?",
+      "choices": [
+        "Informacja o wniosku do starosty, a samo pokwitowanie pełni też funkcję skierowania na dodatkowe badania techniczne w zakresie przewidzianym rozporządzeniem.",
+        "Wyłącznie imię kierowcy, bez informacji o badaniu.",
+        "Informacja, że pojazd może być bezterminowo używany.",
+        "Tylko numer telefonu organu kontroli."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pokwitowanie przy zagrożeniu bezpieczeństwa albo naruszeniu ochrony środowiska stanowi skierowanie na dodatkowe badania techniczne, a gdy trzeba wystąpić do starosty z wnioskiem, zamieszcza się w nim informację o tym wniosku.",
+      "source": "§ 13 ust. 2"
+    }
+  ]
+}
