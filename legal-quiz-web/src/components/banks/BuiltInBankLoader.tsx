@@ -14,10 +14,11 @@ export function BuiltInBankLoader() {
       const existingBuiltInIds = new Set(existing.filter((b) => b.builtIn).map((b) => b.id));
       const newBuiltInIds = new Set(builtIns.map((b) => b.id));
 
-      // Upsert built-ins (preserve enabled flag if user changed it).
+      // Upsert built-ins.
+      // Note: built-in banks are always re-enabled on load so that after a deploy
+      // (bank set update) they immediately show up without requiring manual toggles.
       for (const b of builtIns) {
-        const prev = await storage.banks.get(b.id);
-        await storage.banks.put(prev ? { ...b, enabled: prev.enabled } : b);
+        await storage.banks.put({ ...b, enabled: true });
       }
 
       // Remove old built-in banks that are no longer present in /public/question-banks/.
