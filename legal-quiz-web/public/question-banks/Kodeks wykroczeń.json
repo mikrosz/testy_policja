@@ -1,0 +1,2855 @@
+{
+  "title": "Ustawa z dnia 20 maja 1971 r. Kodeks wykroczeń",
+  "description": "Baza pytań praktycznych opracowana wyłącznie na podstawie przesłanego aktu prawnego.",
+  "question_count": 178,
+  "questions": [
+    {
+      "id": "kw-001",
+      "type": "single_choice",
+      "category": "Zasady odpowiedzialności",
+      "difficulty": "easy",
+      "question": "Policjant rozważa, czy zachowanie osoby może być traktowane jako wykroczenie. Który element musi wystąpić, aby odpowiedzialność była możliwa?",
+      "choices": [
+        "Czyn musi być społecznie szkodliwy i zabroniony przez ustawę obowiązującą w czasie jego popełnienia pod groźbą jednej z kar przewidzianych dla wykroczeń.",
+        "Wystarczy, że zachowanie jest społecznie naganne, nawet jeśli nie jest zabronione ustawą.",
+        "Wystarczy, że zachowanie narusza regulamin wewnętrzny dowolnej instytucji.",
+        "Czyn musi być popełniony wyłącznie umyślnie, bo nieumyślność wyklucza odpowiedzialność za wykroczenie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Odpowiedzialność za wykroczenie wymaga czynu społecznie szkodliwego, zabronionego przez ustawę obowiązującą w czasie popełnienia i zagrożonego karą przewidzianą w kodeksie.",
+      "source": "Art. 1 § 1"
+    },
+    {
+      "id": "kw-002",
+      "type": "single_choice",
+      "category": "Zasady odpowiedzialności",
+      "difficulty": "easy",
+      "question": "Osoba popełniła czyn zabroniony, ale w czasie czynu nie można jej przypisać winy. Jaka ocena jest prawidłowa?",
+      "choices": [
+        "Nie popełnia wykroczenia.",
+        "Odpowiada zawsze, jeżeli czyn był społecznie szkodliwy.",
+        "Odpowiada tylko wtedy, gdy pokrzywdzony tego zażąda.",
+        "Odpowiada, ale można jedynie obniżyć karę."
+      ],
+      "correctIndex": 0,
+      "explanation": "Brak możliwości przypisania winy w czasie czynu powoduje, że sprawca nie popełnia wykroczenia.",
+      "source": "Art. 1 § 2"
+    },
+    {
+      "id": "kw-003",
+      "type": "single_choice",
+      "category": "Zasady odpowiedzialności",
+      "difficulty": "medium",
+      "question": "Po popełnieniu wykroczenia zmieniła się ustawa. Nowa regulacja jest surowsza, a poprzednia korzystniejsza dla sprawcy. Które rozwiązanie jest prawidłowe?",
+      "choices": [
+        "Należy zastosować ustawę poprzednio obowiązującą, jeżeli jest względniejsza dla sprawcy.",
+        "Zawsze stosuje się ustawę nową, niezależnie od jej skutków dla sprawcy.",
+        "Sprawę należy umorzyć, bo zmiana ustawy zawsze znosi odpowiedzialność.",
+        "O wyborze ustawy decyduje wyłącznie pokrzywdzony."
+      ],
+      "correctIndex": 0,
+      "explanation": "Co do zasady stosuje się ustawę nową, ale ustawę poprzednią należy zastosować, jeżeli jest względniejsza dla sprawcy.",
+      "source": "Art. 2 § 1"
+    },
+    {
+      "id": "kw-004",
+      "type": "single_choice",
+      "category": "Zasady odpowiedzialności",
+      "difficulty": "easy",
+      "question": "Nowa ustawa przestała uznawać dane zachowanie za czyn zabroniony pod groźbą kary. Co dzieje się z wcześniejszym ukaraniem za ten czyn?",
+      "choices": [
+        "Ukaranie uważa się za niebyłe.",
+        "Ukaranie pozostaje w mocy bez żadnych zmian.",
+        "Kara zamienia się automatycznie na naganę.",
+        "Sprawca musi złożyć wniosek o uchylenie ukarania w terminie miesiąca."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli według nowej ustawy czyn objęty orzeczeniem nie jest już zabroniony pod groźbą kary, ukaranie uważa się za niebyłe.",
+      "source": "Art. 2 § 2"
+    },
+    {
+      "id": "kw-005",
+      "type": "single_choice",
+      "category": "Zasady odpowiedzialności",
+      "difficulty": "medium",
+      "question": "Sprawca popełnił czyn na polskim statku wodnym poza granicami państwa. Czy może odpowiadać na zasadach Kodeksu wykroczeń?",
+      "choices": [
+        "Tak, kodeks obejmuje także wykroczenia popełnione na polskim statku wodnym lub powietrznym.",
+        "Nie, kodeks dotyczy wyłącznie czynów popełnionych na lądzie w Polsce.",
+        "Tak, ale tylko wtedy, gdy sprawca jest obywatelem polskim.",
+        "Nie, takie czyny zawsze rozpoznaje wyłącznie sąd państwa bandery obcej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Odpowiedzialność obejmuje czyny popełnione na terytorium Polski oraz na polskim statku wodnym lub powietrznym.",
+      "source": "Art. 3 § 1"
+    },
+    {
+      "id": "kw-006",
+      "type": "single_choice",
+      "category": "Zasady odpowiedzialności",
+      "difficulty": "easy",
+      "question": "Funkcjonariusz ustala czas popełnienia wykroczenia przez zaniechanie. Który moment jest decydujący?",
+      "choices": [
+        "Czas, w którym sprawca zaniechał działania, do którego był obowiązany.",
+        "Dzień ujawnienia czynu przez organ.",
+        "Dzień złożenia zawiadomienia przez pokrzywdzonego.",
+        "Dzień wydania orzeczenia w sprawie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wykroczenie uważa się za popełnione w czasie działania albo zaniechania działania, do którego sprawca był obowiązany.",
+      "source": "Art. 4 § 1"
+    },
+    {
+      "id": "kw-007",
+      "type": "single_choice",
+      "category": "Zasady odpowiedzialności",
+      "difficulty": "medium",
+      "question": "Osoba przewidywała możliwość popełnienia czynu zabronionego i godziła się na to. Jak należy ocenić stronę podmiotową?",
+      "choices": [
+        "Jest to wykroczenie umyślne.",
+        "Jest to zawsze wykroczenie nieumyślne.",
+        "Nie ma odpowiedzialności, bo sprawca nie chciał skutku bezpośrednio.",
+        "Można mówić wyłącznie o usiłowaniu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wykroczenie umyślne zachodzi także wtedy, gdy sprawca przewiduje możliwość popełnienia czynu i godzi się na to.",
+      "source": "Art. 6 § 1"
+    },
+    {
+      "id": "kw-008",
+      "type": "single_choice",
+      "category": "Zasady odpowiedzialności",
+      "difficulty": "medium",
+      "question": "Osoba nie chciała popełnić wykroczenia, ale nie zachowała ostrożności wymaganej w danych okolicznościach i mogła przewidzieć skutek. Która ocena jest trafna?",
+      "choices": [
+        "Może odpowiadać za wykroczenie nieumyślne.",
+        "Nie odpowiada, bo odpowiedzialność za wykroczenia zawsze wymaga zamiaru.",
+        "Odpowiada wyłącznie wtedy, gdy sprawca osiągnął korzyść majątkową.",
+        "Odpowiada tylko wtedy, gdy działała w miejscu publicznym."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wykroczenie nieumyślne zachodzi, gdy sprawca bez zamiaru popełnia czyn wskutek niezachowania wymaganej ostrożności, mimo że możliwość czynu przewidywał albo mógł przewidzieć.",
+      "source": "Art. 6 § 2"
+    },
+    {
+      "id": "kw-009",
+      "type": "single_choice",
+      "category": "Zasady odpowiedzialności",
+      "difficulty": "medium",
+      "question": "Sprawca twierdzi, że nie wiedział, iż jego zachowanie jest zagrożone karą. Kiedy taka nieświadomość może wyłączyć odpowiedzialność?",
+      "choices": [
+        "Gdy była usprawiedliwiona.",
+        "Zawsze, bo nieznajomość prawa wyłącza odpowiedzialność za wykroczenie.",
+        "Tylko gdy sprawca działał pierwszy raz.",
+        "Nigdy, nawet w wyjątkowych okolicznościach."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nieświadomość zagrożenia karą nie wyłącza odpowiedzialności, chyba że była usprawiedliwiona.",
+      "source": "Art. 7 § 1"
+    },
+    {
+      "id": "kw-010",
+      "type": "single_choice",
+      "category": "Zasady odpowiedzialności",
+      "difficulty": "easy",
+      "question": "Siedemnastolatek popełnia czyn zabroniony jako wykroczenie. Czy osiągnął wiek odpowiedzialności na zasadach Kodeksu wykroczeń?",
+      "choices": [
+        "Tak, odpowiedzialność ponosi ten, kto popełnia czyn po ukończeniu 17 lat.",
+        "Nie, odpowiedzialność za wykroczenia zaczyna się dopiero od 18 lat.",
+        "Tak, ale tylko gdy czyn jest umyślny.",
+        "Nie, osoby poniżej 21 lat odpowiadają wyłącznie wychowawczo."
+      ],
+      "correctIndex": 0,
+      "explanation": "Na zasadach kodeksu odpowiada ten, kto popełnia czyn zabroniony po ukończeniu 17 lat.",
+      "source": "Art. 8"
+    },
+    {
+      "id": "kw-011",
+      "type": "single_choice",
+      "category": "Zasady odpowiedzialności",
+      "difficulty": "hard",
+      "question": "Jedno zachowanie wypełnia znamiona dwóch różnych wykroczeń. Jeden przepis przewiduje surowszą karę. Jak należy postąpić przy kwalifikacji?",
+      "choices": [
+        "Stosuje się przepis przewidujący najsurowszą karę, co nie wyklucza środków karnych z innych naruszonych przepisów.",
+        "Zawsze stosuje się wszystkie przepisy i wymierza kilka kar osobno.",
+        "Stosuje się przepis łagodniejszy, bo wątpliwości rozstrzyga się na korzyść sprawcy.",
+        "Sprawa musi być umorzona z powodu zbiegu przepisów."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy zbiegu przepisów wykroczeniowych stosuje się przepis przewidujący najsurowszą karę, ale można orzec środki karne na podstawie innych naruszonych przepisów.",
+      "source": "Art. 9 § 1"
+    },
+    {
+      "id": "kw-012",
+      "type": "single_choice",
+      "category": "Zasady odpowiedzialności",
+      "difficulty": "hard",
+      "question": "Ten sam czyn jest jednocześnie przestępstwem i wykroczeniem, a za oba orzeczono karę tego samego rodzaju. Co należy wykonać?",
+      "choices": [
+        "Wykonuje się surowszą karę, a wcześniej wykonaną łagodniejszą zalicza się na jej poczet.",
+        "Wykonuje się obie kary w pełnym wymiarze.",
+        "Wykonuje się wyłącznie karę za wykroczenie.",
+        "Nie wykonuje się żadnej kary, bo czyn był jeden."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli za przestępstwo i wykroczenie orzeczono karę tego samego rodzaju, wykonuje się surowszą, z zaliczeniem uprzednio wykonanej łagodniejszej.",
+      "source": "Art. 10 § 1"
+    },
+    {
+      "id": "kw-013",
+      "type": "single_choice",
+      "category": "Zasady odpowiedzialności",
+      "difficulty": "medium",
+      "question": "Osoba zaczęła realizować zamiar popełnienia wykroczenia, bezpośrednio zmierzała do dokonania, ale skutek nie nastąpił. Kiedy poniesie odpowiedzialność za usiłowanie?",
+      "choices": [
+        "Tylko wtedy, gdy ustawa tak stanowi.",
+        "Zawsze, bo każde usiłowanie wykroczenia jest karalne.",
+        "Nigdy, bo kodeks nie przewiduje karalności usiłowania.",
+        "Tylko gdy sprawca działał publicznie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Odpowiedzialność za usiłowanie wykroczenia zachodzi tylko wtedy, gdy ustawa tak stanowi.",
+      "source": "Art. 11 § 1-2"
+    },
+    {
+      "id": "kw-014",
+      "type": "single_choice",
+      "category": "Zasady odpowiedzialności",
+      "difficulty": "medium",
+      "question": "Sprawca zmierzał bezpośrednio do popełnienia wykroczenia, lecz dobrowolnie odstąpił od czynu. Które stwierdzenie jest prawidłowe?",
+      "choices": [
+        "Nie podlega karze za usiłowanie.",
+        "Zawsze podlega karze za usiłowanie w pełnym wymiarze.",
+        "Odpowiada tylko wtedy, gdy czyn miał miejsce publicznie.",
+        "Można mu wymierzyć wyłącznie naganę."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dobrowolne odstąpienie od czynu albo zapobieżenie skutkowi wyłącza karalność usiłowania.",
+      "source": "Art. 11 § 4"
+    },
+    {
+      "id": "kw-015",
+      "type": "single_choice",
+      "category": "Zasady odpowiedzialności",
+      "difficulty": "medium",
+      "question": "Osoba nakłania inną osobę do popełnienia wykroczenia. Kiedy odpowiada za podżeganie?",
+      "choices": [
+        "Gdy ustawa tak stanowi i sprawca dokonał czynu zabronionego.",
+        "Zawsze już od samego nakłaniania, niezależnie od przepisu szczególnego.",
+        "Tylko wtedy, gdy nakłanianie miało formę pisemną.",
+        "Nigdy, bo podżeganie dotyczy tylko przestępstw."
+      ],
+      "correctIndex": 0,
+      "explanation": "Odpowiedzialność za podżeganie zachodzi wtedy, gdy ustawa tak stanowi i tylko w razie dokonania czynu przez sprawcę.",
+      "source": "Art. 12 oraz art. 14 § 1"
+    },
+    {
+      "id": "kw-016",
+      "type": "single_choice",
+      "category": "Zasady odpowiedzialności",
+      "difficulty": "medium",
+      "question": "Osoba dostarczyła narzędzie, aby ułatwić innej osobie popełnienie wykroczenia. Kiedy może odpowiadać za pomocnictwo?",
+      "choices": [
+        "Gdy działała w zamiarze ułatwienia czynu, ustawa przewiduje taką odpowiedzialność i sprawca dokonał czynu.",
+        "Zawsze, nawet gdy sprawca nie popełnił czynu.",
+        "Tylko wtedy, gdy narzędzie było niebezpieczne.",
+        "Tylko wtedy, gdy pomocnik osiągnął korzyść majątkową."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pomocnictwo wymaga zamiaru ułatwienia czynu, a odpowiedzialność zachodzi, gdy ustawa tak stanowi i czyn został dokonany.",
+      "source": "Art. 13 oraz art. 14 § 1"
+    },
+    {
+      "id": "kw-017",
+      "type": "single_choice",
+      "category": "Zasady odpowiedzialności",
+      "difficulty": "easy",
+      "question": "Osoba odpiera bezpośredni bezprawny zamach na dobro chronione prawem. W trakcie obrony formalnie narusza zakaz wykroczeniowy. Jak należy ocenić tę sytuację?",
+      "choices": [
+        "Nie popełnia wykroczenia, jeżeli działała w obronie koniecznej.",
+        "Zawsze odpowiada, bo obrona konieczna dotyczy tylko przestępstw.",
+        "Odpowiada, ale kara musi być obniżona o połowę.",
+        "Odpowiada tylko na żądanie pokrzywdzonego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nie popełnia wykroczenia ten, kto w obronie koniecznej odpiera bezpośredni bezprawny zamach na jakiekolwiek dobro chronione prawem.",
+      "source": "Art. 15"
+    },
+    {
+      "id": "kw-018",
+      "type": "single_choice",
+      "category": "Zasady odpowiedzialności",
+      "difficulty": "medium",
+      "question": "Osoba niszczy cudzą tanią rzecz, aby odwrócić bezpośrednie niebezpieczeństwo grożące życiu człowieka, którego nie można było inaczej uniknąć. Dobro poświęcone nie ma wartości oczywiście większej niż ratowane. Która ocena jest właściwa?",
+      "choices": [
+        "Może działać w stanie wyższej konieczności i nie popełniać wykroczenia.",
+        "Zawsze popełnia wykroczenie, bo cudze mienie jest chronione bezwzględnie.",
+        "Odpowiada tylko wtedy, gdy działała nieumyślnie.",
+        "Odpowiada za wykroczenie chuligańskie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Stan wyższej konieczności wyłącza wykroczenie, gdy chodzi o uchylenie bezpośredniego niebezpieczeństwa, którego nie można inaczej uniknąć, a dobro poświęcone nie jest oczywiście większej wartości niż ratowane.",
+      "source": "Art. 16 § 1"
+    },
+    {
+      "id": "kw-019",
+      "type": "single_choice",
+      "category": "Zasady odpowiedzialności",
+      "difficulty": "hard",
+      "question": "Sprawca z powodu choroby psychicznej nie mógł w czasie czynu rozpoznać jego znaczenia ani pokierować postępowaniem. Nie doprowadził się sam do takiego stanu przez alkohol lub odurzenie. Co wynika z kodeksu?",
+      "choices": [
+        "Nie popełnia wykroczenia.",
+        "Popełnia wykroczenie, ale zawsze otrzymuje naganę.",
+        "Popełnia wykroczenie, lecz kara jest obowiązkowo zawieszana.",
+        "Odpowiada jak każdy sprawca, bo stan psychiczny nie ma znaczenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nie popełnia wykroczenia ten, kto z powodu wskazanych zakłóceń psychicznych nie mógł rozpoznać znaczenia czynu lub pokierować postępowaniem, o ile nie zachodzi wyłączenie dotyczące zawinionego odurzenia.",
+      "source": "Art. 17 § 1 i § 3"
+    },
+    {
+      "id": "kw-020",
+      "type": "single_choice",
+      "category": "Zasady odpowiedzialności",
+      "difficulty": "medium",
+      "question": "Sprawca sam wprawił się w stan nietrzeźwości, który ograniczył jego poczytalność, choć mógł to przewidzieć. Czy może powołać się na tę ograniczoną poczytalność w celu wyłączenia lub złagodzenia odpowiedzialności?",
+      "choices": [
+        "Nie, przepisy o niepoczytalności i znacznym ograniczeniu poczytalności nie mają wtedy zastosowania.",
+        "Tak, zawsze wyłącza to odpowiedzialność.",
+        "Tak, ale tylko przy wykroczeniach drogowych.",
+        "Tak, jeżeli nie doszło do szkody majątkowej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Reguł dotyczących niepoczytalności i znacznego ograniczenia poczytalności nie stosuje się, gdy sprawca przewidywał albo mógł przewidzieć stan nietrzeźwości lub odurzenia powodujący takie skutki.",
+      "source": "Art. 17 § 3"
+    },
+    {
+      "id": "kw-021",
+      "type": "single_choice",
+      "category": "Kary i środki karne",
+      "difficulty": "easy",
+      "question": "Organ rozważa rodzaj kary za wykroczenie. Który zestaw zawiera wyłącznie kary przewidziane w kodeksie?",
+      "choices": [
+        "Areszt, ograniczenie wolności, grzywna i nagana.",
+        "Pozbawienie wolności, dozór elektroniczny, grzywna i prace społeczne.",
+        "Areszt, zakaz prowadzenia pojazdów, przepadek i nawiązka.",
+        "Upomnienie, mediacja, zakaz kontaktu i dozór kuratora."
+      ],
+      "correctIndex": 0,
+      "explanation": "Karami za wykroczenia są areszt, ograniczenie wolności, grzywna i nagana. Zakaz prowadzenia pojazdów czy przepadek są środkami karnymi, nie karami.",
+      "source": "Art. 18"
+    },
+    {
+      "id": "kw-022",
+      "type": "single_choice",
+      "category": "Kary i środki karne",
+      "difficulty": "easy",
+      "question": "Sąd chce wymierzyć karę aresztu za wykroczenie. Jaki jest podstawowy zakres tej kary?",
+      "choices": [
+        "Od 5 do 30 dni.",
+        "Od 1 do 12 miesięcy.",
+        "Od 24 godzin do 90 dni.",
+        "Od 7 do 60 dni."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kara aresztu trwa najkrócej 5 dni, najdłużej 30 dni i wymierza się ją w dniach.",
+      "source": "Art. 19"
+    },
+    {
+      "id": "kw-023",
+      "type": "single_choice",
+      "category": "Kary i środki karne",
+      "difficulty": "easy",
+      "question": "Ukarany odbywa karę ograniczenia wolności. Który obowiązek wynika bezpośrednio z tej kary?",
+      "choices": [
+        "Nie może bez zgody sądu zmieniać miejsca stałego pobytu.",
+        "Musi codziennie stawiać się w jednostce Policji.",
+        "Musi zapłacić każdemu pokrzywdzonemu nawiązkę.",
+        "Ma obowiązek noszenia dozoru elektronicznego."
+      ],
+      "correctIndex": 0,
+      "explanation": "W czasie kary ograniczenia wolności ukarany nie może bez zgody sądu zmieniać miejsca stałego pobytu, wykonuje pracę społeczną i udziela wyjaśnień dotyczących przebiegu kary.",
+      "source": "Art. 20 § 2"
+    },
+    {
+      "id": "kw-024",
+      "type": "single_choice",
+      "category": "Kary i środki karne",
+      "difficulty": "medium",
+      "question": "Osobie niezatrudnionej wymierzono ograniczenie wolności z obowiązkiem pracy społecznej. Jaki wymiar takiej pracy mieści się w kodeksowym zakresie?",
+      "choices": [
+        "Od 20 do 40 godzin.",
+        "Od 5 do 10 godzin.",
+        "Od 60 do 120 godzin.",
+        "Dokładnie 100 godzin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nieodpłatna kontrolowana praca na cele społeczne przy ograniczeniu wolności wykonywana jest w wymiarze od 20 do 40 godzin.",
+      "source": "Art. 21 § 1"
+    },
+    {
+      "id": "kw-025",
+      "type": "single_choice",
+      "category": "Kary i środki karne",
+      "difficulty": "medium",
+      "question": "Organ orzekający wobec osoby zatrudnionej zamiast pracy społecznej rozważa potrącenie z wynagrodzenia. Jaki zakres potrącenia przewiduje kodeks?",
+      "choices": [
+        "Od 10 do 25 procent wynagrodzenia.",
+        "Od 1 do 5 procent wynagrodzenia.",
+        "Od 30 do 50 procent wynagrodzenia.",
+        "Zawsze dokładnie 20 procent wynagrodzenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wobec osoby zatrudnionej można zamiast pracy społecznej orzec potrącenie od 10 do 25 procent wynagrodzenia.",
+      "source": "Art. 21 § 2"
+    },
+    {
+      "id": "kw-026",
+      "type": "single_choice",
+      "category": "Kary i środki karne",
+      "difficulty": "medium",
+      "question": "Ukarany uchyla się od odbywania kary ograniczenia wolności. Jak przelicza się zastępczą karę aresztu?",
+      "choices": [
+        "Jeden dzień zastępczego aresztu odpowiada dwóm dniom ograniczenia wolności pozostałego do wykonania.",
+        "Jeden dzień zastępczego aresztu odpowiada jednemu miesiącowi ograniczenia wolności.",
+        "Dwa dni zastępczego aresztu odpowiadają jednemu dniowi ograniczenia wolności.",
+        "Zawsze orzeka się 30 dni aresztu bez przeliczenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy zarządzeniu zastępczej kary aresztu przyjmuje się, że jeden dzień aresztu odpowiada dwóm dniom kary ograniczenia wolności.",
+      "source": "Art. 23 § 1"
+    },
+    {
+      "id": "kw-027",
+      "type": "single_choice",
+      "category": "Kary i środki karne",
+      "difficulty": "easy",
+      "question": "Jaka jest podstawowa wysokość grzywny za wykroczenie, jeżeli ustawa nie stanowi inaczej?",
+      "choices": [
+        "Od 20 do 5000 złotych.",
+        "Od 100 do 10000 złotych.",
+        "Od 10 do 1000 złotych.",
+        "Od 500 do 30000 złotych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Grzywnę wymierza się od 20 do 5000 złotych, chyba że ustawa stanowi inaczej.",
+      "source": "Art. 24 § 1"
+    },
+    {
+      "id": "kw-028",
+      "type": "single_choice",
+      "category": "Kary i środki karne",
+      "difficulty": "medium",
+      "question": "Sprawca popełnił wykroczenie w celu osiągnięcia korzyści majątkowej, a wymierzono mu areszt. Co należy rozważyć obok aresztu?",
+      "choices": [
+        "Orzeczenie grzywny, chyba że nie byłoby celowe.",
+        "Obowiązkowe zawieszenie aresztu.",
+        "Automatyczne odstąpienie od środka karnego.",
+        "Wyłącznie pouczenie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli za wykroczenie popełnione w celu osiągnięcia korzyści majątkowej wymierzono areszt, orzeka się obok tej kary grzywnę, chyba że nie byłoby to celowe.",
+      "source": "Art. 24 § 2"
+    },
+    {
+      "id": "kw-029",
+      "type": "single_choice",
+      "category": "Kary i środki karne",
+      "difficulty": "easy",
+      "question": "Organ wymierza grzywnę. Której okoliczności powinien użyć przy ocenie jej wysokości?",
+      "choices": [
+        "Dochodów, warunków osobistych i rodzinnych, stosunków majątkowych oraz możliwości zarobkowych sprawcy.",
+        "Wyłącznie wieku sprawcy.",
+        "Wyłącznie wartości szkody.",
+        "Wyłącznie stanowiska pokrzywdzonego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy wymiarze grzywny bierze się pod uwagę sytuację dochodową, osobistą, rodzinną, majątkową i zarobkową sprawcy.",
+      "source": "Art. 24 § 3"
+    },
+    {
+      "id": "kw-030",
+      "type": "single_choice",
+      "category": "Kary i środki karne",
+      "difficulty": "medium",
+      "question": "Egzekucja grzywny okazała się bezskuteczna. Sąd zamienia ją na pracę społecznie użyteczną. Jaki jest możliwy czas trwania tej pracy?",
+      "choices": [
+        "Od tygodnia do 2 miesięcy.",
+        "Od jednego dnia do 7 dni.",
+        "Od 3 do 12 miesięcy.",
+        "Zawsze 30 dni."
+      ],
+      "correctIndex": 0,
+      "explanation": "Praca społecznie użyteczna po zamianie grzywny trwa najkrócej tydzień, najdłużej 2 miesiące.",
+      "source": "Art. 25 § 1"
+    },
+    {
+      "id": "kw-031",
+      "type": "single_choice",
+      "category": "Kary i środki karne",
+      "difficulty": "hard",
+      "question": "Grzywna nie została wyegzekwowana, ukarany odmawia pracy społecznie użytecznej, a sąd zarządza zastępczą karę aresztu. Jaka górna granica takiej kary obowiązuje?",
+      "choices": [
+        "Nie może przekroczyć 30 dni aresztu.",
+        "Nie może przekroczyć 90 dni aresztu.",
+        "Nie może przekroczyć 6 miesięcy aresztu.",
+        "Nie ma ustawowej górnej granicy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zastępcza kara aresztu za niewykonaną grzywnę nie może przekroczyć 30 dni.",
+      "source": "Art. 25 § 3"
+    },
+    {
+      "id": "kw-032",
+      "type": "single_choice",
+      "category": "Kary i środki karne",
+      "difficulty": "medium",
+      "question": "Warunki osobiste sprawcy uniemożliwiają odbycie aresztu. Która decyzja jest zgodna z kodeksem?",
+      "choices": [
+        "Nie można wymierzyć kary aresztu ani zastępczej kary aresztu.",
+        "Należy wymierzyć areszt, ale w najniższym wymiarze.",
+        "Należy wymierzyć areszt z obowiązkowym zawieszeniem.",
+        "Można wymierzyć tylko zastępczy areszt, ale nie areszt zasadniczy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nie można wymierzyć aresztu ani zastępczego aresztu, jeżeli warunki osobiste sprawcy uniemożliwiają odbycie tej kary.",
+      "source": "Art. 26"
+    },
+    {
+      "id": "kw-033",
+      "type": "single_choice",
+      "category": "Kary i środki karne",
+      "difficulty": "medium",
+      "question": "Ukarany odbywa zastępczą karę aresztu za niezapłaconą grzywnę. Chce się od niej uwolnić. Co może zrobić?",
+      "choices": [
+        "Wpłacić kwotę pieniężną przypadającą jeszcze do uiszczenia.",
+        "Złożyć oświadczenie, że nie popełni już wykroczenia.",
+        "Zażądać automatycznego umorzenia po 7 dniach.",
+        "Wskazać osobę, która odbędzie karę za niego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Od zastępczej kary aresztu lub wykonywania pracy po zamianie grzywny sprawca może być uwolniony w każdym czasie przez wpłatę kwoty pozostałej do uiszczenia.",
+      "source": "Art. 27 § 1"
+    },
+    {
+      "id": "kw-034",
+      "type": "single_choice",
+      "category": "Kary i środki karne",
+      "difficulty": "easy",
+      "question": "Który środek jest środkiem karnym, a nie karą?",
+      "choices": [
+        "Zakaz prowadzenia pojazdów.",
+        "Areszt.",
+        "Grzywna.",
+        "Nagana."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zakaz prowadzenia pojazdów jest środkiem karnym. Areszt, grzywna i nagana są karami.",
+      "source": "Art. 18 oraz art. 28 § 1 pkt 1"
+    },
+    {
+      "id": "kw-035",
+      "type": "single_choice",
+      "category": "Kary i środki karne",
+      "difficulty": "medium",
+      "question": "Organ chce orzec środek karny. Kiedy może to zrobić?",
+      "choices": [
+        "Gdy środek jest przewidziany w przepisie szczególnym, a obowiązkowo gdy przepis szczególny tak stanowi.",
+        "Zawsze przy każdym wykroczeniu, według uznania organu.",
+        "Wyłącznie przy wykroczeniach drogowych.",
+        "Tylko na zgodny wniosek sprawcy i pokrzywdzonego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Środki karne można orzec, gdy są przewidziane w przepisie szczególnym, a orzeka się je, gdy przepis szczególny tak stanowi.",
+      "source": "Art. 28 § 2"
+    },
+    {
+      "id": "kw-036",
+      "type": "single_choice",
+      "category": "Kary i środki karne",
+      "difficulty": "easy",
+      "question": "Sąd orzeka zakaz prowadzenia pojazdów za wykroczenie. Jaki jest ogólny zakres czasu trwania tego zakazu?",
+      "choices": [
+        "Od 6 miesięcy do 3 lat.",
+        "Od 1 miesiąca do 5 lat.",
+        "Od 7 dni do roku.",
+        "Od 3 miesięcy do 10 lat."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zakaz prowadzenia pojazdów wymierza się w miesiącach lub latach na okres od 6 miesięcy do 3 lat.",
+      "source": "Art. 29 § 1"
+    },
+    {
+      "id": "kw-037",
+      "type": "single_choice",
+      "category": "Kary i środki karne",
+      "difficulty": "medium",
+      "question": "Sprawcy zatrzymano prawo jazdy przed prawomocnym orzeczeniem zakazu prowadzenia pojazdów. Jak traktuje się okres zatrzymania dokumentu?",
+      "choices": [
+        "Zalicza się go na poczet zakazu prowadzenia pojazdów.",
+        "Nie ma on znaczenia dla zakazu.",
+        "Zawsze podwaja okres zakazu.",
+        "Powoduje automatyczne uchylenie zakazu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Na poczet zakazu prowadzenia pojazdów zalicza się okres zatrzymania prawa jazdy lub innego dokumentu uprawniającego do prowadzenia pojazdu.",
+      "source": "Art. 29 § 4"
+    },
+    {
+      "id": "kw-038",
+      "type": "single_choice",
+      "category": "Kary i środki karne",
+      "difficulty": "medium",
+      "question": "Przedmiot służył do popełnienia wykroczenia, ale nie był własnością sprawcy. Czy przepadek takiego przedmiotu jest możliwy na zasadach ogólnych?",
+      "choices": [
+        "Tak, ale tylko wtedy, gdy przepis szczególny tak stanowi.",
+        "Tak, zawsze niezależnie od przepisu szczególnego.",
+        "Nie, nigdy nie można orzec przepadku przedmiotów nienależących do sprawcy.",
+        "Tak, ale wyłącznie przy wykroczeniach drogowych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przepadek przedmiotów niebędących własnością sprawcy można orzec tylko wtedy, gdy przepis szczególny tak stanowi.",
+      "source": "Art. 30 § 2"
+    },
+    {
+      "id": "kw-039",
+      "type": "single_choice",
+      "category": "Kary i środki karne",
+      "difficulty": "easy",
+      "question": "Organ rozważa podanie orzeczenia o ukaraniu do publicznej wiadomości. Kiedy ten środek można orzec?",
+      "choices": [
+        "Gdy może to mieć znaczenie wychowawcze.",
+        "Zawsze przy każdej grzywnie.",
+        "Tylko wtedy, gdy wykroczenie popełniono w ruchu drogowym.",
+        "Wyłącznie na wniosek mediów."
+      ],
+      "correctIndex": 0,
+      "explanation": "Podanie orzeczenia do publicznej wiadomości orzeka się wtedy, gdy może to mieć znaczenie wychowawcze.",
+      "source": "Art. 31 § 1"
+    },
+    {
+      "id": "kw-040",
+      "type": "single_choice",
+      "category": "Wymiar kary",
+      "difficulty": "medium",
+      "question": "Organ wymierza karę za wykroczenie. Które kryterium powinien brać pod uwagę?",
+      "choices": [
+        "Stopień społecznej szkodliwości czynu oraz cele kary wobec sprawcy i społeczeństwa.",
+        "Wyłącznie liczbę świadków zdarzenia.",
+        "Wyłącznie stanowisko obwinionego.",
+        "Wyłącznie wysokość mandatu z taryfikatora."
+      ],
+      "correctIndex": 0,
+      "explanation": "Organ wymierza karę w granicach ustawy według uznania, oceniając stopień społecznej szkodliwości oraz cele społecznego oddziaływania, zapobiegawcze i wychowawcze.",
+      "source": "Art. 33 § 1"
+    },
+    {
+      "id": "kw-041",
+      "type": "single_choice",
+      "category": "Wymiar kary",
+      "difficulty": "easy",
+      "question": "Sprawca po wykroczeniu starał się usunąć jego szkodliwe następstwa. Jak można potraktować tę okoliczność?",
+      "choices": [
+        "Jako okoliczność łagodzącą.",
+        "Jako okoliczność obciążającą.",
+        "Jako przesłankę obowiązkowego aresztu.",
+        "Jako okoliczność bez znaczenia prawnego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Staranie się sprawcy o usunięcie szkodliwych następstw czynu jest przykładową okolicznością łagodzącą.",
+      "source": "Art. 33 § 3 pkt 5"
+    },
+    {
+      "id": "kw-042",
+      "type": "single_choice",
+      "category": "Wymiar kary",
+      "difficulty": "easy",
+      "question": "Sprawca popełnił wykroczenie pod wpływem alkoholu. Jak kodeks przykładowo kwalifikuje tę okoliczność przy wymiarze kary?",
+      "choices": [
+        "Jako okoliczność obciążającą.",
+        "Jako okoliczność łagodzącą.",
+        "Jako przesłankę braku winy.",
+        "Jako okoliczność zawsze wyłączającą środek karny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Działanie pod wpływem alkoholu, środka odurzającego lub podobnej substancji albo środka jest przykładową okolicznością obciążającą.",
+      "source": "Art. 33 § 4 pkt 7"
+    },
+    {
+      "id": "kw-043",
+      "type": "single_choice",
+      "category": "Wymiar kary",
+      "difficulty": "medium",
+      "question": "Ustawa daje wybór między aresztem a inną karą. Czyn popełniono nieumyślnie. Czy można orzec areszt na podstawie ogólnej reguły wyboru kary?",
+      "choices": [
+        "Nie, areszt można orzec tylko wtedy, gdy czyn popełniono umyślnie i przemawiają za tym dodatkowe przesłanki.",
+        "Tak, areszt można orzec przy każdym wykroczeniu nieumyślnym.",
+        "Tak, jeżeli sprawca nie przeprosił pokrzywdzonego.",
+        "Nie, bo areszt w ogóle nie jest karą za wykroczenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Gdy ustawa pozwala wybrać między aresztem a inną karą, areszt można orzec tylko za czyn umyślny i przy spełnieniu dodatkowych przesłanek dotyczących wagi czynu, demoralizacji lub szczególnego potępienia sposobu działania.",
+      "source": "Art. 35"
+    },
+    {
+      "id": "kw-044",
+      "type": "single_choice",
+      "category": "Wymiar kary",
+      "difficulty": "easy",
+      "question": "Sprawca dopuścił się wykroczenia o charakterze chuligańskim. Czy można orzec wobec niego naganę?",
+      "choices": [
+        "Nie, nagany nie można orzec za wykroczenie o charakterze chuligańskim.",
+        "Tak, nagana jest wtedy obowiązkowa.",
+        "Tak, ale tylko obok aresztu.",
+        "Tak, jeżeli sprawca działał pod wpływem alkoholu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nagany nie można orzec za wykroczenie o charakterze chuligańskim.",
+      "source": "Art. 36 § 2"
+    },
+    {
+      "id": "kw-045",
+      "type": "single_choice",
+      "category": "Wymiar kary",
+      "difficulty": "medium",
+      "question": "Sprawca był co najmniej dwukrotnie ukarany za podobne wykroczenia umyślne i w ciągu dwóch lat od ostatniego ukarania popełnia ponownie podobne wykroczenie umyślne. Co kodeks pozwala zrobić?",
+      "choices": [
+        "Można wymierzyć karę aresztu, choćby wykroczenie było zagrożone łagodniejszą karą.",
+        "Należy obowiązkowo odstąpić od wymierzenia kary.",
+        "Można wymierzyć wyłącznie naganę.",
+        "Nie wolno brać wcześniejszych ukarań pod uwagę."
+      ],
+      "correctIndex": 0,
+      "explanation": "W warunkach powrotu do podobnych wykroczeń umyślnych można wymierzyć karę aresztu, choćby dane wykroczenie było zagrożone łagodniejszą karą.",
+      "source": "Art. 38 § 1"
+    },
+    {
+      "id": "kw-046",
+      "type": "single_choice",
+      "category": "Wymiar kary",
+      "difficulty": "hard",
+      "question": "Kierujący pojazdem mechanicznym ponownie w ciągu dwóch lat popełnia to samo wskazane w kodeksie poważne wykroczenie drogowe. Jaką minimalną grzywnę należy wymierzyć?",
+      "choices": [
+        "Nie niższą niż dwukrotność dolnej granicy ustawowego zagrożenia.",
+        "Zawsze 500 złotych.",
+        "Nie niższą niż połowa dolnej granicy ustawowego zagrożenia.",
+        "Dowolną, bo wcześniejsze ukaranie nie wpływa na wysokość grzywny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy ponownym popełnieniu tego samego wskazanego wykroczenia drogowego w ciągu dwóch lat wymierza się grzywnę nie niższą niż dwukrotność dolnej granicy ustawowego zagrożenia.",
+      "source": "Art. 38 § 2"
+    },
+    {
+      "id": "kw-047",
+      "type": "single_choice",
+      "category": "Wymiar kary",
+      "difficulty": "medium",
+      "question": "Sprawa zasługuje na szczególne uwzględnienie ze względu na okoliczności czynu i właściwości sprawcy. Jakie rozwiązanie może zastosować organ?",
+      "choices": [
+        "Nadzwyczajnie złagodzić karę albo odstąpić od wymierzenia kary lub środka karnego.",
+        "Zawsze wymierzyć areszt.",
+        "Zawsze wymierzyć zakaz prowadzenia pojazdów.",
+        "Umorzyć sprawę bez podstawy prawnej."
+      ],
+      "correctIndex": 0,
+      "explanation": "W wypadkach szczególnych można zastosować nadzwyczajne złagodzenie albo odstąpić od wymierzenia kary lub środka karnego.",
+      "source": "Art. 39 § 1"
+    },
+    {
+      "id": "kw-048",
+      "type": "single_choice",
+      "category": "Środki wychowawcze",
+      "difficulty": "easy",
+      "question": "Policjant ocenia drobne wykroczenie i rozważa reakcję wychowawczą zamiast kierowania sprawy do ukarania. Które działanie mieści się w kodeksowym katalogu takich środków?",
+      "choices": [
+        "Pouczenie, zwrócenie uwagi lub ostrzeżenie.",
+        "Tymczasowe aresztowanie.",
+        "Przepadek mienia bez orzeczenia.",
+        "Zakaz kontaktowania się z pokrzywdzonym."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wobec sprawcy czynu można poprzestać na pouczeniu, zwróceniu uwagi, ostrzeżeniu lub innych środkach oddziaływania wychowawczego.",
+      "source": "Art. 41"
+    },
+    {
+      "id": "kw-049",
+      "type": "single_choice",
+      "category": "Warunkowe zawieszenie",
+      "difficulty": "medium",
+      "question": "Sąd rozważa warunkowe zawieszenie wykonania kary aresztu za wykroczenie. Jaki okres próby mieści się w granicach kodeksu?",
+      "choices": [
+        "Od 6 miesięcy do roku.",
+        "Od 1 roku do 3 lat.",
+        "Od 3 miesięcy do 5 lat.",
+        "Dokładnie 2 lata."
+      ],
+      "correctIndex": 0,
+      "explanation": "Warunkowe zawieszenie wykonania kary aresztu następuje na okres próby nie krótszy niż 6 miesięcy i nie dłuższy niż rok.",
+      "source": "Art. 42 § 2"
+    },
+    {
+      "id": "kw-050",
+      "type": "single_choice",
+      "category": "Warunkowe zawieszenie",
+      "difficulty": "medium",
+      "question": "Wykroczeniem wyrządzono szkodę w mieniu. Kiedy można warunkowo zawiesić wykonanie kary aresztu?",
+      "choices": [
+        "Tylko wtedy, gdy szkoda została w całości naprawiona.",
+        "Zawsze, niezależnie od naprawienia szkody.",
+        "Tylko wtedy, gdy pokrzywdzony nie jest osobą fizyczną.",
+        "Nigdy przy szkodzie w mieniu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli wykroczeniem wyrządzono szkodę w mieniu, warunkowe zawieszenie wykonania kary może być orzeczone tylko po całkowitym naprawieniu szkody.",
+      "source": "Art. 42 § 3"
+    },
+    {
+      "id": "kw-051",
+      "type": "single_choice",
+      "category": "Warunkowe zawieszenie",
+      "difficulty": "medium",
+      "question": "Ukarany w okresie próby popełnił podobne do poprzedniego przestępstwo lub wykroczenie. Co powinien zrobić sąd, który orzekł areszt?",
+      "choices": [
+        "Zarządzić wykonanie kary.",
+        "Zawsze uznać ukaranie za niebyłe.",
+        "Obowiązkowo zamienić karę na naganę.",
+        "Nie podejmować żadnych czynności do końca próby."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sąd zarządza wykonanie kary aresztu, jeżeli ukarany w okresie próby popełnił podobne przestępstwo lub wykroczenie.",
+      "source": "Art. 44 § 1"
+    },
+    {
+      "id": "kw-052",
+      "type": "single_choice",
+      "category": "Przedawnienie i zatarcie",
+      "difficulty": "easy",
+      "question": "Od popełnienia wykroczenia minął rok i w tym czasie nie wszczęto postępowania. Co do zasady, jaki jest skutek?",
+      "choices": [
+        "Karalność wykroczenia ustaje.",
+        "Termin przedawnienia wydłuża się automatycznie do 5 lat.",
+        "Można orzec wyłącznie naganę.",
+        "Można wszcząć postępowanie bez ograniczeń czasowych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Karalność wykroczenia ustaje, jeżeli od czasu jego popełnienia upłynął rok, chyba że w tym czasie wszczęto postępowanie.",
+      "source": "Art. 45 § 1"
+    },
+    {
+      "id": "kw-053",
+      "type": "single_choice",
+      "category": "Przedawnienie i zatarcie",
+      "difficulty": "medium",
+      "question": "Postępowanie w sprawie wykroczenia wszczęto przed upływem roku od czynu. Kiedy ustaje karalność według reguły kodeksowej?",
+      "choices": [
+        "Z upływem 2 lat od zakończenia rocznego okresu liczonego od popełnienia czynu.",
+        "Zawsze po 6 miesiącach od wszczęcia postępowania.",
+        "Dopiero po 10 latach od czynu.",
+        "Nigdy, jeśli postępowanie zostało wszczęte."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli w ciągu roku od czynu wszczęto postępowanie, karalność ustaje z upływem 2 lat od zakończenia tego rocznego okresu.",
+      "source": "Art. 45 § 1"
+    },
+    {
+      "id": "kw-054",
+      "type": "single_choice",
+      "category": "Przedawnienie i zatarcie",
+      "difficulty": "easy",
+      "question": "Orzeczona kara za wykroczenie uprawomocniła się, ale przez 3 lata jej nie wykonano. Co wynika z kodeksu?",
+      "choices": [
+        "Kara lub środek karny nie podlega wykonaniu.",
+        "Kara podlega wykonaniu bez ograniczeń czasowych.",
+        "Kara zamienia się automatycznie na grzywnę.",
+        "Kara musi być wykonana w podwójnej wysokości."
+      ],
+      "correctIndex": 0,
+      "explanation": "Orzeczona kara lub środek karny nie podlega wykonaniu, jeżeli od uprawomocnienia rozstrzygnięcia upłynęły 3 lata.",
+      "source": "Art. 45 § 3"
+    },
+    {
+      "id": "kw-055",
+      "type": "single_choice",
+      "category": "Przedawnienie i zatarcie",
+      "difficulty": "medium",
+      "question": "Ukarany wykonał karę za wykroczenie. Po jakim czasie ukaranie uważa się za niebyłe, jeżeli nie zachodzą dodatkowe przeszkody?",
+      "choices": [
+        "Po upływie 2 lat od wykonania, darowania albo przedawnienia wykonania kary.",
+        "Po miesiącu od wykonania kary.",
+        "Po 5 latach od popełnienia czynu.",
+        "Dopiero po śmierci ukaranego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ukaranie uważa się za niebyłe po upływie 2 lat od wykonania, darowania lub przedawnienia wykonania kary.",
+      "source": "Art. 46 § 1"
+    },
+    {
+      "id": "kw-056",
+      "type": "single_choice",
+      "category": "Definicje kodeksowe",
+      "difficulty": "easy",
+      "question": "Policjant ocenia, czy dane wykroczenie ma charakter chuligański. Który element jest wymagany?",
+      "choices": [
+        "Sprawca działa publicznie, bez powodu lub z oczywiście błahego powodu, okazując rażące lekceważenie podstawowych zasad porządku prawnego.",
+        "Sprawca działa wyłącznie nocą.",
+        "Sprawca zawsze działa w celu osiągnięcia korzyści majątkowej.",
+        "Sprawca musi użyć przemocy wobec funkcjonariusza."
+      ],
+      "correctIndex": 0,
+      "explanation": "Charakter chuligański wymaga między innymi publicznego działania bez powodu lub z oczywiście błahego powodu i okazania rażącego lekceważenia podstawowych zasad porządku prawnego.",
+      "source": "Art. 47 § 5"
+    },
+    {
+      "id": "kw-057",
+      "type": "single_choice",
+      "category": "Definicje kodeksowe",
+      "difficulty": "medium",
+      "question": "Funkcjonariusz ocenia stopień społecznej szkodliwości czynu. Która okoliczność należy do katalogu kryteriów oceny?",
+      "choices": [
+        "Rodzaj i charakter naruszonego dobra oraz rozmiar wyrządzonej lub grożącej szkody.",
+        "Wyłącznie wiek osoby zgłaszającej interwencję.",
+        "Wyłącznie to, czy sprawca przyjął mandat.",
+        "Wyłącznie liczba policjantów na miejscu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy ocenie społecznej szkodliwości bierze się pod uwagę między innymi rodzaj naruszonego dobra, rozmiar szkody, sposób i okoliczności czynu, wagę naruszonych obowiązków, zamiar i motywację.",
+      "source": "Art. 47 § 6"
+    },
+    {
+      "id": "kw-058",
+      "type": "single_choice",
+      "category": "Porządek publiczny",
+      "difficulty": "easy",
+      "question": "Osoba w miejscu publicznym demonstracyjnie okazuje lekceważenie Rzeczypospolitej Polskiej. Która kwalifikacja odpowiada kodeksowi?",
+      "choices": [
+        "Może odpowiadać za wykroczenie przeciwko porządkowi i spokojowi publicznemu.",
+        "Nie odpowiada, bo takie zachowanie nigdy nie jest wykroczeniem.",
+        "Odpowiada tylko wtedy, gdy wyrządzono szkodę majątkową.",
+        "Odpowiada wyłącznie na żądanie pokrzywdzonego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Publiczne demonstracyjne okazywanie lekceważenia Narodowi Polskiemu, Rzeczypospolitej Polskiej lub jej konstytucyjnym organom stanowi wykroczenie.",
+      "source": "Art. 49 § 1"
+    },
+    {
+      "id": "kw-059",
+      "type": "single_choice",
+      "category": "Porządek publiczny",
+      "difficulty": "medium",
+      "question": "Osoba przekracza granicę Rzeczypospolitej Polskiej wbrew przepisom. Czy samo usiłowanie takiego czynu może być karalne?",
+      "choices": [
+        "Tak, usiłowanie i pomocnictwo są karalne.",
+        "Nie, karalne jest tylko dokonanie.",
+        "Tak, ale tylko przy użyciu przemocy.",
+        "Nie, chyba że czyn popełniono w grupie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy wykroczeniu polegającym na przekroczeniu granicy wbrew przepisom karalne są także usiłowanie i pomocnictwo.",
+      "source": "Art. 49a § 1-2"
+    },
+    {
+      "id": "kw-060",
+      "type": "single_choice",
+      "category": "Porządek publiczny",
+      "difficulty": "easy",
+      "question": "Uczestnik zbiegowiska publicznego nie opuszcza go mimo wezwania właściwego organu. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Stanowi wykroczenie zagrożone aresztem albo grzywną.",
+        "Nie stanowi wykroczenia, jeśli osoba nie była organizatorem.",
+        "Stanowi wykroczenie tylko wtedy, gdy doszło do szkody w mieniu.",
+        "Jest karalne wyłącznie na żądanie właściciela terenu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nieopuszczenie zbiegowiska publicznego mimo wezwania właściwego organu stanowi wykroczenie.",
+      "source": "Art. 50"
+    },
+    {
+      "id": "kw-061",
+      "type": "single_choice",
+      "category": "Porządek publiczny",
+      "difficulty": "medium",
+      "question": "Osoba ma w miejscu publicznym maczetę, a okoliczności wskazują na zamiar użycia jej do popełnienia przestępstwa. Co przewiduje kodeks?",
+      "choices": [
+        "Odpowiedzialność za wykroczenie oraz przepadek takiego przedmiotu, nawet gdy nie jest własnością sprawcy.",
+        "Brak odpowiedzialności, dopóki przedmiot nie zostanie użyty.",
+        "Wyłącznie pouczenie, bo samo posiadanie przedmiotu nie ma znaczenia.",
+        "Odpowiedzialność tylko wtedy, gdy przedmiot jest własnością sprawcy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Posiadanie w miejscu publicznym noża, maczety lub podobnie niebezpiecznego przedmiotu w okolicznościach wskazujących na zamiar użycia do przestępstwa jest wykroczeniem, a przepadek orzeka się choćby przedmiot nie należał do sprawcy.",
+      "source": "Art. 50a § 1 i § 2"
+    },
+    {
+      "id": "kw-062",
+      "type": "single_choice",
+      "category": "Porządek publiczny",
+      "difficulty": "easy",
+      "question": "Osoba krzykiem i hałasem zakłóca spoczynek nocny sąsiadów. Która ocena odpowiada kodeksowi?",
+      "choices": [
+        "Może odpowiadać za zakłócanie spokoju, porządku publicznego lub spoczynku nocnego.",
+        "Nie ma wykroczenia, jeśli hałas był w mieszkaniu prywatnym.",
+        "Odpowiada tylko wtedy, gdy uszkodziła mienie.",
+        "Odpowiada wyłącznie wtedy, gdy działała w zgromadzeniu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Krzyk, hałas, alarm lub inny wybryk zakłócający spokój, porządek publiczny, spoczynek nocny albo wywołujący zgorszenie w miejscu publicznym stanowi wykroczenie.",
+      "source": "Art. 51 § 1"
+    },
+    {
+      "id": "kw-063",
+      "type": "single_choice",
+      "category": "Porządek publiczny",
+      "difficulty": "medium",
+      "question": "Sprawca zakłóca porządek publiczny, będąc pod wpływem alkoholu. Jak wpływa to na sankcję?",
+      "choices": [
+        "Czyn podlega surowszej regulacji z grzywną nie niższą niż 1000 złotych albo aresztem lub ograniczeniem wolności.",
+        "Alkohol zawsze wyłącza odpowiedzialność.",
+        "Można orzec wyłącznie naganę.",
+        "Sprawca odpowiada tylko, jeśli działał w miejscu pracy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zakłócenie spokoju lub porządku pod wpływem alkoholu, środka odurzającego lub podobnego środka jest objęte surowszym typem wykroczenia.",
+      "source": "Art. 51 § 2"
+    },
+    {
+      "id": "kw-064",
+      "type": "single_choice",
+      "category": "Porządek publiczny",
+      "difficulty": "medium",
+      "question": "Uczestnik zgromadzenia ma przy sobie materiały pirotechniczne. Która ocena jest prawidłowa?",
+      "choices": [
+        "Może odpowiadać za udział w zgromadzeniu z niebezpiecznymi materiałami lub narzędziami.",
+        "Odpowiada tylko, jeśli materiałów użył.",
+        "Nie odpowiada, jeżeli zgromadzenie było legalne.",
+        "Odpowiada wyłącznie organizator zgromadzenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Udział w zgromadzeniu z bronią, materiałami wybuchowymi, wyrobami pirotechnicznymi lub innymi niebezpiecznymi materiałami albo narzędziami jest wykroczeniem.",
+      "source": "Art. 52 § 1"
+    },
+    {
+      "id": "kw-065",
+      "type": "single_choice",
+      "category": "Porządek publiczny",
+      "difficulty": "medium",
+      "question": "Organizator zgromadzenia umyślnie nie podejmuje środków koniecznych do zapewnienia zgodnego z prawem przebiegu zgromadzenia. Która reakcja odpowiada kodeksowi?",
+      "choices": [
+        "Może odpowiadać za wykroczenie zagrożone grzywną.",
+        "Nie odpowiada, bo odpowiadają wyłącznie uczestnicy.",
+        "Odpowiada tylko wtedy, gdy zgromadzenie było zakazane.",
+        "Odpowiada wyłącznie cywilnie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Organizator lub przewodniczący zgromadzenia, który umyślnie nie podejmuje wymaganych środków dla zapewnienia zgodnego z prawem przebiegu zgromadzenia i zapobieżenia szkodom, popełnia wykroczenie.",
+      "source": "Art. 52 § 3 pkt 1"
+    },
+    {
+      "id": "kw-066",
+      "type": "single_choice",
+      "category": "Porządek publiczny",
+      "difficulty": "medium",
+      "question": "Osoba publicznie pochwala popełnienie przestępstwa, a zasięg czynu i jego skutki nie są znaczne. Jak należy ocenić czyn?",
+      "choices": [
+        "Może stanowić wykroczenie.",
+        "Nigdy nie może być wykroczeniem.",
+        "Zawsze jest wyłącznie przestępstwem niezależnie od skali.",
+        "Jest wykroczeniem tylko na żądanie pokrzywdzonego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Publiczne pochwalanie popełnienia przestępstwa jest wykroczeniem, jeżeli zasięg czynu albo jego skutki nie były znaczne.",
+      "source": "Art. 52a pkt 3"
+    },
+    {
+      "id": "kw-067",
+      "type": "single_choice",
+      "category": "Porządek publiczny",
+      "difficulty": "easy",
+      "question": "Osoba kąpie się w miejscu, w którym jest to zabronione. Która sankcja odpowiada kodeksowi?",
+      "choices": [
+        "Grzywna do 250 złotych albo nagana.",
+        "Areszt od 5 do 30 dni obowiązkowo.",
+        "Wyłącznie zakaz wstępu na kąpielisko.",
+        "Grzywna nie niższa niż 3000 złotych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kąpiel w miejscu zabronionym jest zagrożona grzywną do 250 złotych albo naganą.",
+      "source": "Art. 55"
+    },
+    {
+      "id": "kw-068",
+      "type": "single_choice",
+      "category": "Porządek publiczny",
+      "difficulty": "medium",
+      "question": "Osoba organizuje publiczną zbiórkę ofiar bez wymaganego zgłoszenia. Co można orzec wobec przedmiotów zebranych w takiej zbiórce?",
+      "choices": [
+        "Ich przepadek jest orzekany obowiązkowo.",
+        "Nie można orzec przepadku.",
+        "Przepadek można orzec wyłącznie za zgodą darczyńców.",
+        "Przedmioty zawsze zwraca się organizatorowi po pouczeniu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy zbiórce publicznej przeprowadzonej bez zgłoszenia orzeka się przepadek przedmiotów uzyskanych ze zbiórki.",
+      "source": "Art. 56 § 3"
+    },
+    {
+      "id": "kw-069",
+      "type": "single_choice",
+      "category": "Porządek publiczny",
+      "difficulty": "medium",
+      "question": "Osoba zdolna do pracy i mająca środki egzystencji żebrze w miejscu publicznym. Która ocena jest właściwa?",
+      "choices": [
+        "Może odpowiadać za wykroczenie.",
+        "Nie może odpowiadać, bo żebranie nigdy nie jest wykroczeniem.",
+        "Odpowiada tylko, jeśli żebrze w środku komunikacji publicznej.",
+        "Odpowiada wyłącznie wtedy, gdy działa z inną osobą."
+      ],
+      "correctIndex": 0,
+      "explanation": "Żebranie w miejscu publicznym przez osobę mającą środki egzystencji lub zdolną do pracy stanowi wykroczenie.",
+      "source": "Art. 58 § 1"
+    },
+    {
+      "id": "kw-070",
+      "type": "single_choice",
+      "category": "Porządek publiczny",
+      "difficulty": "medium",
+      "question": "Osoba żebrze w miejscu publicznym w sposób natarczywy. Jaka sankcja jest przewidziana?",
+      "choices": [
+        "Areszt albo ograniczenie wolności.",
+        "Wyłącznie nagana.",
+        "Wyłącznie grzywna do 100 złotych.",
+        "Brak odpowiedzialności, jeśli nie uzyskała pieniędzy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Natarczywe lub oszukańcze żebranie w miejscu publicznym jest zagrożone aresztem albo ograniczeniem wolności.",
+      "source": "Art. 58 § 2"
+    },
+    {
+      "id": "kw-071",
+      "type": "single_choice",
+      "category": "Porządek publiczny",
+      "difficulty": "medium",
+      "question": "Osoba publicznie używa munduru, do którego nie ma prawa. Która ocena jest prawidłowa?",
+      "choices": [
+        "Może odpowiadać za przywłaszczenie sobie stanowiska, tytułu, stopnia, odznaczenia, odznaki, stroju lub munduru.",
+        "Nie odpowiada, jeśli nie podała się za funkcjonariusza.",
+        "Odpowiada tylko wtedy, gdy mundur jest kompletny.",
+        "Odpowiada wyłącznie cywilnie wobec właściciela munduru."
+      ],
+      "correctIndex": 0,
+      "explanation": "Publiczne używanie lub noszenie odznaczenia, odznaki, stroju lub munduru, do których osoba nie ma prawa, stanowi wykroczenie.",
+      "source": "Art. 61 § 1"
+    },
+    {
+      "id": "kw-072",
+      "type": "single_choice",
+      "category": "Porządek publiczny",
+      "difficulty": "easy",
+      "question": "Ktoś umieszcza plakat w miejscu publicznym, które nie jest do tego przeznaczone, bez zgody zarządzającego miejscem. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Stanowi wykroczenie.",
+        "Nie stanowi wykroczenia, jeśli plakat nie jest obraźliwy.",
+        "Stanowi wykroczenie tylko wtedy, gdy plakat dotyczy działalności gospodarczej.",
+        "Jest karalne wyłącznie po wcześniejszym pisemnym ostrzeżeniu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Umieszczanie w miejscu publicznym do tego nieprzeznaczonym ogłoszeń, plakatów, napisów lub rysunków bez wymaganej zgody jest wykroczeniem.",
+      "source": "Art. 63a § 1"
+    },
+    {
+      "id": "kw-073",
+      "type": "single_choice",
+      "category": "Instytucje i czynności służbowe",
+      "difficulty": "easy",
+      "question": "Osoba podczas legitymowania umyślnie podaje funkcjonariuszowi nieprawdziwe dane co do swojej tożsamości. Która kwalifikacja jest prawidłowa?",
+      "choices": [
+        "Wprowadzenie w błąd organu uprawnionego do legitymowania.",
+        "Zakłócanie spoczynku nocnego.",
+        "Nieobyczajny wybryk.",
+        "Samowolne użycie cudzej rzeczy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Umyślne wprowadzenie w błąd organu państwowego lub instytucji uprawnionej do legitymowania co do tożsamości jest wykroczeniem.",
+      "source": "Art. 65 § 1 pkt 1"
+    },
+    {
+      "id": "kw-074",
+      "type": "single_choice",
+      "category": "Instytucje i czynności służbowe",
+      "difficulty": "medium",
+      "question": "Osoba ma obowiązek udzielić właściwemu organowi informacji o miejscu zamieszkania, ale odmawia podania tej wiadomości. Jaka ocena wynika z kodeksu?",
+      "choices": [
+        "Może odpowiadać za nieudzielenie wymaganych wiadomości lub dokumentów.",
+        "Nie odpowiada, bo każdy zawsze może odmówić podania adresu.",
+        "Odpowiada tylko, gdy poda fałszywe imię i nazwisko.",
+        "Odpowiada wyłącznie wtedy, gdy organem jest sąd."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kto wbrew obowiązkowi nie udziela właściwemu organowi lub instytucji uprawnionej do legitymowania wiadomości lub dokumentów dotyczących wskazanych okoliczności, popełnia wykroczenie.",
+      "source": "Art. 65 § 2"
+    },
+    {
+      "id": "kw-075",
+      "type": "single_choice",
+      "category": "Instytucje i czynności służbowe",
+      "difficulty": "medium",
+      "question": "Policjant wydaje zgodne z prawem polecenie określonego zachowania się, a osoba umyślnie go nie wykonuje, przez co istotnie utrudnia czynność służbową. Która ocena jest prawidłowa?",
+      "choices": [
+        "Osoba może odpowiadać za wykroczenie polegające na niestosowaniu się do poleceń funkcjonariusza.",
+        "Osoba nie odpowiada, jeżeli nie użyła przemocy.",
+        "Odpowiada wyłącznie wtedy, gdy polecenie było wydane na piśmie.",
+        "Odpowiada tylko wtedy, gdy funkcjonariusz był umundurowany."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niestosowanie się do zgodnych z prawem poleceń funkcjonariusza, które umyślnie uniemożliwia lub istotnie utrudnia czynność służbową, stanowi wykroczenie.",
+      "source": "Art. 65a"
+    },
+    {
+      "id": "kw-076",
+      "type": "single_choice",
+      "category": "Instytucje i czynności służbowe",
+      "difficulty": "easy",
+      "question": "Osoba dla żartu dzwoni na numer alarmowy i podaje fałszywą informację, aby wywołać niepotrzebną interwencję. Która kwalifikacja odpowiada kodeksowi?",
+      "choices": [
+        "Fałszywe wywołanie niepotrzebnej czynności instytucji lub organu ochrony bezpieczeństwa, porządku publicznego lub zdrowia.",
+        "Kradzież rzeczy ruchomej.",
+        "Złośliwe niepokojenie osoby prywatnej.",
+        "Naruszenie przepisów o zbiórkach publicznych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wprowadzenie w błąd instytucji użyteczności publicznej albo organu ochrony bezpieczeństwa, porządku publicznego lub zdrowia w celu wywołania niepotrzebnej czynności jest wykroczeniem.",
+      "source": "Art. 66 § 1 pkt 1"
+    },
+    {
+      "id": "kw-077",
+      "type": "single_choice",
+      "category": "Instytucje i czynności służbowe",
+      "difficulty": "medium",
+      "question": "Fałszywe zgłoszenie spowodowało niepotrzebną czynność służb. Co dodatkowo można orzec?",
+      "choices": [
+        "Nawiązkę do wysokości 1000 złotych.",
+        "Obowiązkowy zakaz prowadzenia pojazdów.",
+        "Przepadek telefonu w każdym przypadku.",
+        "Zawsze zastępczą karę aresztu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli wykroczenie fałszywego wywołania czynności spowodowało niepotrzebną czynność, można orzec nawiązkę do 1000 złotych.",
+      "source": "Art. 66 § 2"
+    },
+    {
+      "id": "kw-078",
+      "type": "single_choice",
+      "category": "Instytucje i czynności służbowe",
+      "difficulty": "medium",
+      "question": "Osoba narusza policyjny nakaz opuszczenia mieszkania i zakaz zbliżania się do niego wydany wobec sprawcy przemocy domowej. Jaką odpowiedzialność przewiduje kodeks?",
+      "choices": [
+        "Areszt, ograniczenie wolności albo grzywnę.",
+        "Wyłącznie pouczenie.",
+        "Wyłącznie odpowiedzialność cywilną.",
+        "Brak odpowiedzialności, jeśli osoba jest współwłaścicielem mieszkania."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niestosowanie się do policyjnego albo sądowego nakazu lub zakazu związanego z przemocą domową stanowi wykroczenie zagrożone aresztem, ograniczeniem wolności albo grzywną.",
+      "source": "Art. 66b § 1"
+    },
+    {
+      "id": "kw-079",
+      "type": "single_choice",
+      "category": "Instytucje i czynności służbowe",
+      "difficulty": "medium",
+      "question": "Osoba umyślnie usuwa publiczne ogłoszenie wystawione przez instytucję państwową. Jaka ocena jest właściwa?",
+      "choices": [
+        "Może odpowiadać za wykroczenie przeciwko instytucjom państwowym, samorządowym i społecznym.",
+        "Nie odpowiada, jeśli ogłoszenie było papierowe.",
+        "Odpowiada tylko wtedy, gdy ogłoszenie zawierało decyzję administracyjną.",
+        "Odpowiada wyłącznie za szkodę cywilną."
+      ],
+      "correctIndex": 0,
+      "explanation": "Umyślne uszkodzenie, usunięcie lub uniemożliwienie zapoznania się z publicznym ogłoszeniem instytucji państwowej, samorządowej albo organizacji społecznej jest wykroczeniem.",
+      "source": "Art. 67 § 1"
+    },
+    {
+      "id": "kw-080",
+      "type": "single_choice",
+      "category": "Instytucje i czynności służbowe",
+      "difficulty": "medium",
+      "question": "Osoba bezprawnie posiada pieczęć instytucji państwowej. Co przewiduje kodeks?",
+      "choices": [
+        "Odpowiedzialność za wykroczenie oraz przepadek pieczęci.",
+        "Brak odpowiedzialności, jeśli pieczęci nie użyto.",
+        "Odpowiedzialność tylko wtedy, gdy pieczęć była podrobiona.",
+        "Wyłącznie obowiązek zwrotu pieczęci bez sankcji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bezprawne posiadanie, zamawianie lub nabywanie pieczęci, godła albo znaku instytucji jest wykroczeniem, a takie przedmioty podlegają przepadkowi.",
+      "source": "Art. 68 § 2-3"
+    },
+    {
+      "id": "kw-081",
+      "type": "single_choice",
+      "category": "Instytucje i czynności służbowe",
+      "difficulty": "medium",
+      "question": "Osoba usuwa znak założony przez organ państwowy w celu zabezpieczenia przedmiotu poddanego rozporządzeniu władzy. Jaka kwalifikacja jest właściwa?",
+      "choices": [
+        "Umyślne uczynienie bezskutecznym znaku urzędowego.",
+        "Nielegalne prowadzenie działalności gospodarczej.",
+        "Zakłócenie spokoju nocnego.",
+        "Kradzież rzeczy ruchomej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Umyślne niszczenie, usuwanie lub czynienie bezskutecznymi znaków umieszczonych przez organ państwowy w celu stwierdzenia tożsamości przedmiotu, zamknięcia go albo poddania rozporządzeniu władzy stanowi wykroczenie.",
+      "source": "Art. 69"
+    },
+    {
+      "id": "kw-082",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo osób i mienia",
+      "difficulty": "medium",
+      "question": "Osoba niezdolna do bezpiecznego wykonania czynności, której nieumiejętne wykonanie może zagrozić życiu lub zdrowiu, mimo to ją podejmuje. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Może odpowiadać za wykroczenie przeciwko bezpieczeństwu osób i mienia.",
+        "Nie odpowiada, jeśli nie doszło do skutku.",
+        "Odpowiada tylko wtedy, gdy działała w miejscu publicznym.",
+        "Odpowiada wyłącznie wtedy, gdy była pod wpływem alkoholu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Podejmowanie czynności mimo niezdolności do jej wykonania, gdy nieumiejętne wykonanie może wywołać niebezpieczeństwo dla życia lub zdrowia, jest wykroczeniem.",
+      "source": "Art. 70 § 1"
+    },
+    {
+      "id": "kw-083",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo osób i mienia",
+      "difficulty": "medium",
+      "question": "Pracownik ma obowiązek zachowania trzeźwości, ale po użyciu alkoholu wykonuje czynności służbowe. Która ocena jest zgodna z kodeksem?",
+      "choices": [
+        "Może odpowiadać za wykroczenie.",
+        "Nie odpowiada, jeśli wykonał czynność prawidłowo.",
+        "Odpowiada tylko wtedy, gdy spowodował wypadek.",
+        "Odpowiada wyłącznie dyscyplinarnie, nigdy wykroczeniowo."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kto wbrew obowiązkowi zachowania trzeźwości znajduje się po użyciu alkoholu lub podobnego środka i podejmuje czynności zawodowe lub służbowe, popełnia wykroczenie.",
+      "source": "Art. 70 § 2"
+    },
+    {
+      "id": "kw-084",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo osób i mienia",
+      "difficulty": "easy",
+      "question": "Osoba mająca obowiązek zabezpieczyć niebezpieczne miejsce dla życia lub zdrowia nie robi tego. Która ocena jest prawidłowa?",
+      "choices": [
+        "Może odpowiadać za wykroczenie.",
+        "Nie odpowiada, dopóki nie dojdzie do wypadku.",
+        "Odpowiada tylko na żądanie pokrzywdzonego.",
+        "Odpowiada wyłącznie wtedy, gdy miejsce jest drogą publiczną."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zaniechanie odpowiedniego zabezpieczenia miejsca niebezpiecznego dla życia lub zdrowia, wbrew obowiązkowi, jest wykroczeniem.",
+      "source": "Art. 72"
+    },
+    {
+      "id": "kw-085",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo osób i mienia",
+      "difficulty": "medium",
+      "question": "Osoba wie o bezpośrednim niebezpieczeństwie grożącym życiu człowieka, ale wbrew obowiązkowi nie zawiadamia odpowiedniego organu ani osoby. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Stanowi wykroczenie.",
+        "Nie stanowi wykroczenia, jeśli osoba nie była sprawcą zagrożenia.",
+        "Stanowi wykroczenie tylko przy zagrożeniu mienia małej wartości.",
+        "Jest karalne wyłącznie wtedy, gdy niebezpieczeństwo już wyrządziło szkodę."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kto wbrew obowiązkowi nie zawiadamia właściwego organu lub osoby o znanym mu niebezpieczeństwie grożącym życiu, zdrowiu albo mieniu w znacznych rozmiarach, popełnia wykroczenie.",
+      "source": "Art. 73"
+    },
+    {
+      "id": "kw-086",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo osób i mienia",
+      "difficulty": "easy",
+      "question": "Ktoś usuwa ogrodzenie zabezpieczające przed grożącym niebezpieczeństwem dla zdrowia ludzi. Co można orzec oprócz kary?",
+      "choices": [
+        "Obowiązek zapłaty równowartości zniszczonego lub uszkodzonego przedmiotu albo przywrócenia do stanu poprzedniego.",
+        "Obowiązkowy zakaz prowadzenia pojazdów.",
+        "Wyłącznie przepadek mieszkania.",
+        "Zawsze nawiązkę w wysokości 5000 złotych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy niszczeniu lub usuwaniu znaków, napisów, ogrodzeń lub urządzeń ostrzegających albo zapobiegających niebezpieczeństwu można orzec obowiązek zapłaty równowartości albo przywrócenia do stanu poprzedniego.",
+      "source": "Art. 74 § 2"
+    },
+    {
+      "id": "kw-087",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo osób i mienia",
+      "difficulty": "medium",
+      "question": "Mieszkaniec bez należytej ostrożności wyrzuca z okna ciężki przedmiot na chodnik. Która kwalifikacja jest właściwa?",
+      "choices": [
+        "Niezachowanie ostrożności przy wyrzucaniu lub doprowadzaniu do wypadania przedmiotów.",
+        "Zawsze wykroczenie drogowe dotyczące tamowania ruchu.",
+        "Wyłącznie zaśmiecanie lasu.",
+        "Brak odpowiedzialności, jeśli nikogo nie trafiono."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bez zachowania należytej ostrożności nie wolno wystawiać, wywieszać, rzucać ciężkimi przedmiotami ani doprowadzać do ich wypadania.",
+      "source": "Art. 75 § 1"
+    },
+    {
+      "id": "kw-088",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo osób i mienia",
+      "difficulty": "easy",
+      "question": "Osoba rzuca kamieniem w jadący pojazd mechaniczny. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Stanowi wykroczenie zagrożone aresztem, ograniczeniem wolności albo grzywną.",
+        "Nie stanowi wykroczenia, jeśli pojazd nie został uszkodzony.",
+        "Jest wykroczeniem tylko poza drogą publiczną.",
+        "Podlega wyłącznie naganie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rzucanie kamieniami lub innymi przedmiotami w pojazd mechaniczny będący w ruchu jest wykroczeniem.",
+      "source": "Art. 76"
+    },
+    {
+      "id": "kw-089",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo osób i mienia",
+      "difficulty": "easy",
+      "question": "Właściciel psa nie zachowuje zwykłych środków ostrożności przy trzymaniu zwierzęcia. Która odpowiedź jest prawidłowa?",
+      "choices": [
+        "Może odpowiadać za wykroczenie.",
+        "Odpowiada tylko wtedy, gdy pies kogoś pogryzie.",
+        "Nie odpowiada, jeżeli pies był na prywatnej posesji.",
+        "Odpowiada wyłącznie cywilnie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niezachowanie zwykłych lub nakazanych środków ostrożności przy trzymaniu zwierzęcia jest wykroczeniem.",
+      "source": "Art. 77 § 1"
+    },
+    {
+      "id": "kw-090",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo osób i mienia",
+      "difficulty": "medium",
+      "question": "Osoba drażni psa sąsiada i doprowadza do tego, że zwierzę staje się niebezpieczne. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Może odpowiadać za wykroczenie polegające na doprowadzeniu zwierzęcia do niebezpiecznego zachowania.",
+        "Nie odpowiada, bo za zwierzę zawsze odpowiada tylko właściciel.",
+        "Odpowiada tylko wtedy, gdy była właścicielem psa.",
+        "Odpowiada wyłącznie za zakłócenie spokoju."
+      ],
+      "correctIndex": 0,
+      "explanation": "Drażnienie lub płoszenie zwierzęcia, które doprowadza do tego, że staje się ono niebezpieczne, jest wykroczeniem.",
+      "source": "Art. 78"
+    },
+    {
+      "id": "kw-091",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo pożarowe",
+      "difficulty": "medium",
+      "question": "Osoba składuje materiały palne na drodze ewakuacyjnej w sposób zmniejszający jej szerokość poniżej wymaganych wartości. Która ocena jest zgodna z kodeksem?",
+      "choices": [
+        "Może odpowiadać za wykroczenie przeciwko bezpieczeństwu pożarowemu.",
+        "Nie odpowiada, jeśli nie doszło do pożaru.",
+        "Odpowiada tylko wtedy, gdy drogą ewakuacyjną jest droga publiczna.",
+        "Odpowiada wyłącznie za zaśmiecanie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Składowanie materiałów palnych na drogach ewakuacyjnych lub umieszczanie przedmiotów zmniejszających ich wymaganą szerokość albo wysokość stanowi czyn mogący spowodować pożar, jego rozprzestrzenianie lub utrudnienie ewakuacji.",
+      "source": "Art. 82 § 1 pkt 7"
+    },
+    {
+      "id": "kw-092",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo pożarowe",
+      "difficulty": "medium",
+      "question": "Zarządca obiektu nie utrzymuje gaśnic w stanie pełnej sprawności technicznej i funkcjonalnej, mimo obowiązku. Co przewiduje kodeks?",
+      "choices": [
+        "Odpowiedzialność za wykroczenie.",
+        "Brak odpowiedzialności, jeśli gaśnice są widoczne.",
+        "Odpowiedzialność tylko po wydaniu mandatu za parkowanie.",
+        "Wyłącznie odpowiedzialność cywilną."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niedopełnienie obowiązku utrzymywania urządzeń przeciwpożarowych i gaśnic w pełnej sprawności jest wykroczeniem.",
+      "source": "Art. 82 § 2 pkt 3"
+    },
+    {
+      "id": "kw-093",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo pożarowe",
+      "difficulty": "medium",
+      "question": "Osoba rozpala ogień w lesie poza miejscem wyznaczonym. Jaka ocena jest prawidłowa?",
+      "choices": [
+        "Może odpowiadać za wykroczenie.",
+        "Nie odpowiada, jeśli ogień był mały.",
+        "Odpowiada tylko wtedy, gdy spowodowała pożar.",
+        "Odpowiada wyłącznie wtedy, gdy działała nocą."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozniecanie ognia w lesie, na terenach śródleśnych, łąkach, torfowiskach, wrzosowiskach oraz w odległości do 100 m od nich poza miejscami wyznaczonymi jest wykroczeniem.",
+      "source": "Art. 82 § 3"
+    },
+    {
+      "id": "kw-094",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo pożarowe",
+      "difficulty": "medium",
+      "question": "Osoba wypala trawy w odległości mniejszej niż 100 m od zabudowań. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Stanowi wykroczenie.",
+        "Jest dozwolone, jeśli osoba cały czas obserwuje ogień.",
+        "Jest wykroczeniem tylko w lesie.",
+        "Jest karalne wyłącznie wtedy, gdy ogień przedostanie się na drogę."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wypalanie traw, słomy lub pozostałości roślinnych w odległości mniejszej niż 100 m od zabudowań, lasów, zboża na pniu lub stert i stogów jest wykroczeniem.",
+      "source": "Art. 82 § 4"
+    },
+    {
+      "id": "kw-095",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo pożarowe",
+      "difficulty": "medium",
+      "question": "W czasie pożaru osoba nie podporządkowuje się zarządzeniu kierującego działaniem ratowniczym. Która ocena jest właściwa?",
+      "choices": [
+        "Może odpowiadać za wykroczenie.",
+        "Nie odpowiada, jeśli nie jest właścicielem obiektu.",
+        "Odpowiada tylko wtedy, gdy jest pracownikiem ochrony.",
+        "Odpowiada wyłącznie cywilnie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niedopełnienie obowiązku podporządkowania się zarządzeniu kierującego działaniem ratowniczym w razie pożaru stanowi wykroczenie.",
+      "source": "Art. 82a § 1 pkt 2"
+    },
+    {
+      "id": "kw-096",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo pożarowe",
+      "difficulty": "medium",
+      "question": "Kierowca blokuje dojazd jednostkom ochrony przeciwpożarowej prowadzącym działania ratownicze. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Może odpowiadać za utrudnianie działań ratowniczych.",
+        "Nie odpowiada, jeśli nie widział pożaru.",
+        "Odpowiada tylko wtedy, gdy jest właścicielem posesji.",
+        "Odpowiada wyłącznie za wykroczenie parkingowe."
+      ],
+      "correctIndex": 0,
+      "explanation": "Utrudnianie prowadzenia działań ratowniczych, w szczególności dojazdu jednostkom ochrony przeciwpożarowej, jest wykroczeniem.",
+      "source": "Art. 82a § 2"
+    },
+    {
+      "id": "kw-097",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo pożarowe",
+      "difficulty": "easy",
+      "question": "Osoba nieostrożnie obchodzi się z materiałami wybuchowymi. Która reakcja jest przewidziana?",
+      "choices": [
+        "Może odpowiadać za wykroczenie, a przedmioty stanowiące jego przedmiot mogą podlegać przepadkowi.",
+        "Nie odpowiada, jeśli materiały były legalnie kupione.",
+        "Odpowiada tylko wtedy, gdy doszło do wybuchu.",
+        "Można zastosować wyłącznie pouczenie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nieostrożne obchodzenie się z materiałami wybuchowymi, łatwo zapalnymi lub substancjami promieniotwórczymi jest wykroczeniem; można też orzec przepadek przedmiotów stanowiących przedmiot wykroczenia.",
+      "source": "Art. 83 § 1-2"
+    },
+    {
+      "id": "kw-098",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "easy",
+      "question": "Osoba odpowiedzialna za roboty na drodze nie oznacza łatwo dostrzegalnie przeszkody, co może zagrozić bezpieczeństwu ruchu. Która ocena jest prawidłowa?",
+      "choices": [
+        "Może odpowiadać za wykroczenie.",
+        "Nie odpowiada, jeśli przeszkoda jest widoczna za dnia.",
+        "Odpowiada tylko wtedy, gdy doszło do kolizji.",
+        "Odpowiada wyłącznie cywilnie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nieoznaczenie przeszkody, urządzenia, przedmiotu na drodze lub miejsca robót w sposób wymagany i łatwo dostrzegalny, jeżeli może zagrozić bezpieczeństwu albo utrudnić ruch, stanowi wykroczenie.",
+      "source": "Art. 84"
+    },
+    {
+      "id": "kw-099",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "easy",
+      "question": "Osoba samowolnie zasłania znak drogowy, czyniąc go niewidocznym. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Jako wykroczenie dotyczące znaków, sygnałów lub urządzeń drogowych.",
+        "Jako wykroczenie tylko wtedy, gdy znak został zniszczony.",
+        "Jako czyn bez znaczenia, jeśli nie było wypadku.",
+        "Jako wykroczenie wyłącznie wtedy, gdy znak jest na autostradzie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Samowolne ustawianie, niszczenie, usuwanie, zasłanianie lub czynienie niewidocznymi znaków, sygnałów i urządzeń ostrzegawczych albo zabezpieczających jest wykroczeniem.",
+      "source": "Art. 85 § 1"
+    },
+    {
+      "id": "kw-100",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "medium",
+      "question": "Kierujący na drodze publicznej nie zachowuje należytej ostrożności i powoduje zagrożenie bezpieczeństwa w ruchu drogowym. Która sankcja zasadnicza jest przewidziana dla podstawowego typu czynu?",
+      "choices": [
+        "Grzywna.",
+        "Wyłącznie nagana.",
+        "Obowiązkowy areszt.",
+        "Wyłącznie ograniczenie wolności."
+      ],
+      "correctIndex": 0,
+      "explanation": "Podstawowe spowodowanie zagrożenia bezpieczeństwa w ruchu drogowym przez niezachowanie należytej ostrożności jest zagrożone grzywną.",
+      "source": "Art. 86 § 1"
+    },
+    {
+      "id": "kw-101",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "medium",
+      "question": "Kierujący powoduje zagrożenie bezpieczeństwa w ruchu drogowym, będąc w stanie po użyciu alkoholu. Jaka jest minimalna grzywna przy tym typie czynu?",
+      "choices": [
+        "Nie niższa niż 2500 złotych.",
+        "Nie niższa niż 500 złotych.",
+        "Nie niższa niż 800 złotych.",
+        "Nie niższa niż 100 złotych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Spowodowanie zagrożenia bezpieczeństwa w ruchu drogowym w stanie po użyciu alkoholu lub podobnego środka jest zagrożone aresztem, ograniczeniem wolności albo grzywną nie niższą niż 2500 złotych.",
+      "source": "Art. 86 § 2"
+    },
+    {
+      "id": "kw-102",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "easy",
+      "question": "Rowerzysta porusza się po drodze dla pieszych znacznie szybciej niż pieszy i nie ustępuje pierwszeństwa pieszemu. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Może odpowiadać za wykroczenie zagrożone grzywną albo naganą.",
+        "Nie odpowiada, jeśli używa dzwonka.",
+        "Odpowiada tylko wtedy, gdy potrąci pieszego.",
+        "Odpowiada wyłącznie, gdy jedzie pojazdem mechanicznym."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kierujący rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego na drodze dla pieszych musi poruszać się z prędkością zbliżoną do prędkości pieszego i ustąpić mu pierwszeństwa.",
+      "source": "Art. 86a"
+    },
+    {
+      "id": "kw-103",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "medium",
+      "question": "Kierowca samochodu wyprzedza pojazd na niekierowanym przejściu dla pieszych. Jaka minimalna grzywna wynika z kodeksu?",
+      "choices": [
+        "Nie niższa niż 1500 złotych.",
+        "Nie niższa niż 100 złotych.",
+        "Nie niższa niż 500 złotych.",
+        "Nie niższa niż 3000 złotych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Prowadzący pojazd mechaniczny, który wyprzedza na przejściu dla pieszych, na którym ruch nie jest kierowany, albo bezpośrednio przed nim, podlega grzywnie nie niższej niż 1500 złotych.",
+      "source": "Art. 86b § 1 pkt 3"
+    },
+    {
+      "id": "kw-104",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "medium",
+      "question": "Kierowca celowo wprowadza pojazd mechaniczny w poślizg na drodze publicznej. Jaka minimalna grzywna dotyczy podstawowego typu tego wykroczenia?",
+      "choices": [
+        "Nie niższa niż 1500 złotych.",
+        "Nie niższa niż 500 złotych.",
+        "Nie niższa niż 800 złotych.",
+        "Nie niższa niż 100 złotych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Celowe wprowadzenie pojazdu mechanicznego w poślizg lub doprowadzenie do utraty styczności z nawierzchnią choćby jednego koła jest zagrożone grzywną nie niższą niż 1500 złotych.",
+      "source": "Art. 86c § 1"
+    },
+    {
+      "id": "kw-105",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "medium",
+      "question": "Kierowca pojazdu mechanicznego prowadzi w ruchu lądowym w stanie po użyciu alkoholu. Co należy orzec w razie ukarania za ten czyn?",
+      "choices": [
+        "Zakaz prowadzenia pojazdów.",
+        "Wyłącznie naganę.",
+        "Obowiązek przeproszenia pokrzywdzonego.",
+        "Przepadek pojazdu w każdym przypadku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Za prowadzenie pojazdu mechanicznego w stanie po użyciu alkoholu lub podobnego środka orzeka się zakaz prowadzenia pojazdów.",
+      "source": "Art. 87 § 1 i § 3"
+    },
+    {
+      "id": "kw-106",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "medium",
+      "question": "Osoba w stanie nietrzeźwości prowadzi rower na drodze publicznej. Która odpowiedź odpowiada kodeksowi?",
+      "choices": [
+        "Może odpowiadać za prowadzenie innego pojazdu niż mechaniczny w stanie nietrzeźwości, a zakaz prowadzenia takich pojazdów można orzec.",
+        "Nie odpowiada, bo rower nigdy nie jest objęty kodeksem.",
+        "Odpowiada tak samo jak kierowca samochodu, z obowiązkowym zakazem prowadzenia pojazdów mechanicznych.",
+        "Odpowiada tylko wtedy, gdy spowoduje kolizję."
+      ],
+      "correctIndex": 0,
+      "explanation": "Prowadzenie innego pojazdu niż mechaniczny w stanie nietrzeźwości lub pod wpływem podobnego środka na drodze publicznej, w strefie zamieszkania lub ruchu jest wykroczeniem, a zakaz prowadzenia takich pojazdów można orzec.",
+      "source": "Art. 87 § 1a i § 4"
+    },
+    {
+      "id": "kw-107",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "easy",
+      "question": "Kierowca prowadzi pojazd na drodze publicznej bez wymaganych świateł. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Podlega karze grzywny.",
+        "Nie odpowiada, jeśli widoczność jest dobra.",
+        "Podlega wyłącznie naganie.",
+        "Odpowiada tylko wtedy, gdy jedzie po zmierzchu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Prowadzenie pojazdu bez wymaganych przepisami świateł lub pozostawienie pojazdu bez wymaganego oświetlenia jest wykroczeniem zagrożonym grzywną.",
+      "source": "Art. 88"
+    },
+    {
+      "id": "kw-108",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "easy",
+      "question": "Opiekun dopuszcza, aby dziecko do lat 7 przebywało na drodze publicznej bez opieki. Co wynika z kodeksu?",
+      "choices": [
+        "Może odpowiadać za wykroczenie.",
+        "Nie odpowiada, jeśli dziecko zna drogę.",
+        "Odpowiada tylko wtedy, gdy doszło do wypadku.",
+        "Odpowiada wyłącznie na żądanie szkoły."
+      ],
+      "correctIndex": 0,
+      "explanation": "Osoba mająca obowiązek opieki lub nadzoru nad małoletnim do lat 7 nie może dopuszczać do jego przebywania na drodze publicznej lub torach pojazdu szynowego.",
+      "source": "Art. 89"
+    },
+    {
+      "id": "kw-109",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "medium",
+      "question": "Kierowca pojazdu mechanicznego tamuje ruch na drodze publicznej. Jaka minimalna grzywna może wynikać z kwalifikowanego typu tego wykroczenia?",
+      "choices": [
+        "Nie niższa niż 500 złotych.",
+        "Nie niższa niż 100 złotych.",
+        "Nie niższa niż 1500 złotych.",
+        "Nie niższa niż 3000 złotych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli tamowania lub utrudniania ruchu dopuszcza się prowadzący pojazd mechaniczny, grzywna jest nie niższa niż 500 złotych.",
+      "source": "Art. 90 § 2"
+    },
+    {
+      "id": "kw-110",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "easy",
+      "question": "Kierowca zostawia na drodze publicznej przedmiot w okolicznościach, w których może utrudnić ruch. Która ocena jest prawidłowa?",
+      "choices": [
+        "Może odpowiadać za wykroczenie zagrożone grzywną do 1500 złotych albo naganą.",
+        "Nie odpowiada, jeśli przedmiot jest jego własnością.",
+        "Odpowiada tylko wtedy, gdy przedmiot jest pojazdem.",
+        "Odpowiada wyłącznie za wykroczenie przeciwko mieniu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pozostawienie na drodze publicznej pojazdu, przedmiotu albo zwierzęcia w okolicznościach mogących spowodować niebezpieczeństwo lub utrudnienie ruchu jest wykroczeniem.",
+      "source": "Art. 91"
+    },
+    {
+      "id": "kw-111",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "easy",
+      "question": "Uczestnik ruchu nie stosuje się do polecenia osoby uprawnionej do kierowania ruchem. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Podlega grzywnie albo naganie.",
+        "Nie odpowiada, jeżeli nie doszło do kolizji.",
+        "Odpowiada wyłącznie wtedy, gdy polecenie wydał policjant ruchu drogowego.",
+        "Podlega zawsze aresztowi bez możliwości grzywny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niestosowanie się do znaku, sygnału drogowego, sygnału lub polecenia osoby uprawnionej do kierowania ruchem albo kontroli ruchu drogowego jest wykroczeniem.",
+      "source": "Art. 92 § 1"
+    },
+    {
+      "id": "kw-112",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "medium",
+      "question": "Kierowca, chcąc uniknąć kontroli, nie zatrzymuje pojazdu na sygnał osoby uprawnionej do kontroli ruchu. Co można dodatkowo orzec?",
+      "choices": [
+        "Zakaz prowadzenia pojazdów.",
+        "Obowiązkową nawiązkę na rzecz PCK.",
+        "Przepadek pojazdu w każdym przypadku.",
+        "Wyłącznie naganę."
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie niezastosowania się w celu uniknięcia kontroli do sygnału zatrzymania pojazdu można orzec zakaz prowadzenia pojazdów.",
+      "source": "Art. 92 § 2-3"
+    },
+    {
+      "id": "kw-113",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "easy",
+      "question": "Kierowca przekracza dopuszczalną prędkość określoną ustawą lub znakiem. Jaka sankcja jest przewidziana dla podstawowego typu czynu?",
+      "choices": [
+        "Grzywna.",
+        "Wyłącznie nagana.",
+        "Obowiązkowy areszt.",
+        "Wyłącznie zakaz prowadzenia pojazdów."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niestosowanie się do ograniczenia prędkości przez prowadzącego pojazd jest zagrożone grzywną.",
+      "source": "Art. 92a § 1"
+    },
+    {
+      "id": "kw-114",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "medium",
+      "question": "Kierowca pojazdu mechanicznego przekracza ograniczenie prędkości o ponad 30 km/h. Jaka minimalna grzywna jest przewidziana?",
+      "choices": [
+        "Nie niższa niż 800 złotych.",
+        "Nie niższa niż 100 złotych.",
+        "Nie niższa niż 1500 złotych.",
+        "Nie niższa niż 3000 złotych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przekroczenie przez prowadzącego pojazd mechaniczny ograniczenia prędkości o ponad 30 km/h jest zagrożone grzywną nie niższą niż 800 złotych.",
+      "source": "Art. 92a § 2"
+    },
+    {
+      "id": "kw-115",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "medium",
+      "question": "Kierujący pojazdem mechanicznym narusza zakaz wyprzedzania określony ustawą lub znakiem drogowym. Jaka minimalna grzywna jest przewidziana?",
+      "choices": [
+        "Nie niższa niż 1000 złotych.",
+        "Nie niższa niż 100 złotych.",
+        "Nie niższa niż 500 złotych.",
+        "Nie niższa niż 2000 złotych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Prowadzenie pojazdu mechanicznego z naruszeniem zakazu wyprzedzania jest zagrożone grzywną nie niższą niż 1000 złotych.",
+      "source": "Art. 92b"
+    },
+    {
+      "id": "kw-116",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "medium",
+      "question": "Prowadzący pojazd uczestniczy w wypadku drogowym i nie udziela niezwłocznej pomocy ofierze. Co orzeka się w razie ukarania?",
+      "choices": [
+        "Zakaz prowadzenia pojazdów.",
+        "Wyłącznie naganę.",
+        "Obowiązek zapłaty równowartości pojazdu.",
+        "Przepadek prawa jazdy jako przedmiotu."
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie nieudzielenia pomocy ofierze wypadku przez prowadzącego pojazd orzeka się zakaz prowadzenia pojazdów.",
+      "source": "Art. 93 § 1-2"
+    },
+    {
+      "id": "kw-117",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "medium",
+      "question": "Osoba prowadzi pojazd mechaniczny na drodze publicznej bez wymaganych uprawnień. Jaka minimalna grzywna jest przewidziana?",
+      "choices": [
+        "Nie niższa niż 1500 złotych.",
+        "Nie niższa niż 100 złotych.",
+        "Nie niższa niż 500 złotych.",
+        "Nie niższa niż 800 złotych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Prowadzenie pojazdu mechanicznego bez uprawnienia na drodze publicznej, w strefie zamieszkania lub strefie ruchu jest zagrożone aresztem, ograniczeniem wolności albo grzywną nie niższą niż 1500 złotych.",
+      "source": "Art. 94 § 1"
+    },
+    {
+      "id": "kw-118",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "medium",
+      "question": "Osoba prowadzi pojazd mechaniczny bez wymaganych uprawnień na drodze publicznej. Co należy orzec w razie popełnienia tego wykroczenia?",
+      "choices": [
+        "Zakaz prowadzenia pojazdów.",
+        "Wyłącznie pouczenie.",
+        "Obowiązek naprawienia szkody w każdym przypadku.",
+        "Przepadek pojazdu bez względu na własność."
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie prowadzenia pojazdu mechanicznego bez uprawnienia orzeka się zakaz prowadzenia pojazdów.",
+      "source": "Art. 94 § 1 i § 3"
+    },
+    {
+      "id": "kw-119",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "easy",
+      "question": "Kierowca prowadzi pojazd, nie mając przy sobie wymaganych dokumentów. Jaka sankcja jest przewidziana?",
+      "choices": [
+        "Grzywna do 250 złotych albo nagana.",
+        "Areszt do 30 dni.",
+        "Grzywna nie niższa niż 1500 złotych.",
+        "Obowiązkowy zakaz prowadzenia pojazdów."
+      ],
+      "correctIndex": 0,
+      "explanation": "Prowadzenie pojazdu bez wymaganych dokumentów jest zagrożone grzywną do 250 złotych albo naganą.",
+      "source": "Art. 95 § 1"
+    },
+    {
+      "id": "kw-120",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "medium",
+      "question": "Właściciel pojazdu dopuszcza do prowadzenia osobę znajdującą się w stanie po użyciu alkoholu. Jaka minimalna grzywna jest przewidziana?",
+      "choices": [
+        "Nie niższa niż 1000 złotych.",
+        "Nie niższa niż 100 złotych.",
+        "Nie niższa niż 250 złotych.",
+        "Nie niższa niż 3000 złotych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dopuszczenie do prowadzenia pojazdu osoby w stanie po użyciu alkoholu lub podobnie działającego środka jest zagrożone ograniczeniem wolności albo grzywną nie niższą niż 1000 złotych.",
+      "source": "Art. 96 § 1 pkt 3"
+    },
+    {
+      "id": "kw-121",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "medium",
+      "question": "Właściciel pojazdu nie wskazuje na żądanie uprawnionego organu, komu powierzył pojazd w oznaczonym czasie. Która odpowiedź jest prawidłowa?",
+      "choices": [
+        "Podlega karze grzywny.",
+        "Nie odpowiada, jeśli nie pamięta kierującego.",
+        "Podlega wyłącznie naganie.",
+        "Odpowiada tylko wtedy, gdy pojazd brał udział w wypadku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niewskazanie na żądanie uprawnionego organu, komu powierzono pojazd do kierowania lub używania w oznaczonym czasie, jest zagrożone grzywną.",
+      "source": "Art. 96 § 3"
+    },
+    {
+      "id": "kw-122",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "medium",
+      "question": "Osoba nieuprawniona posiada w pojeździe urządzenia wysyłające niebieskie światła błyskowe stanowiące obowiązkowe wyposażenie pojazdu uprzywilejowanego. Co przewiduje kodeks?",
+      "choices": [
+        "Karę grzywny oraz przepadek takich urządzeń lub elementów oznakowania.",
+        "Brak odpowiedzialności, dopóki urządzenie nie zostanie użyte.",
+        "Wyłącznie pouczenie.",
+        "Obowiązkowy zakaz prowadzenia pojazdów."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nieuprawnione posiadanie w pojeździe urządzeń lub elementów oznakowania pojazdu uprzywilejowanego stanowi wykroczenie, a urządzenia lub elementy podlegają przepadkowi.",
+      "source": "Art. 96a § 1 i § 3"
+    },
+    {
+      "id": "kw-123",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "easy",
+      "question": "Osoba nieuprawniona posługuje się kartą parkingową dla osób niepełnosprawnych. Jaka sankcja jest przewidziana?",
+      "choices": [
+        "Grzywna do 2000 złotych.",
+        "Wyłącznie nagana.",
+        "Areszt obowiązkowy.",
+        "Grzywna nie niższa niż 5000 złotych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nieuprawnione posługiwanie się kartą parkingową jest zagrożone grzywną do 2000 złotych.",
+      "source": "Art. 96b"
+    },
+    {
+      "id": "kw-124",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "easy",
+      "question": "Uczestnik ruchu narusza inne przepisy prawa o ruchu drogowym, niewskazane w odrębnych typach wykroczeń. Jaka ogólna sankcja może mieć zastosowanie?",
+      "choices": [
+        "Grzywna do 3000 złotych albo nagana.",
+        "Wyłącznie areszt.",
+        "Wyłącznie zakaz prowadzenia pojazdów.",
+        "Brak odpowiedzialności, jeśli nie doszło do wypadku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Naruszenie innych przepisów prawa o ruchu drogowym lub przepisów wydanych na jego podstawie przez uczestnika ruchu, inną osobę na drodze albo właściciela lub posiadacza pojazdu jest zagrożone grzywną do 3000 złotych albo naganą.",
+      "source": "Art. 97"
+    },
+    {
+      "id": "kw-125",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "medium",
+      "question": "Kierujący wjeżdża na przejazd kolejowy, mimo że po drugiej stronie nie ma miejsca do kontynuowania jazdy. Jaka minimalna grzywna jest przewidziana?",
+      "choices": [
+        "Nie niższa niż 2000 złotych.",
+        "Nie niższa niż 100 złotych.",
+        "Nie niższa niż 500 złotych.",
+        "Nie niższa niż 800 złotych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Naruszenie zakazu wjazdu na przejazd kolejowy, gdy po drugiej stronie nie ma miejsca do kontynuowania jazdy, jest zagrożone aresztem, ograniczeniem wolności albo grzywną nie niższą niż 2000 złotych.",
+      "source": "Art. 97a pkt 2"
+    },
+    {
+      "id": "kw-126",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "medium",
+      "question": "Kierowca prowadzi pojazd poza drogą publiczną, strefą zamieszkania i strefą ruchu, nie zachowuje należytej ostrożności i zagraża innej osobie. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Może odpowiadać za wykroczenie zagrożone grzywną albo naganą.",
+        "Nie odpowiada, bo poza drogą publiczną nie ma żadnych wykroczeń komunikacyjnych.",
+        "Odpowiada tylko, jeśli prowadzi pojazd mechaniczny.",
+        "Odpowiada wyłącznie cywilnie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niezachowanie należytej ostrożności przy prowadzeniu pojazdu poza drogą publiczną, strefą zamieszkania lub strefą ruchu, jeżeli zagraża bezpieczeństwu innej osoby, jest wykroczeniem.",
+      "source": "Art. 98"
+    },
+    {
+      "id": "kw-127",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo i porządek w komunikacji",
+      "difficulty": "easy",
+      "question": "Osoba zaorywa pas drogowy lub w inny sposób go zwęża. Jaką sankcję przewiduje kodeks?",
+      "choices": [
+        "Grzywnę do 1000 złotych albo naganę.",
+        "Wyłącznie areszt.",
+        "Obowiązkową nawiązkę do 5000 złotych.",
+        "Brak odpowiedzialności, jeśli grunt przylega do jej posesji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zaorywanie lub zwężanie pasa drogowego albo pasa przydrożnego jest wykroczeniem zagrożonym grzywną do 1000 złotych albo naganą.",
+      "source": "Art. 100 pkt 1"
+    },
+    {
+      "id": "kw-128",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko osobie",
+      "difficulty": "medium",
+      "question": "Osoba nakłania do żebrania małoletniego pozostającego pod jej opieką. Jak należy ocenić czyn?",
+      "choices": [
+        "Stanowi wykroczenie zagrożone aresztem, ograniczeniem wolności albo grzywną.",
+        "Nie jest wykroczeniem, jeśli małoletni się zgadza.",
+        "Jest wykroczeniem tylko wtedy, gdy żebranie odbywa się nocą.",
+        "Podlega wyłącznie naganie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Skłanianie do żebrania małoletniego, osoby bezradnej, zależnej albo oddanej pod opiekę jest wykroczeniem.",
+      "source": "Art. 104"
+    },
+    {
+      "id": "kw-129",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko osobie",
+      "difficulty": "medium",
+      "question": "Rodzic rażąco narusza obowiązki wynikające z władzy rodzicielskiej, przez co nieletni popełnia czyn zabroniony wskazujący na demoralizację. Jaka odpowiedzialność jest przewidziana?",
+      "choices": [
+        "Grzywna albo nagana.",
+        "Wyłącznie areszt.",
+        "Brak odpowiedzialności rodzica w kodeksie wykroczeń.",
+        "Obowiązkowy zakaz kontaktu z dzieckiem."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rażące naruszenie obowiązków wynikających z władzy rodzicielskiej, prowadzące do popełnienia przez nieletniego czynu zabronionego wskazującego na demoralizację, jest zagrożone grzywną albo naganą.",
+      "source": "Art. 105 § 1"
+    },
+    {
+      "id": "kw-130",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko osobie",
+      "difficulty": "easy",
+      "question": "Opiekun pozostawia małoletniego do lat 7 w okolicznościach niebezpiecznych dla zdrowia człowieka. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Może odpowiadać za wykroczenie.",
+        "Nie odpowiada, jeśli dziecko nie doznało szkody.",
+        "Odpowiada tylko wtedy, gdy dziecko było na drodze publicznej.",
+        "Odpowiada wyłącznie cywilnie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dopuszczenie przez osobę obowiązaną do opieki lub nadzoru do przebywania małoletniego do lat 7 albo osoby niezdolnej do obrony w okolicznościach niebezpiecznych dla zdrowia jest wykroczeniem.",
+      "source": "Art. 106"
+    },
+    {
+      "id": "kw-131",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko osobie",
+      "difficulty": "easy",
+      "question": "Osoba złośliwie wprowadza sąsiada w błąd wyłącznie po to, aby mu dokuczyć. Jaka kwalifikacja może mieć zastosowanie?",
+      "choices": [
+        "Złośliwe niepokojenie lub wprowadzanie w błąd innej osoby.",
+        "Fałszywe alarmowanie służb.",
+        "Kradzież cudzej rzeczy.",
+        "Wykroczenie przeciwko bezpieczeństwu pożarowemu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Złośliwe wprowadzanie innej osoby w błąd lub złośliwe niepokojenie w celu dokuczenia jest wykroczeniem.",
+      "source": "Art. 107"
+    },
+    {
+      "id": "kw-132",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko osobie",
+      "difficulty": "medium",
+      "question": "Osoba bez uprawnienia włącza się w transmisję danych i umyślnie utrudnia użytkownikowi przekazywanie informacji. Jaka minimalna grzywna jest przewidziana dla podstawowego typu?",
+      "choices": [
+        "Nie niższa niż 1000 złotych.",
+        "Nie niższa niż 100 złotych.",
+        "Nie niższa niż 5000 złotych.",
+        "Nie ma możliwości orzeczenia grzywny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bezuprawnione włączenie się w transmisję danych, które umyślnie udaremnia lub utrudnia przekazywanie albo odbiór informacji, jest zagrożone ograniczeniem wolności albo grzywną nie niższą niż 1000 złotych.",
+      "source": "Art. 107a § 1"
+    },
+    {
+      "id": "kw-133",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko osobie",
+      "difficulty": "easy",
+      "question": "Osoba szczuję psem przypadkowego przechodnia. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Stanowi wykroczenie.",
+        "Nie stanowi wykroczenia, jeśli pies nie ugryzł człowieka.",
+        "Jest wykroczeniem tylko wtedy, gdy pies jest rasą uznaną za agresywną.",
+        "Podlega wyłącznie odpowiedzialności właściciela psa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Szczucie psem człowieka jest wykroczeniem.",
+      "source": "Art. 108"
+    },
+    {
+      "id": "kw-134",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko zdrowiu",
+      "difficulty": "medium",
+      "question": "Osoba zanieczyszcza wodę przeznaczoną do spożycia przez ludzi. Co przewiduje kodeks?",
+      "choices": [
+        "Karę grzywny albo nagany.",
+        "Wyłącznie areszt.",
+        "Brak odpowiedzialności, jeśli nikt nie zachorował.",
+        "Wyłącznie obowiązek przeproszenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zanieczyszczanie wody przeznaczonej do spożycia przez ludzi jest wykroczeniem zagrożonym grzywną albo naganą.",
+      "source": "Art. 109 § 1 pkt 1"
+    },
+    {
+      "id": "kw-135",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko zdrowiu",
+      "difficulty": "medium",
+      "question": "Pracodawca zatrudnia przy pracy z ryzykiem przeniesienia zakażenia osobę, która według aktualnych badań nie może wykonywać takiej pracy. Jaka sankcja jest przewidziana?",
+      "choices": [
+        "Grzywna.",
+        "Wyłącznie nagana.",
+        "Areszt obowiązkowy.",
+        "Brak odpowiedzialności, jeśli pracownik się zgodził."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zatrudnianie przy pracy z możliwością przeniesienia zakażenia osoby, która ze względu na stan zdrowia nie może wykonywać takiej pracy, jest zagrożone grzywną.",
+      "source": "Art. 110"
+    },
+    {
+      "id": "kw-136",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko zdrowiu",
+      "difficulty": "easy",
+      "question": "Właściciel zakładu żywienia zbiorowego nie zachowuje należytej czystości przy świadczeniu usług. Która odpowiedź jest prawidłowa?",
+      "choices": [
+        "Podlega karze grzywny.",
+        "Podlega wyłącznie naganie.",
+        "Nie odpowiada, jeśli nie było zatrucia.",
+        "Odpowiada tylko na żądanie klienta."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niezachowanie należytej czystości przy świadczeniu usług w zakładach żywienia zbiorowego i podobnych miejscach jest wykroczeniem zagrożonym grzywną.",
+      "source": "Art. 113"
+    },
+    {
+      "id": "kw-137",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko zdrowiu",
+      "difficulty": "medium",
+      "question": "Osoba odmawia organowi służby zdrowia wyjaśnień istotnych dla wykrycia choroby zakaźnej lub źródła zakażenia. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Może odpowiadać za wykroczenie zagrożone grzywną albo naganą.",
+        "Nie odpowiada, bo wyjaśnienia są zawsze dobrowolne.",
+        "Odpowiada tylko, jeśli sama jest chora.",
+        "Odpowiada wyłącznie wtedy, gdy działa w miejscu publicznym."
+      ],
+      "correctIndex": 0,
+      "explanation": "Odmowa udzielenia organowi służby zdrowia wyjaśnień mogących mieć znaczenie dla wykrycia choroby zakaźnej lub źródła zakażenia albo zapobiegania szerzeniu się chorób jest wykroczeniem.",
+      "source": "Art. 114"
+    },
+    {
+      "id": "kw-138",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko zdrowiu",
+      "difficulty": "medium",
+      "question": "Opiekun osoby małoletniej, mimo zastosowania egzekucji administracyjnej, nie poddaje jej obowiązkowemu szczepieniu ochronnemu. Jaka sankcja jest przewidziana?",
+      "choices": [
+        "Grzywna do 1500 złotych albo nagana.",
+        "Wyłącznie areszt.",
+        "Grzywna nie niższa niż 3000 złotych.",
+        "Brak odpowiedzialności opiekuna."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kto sprawując pieczę nad małoletnim lub osobą bezradną, mimo egzekucji administracyjnej, nie poddaje jej obowiązkowemu szczepieniu lub badaniu, podlega grzywnie do 1500 złotych albo naganie.",
+      "source": "Art. 115 § 2"
+    },
+    {
+      "id": "kw-139",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko zdrowiu",
+      "difficulty": "medium",
+      "question": "Osoba wie, że jest chora na chorobę zakaźną, ale nie przestrzega nakazu określonego w przepisach sanitarnych. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Stanowi wykroczenie zagrożone grzywną albo naganą.",
+        "Nie stanowi wykroczenia, jeśli osoba nie zaraziła innych.",
+        "Stanowi wykroczenie tylko po wcześniejszym skazaniu.",
+        "Podlega wyłącznie odpowiedzialności cywilnej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Osoba chora, podejrzana o chorobę, mająca kontakt z chorym lub będąca nosicielem, która nie przestrzega właściwych zakazów, nakazów, ograniczeń, obowiązków albo decyzji sanitarnych, popełnia wykroczenie.",
+      "source": "Art. 116 § 1"
+    },
+    {
+      "id": "kw-140",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko zdrowiu",
+      "difficulty": "easy",
+      "question": "Właściciel nieruchomości ma obowiązek utrzymywać czystość i porządek, ale tego nie robi. Jaka sankcja jest przewidziana?",
+      "choices": [
+        "Grzywna do 1500 złotych albo nagana.",
+        "Wyłącznie areszt.",
+        "Grzywna nie niższa niż 5000 złotych.",
+        "Brak odpowiedzialności wykroczeniowej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niewykonywanie obowiązków utrzymania czystości i porządku w obrębie nieruchomości albo niestosowanie się do wskazań i nakazów sanitarnych jest wykroczeniem.",
+      "source": "Art. 117 § 1"
+    },
+    {
+      "id": "kw-141",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko zdrowiu",
+      "difficulty": "medium",
+      "question": "Osoba wprowadza do obrotu mięso niezdatne do spożycia wbrew określonemu sposobowi jego wykorzystania. Co można dodatkowo orzec?",
+      "choices": [
+        "Przepadek mięsa, nawet jeśli nie stanowiło własności sprawcy.",
+        "Obowiązkowy zakaz prowadzenia pojazdów.",
+        "Wyłącznie naganę bez innych środków.",
+        "Przepadek tylko wtedy, gdy mięso należało do sprawcy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy wykroczeniach dotyczących uboju i obrotu mięsem można orzec przepadek mięsa, choćby nie stanowiło własności sprawcy.",
+      "source": "Art. 118 § 2-3"
+    },
+    {
+      "id": "kw-142",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko mieniu",
+      "difficulty": "easy",
+      "question": "Osoba kradnie cudzą rzecz ruchomą wartą 700 złotych. Która kwalifikacja z kodeksu wykroczeń może mieć zastosowanie?",
+      "choices": [
+        "Kradzież lub przywłaszczenie cudzej rzeczy ruchomej o wartości nieprzekraczającej 800 złotych.",
+        "Nie może to być wykroczenie, bo każda kradzież jest wyłącznie przestępstwem.",
+        "Wyłącznie samowolne użycie cudzej rzeczy.",
+        "Wykroczenie tylko wtedy, gdy rzecz ma wartość niemajątkową."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kradzież lub przywłaszczenie cudzej rzeczy ruchomej jest wykroczeniem, jeżeli wartość rzeczy nie przekracza 800 złotych.",
+      "source": "Art. 119 § 1"
+    },
+    {
+      "id": "kw-143",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko mieniu",
+      "difficulty": "medium",
+      "question": "Sprawca kradnie rzecz wartą 600 złotych na szkodę osoby najbliższej. Kiedy następuje ściganie?",
+      "choices": [
+        "Na żądanie pokrzywdzonego.",
+        "Zawsze z urzędu bez znaczenia dla pokrzywdzonego.",
+        "Tylko na wniosek prokuratora.",
+        "Wyłącznie po zgodzie sądu rodzinnego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli kradzież lub przywłaszczenie rzeczy o wartości nieprzekraczającej 800 złotych popełniono na szkodę osoby najbliższej, ściganie następuje na żądanie pokrzywdzonego.",
+      "source": "Art. 119 § 3"
+    },
+    {
+      "id": "kw-144",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko mieniu",
+      "difficulty": "medium",
+      "question": "Sprawca kradnie w lesie drewno warte 700 złotych. Co oprócz kary należy orzec?",
+      "choices": [
+        "Nawiązkę w wysokości podwójnej wartości drewna, a w określonym przypadku także obowiązek zapłaty jego równowartości.",
+        "Wyłącznie naganę.",
+        "Zakaz wstępu do lasu w każdym przypadku.",
+        "Przepadek pojazdu użytego do transportu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Za wyrąb, kradzież lub przywłaszczenie drzewa z lasu o wartości nieprzekraczającej 800 złotych orzeka się nawiązkę w wysokości podwójnej wartości drewna, a gdy drewna nie odebrano także obowiązek zapłaty równowartości.",
+      "source": "Art. 120 § 1 i § 3"
+    },
+    {
+      "id": "kw-145",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko mieniu",
+      "difficulty": "medium",
+      "question": "Osoba po dwóch nieuiszczonych karach taryfowych trzeci raz w ciągu roku jedzie koleją bez zamiaru zapłaty. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Może odpowiadać za wyłudzenie przejazdu.",
+        "Nie odpowiada, jeśli później zapłaci cenę biletu.",
+        "Odpowiada tylko za wykroczenie, gdy podróżuje pojazdem prywatnym.",
+        "Odpowiada wyłącznie cywilnie wobec przewoźnika."
+      ],
+      "correctIndex": 0,
+      "explanation": "Trzecie w ciągu roku wyłudzenie przejazdu koleją lub innym środkiem lokomocji, po dwukrotnym nieuiszczeniu kary pieniężnej określonej w taryfie, stanowi wykroczenie.",
+      "source": "Art. 121 § 1"
+    },
+    {
+      "id": "kw-146",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko mieniu",
+      "difficulty": "medium",
+      "question": "Osoba bez zamiaru zapłaty wyłudza posiłek w zakładzie żywienia zbiorowego. Co można orzec w razie ukarania?",
+      "choices": [
+        "Obowiązek zapłaty równowartości wyłudzonego mienia.",
+        "Obowiązkowy zakaz prowadzenia pojazdów.",
+        "Przepadek wszystkich pieniędzy sprawcy.",
+        "Wyłącznie przeproszenie personelu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy wyłudzeniu pożywienia, napoju lub podobnego świadczenia można orzec obowiązek zapłaty równowartości wyłudzonego mienia.",
+      "source": "Art. 121 § 2-3"
+    },
+    {
+      "id": "kw-147",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko mieniu",
+      "difficulty": "medium",
+      "question": "Osoba kupuje telefon za bardzo niską cenę, wiedząc, że pochodzi z kradzieży, a jego wartość nie przekracza 800 złotych. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Może odpowiadać za umyślne paserstwo wykroczeniowe.",
+        "Nie odpowiada, bo nie ukradła telefonu.",
+        "Odpowiada tylko, jeśli sprzeda telefon dalej.",
+        "Odpowiada wyłącznie wtedy, gdy telefon jest wart ponad 800 złotych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nabycie mienia o wartości nieprzekraczającej 800 złotych ze świadomością, że pochodzi z kradzieży lub przywłaszczenia, stanowi wykroczenie.",
+      "source": "Art. 122 § 1"
+    },
+    {
+      "id": "kw-148",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko mieniu",
+      "difficulty": "medium",
+      "question": "Osoba na podstawie okoliczności powinna i może przypuszczać, że rzecz warta 500 zł pochodzi z kradzieży, ale mimo to ją przyjmuje dla korzyści majątkowej. Jak należy ocenić czyn?",
+      "choices": [
+        "Może odpowiadać za nieumyślne paserstwo wykroczeniowe.",
+        "Nie odpowiada, bo nie miała pewności pochodzenia rzeczy.",
+        "Odpowiada tylko wtedy, gdy rzecz jest bronią.",
+        "Odpowiada wyłącznie na żądanie sprzedawcy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kto nabywa, przyjmuje lub pomaga ukryć mienie o wartości nieprzekraczającej 800 złotych, gdy powinien i może przypuszczać, że pochodzi ono z kradzieży lub przywłaszczenia, popełnia wykroczenie.",
+      "source": "Art. 122 § 2"
+    },
+    {
+      "id": "kw-149",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko mieniu",
+      "difficulty": "easy",
+      "question": "Osoba bezprawnie zabiera niewielką ilość owoców z cudzego ogrodu. Kiedy następuje ściganie?",
+      "choices": [
+        "Na żądanie pokrzywdzonego.",
+        "Zawsze z urzędu.",
+        "Tylko po zawiadomieniu wójta.",
+        "Wyłącznie po zgodzie prokuratora."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bezprawne zabranie w nieznacznej ilości owoców, warzyw lub kwiatów z cudzego ogrodu jest ścigane na żądanie pokrzywdzonego.",
+      "source": "Art. 123 § 1-2"
+    },
+    {
+      "id": "kw-150",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko mieniu",
+      "difficulty": "easy",
+      "question": "Osoba umyślnie niszczy cudzą rzecz, a szkoda wynosi 600 złotych. Która kwalifikacja może mieć zastosowanie?",
+      "choices": [
+        "Uszkodzenie cudzej rzeczy, gdy szkoda nie przekracza 800 złotych.",
+        "Brak wykroczenia, jeśli rzecz nie została skradziona.",
+        "Wyłącznie wykroczenie przeciwko porządkowi publicznemu.",
+        "Tylko czyn cywilnoprawny bez odpowiedzialności wykroczeniowej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Umyślne zniszczenie, uszkodzenie lub uczynienie cudzej rzeczy niezdatną do użytku jest wykroczeniem, jeżeli szkoda nie przekracza 800 złotych.",
+      "source": "Art. 124 § 1"
+    },
+    {
+      "id": "kw-151",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko mieniu",
+      "difficulty": "medium",
+      "question": "Osoba znalazła cudzą rzecz i przez dwa tygodnie nie zawiadomiła Policji ani innego organu ani nie szukała posiadacza w inny właściwy sposób. Jaka sankcja jest przewidziana?",
+      "choices": [
+        "Grzywna do 500 złotych albo nagana.",
+        "Areszt obowiązkowy.",
+        "Grzywna nie niższa niż 3000 złotych.",
+        "Brak odpowiedzialności, bo znalezienie rzeczy nigdy nie rodzi obowiązków."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kto w ciągu dwóch tygodni od znalezienia cudzej rzeczy albo przybłąkania się zwierzęcia nie zawiadomi właściwego organu ani w inny sposób nie poszukuje posiadacza, popełnia wykroczenie.",
+      "source": "Art. 125"
+    },
+    {
+      "id": "kw-152",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko mieniu",
+      "difficulty": "easy",
+      "question": "Osoba samowolnie używa cudzego roweru, ale nie zamierza go przywłaszczyć. Kiedy następuje ściganie?",
+      "choices": [
+        "Na żądanie pokrzywdzonego.",
+        "Zawsze z urzędu.",
+        "Tylko na wniosek Policji.",
+        "Nigdy, bo samowolne użycie cudzej rzeczy nie jest wykroczeniem."
+      ],
+      "correctIndex": 0,
+      "explanation": "Samowolne używanie cudzej rzeczy ruchomej jest wykroczeniem ściganym na żądanie pokrzywdzonego.",
+      "source": "Art. 127 § 1-2"
+    },
+    {
+      "id": "kw-153",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko mieniu",
+      "difficulty": "medium",
+      "question": "Osoba urządza grę hazardową w celu osiągnięcia korzyści majątkowej. Co dzieje się z pieniędzmi i przedmiotami służącymi do gry?",
+      "choices": [
+        "Podlegają przepadkowi, choćby nie stanowiły własności sprawcy.",
+        "Zawsze zwraca się je uczestnikom gry.",
+        "Przepadają tylko wtedy, gdy należą do organizatora.",
+        "Nie można orzec żadnego przepadku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pieniądze i inne przedmioty służące do gry hazardowej urządzonej w celu osiągnięcia korzyści majątkowej podlegają przepadkowi, choćby nie należały do sprawcy.",
+      "source": "Art. 128 § 1-2"
+    },
+    {
+      "id": "kw-154",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko mieniu",
+      "difficulty": "medium",
+      "question": "Osoba nietrudniąca się zawodem, w którym potrzebne są wytrychy, posiada wytrychy. Co przewiduje kodeks?",
+      "choices": [
+        "Odpowiedzialność za wykroczenie i przepadek wytrychów.",
+        "Brak odpowiedzialności, dopóki wytrych nie zostanie użyty.",
+        "Odpowiedzialność tylko za wykroczenie drogowe.",
+        "Wyłącznie pouczenie bez przepadku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wyrabianie, posiadanie lub nabywanie wytrychów przez osobę, która nie trudni się zawodem wymagającym takich narzędzi, jest wykroczeniem, a wytrychy podlegają przepadkowi.",
+      "source": "Art. 129 § 1 pkt 1 i § 3"
+    },
+    {
+      "id": "kw-155",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko mieniu",
+      "difficulty": "hard",
+      "question": "Sprawca zabiera cudzą rzecz wartą mniej niż 800 złotych, ale przedmiotem czynu jest amunicja. Czy stosuje się wykroczeniowy typ kradzieży rzeczy o małej wartości?",
+      "choices": [
+        "Nie, przepisu o kradzieży rzeczy do 800 złotych nie stosuje się, jeżeli przedmiotem czynu jest broń, amunicja, materiały lub przyrządy wybuchowe.",
+        "Tak, decyduje wyłącznie wartość rzeczy.",
+        "Tak, ale tylko przy pierwszym takim czynie.",
+        "Nie, bo każdy czyn o wartości poniżej 800 złotych jest niekaralny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przepisów dotyczących kradzieży, paserstwa i uszkodzenia rzeczy o wartości lub szkodzie do 800 złotych nie stosuje się, jeżeli przedmiotem czynu jest broń, amunicja, materiały lub przyrządy wybuchowe.",
+      "source": "Art. 130 § 1 pkt 2"
+    },
+    {
+      "id": "kw-156",
+      "type": "single_choice",
+      "category": "Wykroczenia przeciwko mieniu",
+      "difficulty": "hard",
+      "question": "Sprawca kradnie rzecz wartą mniej niż 800 złotych, ale działa z włamaniem. Czy można zakwalifikować czyn jako wykroczenie kradzieży rzeczy o małej wartości?",
+      "choices": [
+        "Nie, przepisu o kradzieży rzeczy do 800 złotych nie stosuje się przy kradzieży z włamaniem.",
+        "Tak, jeśli wartość rzeczy nie przekracza 800 złotych.",
+        "Tak, ale tylko gdy pokrzywdzony tego zażąda.",
+        "Tak, jeżeli sprawca odda rzecz."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przepisu o kradzieży rzeczy o wartości nieprzekraczającej 800 złotych nie stosuje się, jeżeli sprawca kradnie z włamaniem lub w sposób szczególnie zuchwały.",
+      "source": "Art. 130 § 2"
+    },
+    {
+      "id": "kw-157",
+      "type": "single_choice",
+      "category": "Interesy konsumentów",
+      "difficulty": "medium",
+      "question": "Osoba kupuje bilety na wydarzenie sportowe w celu ich odsprzedaży z zyskiem. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Może odpowiadać za wykroczenie.",
+        "Nie odpowiada, jeśli bilety są autentyczne.",
+        "Odpowiada tylko wtedy, gdy wydarzenie jest państwowe.",
+        "Odpowiada wyłącznie cywilnie wobec organizatora."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nabywanie biletów wstępu na imprezy artystyczne, rozrywkowe lub sportowe w celu odsprzedaży z zyskiem albo sprzedaż takich biletów z zyskiem jest wykroczeniem.",
+      "source": "Art. 133 § 1"
+    },
+    {
+      "id": "kw-158",
+      "type": "single_choice",
+      "category": "Interesy konsumentów",
+      "difficulty": "medium",
+      "question": "Sprzedawca oszukuje klienta co do wagi towaru, a klient mógł ponieść szkodę nieprzekraczającą 100 złotych. Jak należy ocenić czyn?",
+      "choices": [
+        "Może odpowiadać za oszustwo konsumenckie w wykroczeniowym zakresie.",
+        "Nie odpowiada, jeśli klient nie zdążył zapłacić.",
+        "Odpowiada tylko wtedy, gdy szkoda przekroczyła 800 złotych.",
+        "Odpowiada wyłącznie za wykroczenie drogowe."
+      ],
+      "correctIndex": 0,
+      "explanation": "Oszukiwanie nabywcy co do ilości, wagi, miary, gatunku, rodzaju lub ceny przy sprzedaży lub świadczeniu usług jest wykroczeniem, jeżeli szkoda nie przekracza lub mogła nie przekraczać 100 złotych.",
+      "source": "Art. 134 § 1"
+    },
+    {
+      "id": "kw-159",
+      "type": "single_choice",
+      "category": "Interesy konsumentów",
+      "difficulty": "easy",
+      "question": "Pracownik sklepu detalicznego ukrywa przed klientem towar przeznaczony do sprzedaży. Jaką sankcję przewiduje kodeks?",
+      "choices": [
+        "Grzywnę.",
+        "Wyłącznie naganę.",
+        "Obowiązkowy areszt.",
+        "Brak odpowiedzialności, jeśli towar nadal jest w sklepie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ukrywanie przed nabywcą towaru przeznaczonego do sprzedaży przez osobę zajmującą się sprzedażą w przedsiębiorstwie handlu detalicznego lub gastronomicznym jest zagrożone grzywną.",
+      "source": "Art. 135"
+    },
+    {
+      "id": "kw-160",
+      "type": "single_choice",
+      "category": "Interesy konsumentów",
+      "difficulty": "medium",
+      "question": "Osoba usuwa z towaru przeznaczonego do sprzedaży trwałe oznaczenie terminu przydatności do spożycia. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Stanowi wykroczenie.",
+        "Nie stanowi wykroczenia, jeśli towar jeszcze nie został sprzedany.",
+        "Stanowi wykroczenie tylko wtedy, gdy klient poniósł szkodę ponad 100 złotych.",
+        "Podlega wyłącznie odpowiedzialności cywilnej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Umyślne usunięcie z towaru przeznaczonego do sprzedaży utrwalonego oznaczenia ceny, terminu przydatności, daty produkcji, jakości, ilości, gatunku lub pochodzenia jest wykroczeniem.",
+      "source": "Art. 136 § 1"
+    },
+    {
+      "id": "kw-161",
+      "type": "single_choice",
+      "category": "Interesy konsumentów",
+      "difficulty": "medium",
+      "question": "Kierownik punktu sprzedaży detalicznej nie ma faktur ani innych dowodów dostawy na towary przechowywane w punkcie. Jaka sankcja jest przewidziana?",
+      "choices": [
+        "Areszt albo grzywna.",
+        "Wyłącznie nagana.",
+        "Brak odpowiedzialności wykroczeniowej.",
+        "Obowiązkowy zakaz prowadzenia działalności."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kierownik punktu sprzedaży detalicznej lub zakładu gastronomicznego, który nie ma faktur albo innych dowodów dostawy lub przyjęcia na przechowywane towary, podlega aresztowi albo grzywnie.",
+      "source": "Art. 137 § 2"
+    },
+    {
+      "id": "kw-162",
+      "type": "single_choice",
+      "category": "Interesy konsumentów",
+      "difficulty": "medium",
+      "question": "Osoba zawodowo świadcząca usługi umyślnie bez uzasadnionej przyczyny odmawia świadczenia, do którego jest obowiązana. Jaka sankcja jest przewidziana?",
+      "choices": [
+        "Grzywna.",
+        "Wyłącznie nagana.",
+        "Areszt obowiązkowy.",
+        "Brak odpowiedzialności, bo usługodawca zawsze może odmówić."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zawodowe świadczenie usług z żądaniem zawyżonej zapłaty albo umyślna bezuzasadniona odmowa świadczenia, do którego usługodawca jest obowiązany, jest zagrożona grzywną.",
+      "source": "Art. 138"
+    },
+    {
+      "id": "kw-163",
+      "type": "single_choice",
+      "category": "Obyczajność publiczna",
+      "difficulty": "easy",
+      "question": "Osoba publicznie dopuszcza się nieobyczajnego wybryku. Jaka sankcja jest możliwa?",
+      "choices": [
+        "Areszt, ograniczenie wolności, grzywna do 1500 złotych albo nagana.",
+        "Wyłącznie nagana.",
+        "Wyłącznie grzywna do 100 złotych.",
+        "Brak odpowiedzialności, jeśli nie było pokrzywdzonego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Publiczny nieobyczajny wybryk jest zagrożony aresztem, ograniczeniem wolności, grzywną do 1500 złotych albo naganą.",
+      "source": "Art. 140"
+    },
+    {
+      "id": "kw-164",
+      "type": "single_choice",
+      "category": "Obyczajność publiczna",
+      "difficulty": "easy",
+      "question": "Osoba w miejscu publicznym używa słów nieprzyzwoitych. Która ocena jest prawidłowa?",
+      "choices": [
+        "Może odpowiadać za wykroczenie.",
+        "Nie odpowiada, jeśli nie wskazała konkretnego adresata.",
+        "Odpowiada tylko wtedy, gdy słowa padły w urzędzie.",
+        "Odpowiada wyłącznie cywilnie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Używanie słów nieprzyzwoitych w miejscu publicznym jest wykroczeniem.",
+      "source": "Art. 141"
+    },
+    {
+      "id": "kw-165",
+      "type": "single_choice",
+      "category": "Obyczajność publiczna",
+      "difficulty": "medium",
+      "question": "Osoba natarczywie narzuca się przechodniom, proponując czyn nierządny w celu uzyskania korzyści materialnej. Jaką sankcję przewiduje kodeks?",
+      "choices": [
+        "Areszt, ograniczenie wolności albo grzywnę.",
+        "Wyłącznie naganę.",
+        "Brak odpowiedzialności wykroczeniowej.",
+        "Wyłącznie obowiązek przeproszenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Natarczywe proponowanie innej osobie czynu nierządnego w celu uzyskania korzyści materialnej, w sposób naruszający porządek publiczny, jest wykroczeniem.",
+      "source": "Art. 142"
+    },
+    {
+      "id": "kw-166",
+      "type": "single_choice",
+      "category": "Urządzenia publiczne i czystość",
+      "difficulty": "medium",
+      "question": "Osoba ze złośliwości uszkadza ławkę w parku przeznaczoną do użytku publicznego. Co można dodatkowo orzec?",
+      "choices": [
+        "Obowiązek zapłaty równowartości wyrządzonej szkody albo przywrócenia do stanu poprzedniego.",
+        "Obowiązkowy zakaz prowadzenia pojazdów.",
+        "Przepadek mieszkania sprawcy.",
+        "Wyłącznie pouczenie bez kary."
+      ],
+      "correctIndex": 0,
+      "explanation": "Złośliwe lub swawolne utrudnianie korzystania z urządzeń użytku publicznego, w tym ich uszkadzanie, może skutkować obowiązkiem zapłaty równowartości szkody albo przywrócenia do stanu poprzedniego.",
+      "source": "Art. 143 § 1-2"
+    },
+    {
+      "id": "kw-167",
+      "type": "single_choice",
+      "category": "Urządzenia publiczne i czystość",
+      "difficulty": "easy",
+      "question": "Osoba niszczy roślinność na terenie przeznaczonym do użytku publicznego. Jaka sankcja podstawowa jest przewidziana?",
+      "choices": [
+        "Grzywna do 1000 złotych albo nagana.",
+        "Wyłącznie areszt.",
+        "Grzywna nie niższa niż 3000 złotych.",
+        "Brak odpowiedzialności, jeżeli roślinność odrośnie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niszczenie lub uszkadzanie roślinności na terenach przeznaczonych do użytku publicznego jest zagrożone grzywną do 1000 złotych albo naganą.",
+      "source": "Art. 144 § 1"
+    },
+    {
+      "id": "kw-168",
+      "type": "single_choice",
+      "category": "Urządzenia publiczne i czystość",
+      "difficulty": "easy",
+      "question": "Osoba zaśmieca plac dostępny dla publiczności. Jaka minimalna grzywna jest przewidziana?",
+      "choices": [
+        "Nie niższa niż 500 złotych.",
+        "Nie niższa niż 50 złotych.",
+        "Nie niższa niż 1500 złotych.",
+        "Nie ma możliwości orzeczenia grzywny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zanieczyszczanie lub zaśmiecanie miejsc dostępnych dla publiczności, w szczególności drogi, ulicy, placu, ogrodu, trawnika lub zieleńca, jest zagrożone grzywną nie niższą niż 500 złotych.",
+      "source": "Art. 145 § 1"
+    },
+    {
+      "id": "kw-169",
+      "type": "single_choice",
+      "category": "Urządzenia publiczne i czystość",
+      "difficulty": "medium",
+      "question": "Sprawca zaśmieca miejsce publiczne w taki sposób, że można nakazać uprzątnięcie. Co można orzec oprócz kary?",
+      "choices": [
+        "Obowiązek przywrócenia do stanu poprzedniego.",
+        "Obowiązkowy zakaz prowadzenia pojazdów.",
+        "Przepadek narzędzi pracy.",
+        "Zawsze nawiązkę w wysokości 10000 złotych."
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie zanieczyszczania lub zaśmiecania miejsc dostępnych dla publiczności można orzec obowiązek przywrócenia do stanu poprzedniego.",
+      "source": "Art. 145 § 3"
+    },
+    {
+      "id": "kw-170",
+      "type": "single_choice",
+      "category": "Lasy i grunty rolne",
+      "difficulty": "easy",
+      "question": "Osoba w nienależącym do niej lesie zabiera wyrąbane gałęzie. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Może odpowiadać za wykroczenie leśne.",
+        "Nie odpowiada, bo gałęzie nie są drzewem.",
+        "Odpowiada tylko wtedy, gdy wartość przekracza 800 złotych.",
+        "Odpowiada wyłącznie za zaśmiecanie lasu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zabieranie z nienależącego lasu wyrąbanych gałęzi, korzeni, krzewów lub pniaków jest wykroczeniem.",
+      "source": "Art. 148 § 1 pkt 2"
+    },
+    {
+      "id": "kw-171",
+      "type": "single_choice",
+      "category": "Lasy i grunty rolne",
+      "difficulty": "medium",
+      "question": "Osoba wiedząc, że krzewy pochodzą z wykroczenia leśnego, pomaga je sprzedać. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Może odpowiadać za paserstwo dotyczące przedmiotów z wykroczenia leśnego.",
+        "Nie odpowiada, bo nie dokonała wyrębu.",
+        "Odpowiada tylko wtedy, gdy krzewy były z lasu państwowego.",
+        "Odpowiada wyłącznie cywilnie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nabywanie, pomoc w zbyciu, przyjmowanie lub ukrywanie gałęzi, korzeni, krzewów lub pniaków pochodzących z wykroczenia określonego w przepisie leśnym jest wykroczeniem.",
+      "source": "Art. 149"
+    },
+    {
+      "id": "kw-172",
+      "type": "single_choice",
+      "category": "Lasy i grunty rolne",
+      "difficulty": "easy",
+      "question": "Osoba pasie zwierzęta gospodarskie na cudzych gruntach rolnych w miejscu, gdzie jest to zabronione. Jaka odpowiedzialność jest przewidziana?",
+      "choices": [
+        "Grzywna do 500 złotych albo nagana.",
+        "Wyłącznie areszt.",
+        "Grzywna nie niższa niż 3000 złotych.",
+        "Brak odpowiedzialności, jeśli zwierzęta nie wyrządziły szkody."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pasaż zwierząt gospodarskich na nienależących gruntach leśnych lub rolnych, gdzie jest to zabronione, jest zagrożony grzywną do 500 złotych albo naganą.",
+      "source": "Art. 151 § 1"
+    },
+    {
+      "id": "kw-173",
+      "type": "single_choice",
+      "category": "Lasy i grunty rolne",
+      "difficulty": "medium",
+      "question": "Osoba w cudzym lesie zbiera mech lub ściółkę. Jak należy ocenić czyn?",
+      "choices": [
+        "Może odpowiadać za wykroczenie.",
+        "Nie odpowiada, bo mech nie jest drewnem.",
+        "Odpowiada tylko, jeśli działała nocą.",
+        "Odpowiada wyłącznie za kradzież rzeczy do 800 złotych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zbieranie mchu lub ściółki w nienależącym do sprawcy lesie jest wykroczeniem.",
+      "source": "Art. 153 § 1 pkt 2"
+    },
+    {
+      "id": "kw-174",
+      "type": "single_choice",
+      "category": "Lasy i grunty rolne",
+      "difficulty": "medium",
+      "question": "Osoba bez zgody właściciela wjeżdża samochodem do cudzego lasu w miejscu, gdzie jest to niedozwolone. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Może odpowiadać za wykroczenie.",
+        "Nie odpowiada, jeśli nie uszkodziła drzew.",
+        "Odpowiada tylko wtedy, gdy pojazd był ciężarowy.",
+        "Odpowiada wyłącznie za wykroczenie drogowe na drodze publicznej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nieuprawniony wjazd pojazdem silnikowym, zaprzęgowym lub motorowerem do nienależącego lasu w miejscu niedozwolonym jest wykroczeniem.",
+      "source": "Art. 161"
+    },
+    {
+      "id": "kw-175",
+      "type": "single_choice",
+      "category": "Lasy i grunty rolne",
+      "difficulty": "medium",
+      "question": "Osoba wyrzuca odpady do lasu. Co można dodatkowo orzec w razie tego wykroczenia?",
+      "choices": [
+        "Nawiązkę lub obowiązek przywrócenia do stanu poprzedniego.",
+        "Obowiązkowy zakaz prowadzenia pojazdów.",
+        "Przepadek lasu.",
+        "Wyłącznie naganę bez żadnych dodatkowych środków."
+      ],
+      "correctIndex": 0,
+      "explanation": "Za zanieczyszczanie gleby lub wody w lesie, wyrzucanie odpadów albo zaśmiecanie lasu można orzec nawiązkę lub obowiązek przywrócenia do stanu poprzedniego.",
+      "source": "Art. 162 § 1-3"
+    },
+    {
+      "id": "kw-176",
+      "type": "single_choice",
+      "category": "Lasy i grunty rolne",
+      "difficulty": "easy",
+      "question": "Osoba w lesie rozgarnia ściółkę i niszczy grzybnię. Jak należy ocenić zachowanie?",
+      "choices": [
+        "Stanowi wykroczenie zagrożone grzywną albo naganą.",
+        "Nie stanowi wykroczenia, jeżeli nie zebrano grzybów.",
+        "Stanowi wykroczenie tylko w parku narodowym.",
+        "Jest karalne wyłącznie na żądanie właściciela lasu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozgarnianie ściółki i niszczenie grzybów lub grzybni w lesie jest wykroczeniem.",
+      "source": "Art. 163"
+    },
+    {
+      "id": "kw-177",
+      "type": "single_choice",
+      "category": "Lasy i grunty rolne",
+      "difficulty": "medium",
+      "question": "Osoba puszcza luzem psa w lesie, poza czynnościami polowania, szkolenia psa specjalnego lub akcji ratowniczej. Jaka kwalifikacja jest właściwa?",
+      "choices": [
+        "Wykroczenie polegające na puszczaniu psa luzem w lesie.",
+        "Brak odpowiedzialności, jeśli pies jest łagodny.",
+        "Wykroczenie tylko wtedy, gdy pies pogryzie człowieka.",
+        "Wyłącznie naruszenie przepisów drogowych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Puszczanie luzem psa w lesie jest wykroczeniem, poza wyjątkami dotyczącymi między innymi polowania, szkolenia psów specjalnych i akcji ratowniczej.",
+      "source": "Art. 166"
+    },
+    {
+      "id": "kw-178",
+      "type": "single_choice",
+      "category": "Stosowanie kodeksu",
+      "difficulty": "medium",
+      "question": "Funkcjonariusz analizuje wykroczenie opisane w innej ustawie, która nie ma odmiennych przepisów części ogólnej. Czy zasady części ogólnej Kodeksu wykroczeń mają zastosowanie?",
+      "choices": [
+        "Tak, stosuje się je do wykroczeń z innych ustaw, jeżeli ustawy te nie zawierają przepisów odmiennych.",
+        "Nie, część ogólna dotyczy wyłącznie wykroczeń opisanych w tym kodeksie.",
+        "Tak, ale tylko do wykroczeń drogowych.",
+        "Nie, chyba że sprawca wyrazi zgodę."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przepisy części ogólnej Kodeksu wykroczeń stosuje się do wykroczeń przewidzianych w innych ustawach, jeżeli nie zawierają one przepisów odmiennych.",
+      "source": "Art. 48"
+    }
+  ]
+}

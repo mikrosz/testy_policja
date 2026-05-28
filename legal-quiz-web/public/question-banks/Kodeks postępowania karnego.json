@@ -1,0 +1,3687 @@
+{
+  "title": "Ustawa z dnia 6 czerwca 1997 r. Kodeks postępowania karnego",
+  "description": "Baza pytań praktycznych opracowana wyłącznie na podstawie przesłanego aktu prawnego.",
+  "question_count": 230,
+  "questions": [
+    {
+      "id": "kpk-001",
+      "type": "single_choice",
+      "category": "Zasady procesowe",
+      "difficulty": "easy",
+      "question": "Organ ma niedające się usunąć wątpliwości po przeprowadzeniu dostępnych dowodów. Jak powinien je rozstrzygnąć?",
+      "choices": [
+        "Według uznania organu bez kierunku korzystnego.",
+        "Na niekorzyść oskarżonego.",
+        "Przez automatyczne zawieszenie sprawy.",
+        "Na korzyść oskarżonego."
+      ],
+      "correctIndex": 3,
+      "explanation": "Niedające się usunąć wątpliwości rozstrzyga się na korzyść oskarżonego.",
+      "source": "Art. 5 § 2"
+    },
+    {
+      "id": "kpk-002",
+      "type": "single_choice",
+      "category": "Zasady procesowe",
+      "difficulty": "easy",
+      "question": "Prowadzący czynność pomija okoliczności korzystne dla podejrzanego i zbiera wyłącznie materiał obciążający. Które postępowanie jest prawidłowe?",
+      "choices": [
+        "Badać okoliczności korzystne tylko po przyznaniu się.",
+        "Badać okoliczności korzystne dopiero na rozprawie.",
+        "Badać i uwzględniać okoliczności zarówno na korzyść, jak i na niekorzyść oskarżonego.",
+        "Badać tylko okoliczności obciążające."
+      ],
+      "correctIndex": 2,
+      "explanation": "Organy prowadzące postępowanie muszą uwzględniać okoliczności w obu kierunkach.",
+      "source": "Art. 4"
+    },
+    {
+      "id": "kpk-003",
+      "type": "single_choice",
+      "category": "Zasady procesowe",
+      "difficulty": "easy",
+      "question": "Funkcjonariusz zakłada, że podejrzany powinien udowodnić swoją niewinność. Jaka ocena jest zgodna z kodeksem?",
+      "choices": [
+        "To prawidłowe założenie przy każdym przestępstwie umyślnym.",
+        "To zależy wyłącznie od decyzji pokrzywdzonego.",
+        "To prawidłowe, jeśli podejrzany odmawia wyjaśnień.",
+        "To błędne założenie, bo oskarżonego uważa się za niewinnego do czasu prawomocnego stwierdzenia winy."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kodeks ustanawia domniemanie niewinności.",
+      "source": "Art. 5 § 1"
+    },
+    {
+      "id": "kpk-004",
+      "type": "single_choice",
+      "category": "Zasady procesowe",
+      "difficulty": "easy",
+      "question": "Podejrzany pyta, czy może korzystać z obrońcy. Co należy mu przekazać?",
+      "choices": [
+        "Obrońca przysługuje dopiero po wyroku.",
+        "Obrońca zależy od zgody pokrzywdzonego.",
+        "Przysługuje mu prawo do obrony, w tym do korzystania z pomocy obrońcy.",
+        "Obrońca jest możliwy tylko po przyznaniu się."
+      ],
+      "correctIndex": 2,
+      "explanation": "Oskarżonemu przysługuje prawo do obrony i należy go o tym pouczyć.",
+      "source": "Art. 6"
+    },
+    {
+      "id": "kpk-005",
+      "type": "single_choice",
+      "category": "Zasady procesowe",
+      "difficulty": "medium",
+      "question": "Sąd karny zna wcześniejsze ustalenia innego organu. Jak co do zasady powinien rozstrzygać zagadnienia faktyczne i prawne?",
+      "choices": [
+        "Zawsze mechanicznie przyjąć ustalenia innego organu.",
+        "Zawsze przekazać sprawę temu organowi.",
+        "Pominąć wszystkie wcześniejsze rozstrzygnięcia bez wyjątków.",
+        "Samodzielnie, z uwzględnieniem wiążących prawomocnych rozstrzygnięć kształtujących prawo lub stosunek prawny."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sąd karny rozstrzyga samodzielnie, ale jest związany określonymi prawomocnymi rozstrzygnięciami.",
+      "source": "Art. 8 § 1-2"
+    },
+    {
+      "id": "kpk-006",
+      "type": "single_choice",
+      "category": "Zasady procesowe",
+      "difficulty": "easy",
+      "question": "Strona składa wniosek o czynność, którą organ może podjąć z urzędu. Czy taki wniosek jest dopuszczalny?",
+      "choices": [
+        "Nie, czynności urzędowe nie mogą być objęte wnioskiem.",
+        "Tylko po wniesieniu apelacji.",
+        "Tylko po zgodzie oskarżonego.",
+        "Tak, strony i osoby bezpośrednio zainteresowane mogą składać takie wnioski."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kodeks dopuszcza wnioski o czynności podejmowane z urzędu.",
+      "source": "Art. 9 § 2"
+    },
+    {
+      "id": "kpk-007",
+      "type": "single_choice",
+      "category": "Zasady procesowe",
+      "difficulty": "medium",
+      "question": "Organ ścigania ma podstawy do sprawy o czyn ścigany z urzędu. Które zachowanie odpowiada zasadzie legalizmu?",
+      "choices": [
+        "Czekanie na prywatny akt oskarżenia.",
+        "Odstąpienie z powodu braku zainteresowania mediów.",
+        "Wszczęcie i przeprowadzenie postępowania przygotowawczego oraz popieranie oskarżenia, jeśli zachodzą podstawy.",
+        "Prowadzenie sprawy tylko po zgodzie podejrzanego."
+      ],
+      "correctIndex": 2,
+      "explanation": "Organ powołany do ścigania ma obowiązek działania w sprawach ściganych z urzędu.",
+      "source": "Art. 10 § 1"
+    },
+    {
+      "id": "kpk-008",
+      "type": "single_choice",
+      "category": "Przesłanki procesowe",
+      "difficulty": "medium",
+      "question": "Sprawa dotyczy występku zagrożonego karą do 5 lat, a kara za inne przestępstwo czyni kolejną karę oczywiście niecelową. Co trzeba jeszcze uwzględnić przed umorzeniem?",
+      "choices": [
+        "Czy oskarżony sam wybierze sąd.",
+        "Czy Policja wyrazi zgodę na odstąpienie od uzasadnienia.",
+        "Czy interes pokrzywdzonego nie sprzeciwia się umorzeniu.",
+        "Czy świadek zrzeknie się zeznań."
+      ],
+      "correctIndex": 2,
+      "explanation": "Umorzenie z powodu oczywistej niecelowości kary wymaga także braku sprzeciwu interesu pokrzywdzonego.",
+      "source": "Art. 11 § 1"
+    },
+    {
+      "id": "kpk-009",
+      "type": "single_choice",
+      "category": "Przestępstwa ścigane na wniosek",
+      "difficulty": "medium",
+      "question": "Pokrzywdzony złożył wniosek o ściganie tylko wobec jednej osoby, ale czyny innych pozostają w ścisłym związku. Jaki jest skutek?",
+      "choices": [
+        "Obowiązek ścigania obejmuje także inne osoby, z ustawowym wyjątkiem dotyczącym najbliższych składającego wniosek.",
+        "Inne osoby można ścigać wyłącznie po osobnych wnioskach.",
+        "Postępowanie obejmuje tylko osobę wskazaną we wniosku.",
+        "Wniosek traci ważność w całości."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wniosek o ściganie niektórych sprawców obejmuje też inne osoby ściśle powiązane z czynem, poza wskazanym wyjątkiem.",
+      "source": "Art. 12 § 2"
+    },
+    {
+      "id": "kpk-010",
+      "type": "single_choice",
+      "category": "Przestępstwa ścigane na wniosek",
+      "difficulty": "medium",
+      "question": "Osoba uprawniona chce cofnąć wniosek o ściganie w postępowaniu przygotowawczym. Kto musi wyrazić zgodę?",
+      "choices": [
+        "Pokrzywdzony niebędący wnioskodawcą.",
+        "Dyżurny jednostki Policji.",
+        "Prokurator.",
+        "Sąd odwoławczy."
+      ],
+      "correctIndex": 2,
+      "explanation": "Cofnięcie wniosku w postępowaniu przygotowawczym wymaga zgody prokuratora.",
+      "source": "Art. 12 § 3"
+    },
+    {
+      "id": "kpk-011",
+      "type": "single_choice",
+      "category": "Przestępstwa ścigane na wniosek",
+      "difficulty": "medium",
+      "question": "Potrzeba uzyskania wniosku wynika wyłącznie z uprzedzenia przez sąd o możliwej kwalifikacji czynu jako ściganego na wniosek. Kto uzyskuje wniosek?",
+      "choices": [
+        "Oskarżony.",
+        "Policja zawsze.",
+        "Mediator.",
+        "Sąd."
+      ],
+      "correctIndex": 3,
+      "explanation": "W takim przypadku uzyskanie wniosku należy do sądu.",
+      "source": "Art. 12 § 1a"
+    },
+    {
+      "id": "kpk-012",
+      "type": "single_choice",
+      "category": "Zasady procesowe",
+      "difficulty": "medium",
+      "question": "Oskarżyciel publiczny chce cofnąć akt oskarżenia po rozpoczęciu przewodu sądowego przed sądem pierwszej instancji. Co jest konieczne?",
+      "choices": [
+        "Brak jakiejkolwiek zgody.",
+        "Zgoda Policji.",
+        "Zgoda każdego świadka.",
+        "Zgoda oskarżonego."
+      ],
+      "correctIndex": 3,
+      "explanation": "Po rozpoczęciu przewodu sądowego cofnięcie aktu oskarżenia wymaga zgody oskarżonego.",
+      "source": "Art. 14 § 2"
+    },
+    {
+      "id": "kpk-013",
+      "type": "single_choice",
+      "category": "Zasady procesowe",
+      "difficulty": "hard",
+      "question": "Po cofnięciu aktu oskarżenia oskarżyciel publiczny chce ponownie oskarżyć tę samą osobę o ten sam czyn. Jaka jest ocena?",
+      "choices": [
+        "Jest obowiązkowe w każdej sprawie publicznej.",
+        "Jest zawsze dopuszczalne.",
+        "Ponowne wniesienie aktu oskarżenia jest niedopuszczalne.",
+        "Jest dopuszczalne po zgodzie świadka."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kodeks zakazuje ponownego wniesienia aktu oskarżenia przeciw tej samej osobie o ten sam czyn po cofnięciu.",
+      "source": "Art. 14 § 2"
+    },
+    {
+      "id": "kpk-014",
+      "type": "single_choice",
+      "category": "Zasady procesowe",
+      "difficulty": "easy",
+      "question": "Sąd wydaje Policji polecenie w zakresie postępowania karnego. Jak powinna zachować się Policja?",
+      "choices": [
+        "Odmówić, bo polecenia wydaje tylko pokrzywdzony.",
+        "Zastąpić polecenie notatką własną.",
+        "Czekać na zgodę oskarżonego.",
+        "Wykonać polecenie w granicach ustawy."
+      ],
+      "correctIndex": 3,
+      "explanation": "Policja wykonuje polecenia sądu, referendarza i prokuratora w zakresie postępowania karnego.",
+      "source": "Art. 15 § 1"
+    },
+    {
+      "id": "kpk-015",
+      "type": "single_choice",
+      "category": "Zasady procesowe",
+      "difficulty": "easy",
+      "question": "Instytucja samorządowa otrzymuje wezwanie do udzielenia pomocy organowi procesowemu w zakresie swojego działania. Co powinna zrobić?",
+      "choices": [
+        "Udzielić pomocy w terminie wyznaczonym przez organ.",
+        "Udzielić pomocy dopiero po wyroku.",
+        "Przekazać sprawę osobie prywatnej.",
+        "Odmówić bez podstawy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Instytucje państwowe i samorządowe są obowiązane udzielać pomocy organom postępowania.",
+      "source": "Art. 15 § 2"
+    },
+    {
+      "id": "kpk-016",
+      "type": "single_choice",
+      "category": "Pouczenia",
+      "difficulty": "medium",
+      "question": "Organ nie pouczył uczestnika o uprawnieniu, choć miał taki obowiązek. Czy brak pouczenia może wywołać dla niego negatywne skutki?",
+      "choices": [
+        "Tak, jeśli sprawa jest pilna.",
+        "Nie, brak albo mylne pouczenie nie może wywoływać ujemnych skutków procesowych.",
+        "Tak, jeśli organ działał w dobrej wierze.",
+        "Tak, zawsze obciąża uczestnika."
+      ],
+      "correctIndex": 1,
+      "explanation": "Brak wymaganego pouczenia albo mylne pouczenie nie szkodzi uczestnikowi.",
+      "source": "Art. 16 § 1"
+    },
+    {
+      "id": "kpk-017",
+      "type": "single_choice",
+      "category": "Pouczenia",
+      "difficulty": "medium",
+      "question": "Uczestnikiem czynności jest osoba poniżej 18 lat. Jak należy dostosować pouczenie?",
+      "choices": [
+        "Do oczekiwań mediów.",
+        "Nie trzeba go dostosowywać.",
+        "Wyłącznie do treści aktu oskarżenia.",
+        "Do jej wieku, stanu zdrowia i rozwoju umysłowego."
+      ],
+      "correctIndex": 3,
+      "explanation": "Przy osobie niepełnoletniej lub nieporadnej sposób pouczenia musi być odpowiednio dostosowany.",
+      "source": "Art. 16 § 3"
+    },
+    {
+      "id": "kpk-018",
+      "type": "single_choice",
+      "category": "Przesłanki procesowe",
+      "difficulty": "easy",
+      "question": "Z materiału wynika, że czynu nie popełniono. Jaka decyzja jest zgodna z kodeksem?",
+      "choices": [
+        "Wnieść akt oskarżenia mimo braku czynu.",
+        "Przekazać sprawę do mediacji bez podstaw.",
+        "Nie wszczynać postępowania, a wszczęte umorzyć.",
+        "Zawsze zawiesić sprawę."
+      ],
+      "correctIndex": 2,
+      "explanation": "Brak czynu albo danych uzasadniających podejrzenie stanowi podstawę odmowy wszczęcia lub umorzenia.",
+      "source": "Art. 17 § 1 pkt 1"
+    },
+    {
+      "id": "kpk-019",
+      "type": "single_choice",
+      "category": "Przesłanki procesowe",
+      "difficulty": "medium",
+      "question": "Brakuje wymaganego wniosku o ściganie, a ustawa nie przewiduje wyjątku. Co powinien zrobić organ?",
+      "choices": [
+        "Wnieść akt oskarżenia wbrew brakowi wniosku.",
+        "Zastąpić wniosek notatką służbową.",
+        "Prowadzić pełne postępowanie do wyroku.",
+        "Nie wszcząć postępowania albo umorzyć wszczęte."
+      ],
+      "correctIndex": 3,
+      "explanation": "Brak wymaganego wniosku od osoby uprawnionej jest negatywną przesłanką procesową, chyba że ustawa stanowi inaczej.",
+      "source": "Art. 17 § 1 pkt 10"
+    },
+    {
+      "id": "kpk-020",
+      "type": "single_choice",
+      "category": "Przesłanki procesowe",
+      "difficulty": "hard",
+      "question": "Organ oczekuje na wymagane zezwolenie na ściganie. Jakie czynności może wykonywać przed jego uzyskaniem?",
+      "choices": [
+        "Tylko czynności niecierpiące zwłoki dla zabezpieczenia śladów i dowodów oraz czynności wyjaśniające, czy zezwolenie będzie wydane.",
+        "Wszystkie czynności, łącznie z aktem oskarżenia.",
+        "Żadnych czynności, nawet zabezpieczających.",
+        "Wyłącznie czynności mediacyjne."
+      ],
+      "correctIndex": 0,
+      "explanation": "Do czasu uzyskania wniosku lub zezwolenia organ ogranicza się do czynności niecierpiących zwłoki i wyjaśniających.",
+      "source": "Art. 17 § 2"
+    },
+    {
+      "id": "kpk-021",
+      "type": "single_choice",
+      "category": "Przesłanki procesowe",
+      "difficulty": "medium",
+      "question": "Prokurator uznaje, że czyn jest tylko wykroczeniem. Co może zrobić przy odmowie wszczęcia lub umorzeniu postępowania karnego?",
+      "choices": [
+        "Przekazać sprawę Policji w celu wystąpienia z wnioskiem o ukaranie albo sam wystąpić z takim wnioskiem.",
+        "Zniszczyć materiały bez decyzji.",
+        "Przekazać sprawę wyłącznie mediatorowi.",
+        "Zawsze skierować akt oskarżenia o przestępstwo."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli czyn stanowi tylko wykroczenie, prokurator może przekazać sprawę Policji albo sam wystąpić z wnioskiem o ukaranie.",
+      "source": "Art. 18 § 1"
+    },
+    {
+      "id": "kpk-022",
+      "type": "single_choice",
+      "category": "Przesłanki procesowe",
+      "difficulty": "medium",
+      "question": "Policja ujawniła poważne uchybienie w działaniu instytucji, które mogło sprzyjać przestępstwu. Co powinna zrobić?",
+      "choices": [
+        "Powiadomić prokuratora.",
+        "Zawiadomić wyłącznie prasę.",
+        "Pominąć uchybienie.",
+        "Samodzielnie nałożyć karę pieniężną."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policja powiadamia prokuratora o ujawnionych uchybieniach.",
+      "source": "Art. 19 § 1"
+    },
+    {
+      "id": "kpk-023",
+      "type": "single_choice",
+      "category": "Przesłanki procesowe",
+      "difficulty": "medium",
+      "question": "Wszczęto postępowanie z urzędu przeciw funkcjonariuszowi publicznemu. Kogo należy zawiadomić?",
+      "choices": [
+        "Wyłącznie pokrzywdzonego.",
+        "Nikogo do czasu wyroku.",
+        "Wyłącznie sąd rodzinny.",
+        "Jego przełożonego."
+      ],
+      "correctIndex": 3,
+      "explanation": "O wszczęciu i ukończeniu takiego postępowania należy bezzwłocznie zawiadomić przełożonego.",
+      "source": "Art. 21 § 1 pkt 1"
+    },
+    {
+      "id": "kpk-024",
+      "type": "single_choice",
+      "category": "Przesłanki procesowe",
+      "difficulty": "medium",
+      "question": "Oskarżonego nie można ująć przez dłuższy czas. Co należy zrobić z postępowaniem?",
+      "choices": [
+        "Wydać wyrok bez procesu.",
+        "Zakończyć notatką służbową.",
+        "Zawiesić je na czas trwania przeszkody.",
+        "Umorzyć zawsze definitywnie."
+      ],
+      "correctIndex": 2,
+      "explanation": "Długotrwała przeszkoda, w tym niemożność ujęcia oskarżonego, uzasadnia zawieszenie.",
+      "source": "Art. 22 § 1"
+    },
+    {
+      "id": "kpk-025",
+      "type": "single_choice",
+      "category": "Przesłanki procesowe",
+      "difficulty": "medium",
+      "question": "Postępowanie jest zawieszone, ale grozi utrata dowodu. Co należy zrobić?",
+      "choices": [
+        "Czekać do podjęcia postępowania bez zabezpieczenia.",
+        "Wykonać odpowiednie czynności zabezpieczające dowód przed utratą lub zniekształceniem.",
+        "Nie wolno wykonać żadnej czynności.",
+        "Zniszczyć materiał jako nieprzydatny."
+      ],
+      "correctIndex": 1,
+      "explanation": "W czasie zawieszenia należy zabezpieczać dowody przed utratą lub zniekształceniem.",
+      "source": "Art. 22 § 3"
+    },
+    {
+      "id": "kpk-026",
+      "type": "single_choice",
+      "category": "Przesłanki procesowe",
+      "difficulty": "medium",
+      "question": "Sprawa dotyczy przestępstwa popełnionego na szkodę małoletniego. Kogo zawiadamia prokurator w postępowaniu przygotowawczym?",
+      "choices": [
+        "Radę gminy.",
+        "Komisję egzaminacyjną.",
+        "Sąd rodzinny.",
+        "Izbę skarbową."
+      ],
+      "correctIndex": 2,
+      "explanation": "W takich sprawach sąd, a w postępowaniu przygotowawczym prokurator, zawiadamia sąd rodzinny.",
+      "source": "Art. 23"
+    },
+    {
+      "id": "kpk-027",
+      "type": "single_choice",
+      "category": "Mediacja",
+      "difficulty": "easy",
+      "question": "Oskarżony i pokrzywdzony zgadzają się na mediację w postępowaniu przygotowawczym. Kto może skierować sprawę do mediatora?",
+      "choices": [
+        "Wyłącznie sąd po kasacji.",
+        "Wyłącznie pokrzywdzony bez organu.",
+        "Wyłącznie oskarżony samodzielnie.",
+        "Prokurator lub inny organ prowadzący postępowanie przygotowawcze."
+      ],
+      "correctIndex": 3,
+      "explanation": "W postępowaniu przygotowawczym mediację może zainicjować lub zaakceptować organ prowadzący sprawę.",
+      "source": "Art. 23a § 1"
+    },
+    {
+      "id": "kpk-028",
+      "type": "single_choice",
+      "category": "Mediacja",
+      "difficulty": "easy",
+      "question": "Uczestnik mediacji chce cofnąć zgodę przed jej zakończeniem. Czy może?",
+      "choices": [
+        "Nie, zgoda jest nieodwołalna.",
+        "Tylko za zgodą Policji.",
+        "Tak, zgoda może być cofnięta aż do zakończenia mediacji.",
+        "Tylko po wyroku."
+      ],
+      "correctIndex": 2,
+      "explanation": "Udział w mediacji jest dobrowolny, a zgoda może zostać cofnięta do zakończenia mediacji.",
+      "source": "Art. 23a § 4"
+    },
+    {
+      "id": "kpk-029",
+      "type": "single_choice",
+      "category": "Mediacja",
+      "difficulty": "medium",
+      "question": "Funkcjonariusz organu ścigania chce być mediatorem w sprawie karnej. Czy jest to dopuszczalne?",
+      "choices": [
+        "Tak, jeśli nie ma ugody.",
+        "Tak, zawsze.",
+        "Nie, funkcjonariusz instytucji uprawnionej do ścigania przestępstw nie może prowadzić mediacji.",
+        "Tak, gdy zna sprawę."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kodeks wyłącza taką osobę z prowadzenia postępowania mediacyjnego.",
+      "source": "Art. 23a § 3"
+    },
+    {
+      "id": "kpk-030",
+      "type": "single_choice",
+      "category": "Właściwość sądu",
+      "difficulty": "easy",
+      "question": "Do sądu trafia sprawa pierwszej instancji, a żaden przepis nie przekazuje jej innemu sądowi. Który sąd jest właściwy?",
+      "choices": [
+        "Sąd rejonowy.",
+        "Sąd apelacyjny.",
+        "Sąd Najwyższy.",
+        "Sąd rodzinny w każdej sprawie karnej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sąd rejonowy jest zasadniczym sądem pierwszej instancji.",
+      "source": "Art. 24 § 1"
+    },
+    {
+      "id": "kpk-031",
+      "type": "single_choice",
+      "category": "Właściwość sądu",
+      "difficulty": "medium",
+      "question": "Sprawa dotyczy zbrodni. Który sąd orzeka w pierwszej instancji?",
+      "choices": [
+        "Sąd apelacyjny zawsze.",
+        "Sąd okręgowy.",
+        "Sąd Najwyższy zawsze.",
+        "Sąd rejonowy zawsze."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sąd okręgowy orzeka w pierwszej instancji w sprawach o zbrodnie.",
+      "source": "Art. 25 § 1 pkt 1"
+    },
+    {
+      "id": "kpk-032",
+      "type": "single_choice",
+      "category": "Skład sądu",
+      "difficulty": "easy",
+      "question": "Sprawa nie wymaga szczególnego składu. W jakim składzie sąd orzeka na rozprawie głównej?",
+      "choices": [
+        "Jednego sędziego.",
+        "Dwóch sędziów i trzech ławników zawsze.",
+        "Jednego sędziego i dwóch ławników zawsze.",
+        "Trzech sędziów zawsze."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zasadą na rozprawie głównej jest skład jednego sędziego.",
+      "source": "Art. 28 § 1"
+    },
+    {
+      "id": "kpk-033",
+      "type": "single_choice",
+      "category": "Skład sądu",
+      "difficulty": "medium",
+      "question": "Oskarżonemu zarzucono zbrodnię, ale sprawa nie dotyczy czynu zagrożonego dożywotnim pozbawieniem wolności. Jaki skład jest przewidziany?",
+      "choices": [
+        "Jeden sędzia i dwóch ławników.",
+        "Jeden sędzia bez ławników.",
+        "Pięciu sędziów zawodowych.",
+        "Dwóch ławników bez sędziego."
+      ],
+      "correctIndex": 0,
+      "explanation": "W sprawach o zbrodnie sąd orzeka w składzie jednego sędziego i dwóch ławników.",
+      "source": "Art. 28 § 2"
+    },
+    {
+      "id": "kpk-034",
+      "type": "single_choice",
+      "category": "Skład sądu",
+      "difficulty": "hard",
+      "question": "Sprawa dotyczy przestępstwa zagrożonego karą dożywotniego pozbawienia wolności. Jaki skład sądu jest właściwy?",
+      "choices": [
+        "Jeden sędzia i dwóch ławników.",
+        "Trzech ławników bez sędziów.",
+        "Dwóch sędziów i trzech ławników.",
+        "Jeden sędzia bez ławników."
+      ],
+      "correctIndex": 2,
+      "explanation": "Przy przestępstwach zagrożonych dożywotnim pozbawieniem wolności sąd orzeka w składzie dwóch sędziów i trzech ławników.",
+      "source": "Art. 28 § 4"
+    },
+    {
+      "id": "kpk-035",
+      "type": "single_choice",
+      "category": "Właściwość miejscowa",
+      "difficulty": "easy",
+      "question": "Przestępstwo popełniono w jednym okręgu. Który sąd jest miejscowo właściwy?",
+      "choices": [
+        "Sąd wybrany przez oskarżonego.",
+        "Sąd miejsca zamieszkania świadka zawsze.",
+        "Sąd, w którego okręgu popełniono przestępstwo.",
+        "Dowolny sąd rejonowy w kraju."
+      ],
+      "correctIndex": 2,
+      "explanation": "Miejscowo właściwy jest sąd miejsca popełnienia przestępstwa.",
+      "source": "Art. 31 § 1"
+    },
+    {
+      "id": "kpk-036",
+      "type": "single_choice",
+      "category": "Właściwość miejscowa",
+      "difficulty": "medium",
+      "question": "Nie można ustalić miejsca czynu ani właściwości według kolejnych reguł. Który sąd rozpoznaje sprawę?",
+      "choices": [
+        "Dowolny sąd wskazany przez Policję.",
+        "Sąd właściwy dla ostatniego świadka.",
+        "Sąd wybrany przez pokrzywdzonego.",
+        "Sąd właściwy dla dzielnicy Śródmieście miasta stołecznego Warszawy."
+      ],
+      "correctIndex": 3,
+      "explanation": "Gdy nie da się ustalić właściwości według wcześniejszych reguł, właściwy jest sąd dla dzielnicy Śródmieście m.st. Warszawy.",
+      "source": "Art. 32 § 3"
+    },
+    {
+      "id": "kpk-037",
+      "type": "single_choice",
+      "category": "Właściwość sądu",
+      "difficulty": "medium",
+      "question": "Tę samą osobę oskarżono o kilka czynów należących do sądów różnego rzędu. Który sąd rozpoznaje sprawę?",
+      "choices": [
+        "Sąd niższego rzędu.",
+        "Sąd wyższego rzędu.",
+        "Sąd wskazany przez świadka.",
+        "Sąd rodzinny."
+      ],
+      "correctIndex": 1,
+      "explanation": "Przy sprawach tej samej osoby należących do sądów różnego rzędu właściwy jest sąd wyższego rzędu.",
+      "source": "Art. 33 § 2"
+    },
+    {
+      "id": "kpk-038",
+      "type": "single_choice",
+      "category": "Właściwość sądu",
+      "difficulty": "medium",
+      "question": "Sprawca, pomocnik i podżegacz odpowiadają jednocześnie za czyny pozostające w ścisłym związku. Który sąd jest właściwy dla powiązanych osób?",
+      "choices": [
+        "Sąd właściwy dla sprawców.",
+        "Sąd miejsca zamieszkania pomocnika.",
+        "Zawsze różne sądy.",
+        "Sąd wskazany przez pokrzywdzonego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sąd właściwy dla sprawców jest właściwy także dla pomocników, podżegaczy i innych ściśle powiązanych osób.",
+      "source": "Art. 34 § 1"
+    },
+    {
+      "id": "kpk-039",
+      "type": "single_choice",
+      "category": "Właściwość sądu",
+      "difficulty": "easy",
+      "question": "Sąd stwierdza, że nie jest właściwy. Co powinien zrobić?",
+      "choices": [
+        "Rozpoznać sprawę mimo niewłaściwości.",
+        "Przekazać sprawę właściwemu sądowi lub innemu organowi.",
+        "Zwrócić sprawę pokrzywdzonemu.",
+        "Zniszczyć akta."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sąd bada właściwość z urzędu i w razie niewłaściwości przekazuje sprawę właściwemu podmiotowi.",
+      "source": "Art. 35 § 1"
+    },
+    {
+      "id": "kpk-040",
+      "type": "single_choice",
+      "category": "Właściwość sądu",
+      "difficulty": "hard",
+      "question": "Większość osób do wezwania mieszka blisko innego sądu równorzędnego. Kto może przekazać sprawę temu sądowi?",
+      "choices": [
+        "Mediator.",
+        "Policja samodzielnie.",
+        "Pokrzywdzony.",
+        "Sąd wyższego rzędu nad sądem właściwym."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sąd wyższego rzędu może przekazać sprawę sądowi równorzędnemu z uwagi na miejsce zamieszkania większości osób wzywanych.",
+      "source": "Art. 36"
+    },
+    {
+      "id": "kpk-041",
+      "type": "single_choice",
+      "category": "Właściwość sądu",
+      "difficulty": "hard",
+      "question": "Dobro wymiaru sprawiedliwości wymaga przekazania sprawy innemu sądowi równorzędnemu. Kto może o tym zdecydować?",
+      "choices": [
+        "Biegły.",
+        "Komendant wojewódzki Policji.",
+        "Sąd Najwyższy.",
+        "Protokolant."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sąd Najwyższy może przekazać sprawę innemu sądowi równorzędnemu, gdy wymaga tego dobro wymiaru sprawiedliwości.",
+      "source": "Art. 37 § 1"
+    },
+    {
+      "id": "kpk-042",
+      "type": "single_choice",
+      "category": "Wyłączenie sędziego",
+      "difficulty": "easy",
+      "question": "Sędzia jest małżonkiem pokrzywdzonego. Czy może orzekać?",
+      "choices": [
+        "Tak, jeśli sprawa jest prosta.",
+        "Tak, jeśli strony milczą.",
+        "Nie, jest wyłączony z mocy prawa.",
+        "Tak, po zgodzie prokuratora."
+      ],
+      "correctIndex": 2,
+      "explanation": "Małżeństwo z pokrzywdzonym powoduje wyłączenie sędziego z mocy prawa.",
+      "source": "Art. 40 § 1 pkt 2"
+    },
+    {
+      "id": "kpk-043",
+      "type": "single_choice",
+      "category": "Wyłączenie sędziego",
+      "difficulty": "medium",
+      "question": "Sędzia był świadkiem czynu objętego sprawą. Czy może orzekać?",
+      "choices": [
+        "Tak, wyłącznie w sądzie rejonowym.",
+        "Tak, bo zna fakty.",
+        "Tak, jeśli nie składa zeznań.",
+        "Nie, jest wyłączony z mocy prawa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sędzia będący świadkiem czynu nie może uczestniczyć w sprawie.",
+      "source": "Art. 40 § 1 pkt 4"
+    },
+    {
+      "id": "kpk-044",
+      "type": "single_choice",
+      "category": "Wyłączenie sędziego",
+      "difficulty": "medium",
+      "question": "Sędzia prowadził wcześniej mediację w tej sprawie. Jaka jest konsekwencja?",
+      "choices": [
+        "Może orzekać wyłącznie jako ławnik.",
+        "Nie może brać udziału w sprawie.",
+        "Może orzekać tylko po ugodzie.",
+        "Może orzekać bez ograniczeń."
+      ],
+      "correctIndex": 1,
+      "explanation": "Prowadzenie mediacji jest ustawową podstawą wyłączenia sędziego.",
+      "source": "Art. 40 § 1 pkt 10"
+    },
+    {
+      "id": "kpk-045",
+      "type": "single_choice",
+      "category": "Wyłączenie sędziego",
+      "difficulty": "medium",
+      "question": "Pojawia się okoliczność mogąca wywołać uzasadnioną wątpliwość co do bezstronności sędziego. Co może nastąpić?",
+      "choices": [
+        "Obowiązkowe umorzenie sprawy.",
+        "Wyłączenie sędziego.",
+        "Przekazanie sprawy Policji.",
+        "Automatyczne skazanie."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sędzia ulega wyłączeniu, gdy okoliczność może wywołać uzasadnioną wątpliwość co do bezstronności.",
+      "source": "Art. 41 § 1"
+    },
+    {
+      "id": "kpk-046",
+      "type": "single_choice",
+      "category": "Wyłączenie sędziego",
+      "difficulty": "medium",
+      "question": "Sędzia sam uznaje, że zachodzi przyczyna wyłączająca go z mocy prawa. Jak powinien postąpić?",
+      "choices": [
+        "Kontynuować sprawę bez reakcji.",
+        "Wyłączyć się przez pisemne oświadczenie do akt.",
+        "Pytać pokrzywdzonego o zgodę.",
+        "Czekać na wyrok."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sędzia wyłącza się przez pisemne oświadczenie do akt, a na jego miejsce wstępuje inny sędzia.",
+      "source": "Art. 42 § 2"
+    },
+    {
+      "id": "kpk-047",
+      "type": "single_choice",
+      "category": "Wyłączenie sędziego",
+      "difficulty": "hard",
+      "question": "W danym sądzie nie da się rozpoznać sprawy z powodu wyłączenia sędziów. Co następuje?",
+      "choices": [
+        "Policja wskazuje nowy sąd.",
+        "Sprawę zawsze umarza się.",
+        "Sędzia wyłączony orzeka mimo przeszkody.",
+        "Sąd wyższego rzędu przekazuje sprawę innemu sądowi równorzędnemu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Jeżeli wyłączenia uniemożliwiają rozpoznanie, sąd wyższego rzędu przekazuje sprawę sądowi równorzędnemu.",
+      "source": "Art. 43"
+    },
+    {
+      "id": "kpk-048",
+      "type": "single_choice",
+      "category": "Oskarżyciel publiczny",
+      "difficulty": "easy",
+      "question": "Kto jest oskarżycielem publicznym przed wszystkimi sądami?",
+      "choices": [
+        "Policja w każdej sprawie.",
+        "Każdy pokrzywdzony.",
+        "Prokurator.",
+        "Mediator."
+      ],
+      "correctIndex": 2,
+      "explanation": "Oskarżycielem publicznym przed wszystkimi sądami jest prokurator.",
+      "source": "Art. 45 § 1"
+    },
+    {
+      "id": "kpk-049",
+      "type": "single_choice",
+      "category": "Oskarżyciel publiczny",
+      "difficulty": "medium",
+      "question": "Dochodzenie zakończono i oskarżyciel publiczny nie stawia się na rozprawę. Czy rozprawa może toczyć się dalej?",
+      "choices": [
+        "Tak, ale tylko po zgodzie oskarżonego.",
+        "Tak, niestawiennictwo nie tamuje jej toku, chyba że obecność uznano za obowiązkową.",
+        "Nie, zawsze trzeba odroczyć.",
+        "Nie, trzeba umorzyć sprawę."
+      ],
+      "correctIndex": 1,
+      "explanation": "W sprawach po dochodzeniu niestawiennictwo oskarżyciela publicznego co do zasady nie tamuje rozprawy.",
+      "source": "Art. 46 § 2"
+    },
+    {
+      "id": "kpk-050",
+      "type": "single_choice",
+      "category": "Pokrzywdzony",
+      "difficulty": "easy",
+      "question": "Osobie bezpośrednio naruszono dobro prawne przez przestępstwo. Jaki status może mieć w postępowaniu?",
+      "choices": [
+        "Biegłego.",
+        "Oskarżyciela publicznego z urzędu.",
+        "Referendarza.",
+        "Pokrzywdzonego."
+      ],
+      "correctIndex": 3,
+      "explanation": "Pokrzywdzonym jest osoba, której dobro prawne bezpośrednio naruszono lub zagrożono przestępstwem.",
+      "source": "Art. 49 § 1"
+    },
+    {
+      "id": "kpk-051",
+      "type": "single_choice",
+      "category": "Pokrzywdzony",
+      "difficulty": "medium",
+      "question": "Zakład ubezpieczeń pokrył szkodę wyrządzoną przestępstwem. W jakim zakresie jest pokrzywdzonym?",
+      "choices": [
+        "Tylko za zgodą oskarżonego.",
+        "W żadnym zakresie.",
+        "Wyłącznie co do szkody moralnej.",
+        "W zakresie, w jakim pokrył szkodę lub jest zobowiązany ją pokryć."
+      ],
+      "correctIndex": 3,
+      "explanation": "Zakład ubezpieczeń może być pokrzywdzonym w zakresie pokrytej szkody lub obowiązku jej pokrycia.",
+      "source": "Art. 49 § 3"
+    },
+    {
+      "id": "kpk-052",
+      "type": "single_choice",
+      "category": "Pokrzywdzony",
+      "difficulty": "medium",
+      "question": "Pokrzywdzony jest małoletni. Kto wykonuje jego prawa?",
+      "choices": [
+        "Dowolny świadek.",
+        "Biegły psycholog zawsze.",
+        "Oskarżony.",
+        "Przedstawiciel ustawowy albo osoba, pod której stałą pieczą pozostaje."
+      ],
+      "correctIndex": 3,
+      "explanation": "Prawa małoletniego pokrzywdzonego wykonuje przedstawiciel ustawowy albo osoba sprawująca stałą pieczę.",
+      "source": "Art. 51 § 2"
+    },
+    {
+      "id": "kpk-053",
+      "type": "single_choice",
+      "category": "Pokrzywdzony",
+      "difficulty": "medium",
+      "question": "Pokrzywdzony zmarł. Kto może wykonywać jego prawa?",
+      "choices": [
+        "Osoby najbliższe lub pozostające na jego utrzymaniu, a przy ich braku albo nieujawnieniu prokurator z urzędu.",
+        "Wyłącznie sąd odwoławczy.",
+        "Wyłącznie oskarżony.",
+        "Nikt nigdy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Po śmierci pokrzywdzonego jego prawa mogą wykonywać osoby wskazane w kodeksie, a w braku takich osób prokurator.",
+      "source": "Art. 52 § 1"
+    },
+    {
+      "id": "kpk-054",
+      "type": "single_choice",
+      "category": "Oskarżyciel posiłkowy",
+      "difficulty": "easy",
+      "question": "Pokrzywdzony w sprawie publicznoskargowej chce działać jako strona obok prokuratora. Jaki status może uzyskać?",
+      "choices": [
+        "Oskarżyciela posiłkowego.",
+        "Biegłego.",
+        "Obrońcy.",
+        "Oskarżonego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pokrzywdzony może działać jako oskarżyciel posiłkowy obok oskarżyciela publicznego albo zamiast niego.",
+      "source": "Art. 53"
+    },
+    {
+      "id": "kpk-055",
+      "type": "single_choice",
+      "category": "Oskarżyciel posiłkowy",
+      "difficulty": "medium",
+      "question": "Pokrzywdzony chce złożyć oświadczenie o działaniu jako oskarżyciel posiłkowy, gdy akt oskarżenia wniósł prokurator. Do kiedy może to zrobić?",
+      "choices": [
+        "W dowolnym czasie po wyroku.",
+        "Do czasu rozpoczęcia przewodu sądowego na rozprawie głównej.",
+        "Tylko przed wszczęciem śledztwa.",
+        "Do zakończenia kasacji."
+      ],
+      "correctIndex": 1,
+      "explanation": "Oświadczenie można złożyć do rozpoczęcia przewodu sądowego.",
+      "source": "Art. 54 § 1"
+    },
+    {
+      "id": "kpk-056",
+      "type": "single_choice",
+      "category": "Oskarżyciel posiłkowy",
+      "difficulty": "hard",
+      "question": "Prokurator cofnął akt oskarżenia, a pokrzywdzony wcześniej nie działał jako oskarżyciel posiłkowy. Co może zrobić?",
+      "choices": [
+        "W ciągu 14 dni od powiadomienia o cofnięciu oświadczyć, że przystępuje jako oskarżyciel posiłkowy.",
+        "Musi czekać na kasację.",
+        "Nie może już nic zrobić.",
+        "Może przystąpić tylko po zgodzie oskarżonego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Cofnięcie aktu oskarżenia przez prokuratora nie pozbawia pokrzywdzonego możliwości przystąpienia w terminie 14 dni.",
+      "source": "Art. 54 § 2"
+    },
+    {
+      "id": "kpk-057",
+      "type": "single_choice",
+      "category": "Oskarżyciel posiłkowy",
+      "difficulty": "hard",
+      "question": "Pokrzywdzony wnosi subsydiarny akt oskarżenia. Kto powinien go sporządzić i podpisać?",
+      "choices": [
+        "Adwokat, radca prawny albo radca Prokuratorii Generalnej Rzeczypospolitej Polskiej.",
+        "Dowolny członek rodziny.",
+        "Policjant prowadzący sprawę.",
+        "Świadek."
+      ],
+      "correctIndex": 0,
+      "explanation": "Subsydiarny akt oskarżenia wymaga sporządzenia i podpisu profesjonalnego pełnomocnika.",
+      "source": "Art. 55 § 2"
+    },
+    {
+      "id": "kpk-058",
+      "type": "single_choice",
+      "category": "Oskarżyciel posiłkowy",
+      "difficulty": "medium",
+      "question": "W sprawie występuje zbyt wielu oskarżycieli posiłkowych i utrudnia to tok postępowania. Co może zrobić sąd?",
+      "choices": [
+        "Umorzyć sprawę automatycznie.",
+        "Pozbawić wszystkich statusu pokrzywdzonych.",
+        "Zastąpić ich biegłym.",
+        "Ograniczyć ich liczbę."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sąd może ograniczyć liczbę oskarżycieli posiłkowych dla zabezpieczenia prawidłowego toku postępowania.",
+      "source": "Art. 56 § 1"
+    },
+    {
+      "id": "kpk-059",
+      "type": "single_choice",
+      "category": "Oskarżyciel prywatny",
+      "difficulty": "easy",
+      "question": "Pokrzywdzony chce sam wnosić i popierać oskarżenie o czyn prywatnoskargowy. W jakim charakterze działa?",
+      "choices": [
+        "Obrońcy.",
+        "Referendarza.",
+        "Oskarżyciela publicznego.",
+        "Oskarżyciela prywatnego."
+      ],
+      "correctIndex": 3,
+      "explanation": "Pokrzywdzony może jako oskarżyciel prywatny wnosić i popierać takie oskarżenie.",
+      "source": "Art. 59 § 1"
+    },
+    {
+      "id": "kpk-060",
+      "type": "single_choice",
+      "category": "Oskarżyciel prywatny",
+      "difficulty": "medium",
+      "question": "W sprawie prywatnoskargowej prokurator uznaje, że wymaga tego interes społeczny. Co może zrobić?",
+      "choices": [
+        "Może wyłącznie umorzyć sprawę bez podstaw.",
+        "Wszcząć postępowanie albo wstąpić do wszczętego jako oskarżyciel publiczny.",
+        "Może być tylko świadkiem.",
+        "Nie może działać nigdy."
+      ],
+      "correctIndex": 1,
+      "explanation": "Prokurator może działać w sprawach prywatnoskargowych, jeżeli wymaga tego praworządność lub interes społeczny.",
+      "source": "Art. 60 § 1"
+    },
+    {
+      "id": "kpk-061",
+      "type": "single_choice",
+      "category": "Oskarżony i podejrzany",
+      "difficulty": "easy",
+      "question": "Wobec osoby wydano postanowienie o przedstawieniu zarzutów. Jaki status uzyskuje?",
+      "choices": [
+        "Pokrzywdzonego.",
+        "Biegłego.",
+        "Oskarżyciela prywatnego.",
+        "Podejrzanego."
+      ],
+      "correctIndex": 3,
+      "explanation": "Podejrzanym jest osoba, wobec której wydano postanowienie o przedstawieniu zarzutów albo której postawiono zarzut przy przesłuchaniu.",
+      "source": "Art. 71 § 1"
+    },
+    {
+      "id": "kpk-062",
+      "type": "single_choice",
+      "category": "Oskarżony i podejrzany",
+      "difficulty": "easy",
+      "question": "Przeciwko osobie wniesiono oskarżenie do sądu. Jak określa się ją w procesie?",
+      "choices": [
+        "Zawiadamiający.",
+        "Biegły.",
+        "Oskarżony.",
+        "Świadek."
+      ],
+      "correctIndex": 2,
+      "explanation": "Oskarżonym jest osoba, przeciwko której wniesiono oskarżenie do sądu.",
+      "source": "Art. 71 § 2"
+    },
+    {
+      "id": "kpk-063",
+      "type": "single_choice",
+      "category": "Oskarżony i podejrzany",
+      "difficulty": "medium",
+      "question": "Oskarżony nie włada wystarczająco językiem polskim. Co mu przysługuje?",
+      "choices": [
+        "Tłumacz wyłącznie na własny koszt.",
+        "Umorzenie postępowania.",
+        "Bezpłatna pomoc tłumacza.",
+        "Brak udziału w czynnościach."
+      ],
+      "correctIndex": 2,
+      "explanation": "Oskarżony ma prawo do bezpłatnej pomocy tłumacza, jeśli nie zna wystarczająco języka polskiego.",
+      "source": "Art. 72 § 1"
+    },
+    {
+      "id": "kpk-064",
+      "type": "single_choice",
+      "category": "Oskarżony i podejrzany",
+      "difficulty": "medium",
+      "question": "Tymczasowo aresztowany chce porozumieć się z obrońcą. Jaka jest zasada?",
+      "choices": [
+        "Może porozumiewać się z obrońcą bez obecności innych osób oraz korespondencyjnie.",
+        "Tylko w obecności pokrzywdzonego.",
+        "Wyłącznie listownie bez rozmowy.",
+        "Dopiero po zamknięciu śledztwa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tymczasowo aresztowany ma prawo do kontaktu z obrońcą bez obecności innych osób.",
+      "source": "Art. 73 § 1"
+    },
+    {
+      "id": "kpk-065",
+      "type": "single_choice",
+      "category": "Oskarżony i podejrzany",
+      "difficulty": "medium",
+      "question": "Prokurator zastrzegł obecność przy kontakcie tymczasowo aresztowanego z obrońcą. Jak długo może utrzymywać takie zastrzeżenie?",
+      "choices": [
+        "Do czasu apelacji.",
+        "Nie dłużej niż 14 dni od tymczasowego aresztowania.",
+        "Bezterminowo.",
+        "Do końca procesu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Takie zastrzeżenia nie mogą trwać ani zostać dokonane po upływie 14 dni.",
+      "source": "Art. 73 § 4"
+    },
+    {
+      "id": "kpk-066",
+      "type": "single_choice",
+      "category": "Oskarżony i podejrzany",
+      "difficulty": "easy",
+      "question": "Podejrzany odmawia dostarczania dowodów na swoją niekorzyść. Czy ma takie prawo?",
+      "choices": [
+        "Nie, musi odpowiadać na każde żądanie.",
+        "Nie, musi udowodnić niewinność.",
+        "Tak, nie ma obowiązku dostarczania takich dowodów.",
+        "Tak, ale traci prawo do obrońcy."
+      ],
+      "correctIndex": 2,
+      "explanation": "Oskarżony nie musi dowodzić niewinności ani dostarczać dowodów na swoją niekorzyść.",
+      "source": "Art. 74 § 1"
+    },
+    {
+      "id": "kpk-067",
+      "type": "single_choice",
+      "category": "Oskarżony i podejrzany",
+      "difficulty": "medium",
+      "question": "Oskarżony odmawia obowiązkowego pobrania wymazu, mimo spełnienia warunków. Co jest dopuszczalne?",
+      "choices": [
+        "Brak jakichkolwiek działań.",
+        "Skazanie bez procesu.",
+        "Zatrzymanie, przymusowe doprowadzenie oraz niezbędne środki w zakresie koniecznym do wykonania czynności.",
+        "Zastosowanie kary porządkowej jako wyroku."
+      ],
+      "correctIndex": 2,
+      "explanation": "W razie odmowy można użyć środków koniecznych do wykonania obowiązkowej czynności.",
+      "source": "Art. 74 § 3a"
+    },
+    {
+      "id": "kpk-068",
+      "type": "single_choice",
+      "category": "Oskarżony i podejrzany",
+      "difficulty": "medium",
+      "question": "Oskarżony zmienia miejsce pobytu na dłużej niż 7 dni i nie informuje organu. Jaki obowiązek narusza?",
+      "choices": [
+        "Obowiązek bycia świadkiem.",
+        "Obowiązek ustanowienia trzech obrońców.",
+        "Obowiązek złożenia aktu oskarżenia.",
+        "Obowiązek zawiadamiania o takiej zmianie."
+      ],
+      "correctIndex": 3,
+      "explanation": "Oskarżony musi zawiadamiać o zmianie miejsca zamieszkania lub pobytu dłuższej niż 7 dni.",
+      "source": "Art. 75 § 1"
+    },
+    {
+      "id": "kpk-069",
+      "type": "single_choice",
+      "category": "Obrona",
+      "difficulty": "easy",
+      "question": "Ilu obrońców może mieć jednocześnie oskarżony?",
+      "choices": [
+        "Nie więcej niż trzech.",
+        "Pięciu w sprawach o zbrodnie.",
+        "Jednego zawsze.",
+        "Dowolną liczbę."
+      ],
+      "correctIndex": 0,
+      "explanation": "Oskarżony może mieć jednocześnie nie więcej niż trzech obrońców.",
+      "source": "Art. 77"
+    },
+    {
+      "id": "kpk-070",
+      "type": "single_choice",
+      "category": "Obrona",
+      "difficulty": "easy",
+      "question": "Oskarżony nie ma obrońcy z wyboru i wykazuje, że nie może ponieść kosztów obrony bez uszczerbku utrzymania siebie i rodziny. Czego może żądać?",
+      "choices": [
+        "Umorzenia sprawy.",
+        "Wyznaczenia obrońcy z urzędu.",
+        "Automatycznego uniewinnienia.",
+        "Wyłączenia prokuratora."
+      ],
+      "correctIndex": 1,
+      "explanation": "Oskarżony może żądać obrońcy z urzędu przy wykazaniu braku możliwości poniesienia kosztów.",
+      "source": "Art. 78 § 1"
+    },
+    {
+      "id": "kpk-071",
+      "type": "single_choice",
+      "category": "Obrona",
+      "difficulty": "medium",
+      "question": "Funkcjonariusz Policji jest oskarżony o czyn związany z użyciem broni palnej przy zadaniach służbowych i nie ma obrońcy z wyboru. Czego może żądać?",
+      "choices": [
+        "Obrony wyłącznie przez przełożonego.",
+        "Umorzenia sprawy bez badania.",
+        "Przeniesienia sprawy do sądu rodzinnego.",
+        "Wyznaczenia obrońcy z urzędu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kodeks przewiduje takie uprawnienie między innymi dla funkcjonariusza Policji w określonych sytuacjach służbowych.",
+      "source": "Art. 78a § 1"
+    },
+    {
+      "id": "kpk-072",
+      "type": "single_choice",
+      "category": "Obrona",
+      "difficulty": "easy",
+      "question": "Oskarżony nie ukończył 18 lat. Czy obrona jest obowiązkowa?",
+      "choices": [
+        "Nie, nigdy.",
+        "Tylko przy zgodzie prokuratora.",
+        "Tak.",
+        "Tylko po wyroku."
+      ],
+      "correctIndex": 2,
+      "explanation": "Oskarżony musi mieć obrońcę, jeżeli nie ukończył 18 lat.",
+      "source": "Art. 79 § 1 pkt 1"
+    },
+    {
+      "id": "kpk-073",
+      "type": "single_choice",
+      "category": "Obrona",
+      "difficulty": "medium",
+      "question": "Oskarżony jest niemy. Czy musi mieć obrońcę?",
+      "choices": [
+        "Tylko jeśli chce apelować.",
+        "Tylko przy sprawie prywatnej.",
+        "Tak.",
+        "Nie, wystarczy świadek."
+      ],
+      "correctIndex": 2,
+      "explanation": "Obrońca jest obowiązkowy, gdy oskarżony jest głuchy, niemy lub niewidomy.",
+      "source": "Art. 79 § 1 pkt 2"
+    },
+    {
+      "id": "kpk-074",
+      "type": "single_choice",
+      "category": "Obrona",
+      "difficulty": "medium",
+      "question": "Oskarżonemu zarzucono zbrodnię przed sądem okręgowym. Czy musi mieć obrońcę na rozprawie głównej?",
+      "choices": [
+        "Tylko po zgodzie pokrzywdzonego.",
+        "Tak, udział obrońcy jest obowiązkowy.",
+        "Nie, obrońca jest obowiązkowy tylko w kasacji.",
+        "Nie, jeśli zna prawo."
+      ],
+      "correctIndex": 1,
+      "explanation": "Przed sądem okręgowym przy zarzucie zbrodni oskarżony musi mieć obrońcę, a jego udział w rozprawie jest obowiązkowy.",
+      "source": "Art. 80"
+    },
+    {
+      "id": "kpk-075",
+      "type": "single_choice",
+      "category": "Obrona",
+      "difficulty": "easy",
+      "question": "Kto może być obrońcą w postępowaniu karnym?",
+      "choices": [
+        "Każdy świadek.",
+        "Osoba uprawniona do obrony według przepisów o adwokaturze albo o radcach prawnych.",
+        "Dowolna osoba pełnoletnia.",
+        "Każdy funkcjonariusz Policji."
+      ],
+      "correctIndex": 1,
+      "explanation": "Obrońcą może być tylko osoba uprawniona według właściwych przepisów zawodowych.",
+      "source": "Art. 82"
+    },
+    {
+      "id": "kpk-076",
+      "type": "single_choice",
+      "category": "Obrona",
+      "difficulty": "medium",
+      "question": "Obrońca chce podjąć czynność niekorzystną dla oskarżonego. Czy może?",
+      "choices": [
+        "Tak, gdy przyspiesza to sprawę.",
+        "Tak, gdy prokurator o to wnosi.",
+        "Tak, zawsze.",
+        "Nie, obrońca może działać jedynie na korzyść oskarżonego."
+      ],
+      "correctIndex": 3,
+      "explanation": "Obrońca może przedsiębrać czynności procesowe jedynie na korzyść oskarżonego.",
+      "source": "Art. 86 § 1"
+    },
+    {
+      "id": "kpk-077",
+      "type": "single_choice",
+      "category": "Pełnomocnik",
+      "difficulty": "easy",
+      "question": "Strona inna niż oskarżony chce działać przez przedstawiciela. Co może ustanowić?",
+      "choices": [
+        "Obrońcę oskarżonego.",
+        "Referendarza.",
+        "Ławnika.",
+        "Pełnomocnika."
+      ],
+      "correctIndex": 3,
+      "explanation": "Strona inna niż oskarżony może ustanowić pełnomocnika.",
+      "source": "Art. 87 § 1"
+    },
+    {
+      "id": "kpk-078",
+      "type": "single_choice",
+      "category": "Przedstawiciel społeczny",
+      "difficulty": "medium",
+      "question": "Organizacja społeczna zgłasza udział w postępowaniu sądowym. Co musi wskazać?",
+      "choices": [
+        "Tylko numer telefonu prezesa.",
+        "Tylko wysokość składek.",
+        "Tylko listę świadków.",
+        "Interes społeczny lub indywidualny objęty zadaniami statutowymi oraz przedstawiciela."
+      ],
+      "correctIndex": 3,
+      "explanation": "Zgłoszenie organizacji społecznej musi wskazywać interes oraz przedstawiciela i zawierać dokument regulujący działalność.",
+      "source": "Art. 90 § 2"
+    },
+    {
+      "id": "kpk-079",
+      "type": "single_choice",
+      "category": "Przedstawiciel społeczny",
+      "difficulty": "medium",
+      "question": "Dopuszczony przedstawiciel organizacji społecznej bierze udział w rozprawie. Jakie ma uprawnienia?",
+      "choices": [
+        "Może uczestniczyć w rozprawie, wypowiadać się i składać pisemne oświadczenia.",
+        "Może stosować środki zapobiegawcze.",
+        "Może wydawać wyrok.",
+        "Może zastąpić sąd."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dopuszczony przedstawiciel organizacji społecznej ma uprawnienia wskazane w kodeksie.",
+      "source": "Art. 91"
+    },
+    {
+      "id": "kpk-080",
+      "type": "single_choice",
+      "category": "Czynności procesowe",
+      "difficulty": "easy",
+      "question": "Sąd ma rozstrzygnąć kwestię, ale ustawa nie wymaga wyroku. Jaką formę przyjmuje rozstrzygnięcie?",
+      "choices": [
+        "Notatkę prywatną.",
+        "Postanowienie.",
+        "Uchwałę rady gminy.",
+        "Mandat karny."
+      ],
+      "correctIndex": 1,
+      "explanation": "Jeżeli ustawa nie wymaga wyroku, sąd wydaje postanowienie.",
+      "source": "Art. 93 § 1"
+    },
+    {
+      "id": "kpk-081",
+      "type": "single_choice",
+      "category": "Czynności procesowe",
+      "difficulty": "medium",
+      "question": "Postanowienie nie wskazuje rozstrzygnięcia ani podstawy prawnej. Czy spełnia wymogi?",
+      "choices": [
+        "Tak, jeśli jest ustne.",
+        "Nie, powinno zawierać rozstrzygnięcie z podaniem podstawy prawnej.",
+        "Tak, jeśli dotyczy sprawy pilnej.",
+        "Tak, wystarczy podpis."
+      ],
+      "correctIndex": 1,
+      "explanation": "Postanowienie musi zawierać elementy wymienione w kodeksie, w tym rozstrzygnięcie z podstawą prawną.",
+      "source": "Art. 94 § 1 pkt 4"
+    },
+    {
+      "id": "kpk-082",
+      "type": "single_choice",
+      "category": "Czynności procesowe",
+      "difficulty": "easy",
+      "question": "W orzeczeniu jest oczywista omyłka pisarska. Kiedy można ją sprostować?",
+      "choices": [
+        "W każdym czasie.",
+        "Tylko w ciągu 24 godzin.",
+        "Tylko przed ogłoszeniem.",
+        "Nigdy po podpisaniu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Oczywiste omyłki pisarskie, rachunkowe i w terminach można sprostować w każdym czasie.",
+      "source": "Art. 105 § 1"
+    },
+    {
+      "id": "kpk-083",
+      "type": "single_choice",
+      "category": "Pisma procesowe",
+      "difficulty": "medium",
+      "question": "Strona źle nazwała pismo, ale z treści wynika właściwa czynność procesowa. Jak ocenić pismo?",
+      "choices": [
+        "Według treści oświadczenia, a błędna nazwa nie odbiera znaczenia prawnego.",
+        "Zawsze jako cofnięcie wniosku.",
+        "Wyłącznie według tytułu.",
+        "Zawsze jako bezskuteczne."
+      ],
+      "correctIndex": 0,
+      "explanation": "Znaczenie czynności ocenia się według treści, a niewłaściwe oznaczenie nie pozbawia jej znaczenia.",
+      "source": "Art. 118 § 1-2"
+    },
+    {
+      "id": "kpk-084",
+      "type": "single_choice",
+      "category": "Pisma procesowe",
+      "difficulty": "easy",
+      "question": "Pismo procesowe nie wskazuje organu ani sprawy. Jakiego elementu brakuje?",
+      "choices": [
+        "Numeru legitymacji świadka.",
+        "Opinii biegłego.",
+        "Oznaczenia organu i sprawy.",
+        "Zgody pokrzywdzonego."
+      ],
+      "correctIndex": 2,
+      "explanation": "Pismo powinno wskazywać organ, do którego jest skierowane, i sprawę, której dotyczy.",
+      "source": "Art. 119 § 1 pkt 1"
+    },
+    {
+      "id": "kpk-085",
+      "type": "single_choice",
+      "category": "Pisma procesowe",
+      "difficulty": "medium",
+      "question": "Pismo ma brak formalny uniemożliwiający bieg sprawy. Jaki termin wyznacza się na usunięcie braku?",
+      "choices": [
+        "30 dni.",
+        "14 dni.",
+        "7 dni.",
+        "24 godziny."
+      ],
+      "correctIndex": 2,
+      "explanation": "Wzywa się do usunięcia braku w terminie 7 dni.",
+      "source": "Art. 120 § 1"
+    },
+    {
+      "id": "kpk-086",
+      "type": "single_choice",
+      "category": "Terminy",
+      "difficulty": "easy",
+      "question": "Czynność została dokonana po upływie terminu zawitego. Jaki jest skutek?",
+      "choices": [
+        "Jest zawsze skuteczna.",
+        "Zawsze powoduje umorzenie.",
+        "Jest bezskuteczna.",
+        "Automatycznie przedłuża termin."
+      ],
+      "correctIndex": 2,
+      "explanation": "Czynność po terminie zawitym jest bezskuteczna.",
+      "source": "Art. 122 § 1"
+    },
+    {
+      "id": "kpk-087",
+      "type": "single_choice",
+      "category": "Terminy",
+      "difficulty": "easy",
+      "question": "Termin liczy się od doręczenia pisma. Czy dzień doręczenia wlicza się do biegu terminu?",
+      "choices": [
+        "Tak zawsze.",
+        "Nie.",
+        "Tylko w sprawach o zbrodnie.",
+        "Tylko gdy doręcza Policja."
+      ],
+      "correctIndex": 1,
+      "explanation": "Do biegu terminu nie wlicza się dnia, od którego liczy się termin.",
+      "source": "Art. 123 § 1"
+    },
+    {
+      "id": "kpk-088",
+      "type": "single_choice",
+      "category": "Terminy",
+      "difficulty": "medium",
+      "question": "Koniec terminu przypada w sobotę. Kiedy można wykonać czynność?",
+      "choices": [
+        "Wyłącznie w sobotę.",
+        "Termin zawsze przepada.",
+        "Dopiero po zgodzie prokuratora.",
+        "Następnego dnia, który nie jest dniem wolnym od pracy ani sobotą."
+      ],
+      "correctIndex": 3,
+      "explanation": "Gdy koniec terminu przypada w sobotę albo dzień wolny, czynność można wykonać następnego odpowiedniego dnia.",
+      "source": "Art. 123 § 3"
+    },
+    {
+      "id": "kpk-089",
+      "type": "single_choice",
+      "category": "Terminy",
+      "difficulty": "medium",
+      "question": "Pismo wniesiono w terminie, ale omyłkowo do niewłaściwego sądu lub organu. Jak traktuje się termin?",
+      "choices": [
+        "Jako nieważny bez wyjątku.",
+        "Jako zachowany tylko po zgodzie oskarżonego.",
+        "Jako zachowany.",
+        "Jako zawsze przekroczony."
+      ],
+      "correctIndex": 2,
+      "explanation": "Pismo omyłkowo wniesione w terminie do niewłaściwego sądu, prokuratora, Policji lub innego organu zachowuje termin.",
+      "source": "Art. 125"
+    },
+    {
+      "id": "kpk-090",
+      "type": "single_choice",
+      "category": "Terminy",
+      "difficulty": "medium",
+      "question": "Strona uchybiła terminowi zawitemu z przyczyn od niej niezależnych. Co powinna zrobić po ustaniu przeszkody?",
+      "choices": [
+        "Złożyć wniosek po roku.",
+        "W ciągu 7 dni złożyć wniosek o przywrócenie terminu i jednocześnie dokonać czynności.",
+        "Dokonać czynności bez wniosku.",
+        "Czekać na automatyczne przywrócenie."
+      ],
+      "correctIndex": 1,
+      "explanation": "Przywrócenie terminu wymaga wniosku w terminie 7 dni od ustania przeszkody i jednoczesnego dopełnienia czynności.",
+      "source": "Art. 126 § 1"
+    },
+    {
+      "id": "kpk-091",
+      "type": "single_choice",
+      "category": "Wezwania i doręczenia",
+      "difficulty": "easy",
+      "question": "Organ sporządza wezwanie. Co powinno zawierać?",
+      "choices": [
+        "Tylko numer telefonu oskarżonego.",
+        "Między innymi organ, sprawę, charakter, miejsce i czas stawiennictwa oraz skutki niestawiennictwa.",
+        "Tylko przewidywany wyrok.",
+        "Tylko podpis organu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Wezwanie musi zawierać dane wskazane w kodeksie oraz pouczenie o skutkach niestawiennictwa.",
+      "source": "Art. 129 § 1"
+    },
+    {
+      "id": "kpk-092",
+      "type": "single_choice",
+      "category": "Wezwania i doręczenia",
+      "difficulty": "medium",
+      "question": "Pismo adresowane jest do funkcjonariusza Policji. Jak można je doręczyć?",
+      "choices": [
+        "Wyłącznie przez oskarżonego.",
+        "Wyłącznie przez pokrzywdzonego.",
+        "Wyłącznie przez ogłoszenie w prasie.",
+        "Za pośrednictwem jego przełożonego."
+      ],
+      "correctIndex": 3,
+      "explanation": "Pisma do funkcjonariuszy Policji można doręczać za pośrednictwem przełożonych.",
+      "source": "Art. 134 § 1"
+    },
+    {
+      "id": "kpk-093",
+      "type": "single_choice",
+      "category": "Wezwania i doręczenia",
+      "difficulty": "easy",
+      "question": "Adresat odmawia przyjęcia pisma, a doręczający czyni odpowiednią wzmiankę. Jaki jest skutek?",
+      "choices": [
+        "Sprawę umarza się.",
+        "Doręczenie zawsze jest nieskuteczne.",
+        "Doręczenie uważa się za dokonane.",
+        "Termin nigdy nie biegnie."
+      ],
+      "correctIndex": 2,
+      "explanation": "Odmowa przyjęcia pisma po odnotowaniu wywołuje skutek doręczenia.",
+      "source": "Art. 136 § 1"
+    },
+    {
+      "id": "kpk-094",
+      "type": "single_choice",
+      "category": "Wezwania i doręczenia",
+      "difficulty": "medium",
+      "question": "Wypadek jest niecierpiący zwłoki i trzeba szybko zawiadomić osobę. Jak można to zrobić?",
+      "choices": [
+        "Telefonicznie albo w inny sposób stosownie do okoliczności, pozostawiając w aktach odpis komunikatu.",
+        "Wyłącznie przez ogłoszenie w sądzie.",
+        "Ustnie bez żadnego śladu.",
+        "Wyłącznie tradycyjnym listem."
+      ],
+      "correctIndex": 0,
+      "explanation": "W pilnych wypadkach dopuszczalne jest zawiadomienie telefoniczne lub inne, z odpisem komunikatu w aktach.",
+      "source": "Art. 137"
+    },
+    {
+      "id": "kpk-095",
+      "type": "single_choice",
+      "category": "Wezwania i doręczenia",
+      "difficulty": "medium",
+      "question": "Strona zmieniła adres i nie podała nowego. Pismo wysłano pod znany adres. Jaki jest skutek?",
+      "choices": [
+        "Pismo uważa się za doręczone.",
+        "Termin nie może rozpocząć biegu nigdy.",
+        "Organ musi bez końca szukać adresu.",
+        "Zawsze jest nieskuteczne."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli strona nie poda nowego adresu, pismo wysłane pod dotychczasowy adres uważa się za doręczone.",
+      "source": "Art. 139 § 1"
+    },
+    {
+      "id": "kpk-096",
+      "type": "single_choice",
+      "category": "Wezwania i doręczenia",
+      "difficulty": "medium",
+      "question": "Doręczenie naruszyło przepisy, ale adresat oświadczył, że otrzymał pismo. Jaki jest skutek?",
+      "choices": [
+        "Pismo trzeba zniszczyć.",
+        "Doręczenie uważa się za dokonane.",
+        "Jest zawsze nieważne.",
+        "Termin nigdy nie biegnie."
+      ],
+      "correctIndex": 1,
+      "explanation": "Doręczenie bez zachowania przepisów jest skuteczne, jeśli adresat oświadczy, że otrzymał pismo.",
+      "source": "Art. 142"
+    },
+    {
+      "id": "kpk-097",
+      "type": "single_choice",
+      "category": "Protokoły",
+      "difficulty": "easy",
+      "question": "Policjant przyjmuje ustne zawiadomienie o przestępstwie. Czy wymaga to protokołu?",
+      "choices": [
+        "Tylko po wyroku.",
+        "Tylko w sprawach prywatnych.",
+        "Nie, zawsze wystarczy notatka.",
+        "Tak."
+      ],
+      "correctIndex": 3,
+      "explanation": "Przyjęcie ustnego zawiadomienia o przestępstwie wymaga protokołu.",
+      "source": "Art. 143 § 1 pkt 1"
+    },
+    {
+      "id": "kpk-098",
+      "type": "single_choice",
+      "category": "Protokoły",
+      "difficulty": "easy",
+      "question": "Organ przesłuchuje świadka. Czy czynność wymaga protokołu?",
+      "choices": [
+        "Nie, jeśli jest krótka.",
+        "Nie w postępowaniu przygotowawczym.",
+        "Tylko przy zgodzie świadka.",
+        "Tak."
+      ],
+      "correctIndex": 3,
+      "explanation": "Przesłuchanie świadka wymaga spisania protokołu.",
+      "source": "Art. 143 § 1 pkt 2"
+    },
+    {
+      "id": "kpk-099",
+      "type": "single_choice",
+      "category": "Protokoły",
+      "difficulty": "medium",
+      "question": "Uczestnik zgłasza zarzut co do treści protokołu. Co należy zrobić?",
+      "choices": [
+        "Przekazać zarzut mediatorowi.",
+        "Zignorować zarzut.",
+        "Wciągnąć zarzut do protokołu wraz z oświadczeniem osoby wykonującej czynność.",
+        "Zniszczyć protokół."
+      ],
+      "correctIndex": 2,
+      "explanation": "Zarzuty dotyczące protokołu należy wciągnąć do protokołu z odpowiednim oświadczeniem.",
+      "source": "Art. 150 § 2"
+    },
+    {
+      "id": "kpk-100",
+      "type": "single_choice",
+      "category": "Akta sprawy",
+      "difficulty": "medium",
+      "question": "Strona chce przeglądać akta sprawy sądowej. Jaka jest zasada?",
+      "choices": [
+        "Akta udostępnia się tylko po kasacji.",
+        "Akta nigdy nie są udostępniane stronom.",
+        "Akta widzi wyłącznie świadek.",
+        "Akta udostępnia się stronom i ich przedstawicielom, umożliwiając sporządzanie odpisów lub kopii."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kodeks przyznaje stronom, obrońcom, pełnomocnikom i przedstawicielom ustawowym dostęp do akt sądowych.",
+      "source": "Art. 156 § 1"
+    },
+    {
+      "id": "kpk-101",
+      "type": "single_choice",
+      "category": "Dowody",
+      "difficulty": "easy",
+      "question": "Organ uważa, że dowód należy przeprowadzić mimo braku wniosku strony. Czy może działać z urzędu?",
+      "choices": [
+        "Tylko za zgodą oskarżonego.",
+        "Nie, tylko na wniosek.",
+        "Tak, dowody przeprowadza się na wniosek stron albo z urzędu.",
+        "Tylko po wyroku."
+      ],
+      "correctIndex": 2,
+      "explanation": "Dowody mogą być przeprowadzane zarówno na wniosek, jak i z urzędu.",
+      "source": "Art. 167"
+    },
+    {
+      "id": "kpk-102",
+      "type": "single_choice",
+      "category": "Dowody",
+      "difficulty": "medium",
+      "question": "Wniosek dowodowy dotyczy okoliczności bez znaczenia dla rozstrzygnięcia. Co można zrobić?",
+      "choices": [
+        "Zawsze go uwzględnić.",
+        "Oddalić wniosek dowodowy.",
+        "Zawsze wyłączyć sędziego.",
+        "Zawsze umorzyć sprawę."
+      ],
+      "correctIndex": 1,
+      "explanation": "Wniosek dowodowy oddala się między innymi wtedy, gdy okoliczność nie ma znaczenia dla rozstrzygnięcia.",
+      "source": "Art. 170 § 1 pkt 2"
+    },
+    {
+      "id": "kpk-103",
+      "type": "single_choice",
+      "category": "Dowody",
+      "difficulty": "medium",
+      "question": "Przesłuchujący chce wymusić wypowiedź groźbą. Czy to dopuszczalne?",
+      "choices": [
+        "Tak, w sprawach poważnych.",
+        "Nie.",
+        "Tak, wobec każdego podejrzanego.",
+        "Tak, za zgodą prokuratora."
+      ],
+      "correctIndex": 1,
+      "explanation": "Niedopuszczalne jest wpływanie na wypowiedź przymusem lub groźbą bezprawną.",
+      "source": "Art. 171 § 5"
+    },
+    {
+      "id": "kpk-104",
+      "type": "single_choice",
+      "category": "Dowody",
+      "difficulty": "medium",
+      "question": "Dwóch świadków składa sprzeczne relacje. Jaką czynność można wykorzystać do ich wyjaśnienia?",
+      "choices": [
+        "Mediację obowiązkową.",
+        "Konfrontację.",
+        "Tymczasowe aresztowanie świadków.",
+        "Kasację."
+      ],
+      "correctIndex": 1,
+      "explanation": "Osoby przesłuchiwane mogą być konfrontowane dla wyjaśnienia sprzeczności.",
+      "source": "Art. 172"
+    },
+    {
+      "id": "kpk-105",
+      "type": "single_choice",
+      "category": "Dowody",
+      "difficulty": "medium",
+      "question": "Policjant organizuje okazanie osoby do rozpoznania. Jak należy je przeprowadzić?",
+      "choices": [
+        "Tak, aby zasugerować wynik.",
+        "Przez pokazanie jednej osoby zawsze.",
+        "Bez żadnych reguł.",
+        "Tak, aby wyłączyć sugestię."
+      ],
+      "correctIndex": 3,
+      "explanation": "Okazanie powinno wyłączać sugestię.",
+      "source": "Art. 173 § 1"
+    },
+    {
+      "id": "kpk-106",
+      "type": "single_choice",
+      "category": "Dowody",
+      "difficulty": "medium",
+      "question": "Organ chce zastąpić zeznania świadka treścią notatki urzędowej. Czy może?",
+      "choices": [
+        "Tak, jeśli świadek nie protestuje.",
+        "Nie.",
+        "Tak, jeśli notatka jest czytelna.",
+        "Tak, jeśli sporządziła ją Policja."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nie wolno zastępować zeznań świadka treścią pism, zapisków lub notatek urzędowych.",
+      "source": "Art. 174"
+    },
+    {
+      "id": "kpk-107",
+      "type": "single_choice",
+      "category": "Wyjaśnienia oskarżonego",
+      "difficulty": "easy",
+      "question": "Oskarżony chce odmówić składania wyjaśnień. Czy ma takie prawo?",
+      "choices": [
+        "Tylko po wyroku.",
+        "Nie, musi wyjaśniać.",
+        "Tak.",
+        "Tylko za zgodą sądu."
+      ],
+      "correctIndex": 2,
+      "explanation": "Oskarżony może odmówić składania wyjaśnień albo odpowiedzi na pytania.",
+      "source": "Art. 175 § 1"
+    },
+    {
+      "id": "kpk-108",
+      "type": "single_choice",
+      "category": "Świadkowie",
+      "difficulty": "easy",
+      "question": "Osoba została wezwana jako świadek i nie ma podstaw odmowy. Co musi zrobić?",
+      "choices": [
+        "Złożyć apelację.",
+        "Stawić się i złożyć zeznania.",
+        "Stawić się tylko dobrowolnie.",
+        "Wybrać własny sąd."
+      ],
+      "correctIndex": 1,
+      "explanation": "Każdy wezwany jako świadek ma obowiązek stawić się i złożyć zeznania.",
+      "source": "Art. 177 § 1"
+    },
+    {
+      "id": "kpk-109",
+      "type": "single_choice",
+      "category": "Świadkowie",
+      "difficulty": "medium",
+      "question": "Świadek nie może stawić się z powodu choroby. Gdzie można go przesłuchać?",
+      "choices": [
+        "Wyłącznie telefonicznie bez protokołu.",
+        "Wyłącznie w sądzie najwyższym.",
+        "Nigdzie, dowód przepada.",
+        "W miejscu pobytu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Świadka, który nie może stawić się z powodu przeszkody, można przesłuchać w miejscu pobytu.",
+      "source": "Art. 177 § 2"
+    },
+    {
+      "id": "kpk-110",
+      "type": "single_choice",
+      "category": "Świadkowie",
+      "difficulty": "medium",
+      "question": "Obrońca ma zeznawać o faktach poznanych przy prowadzeniu sprawy. Czy wolno go przesłuchać w tym zakresie?",
+      "choices": [
+        "Tak zawsze.",
+        "Tak tylko na rozprawie.",
+        "Nie.",
+        "Tak po zgodzie pokrzywdzonego."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nie wolno przesłuchiwać obrońcy co do faktów poznanych przy udzielaniu pomocy prawnej lub prowadzeniu sprawy.",
+      "source": "Art. 178 pkt 1"
+    },
+    {
+      "id": "kpk-111",
+      "type": "single_choice",
+      "category": "Świadkowie",
+      "difficulty": "medium",
+      "question": "Duchowny ma ujawnić informacje uzyskane przy spowiedzi. Czy wolno go przesłuchać co do tych faktów?",
+      "choices": [
+        "Tak w sprawie o zbrodnię bez wyjątków.",
+        "Tak zawsze.",
+        "Nie.",
+        "Tak po zgodzie sądu."
+      ],
+      "correctIndex": 2,
+      "explanation": "Duchownego nie wolno przesłuchiwać co do faktów poznanych przy spowiedzi.",
+      "source": "Art. 178 pkt 2"
+    },
+    {
+      "id": "kpk-112",
+      "type": "single_choice",
+      "category": "Mediacja",
+      "difficulty": "medium",
+      "question": "Mediator ma zeznawać o faktach poznanych w mediacji. Jaka jest zasada?",
+      "choices": [
+        "Nie wolno go przesłuchiwać co do tych faktów, poza ustawowym wyjątkiem dotyczącym najpoważniejszych przestępstw.",
+        "Może ujawniać wszystko na prośbę strony.",
+        "Nigdy nie ma żadnych wyjątków.",
+        "Zawsze musi zeznawać."
+      ],
+      "correctIndex": 0,
+      "explanation": "Poufność mediacji jest chroniona zakazem przesłuchania mediatora z określonym wyjątkiem.",
+      "source": "Art. 178a"
+    },
+    {
+      "id": "kpk-113",
+      "type": "single_choice",
+      "category": "Tajemnice",
+      "difficulty": "hard",
+      "question": "Świadek ma zeznawać o informacjach niejawnych o najwyższych klauzulach. Co jest konieczne?",
+      "choices": [
+        "Sama decyzja świadka.",
+        "Zwolnienie przez uprawniony organ przełożony.",
+        "Zgoda oskarżonego.",
+        "Polecenie pokrzywdzonego."
+      ],
+      "correctIndex": 1,
+      "explanation": "Osoba zobowiązana do zachowania takiej tajemnicy może być przesłuchana po zwolnieniu przez uprawniony organ.",
+      "source": "Art. 179 § 1"
+    },
+    {
+      "id": "kpk-114",
+      "type": "single_choice",
+      "category": "Tajemnice",
+      "difficulty": "hard",
+      "question": "Świadek ma ujawnić tajemnicę lekarską w postępowaniu przygotowawczym. Kto decyduje o zwolnieniu?",
+      "choices": [
+        "Policja samodzielnie.",
+        "Sam świadek.",
+        "Pokrzywdzony.",
+        "Sąd na wniosek prokuratora."
+      ],
+      "correctIndex": 3,
+      "explanation": "W postępowaniu przygotowawczym o przesłuchaniu co do tajemnicy lekarskiej decyduje sąd na wniosek prokuratora.",
+      "source": "Art. 180 § 2"
+    },
+    {
+      "id": "kpk-115",
+      "type": "single_choice",
+      "category": "Świadkowie",
+      "difficulty": "easy",
+      "question": "Osoba najbliższa dla oskarżonego została wezwana jako świadek. Co może zrobić?",
+      "choices": [
+        "Może odmówić tylko jednego pytania.",
+        "Może żądać skazania.",
+        "Musi zeznawać zawsze.",
+        "Odmówić zeznań."
+      ],
+      "correctIndex": 3,
+      "explanation": "Osoba najbliższa dla oskarżonego może odmówić zeznań.",
+      "source": "Art. 182 § 1"
+    },
+    {
+      "id": "kpk-116",
+      "type": "single_choice",
+      "category": "Świadkowie",
+      "difficulty": "medium",
+      "question": "Świadek obawia się, że odpowiedź narazi jego lub osobę najbliższą na odpowiedzialność za przestępstwo. Co może zrobić?",
+      "choices": [
+        "Musi odpowiedzieć.",
+        "Może umorzyć sprawę.",
+        "Uchylić się od odpowiedzi.",
+        "Może złożyć apelację."
+      ],
+      "correctIndex": 2,
+      "explanation": "Świadek może uchylić się od odpowiedzi, gdy groziłoby to odpowiedzialnością karną jemu lub osobie najbliższej.",
+      "source": "Art. 183 § 1"
+    },
+    {
+      "id": "kpk-117",
+      "type": "single_choice",
+      "category": "Świadkowie",
+      "difficulty": "medium",
+      "question": "Świadek pozostaje z oskarżonym w szczególnie bliskim stosunku osobistym i wnosi o zwolnienie. Co może zrobić organ?",
+      "choices": [
+        "Może zastosować areszt.",
+        "Zwolnić go od zeznania lub odpowiedzi.",
+        "Musi go przesłuchać zawsze.",
+        "Musi umorzyć sprawę."
+      ],
+      "correctIndex": 1,
+      "explanation": "Można zwolnić taką osobę od zeznań lub odpowiedzi, jeśli wnosi o zwolnienie.",
+      "source": "Art. 185"
+    },
+    {
+      "id": "kpk-118",
+      "type": "single_choice",
+      "category": "Małoletni i szczególne przesłuchania",
+      "difficulty": "hard",
+      "question": "Pokrzywdzony poniżej 15 lat w sprawie przemocy ma zostać przesłuchany. Kiedy jest to dopuszczalne?",
+      "choices": [
+        "Zawsze wielokrotnie.",
+        "Nigdy.",
+        "Tylko gdy zeznania mogą mieć istotne znaczenie dla rozstrzygnięcia i co do zasady tylko raz.",
+        "Wyłącznie na zwykłej rozprawie bez ochrony."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kodeks ogranicza przesłuchanie takiego pokrzywdzonego do sytuacji istotnego znaczenia zeznań i zasadniczo jednorazowo.",
+      "source": "Art. 185a § 1"
+    },
+    {
+      "id": "kpk-119",
+      "type": "single_choice",
+      "category": "Małoletni i szczególne przesłuchania",
+      "difficulty": "hard",
+      "question": "Sąd ma przeprowadzić szczególne przesłuchanie pokrzywdzonego z udziałem psychologa. Jaki jest termin?",
+      "choices": [
+        "Bez terminu.",
+        "3 miesiące.",
+        "30 dni.",
+        "Niezwłocznie, nie później niż 14 dni od wpływu wniosku."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sąd przeprowadza takie przesłuchanie niezwłocznie, nie później niż w ciągu 14 dni od wpływu wniosku.",
+      "source": "Art. 185a § 2"
+    },
+    {
+      "id": "kpk-120",
+      "type": "single_choice",
+      "category": "Małoletni i szczególne przesłuchania",
+      "difficulty": "hard",
+      "question": "Pokrzywdzony w sprawie o przestępstwo seksualne składa zawiadomienie. Do czego powinno się ono ograniczyć?",
+      "choices": [
+        "Do danych obrońcy.",
+        "Do wskazania kary.",
+        "Do wskazania najważniejszych faktów i dowodów.",
+        "Do pełnego szczegółowego przesłuchania."
+      ],
+      "correctIndex": 2,
+      "explanation": "Zawiadomienie pokrzywdzonego w tych sprawach powinno obejmować najważniejsze fakty i dowody.",
+      "source": "Art. 185c § 1"
+    },
+    {
+      "id": "kpk-121",
+      "type": "single_choice",
+      "category": "Świadkowie",
+      "difficulty": "easy",
+      "question": "Przed przesłuchaniem świadka organ powinien go uprzedzić o odpowiedzialności. Za co?",
+      "choices": [
+        "Za brak pełnomocnika.",
+        "Za zeznanie nieprawdy lub zatajenie prawdy.",
+        "Za odmowę podpisania prywatnej notatki.",
+        "Za nieznajomość prawa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Przed przesłuchaniem świadka należy uprzedzić o odpowiedzialności karnej za fałszywe zeznania.",
+      "source": "Art. 190 § 1"
+    },
+    {
+      "id": "kpk-122",
+      "type": "single_choice",
+      "category": "Świadkowie",
+      "difficulty": "medium",
+      "question": "Pytanie do świadka ma ujawnić miejsce pracy, choć nie ma to znaczenia dla rozstrzygnięcia. Czy jest dopuszczalne?",
+      "choices": [
+        "Nie.",
+        "Tak, jeśli świadek jest pokrzywdzonym.",
+        "Tak, jeśli pyta obrońca.",
+        "Tak zawsze."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pytania nie mogą zmierzać do ujawnienia miejsca zamieszkania ani pracy, chyba że ma to znaczenie dla rozstrzygnięcia.",
+      "source": "Art. 191 § 1b"
+    },
+    {
+      "id": "kpk-123",
+      "type": "single_choice",
+      "category": "Świadkowie",
+      "difficulty": "medium",
+      "question": "Istnieją wątpliwości co do zdolności świadka do odtwarzania spostrzeżeń. Co może zarządzić sąd lub prokurator?",
+      "choices": [
+        "Automatyczne pominięcie zeznań.",
+        "Przesłuchanie z udziałem biegłego lekarza lub psychologa.",
+        "Tymczasowe aresztowanie świadka.",
+        "Kasację."
+      ],
+      "correctIndex": 1,
+      "explanation": "W takiej sytuacji można zarządzić przesłuchanie świadka z udziałem biegłego lekarza lub psychologa.",
+      "source": "Art. 192 § 2"
+    },
+    {
+      "id": "kpk-124",
+      "type": "single_choice",
+      "category": "Biegli",
+      "difficulty": "easy",
+      "question": "Ustalenie istotnej okoliczności wymaga wiadomości specjalnych. Co należy zrobić?",
+      "choices": [
+        "Oprzeć się na intuicji.",
+        "Zastąpić opinię notatką.",
+        "Zasięgnąć opinii biegłego albo biegłych.",
+        "Pominąć dowód zawsze."
+      ],
+      "correctIndex": 2,
+      "explanation": "Wiadomości specjalne wymagają opinii biegłego albo biegłych.",
+      "source": "Art. 193 § 1"
+    },
+    {
+      "id": "kpk-125",
+      "type": "single_choice",
+      "category": "Biegli",
+      "difficulty": "medium",
+      "question": "Biegły był świadkiem czynu. Czy może pozostać biegłym?",
+      "choices": [
+        "Tak za zgodą prokuratora.",
+        "Tak zawsze.",
+        "Nie.",
+        "Tak, jeśli jest ekspertem."
+      ],
+      "correctIndex": 2,
+      "explanation": "Osoba będąca świadkiem czynu nie może być biegłym.",
+      "source": "Art. 196 § 1"
+    },
+    {
+      "id": "kpk-126",
+      "type": "single_choice",
+      "category": "Biegli",
+      "difficulty": "medium",
+      "question": "Opinia biegłego jest niepełna lub niejasna. Co można zrobić?",
+      "choices": [
+        "Umorzyć sprawę.",
+        "Zastąpić opinię żądaniem pokrzywdzonego.",
+        "Wezwać ponownie tych samych biegłych lub powołać innych.",
+        "Zawsze przyjąć opinię."
+      ],
+      "correctIndex": 2,
+      "explanation": "Niepełna, niejasna lub sprzeczna opinia uzasadnia ponowne wezwanie biegłych albo powołanie innych.",
+      "source": "Art. 201"
+    },
+    {
+      "id": "kpk-127",
+      "type": "single_choice",
+      "category": "Biegli",
+      "difficulty": "hard",
+      "question": "Trzeba uzyskać opinię o stanie zdrowia psychicznego oskarżonego. Ilu psychiatrów co najmniej powołuje się do opinii?",
+      "choices": [
+        "Tylko psychologa.",
+        "Dwóch.",
+        "Jednego.",
+        "Trzech policjantów."
+      ],
+      "correctIndex": 1,
+      "explanation": "Do opinii o stanie zdrowia psychicznego oskarżonego powołuje się co najmniej dwóch biegłych lekarzy psychiatrów.",
+      "source": "Art. 202 § 1"
+    },
+    {
+      "id": "kpk-128",
+      "type": "single_choice",
+      "category": "Biegli",
+      "difficulty": "hard",
+      "question": "Biegli zgłaszają konieczność obserwacji oskarżonego w zakładzie leczniczym. Kto orzeka o obserwacji?",
+      "choices": [
+        "Pokrzywdzony.",
+        "Biegli samodzielnie.",
+        "Sąd, a w postępowaniu przygotowawczym sąd na wniosek prokuratora.",
+        "Policja samodzielnie."
+      ],
+      "correctIndex": 2,
+      "explanation": "O potrzebie obserwacji w zakładzie leczniczym orzeka sąd.",
+      "source": "Art. 203 § 2"
+    },
+    {
+      "id": "kpk-129",
+      "type": "single_choice",
+      "category": "Biegli",
+      "difficulty": "hard",
+      "question": "Jaki jest maksymalny łączny czas obserwacji psychiatrycznej w zakładzie leczniczym w danej sprawie?",
+      "choices": [
+        "8 tygodni.",
+        "6 miesięcy.",
+        "4 miesiące.",
+        "Bez ograniczenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Obserwacja nie powinna trwać ponad 4 tygodnie, a łącznie w sprawie nie może przekroczyć 8 tygodni.",
+      "source": "Art. 203 § 3"
+    },
+    {
+      "id": "kpk-130",
+      "type": "single_choice",
+      "category": "Oględziny",
+      "difficulty": "easy",
+      "question": "Na miejscu trzeba zbadać osobę, rzecz albo miejsce. Jaką czynność dowodową można wykonać?",
+      "choices": [
+        "Mediację.",
+        "Apelację.",
+        "Kasację.",
+        "Oględziny."
+      ],
+      "correctIndex": 3,
+      "explanation": "W razie potrzeby dokonuje się oględzin miejsca, osoby lub rzeczy.",
+      "source": "Art. 207 § 1"
+    },
+    {
+      "id": "kpk-131",
+      "type": "single_choice",
+      "category": "Zatrzymanie rzeczy",
+      "difficulty": "easy",
+      "question": "Policjant żąda wydania rzeczy mogącej stanowić dowód. Co powinien najpierw zrobić wobec osoby mającej rzecz?",
+      "choices": [
+        "Wezwać do dobrowolnego wydania.",
+        "Od razu zniszczyć rzecz.",
+        "Zabrać bez żadnego wezwania w każdej sytuacji.",
+        "Żądać wyroku skazującego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Osobę mającą rzecz podlegającą wydaniu wzywa się do dobrowolnego wydania.",
+      "source": "Art. 217 § 2"
+    },
+    {
+      "id": "kpk-132",
+      "type": "single_choice",
+      "category": "Zatrzymanie rzeczy",
+      "difficulty": "medium",
+      "question": "Osoba wydała rzecz na żądanie Policji działającej we własnym zakresie i chce zatwierdzenia. Co może zrobić?",
+      "choices": [
+        "Może żądać wyłącznie kasacji.",
+        "Nie ma żadnego prawa.",
+        "Może unieważnić postępowanie.",
+        "Złożyć wniosek o sporządzenie i doręczenie postanowienia o zatwierdzeniu zatrzymania."
+      ],
+      "correctIndex": 3,
+      "explanation": "Osobie wydającej rzecz przysługuje prawo żądania postanowienia o zatwierdzeniu zatrzymania.",
+      "source": "Art. 217 § 4"
+    },
+    {
+      "id": "kpk-133",
+      "type": "single_choice",
+      "category": "Korespondencja i dane",
+      "difficulty": "hard",
+      "question": "Korespondencja została wydana na żądanie w postanowieniu. Kto może ją otworzyć lub zarządzić otwarcie?",
+      "choices": [
+        "Tylko sąd lub prokurator.",
+        "Pokrzywdzony.",
+        "Pracownik operatora.",
+        "Każdy policjant."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tylko sąd lub prokurator mają prawo otwierać taką korespondencję lub zarządzić jej otwarcie.",
+      "source": "Art. 218 § 1"
+    },
+    {
+      "id": "kpk-134",
+      "type": "single_choice",
+      "category": "Przeszukanie",
+      "difficulty": "easy",
+      "question": "Są uzasadnione podstawy do przypuszczenia, że w mieszkaniu znajduje się dowód. Jaką czynność można wykonać?",
+      "choices": [
+        "Mediację.",
+        "Kasację.",
+        "Apelację.",
+        "Przeszukanie."
+      ],
+      "correctIndex": 3,
+      "explanation": "Przeszukanie pomieszczeń i miejsc jest dopuszczalne w celu znalezienia rzeczy mogących stanowić dowód przy uzasadnionych podstawach.",
+      "source": "Art. 219 § 1"
+    },
+    {
+      "id": "kpk-135",
+      "type": "single_choice",
+      "category": "Przeszukanie",
+      "difficulty": "medium",
+      "question": "Policja wykonuje przeszukanie na polecenie prokuratora. Co należy okazać osobie, u której czynność ma nastąpić?",
+      "choices": [
+        "Postanowienie sądu lub prokuratora.",
+        "Tylko ustną informację.",
+        "Nic.",
+        "Wyłącznie notatkę."
+      ],
+      "correctIndex": 0,
+      "explanation": "Postanowienie należy okazać osobie, u której przeszukanie ma być przeprowadzone.",
+      "source": "Art. 220 § 2"
+    },
+    {
+      "id": "kpk-136",
+      "type": "single_choice",
+      "category": "Przeszukanie",
+      "difficulty": "medium",
+      "question": "Wypadek jest niecierpiący zwłoki i nie ma postanowienia. Co okazuje organ dokonujący przeszukania?",
+      "choices": [
+        "Wyłącznie prywatne polecenie świadka.",
+        "Nakaz kierownika jednostki albo legitymację służbową, a potem zwraca się o zatwierdzenie.",
+        "Nic i nie musi zatwierdzać.",
+        "Wyrok sądu po zakończeniu sprawy."
+      ],
+      "correctIndex": 1,
+      "explanation": "W nagłej sytuacji organ okazuje nakaz kierownika lub legitymację, a następnie występuje o zatwierdzenie.",
+      "source": "Art. 220 § 3"
+    },
+    {
+      "id": "kpk-137",
+      "type": "single_choice",
+      "category": "Przeszukanie",
+      "difficulty": "medium",
+      "question": "Osoba żąda doręczenia zatwierdzenia nagłego przeszukania. Jaki termin obowiązuje?",
+      "choices": [
+        "24 godziny.",
+        "7 dni od daty czynności.",
+        "14 dni.",
+        "30 dni."
+      ],
+      "correctIndex": 1,
+      "explanation": "Postanowienie o zatwierdzeniu doręcza się w terminie 7 dni od czynności na żądanie zgłoszone do protokołu.",
+      "source": "Art. 220 § 3"
+    },
+    {
+      "id": "kpk-138",
+      "type": "single_choice",
+      "category": "Przeszukanie",
+      "difficulty": "easy",
+      "question": "Czy zamieszkałe pomieszczenie można przeszukać w porze nocnej bez pilnej potrzeby?",
+      "choices": [
+        "Tak tylko po mediacji.",
+        "Tak zawsze.",
+        "Nie.",
+        "Tak tylko za zgodą świadka."
+      ],
+      "correctIndex": 2,
+      "explanation": "Przeszukanie zamieszkałych pomieszczeń w porze nocnej jest dopuszczalne tylko w wypadkach niecierpiących zwłoki.",
+      "source": "Art. 221 § 1"
+    },
+    {
+      "id": "kpk-139",
+      "type": "single_choice",
+      "category": "Przeszukanie",
+      "difficulty": "easy",
+      "question": "Przeszukanie rozpoczęto za dnia, ale w trakcie nastała noc. Co można zrobić?",
+      "choices": [
+        "Natychmiast przerwać zawsze.",
+        "Zakończyć sprawę.",
+        "Unieważnić protokół.",
+        "Kontynuować czynność."
+      ],
+      "correctIndex": 3,
+      "explanation": "Przeszukanie rozpoczęte za dnia można prowadzić dalej mimo nastania pory nocnej.",
+      "source": "Art. 221 § 2"
+    },
+    {
+      "id": "kpk-140",
+      "type": "single_choice",
+      "category": "Przeszukanie",
+      "difficulty": "medium",
+      "question": "Przeszukiwane jest pomieszczenie instytucji państwowej. Kogo należy zawiadomić i dopuścić do udziału?",
+      "choices": [
+        "Nikogo.",
+        "Kierownika instytucji, jego zastępcę albo organ nadrzędny.",
+        "Dowolnego przechodnia.",
+        "Wyłącznie oskarżonego."
+      ],
+      "correctIndex": 1,
+      "explanation": "Przy takim przeszukaniu zawiadamia się kierownika, zastępcę albo organ nadrzędny i dopuszcza do udziału.",
+      "source": "Art. 222 § 1"
+    },
+    {
+      "id": "kpk-141",
+      "type": "single_choice",
+      "category": "Przeszukanie",
+      "difficulty": "easy",
+      "question": "Przed przeszukaniem należy zawiadomić osobę o celu i wezwać ją do czego?",
+      "choices": [
+        "Do wydania poszukiwanych przedmiotów.",
+        "Do zrzeczenia się obrońcy.",
+        "Do wniesienia apelacji.",
+        "Do przyznania się."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przed przeszukaniem osobę zawiadamia się o celu czynności i wzywa do wydania poszukiwanych przedmiotów.",
+      "source": "Art. 224 § 1"
+    },
+    {
+      "id": "kpk-142",
+      "type": "single_choice",
+      "category": "Przeszukanie",
+      "difficulty": "medium",
+      "question": "Przy przeszukaniu nie ma gospodarza lokalu. Kogo należy przywołać?",
+      "choices": [
+        "Nikogo.",
+        "Małoletniego świadka.",
+        "Dowolnego dziennikarza.",
+        "Przynajmniej jednego dorosłego domownika lub sąsiada."
+      ],
+      "correctIndex": 3,
+      "explanation": "W braku gospodarza należy przywołać dorosłego domownika lub sąsiada.",
+      "source": "Art. 224 § 3"
+    },
+    {
+      "id": "kpk-143",
+      "type": "single_choice",
+      "category": "Tajemnice i dokumenty",
+      "difficulty": "hard",
+      "question": "Osoba oświadcza, że dokument znaleziony przy przeszukaniu zawiera tajemnicę zawodową. Co powinien zrobić organ?",
+      "choices": [
+        "Przekazać dokument bez odczytania prokuratorowi lub sądowi w opieczętowanym opakowaniu.",
+        "Odczytać go publicznie.",
+        "Przekazać pokrzywdzonemu.",
+        "Zniszczyć go."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dokument objęty wskazaną tajemnicą przekazuje się bez odczytania w opieczętowanym opakowaniu.",
+      "source": "Art. 225 § 1"
+    },
+    {
+      "id": "kpk-144",
+      "type": "single_choice",
+      "category": "Przeszukanie",
+      "difficulty": "easy",
+      "question": "Jak należy prowadzić przeszukanie i zatrzymanie rzeczy?",
+      "choices": [
+        "Z umiarem, w granicach niezbędnych, z poszanowaniem prywatności i godności oraz bez niepotrzebnych szkód.",
+        "W dowolny sposób.",
+        "Z maksymalną dolegliwością zawsze.",
+        "Bez staranności."
+      ],
+      "correctIndex": 0,
+      "explanation": "Czynności te muszą odpowiadać celowi, być umiarkowane i szanować prywatność oraz godność.",
+      "source": "Art. 227"
+    },
+    {
+      "id": "kpk-145",
+      "type": "single_choice",
+      "category": "Zatrzymanie rzeczy",
+      "difficulty": "medium",
+      "question": "Znaleziono rzeczy mogące stanowić dowód. Co należy zrobić po oględzinach?",
+      "choices": [
+        "Zniszczyć bez protokołu.",
+        "Oddać podejrzanemu bez pokwitowania.",
+        "Sporządzić spis i opis, a następnie zabrać albo oddać na przechowanie osobie godnej zaufania.",
+        "Pozostawić bez opisu."
+      ],
+      "correctIndex": 2,
+      "explanation": "Przedmioty wydane lub znalezione po oględzinach, spisie i opisie zabiera się albo oddaje na przechowanie.",
+      "source": "Art. 228 § 1"
+    },
+    {
+      "id": "kpk-146",
+      "type": "single_choice",
+      "category": "Zatrzymanie rzeczy",
+      "difficulty": "easy",
+      "question": "Jaki dokument należy natychmiast wręczyć osobom zainteresowanym przy zatrzymaniu przedmiotów?",
+      "choices": [
+        "Wyrok skazujący.",
+        "Pokwitowanie stwierdzające, jakie przedmioty i przez kogo zatrzymano.",
+        "Prywatną notatkę bez podpisu.",
+        "Wezwanie do apelacji."
+      ],
+      "correctIndex": 1,
+      "explanation": "Osobom zainteresowanym wydaje się pokwitowanie zatrzymanych przedmiotów.",
+      "source": "Art. 228 § 3"
+    },
+    {
+      "id": "kpk-147",
+      "type": "single_choice",
+      "category": "Zatrzymanie rzeczy",
+      "difficulty": "medium",
+      "question": "Przeszukanie bez uprzedniego polecenia nie zostało zatwierdzone w ciągu 7 dni. Co zrobić z rzeczami?",
+      "choices": [
+        "Zniszczyć.",
+        "Niezwłocznie zwrócić je osobie uprawnionej, z uwzględnieniem wyjątków.",
+        "Zatrzymać bezterminowo.",
+        "Przekazać pokrzywdzonemu na własność."
+      ],
+      "correctIndex": 1,
+      "explanation": "Brak zatwierdzenia w terminie powoduje obowiązek zwrotu rzeczy osobie uprawnionej, chyba że zachodzi wyjątek.",
+      "source": "Art. 230 § 1"
+    },
+    {
+      "id": "kpk-148",
+      "type": "single_choice",
+      "category": "Zatrzymanie rzeczy",
+      "difficulty": "medium",
+      "question": "Rzecz zatrzymana stała się zbędna dla postępowania. Co należy zrobić?",
+      "choices": [
+        "Przekazać dowolnej instytucji.",
+        "Niezwłocznie zwrócić ją osobie uprawnionej.",
+        "Zatrzymać zawsze do końca procesu.",
+        "Sprzedać ją."
+      ],
+      "correctIndex": 1,
+      "explanation": "Rzeczy zbędne dla postępowania zwraca się osobie uprawnionej.",
+      "source": "Art. 230 § 2"
+    },
+    {
+      "id": "kpk-149",
+      "type": "single_choice",
+      "category": "Zażalenia na czynności",
+      "difficulty": "medium",
+      "question": "Osoba twierdzi, że przeszukanie naruszyło jej prawa. Co jej przysługuje?",
+      "choices": [
+        "Zażalenie.",
+        "Apelacja od czynności.",
+        "Kasacja od protokołu.",
+        "Brak środka."
+      ],
+      "correctIndex": 0,
+      "explanation": "Na postanowienia i czynności dotyczące przeszukania lub zatrzymania rzeczy przysługuje zażalenie osobom, których prawa naruszono.",
+      "source": "Art. 236 § 1"
+    },
+    {
+      "id": "kpk-150",
+      "type": "single_choice",
+      "category": "Ujęcie obywatelskie",
+      "difficulty": "easy",
+      "question": "Osoba widzi sprawcę na gorącym uczynku, a istnieje obawa jego ukrycia się. Co może zrobić?",
+      "choices": [
+        "Ująć go i niezwłocznie oddać Policji.",
+        "Wymierzyć karę samodzielnie.",
+        "Przetrzymywać bezterminowo.",
+        "Przeszukać jego mieszkanie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Każdy może ująć sprawcę na gorącym uczynku lub w bezpośrednim pościgu przy określonych przesłankach, a potem oddać Policji.",
+      "source": "Art. 243 § 1-2"
+    },
+    {
+      "id": "kpk-151",
+      "type": "single_choice",
+      "category": "Zatrzymanie osoby",
+      "difficulty": "easy",
+      "question": "Policja ma uzasadnione przypuszczenie popełnienia przestępstwa i obawę ucieczki osoby. Czy może ją zatrzymać?",
+      "choices": [
+        "Tak.",
+        "Tylko po apelacji.",
+        "Tylko za zgodą pokrzywdzonego.",
+        "Nie, tylko po wyroku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policja może zatrzymać osobę podejrzaną przy uzasadnionym przypuszczeniu i wskazanych obawach.",
+      "source": "Art. 244 § 1"
+    },
+    {
+      "id": "kpk-152",
+      "type": "single_choice",
+      "category": "Zatrzymanie osoby",
+      "difficulty": "medium",
+      "question": "Co należy natychmiast przekazać zatrzymanemu?",
+      "choices": [
+        "Treść przyszłej apelacji.",
+        "Przyczyny zatrzymania i przysługujące prawa.",
+        "Dane wszystkich świadków.",
+        "Przewidywany wyrok."
+      ],
+      "correctIndex": 1,
+      "explanation": "Zatrzymanego natychmiast informuje się o przyczynach zatrzymania i prawach.",
+      "source": "Art. 244 § 2"
+    },
+    {
+      "id": "kpk-153",
+      "type": "single_choice",
+      "category": "Zatrzymanie osoby",
+      "difficulty": "medium",
+      "question": "Zatrzymany żąda kontaktu z adwokatem lub radcą prawnym. Co należy zrobić?",
+      "choices": [
+        "Niezwłocznie umożliwić kontakt i bezpośrednią rozmowę.",
+        "Odmówić do czasu wyroku.",
+        "Uzależnić od zgody pokrzywdzonego.",
+        "Odłożyć zawsze na 48 godzin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zatrzymanemu na żądanie umożliwia się kontakt i rozmowę z adwokatem lub radcą prawnym.",
+      "source": "Art. 245 § 1"
+    },
+    {
+      "id": "kpk-154",
+      "type": "single_choice",
+      "category": "Zatrzymanie osoby",
+      "difficulty": "medium",
+      "question": "Zatrzymany chce kontroli zasadności, legalności i prawidłowości zatrzymania. Co mu przysługuje?",
+      "choices": [
+        "Prywatny akt oskarżenia.",
+        "Apelacja od zatrzymania.",
+        "Kasacja natychmiastowa.",
+        "Zażalenie do sądu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Zatrzymanemu przysługuje zażalenie do sądu w takim zakresie.",
+      "source": "Art. 246 § 1"
+    },
+    {
+      "id": "kpk-155",
+      "type": "single_choice",
+      "category": "Zatrzymanie osoby",
+      "difficulty": "medium",
+      "question": "Sąd uznaje zatrzymanie za bezzasadne albo nielegalne. Co zarządza?",
+      "choices": [
+        "Zawieszenie sprawy.",
+        "Automatyczny areszt.",
+        "Natychmiastowe zwolnienie.",
+        "Przedłużenie zatrzymania."
+      ],
+      "correctIndex": 2,
+      "explanation": "Przy bezzasadności albo nielegalności zatrzymania sąd zarządza natychmiastowe zwolnienie.",
+      "source": "Art. 246 § 3"
+    },
+    {
+      "id": "kpk-156",
+      "type": "single_choice",
+      "category": "Zatrzymanie osoby",
+      "difficulty": "medium",
+      "question": "Ustała przyczyna zatrzymania. Co należy zrobić?",
+      "choices": [
+        "Trzymać go do pełnych 48 godzin zawsze.",
+        "Czekać na wniosek obrońcy.",
+        "Zastosować karę bez wyroku.",
+        "Natychmiast zwolnić zatrzymanego."
+      ],
+      "correctIndex": 3,
+      "explanation": "Zatrzymanego zwalnia się natychmiast po ustaniu przyczyny zatrzymania.",
+      "source": "Art. 248 § 1"
+    },
+    {
+      "id": "kpk-157",
+      "type": "single_choice",
+      "category": "Zatrzymanie osoby",
+      "difficulty": "medium",
+      "question": "Zatrzymanego nie przekazano sądowi z wnioskiem o tymczasowe aresztowanie w ciągu 48 godzin. Co należy zrobić?",
+      "choices": [
+        "Przedłużyć zatrzymanie decyzją Policji.",
+        "Zwolnić go.",
+        "Uznać zatrzymanie za areszt.",
+        "Czekać bezterminowo."
+      ],
+      "correctIndex": 1,
+      "explanation": "Brak przekazania do sądu w ciągu 48 godzin powoduje obowiązek zwolnienia.",
+      "source": "Art. 248 § 1"
+    },
+    {
+      "id": "kpk-158",
+      "type": "single_choice",
+      "category": "Zatrzymanie osoby",
+      "difficulty": "hard",
+      "question": "Czy można ponownie zatrzymać osobę podejrzaną na podstawie tych samych faktów i dowodów?",
+      "choices": [
+        "Tak po 24 godzinach.",
+        "Nie.",
+        "Tak zawsze.",
+        "Tak, jeśli zmieni się patrol."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ponowne zatrzymanie na tych samych faktach i dowodach jest niedopuszczalne.",
+      "source": "Art. 248 § 3"
+    },
+    {
+      "id": "kpk-159",
+      "type": "single_choice",
+      "category": "Środki zapobiegawcze",
+      "difficulty": "easy",
+      "question": "Jaki jest zasadniczy cel środków zapobiegawczych?",
+      "choices": [
+        "Zabezpieczenie prawidłowego toku postępowania.",
+        "Zastąpienie dowodów.",
+        "Ukaranie przed wyrokiem.",
+        "Spełnienie oczekiwań opinii publicznej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Środki zapobiegawcze służą zabezpieczeniu toku postępowania, wyjątkowo także zapobieganiu nowemu ciężkiemu przestępstwu.",
+      "source": "Art. 249 § 1"
+    },
+    {
+      "id": "kpk-160",
+      "type": "single_choice",
+      "category": "Środki zapobiegawcze",
+      "difficulty": "medium",
+      "question": "Czy w postępowaniu przygotowawczym można zastosować środek zapobiegawczy wobec osoby bez przedstawionych zarzutów?",
+      "choices": [
+        "Tak, jeśli sprawa jest medialna.",
+        "Tak na życzenie pokrzywdzonego.",
+        "Nie.",
+        "Tak zawsze."
+      ],
+      "correctIndex": 2,
+      "explanation": "W postępowaniu przygotowawczym środki zapobiegawcze stosuje się tylko wobec osoby z przedstawionymi zarzutami.",
+      "source": "Art. 249 § 2"
+    },
+    {
+      "id": "kpk-161",
+      "type": "single_choice",
+      "category": "Tymczasowe aresztowanie",
+      "difficulty": "easy",
+      "question": "Kto może zastosować tymczasowe aresztowanie?",
+      "choices": [
+        "Pokrzywdzony.",
+        "Biegły.",
+        "Policja samodzielnie.",
+        "Sąd."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tymczasowe aresztowanie następuje tylko na mocy postanowienia sądu.",
+      "source": "Art. 250 § 1"
+    },
+    {
+      "id": "kpk-162",
+      "type": "single_choice",
+      "category": "Tymczasowe aresztowanie",
+      "difficulty": "medium",
+      "question": "Kto w postępowaniu przygotowawczym składa wniosek o tymczasowe aresztowanie?",
+      "choices": [
+        "Prokurator.",
+        "Świadek.",
+        "Pokrzywdzony samodzielnie.",
+        "Policja bez prokuratora."
+      ],
+      "correctIndex": 0,
+      "explanation": "W postępowaniu przygotowawczym sąd stosuje tymczasowe aresztowanie na wniosek prokuratora.",
+      "source": "Art. 250 § 2"
+    },
+    {
+      "id": "kpk-163",
+      "type": "single_choice",
+      "category": "Tymczasowe aresztowanie",
+      "difficulty": "hard",
+      "question": "Co należy określić w postanowieniu o tymczasowym aresztowaniu?",
+      "choices": [
+        "Tylko numer sprawy.",
+        "Termin apelacji.",
+        "Wyłącznie nazwisko świadka.",
+        "Czas trwania i termin, do którego aresztowanie ma trwać."
+      ],
+      "correctIndex": 3,
+      "explanation": "Postanowienie o tymczasowym aresztowaniu musi określać czas i końcowy termin trwania środka.",
+      "source": "Art. 251 § 2"
+    },
+    {
+      "id": "kpk-164",
+      "type": "single_choice",
+      "category": "Środki zapobiegawcze",
+      "difficulty": "medium",
+      "question": "Zachodzi obawa ucieczki lub ukrycia się oskarżonego. Jakie ma to znaczenie?",
+      "choices": [
+        "Ma znaczenie tylko po wyroku.",
+        "Dotyczy wyłącznie świadków.",
+        "Wyklucza każdy środek.",
+        "Może uzasadniać środek zapobiegawczy."
+      ],
+      "correctIndex": 3,
+      "explanation": "Obawa ucieczki lub ukrycia jest jedną z podstaw stosowania środków zapobiegawczych.",
+      "source": "Art. 258 § 1 pkt 1"
+    },
+    {
+      "id": "kpk-165",
+      "type": "single_choice",
+      "category": "Środki zapobiegawcze",
+      "difficulty": "medium",
+      "question": "Istnieje obawa nakłaniania świadków do fałszywych zeznań. Jakie ma to znaczenie?",
+      "choices": [
+        "Może uzasadniać środek zapobiegawczy.",
+        "Nie ma znaczenia.",
+        "Powoduje automatyczne umorzenie.",
+        "Dotyczy tylko kosztów procesu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Obawa matactwa jest podstawą stosowania środków zapobiegawczych.",
+      "source": "Art. 258 § 1 pkt 2"
+    },
+    {
+      "id": "kpk-166",
+      "type": "single_choice",
+      "category": "Środki zapobiegawcze",
+      "difficulty": "medium",
+      "question": "Inny środek zapobiegawczy wystarcza do zabezpieczenia toku postępowania. Czy należy stosować tymczasowe aresztowanie?",
+      "choices": [
+        "Nie.",
+        "Tak zawsze.",
+        "Tak dla przykładu.",
+        "Tak bez uzasadnienia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tymczasowego aresztowania nie stosuje się, jeżeli wystarcza inny środek.",
+      "source": "Art. 257 § 1"
+    },
+    {
+      "id": "kpk-167",
+      "type": "single_choice",
+      "category": "Środki zapobiegawcze",
+      "difficulty": "medium",
+      "question": "Osoba poręczająca dowiaduje się, że oskarżony utrudnia postępowanie. Co powinna zrobić?",
+      "choices": [
+        "Zatrzymać oskarżonego na własną rękę.",
+        "Ukryć informację.",
+        "Niezwłocznie powiadomić sąd lub prokuratora.",
+        "Wnieść kasację."
+      ],
+      "correctIndex": 2,
+      "explanation": "Poręczający musi powiadomić organ o działaniach oskarżonego zmierzających do uchylania się lub utrudniania postępowania.",
+      "source": "Art. 273 § 2"
+    },
+    {
+      "id": "kpk-168",
+      "type": "single_choice",
+      "category": "Środki zapobiegawcze",
+      "difficulty": "medium",
+      "question": "Oskarżony oddany pod dozór Policji ma określony obowiązek stawiennictwa. Czy taki obowiązek jest dopuszczalny?",
+      "choices": [
+        "Tylko po wyroku.",
+        "Tak.",
+        "Nie, dozór nie obejmuje obowiązków.",
+        "Tylko w sprawach prywatnych."
+      ],
+      "correctIndex": 1,
+      "explanation": "W ramach dozoru można nakazać stawianie się w oznaczonych odstępach do organu dozorującego.",
+      "source": "Art. 275 § 2"
+    },
+    {
+      "id": "kpk-169",
+      "type": "single_choice",
+      "category": "Środki zapobiegawcze",
+      "difficulty": "medium",
+      "question": "Oskarżony ma zakaz opuszczania kraju. Jaki dokument można zatrzymać?",
+      "choices": [
+        "Paszport lub inny dokument uprawniający do przekroczenia granicy.",
+        "Dowód rejestracyjny świadka.",
+        "Akt urodzenia.",
+        "Legitymację pokrzywdzonego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zakaz opuszczania kraju może być połączony z zatrzymaniem paszportu lub innego dokumentu granicznego.",
+      "source": "Art. 277 § 1"
+    },
+    {
+      "id": "kpk-170",
+      "type": "single_choice",
+      "category": "Środki zapobiegawcze",
+      "difficulty": "medium",
+      "question": "Ustały przyczyny stosowania środka zapobiegawczego. Co należy zrobić?",
+      "choices": [
+        "Niezwłocznie uchylić lub zmienić środek.",
+        "Zamienić automatycznie na karę.",
+        "Zignorować zmianę.",
+        "Zostawić do wyroku zawsze."
+      ],
+      "correctIndex": 0,
+      "explanation": "Środek zapobiegawczy podlega niezwłocznemu uchyleniu albo zmianie, gdy ustaną jego przyczyny.",
+      "source": "Art. 253 § 1"
+    },
+    {
+      "id": "kpk-171",
+      "type": "single_choice",
+      "category": "Postępowanie przygotowawcze",
+      "difficulty": "easy",
+      "question": "Organ ma uzasadnione podejrzenie popełnienia przestępstwa. Jaka decyzja rozpoczyna śledztwo?",
+      "choices": [
+        "Kasacja.",
+        "Wyrok nakazowy.",
+        "Apelacja.",
+        "Postanowienie o wszczęciu śledztwa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Uzasadnione podejrzenie popełnienia przestępstwa skutkuje wydaniem postanowienia o wszczęciu śledztwa.",
+      "source": "Art. 303"
+    },
+    {
+      "id": "kpk-172",
+      "type": "single_choice",
+      "category": "Zawiadomienie o przestępstwie",
+      "difficulty": "easy",
+      "question": "Osoba dowiaduje się o przestępstwie ściganym z urzędu. Jaki ma społeczny obowiązek?",
+      "choices": [
+        "Zawiadomić prokuratora lub Policję.",
+        "Milczeć zawsze.",
+        "Zawiadomić wyłącznie media.",
+        "Samodzielnie ukarać sprawcę."
+      ],
+      "correctIndex": 0,
+      "explanation": "Każdy ma społeczny obowiązek zawiadomić prokuratora lub Policję o przestępstwie ściganym z urzędu.",
+      "source": "Art. 304 § 1"
+    },
+    {
+      "id": "kpk-173",
+      "type": "single_choice",
+      "category": "Zawiadomienie o przestępstwie",
+      "difficulty": "medium",
+      "question": "Instytucja państwowa dowiaduje się w związku ze swoją działalnością o przestępstwie ściganym z urzędu. Co powinna zrobić?",
+      "choices": [
+        "Czekać do rocznego sprawozdania.",
+        "Niezwłocznie zawiadomić prokuratora lub Policję i zabezpieczyć ślady oraz dowody do czasu przybycia organu.",
+        "Nie podejmować żadnych działań.",
+        "Zawiadomić wyłącznie oskarżonego."
+      ],
+      "correctIndex": 1,
+      "explanation": "Instytucje publiczne mają prawny obowiązek zawiadomienia i zabezpieczenia śladów oraz dowodów.",
+      "source": "Art. 304 § 2"
+    },
+    {
+      "id": "kpk-174",
+      "type": "single_choice",
+      "category": "Postępowanie przygotowawcze",
+      "difficulty": "medium",
+      "question": "Organ musi zdecydować o wszczęciu albo odmowie wszczęcia śledztwa po zawiadomieniu. Jaki jest podstawowy termin?",
+      "choices": [
+        "6 miesięcy.",
+        "14 dni.",
+        "30 dni od otrzymania zawiadomienia.",
+        "7 dni."
+      ],
+      "correctIndex": 2,
+      "explanation": "Postanowienie o wszczęciu albo odmowie wszczęcia śledztwa wydaje się w terminie 30 dni od otrzymania zawiadomienia.",
+      "source": "Art. 305 § 1"
+    },
+    {
+      "id": "kpk-175",
+      "type": "single_choice",
+      "category": "Postępowanie przygotowawcze",
+      "difficulty": "medium",
+      "question": "Policja wydała postanowienie o wszczęciu śledztwa. Kto je zatwierdza?",
+      "choices": [
+        "Pokrzywdzony.",
+        "Prokurator.",
+        "Obrońca.",
+        "Świadek."
+      ],
+      "correctIndex": 1,
+      "explanation": "Postanowienie Policji o wszczęciu śledztwa zatwierdza prokurator.",
+      "source": "Art. 305 § 3"
+    },
+    {
+      "id": "kpk-176",
+      "type": "single_choice",
+      "category": "Postępowanie przygotowawcze",
+      "difficulty": "hard",
+      "question": "Przed formalnym wszczęciem trzeba zabezpieczyć ślady przed utratą. Co można zrobić?",
+      "choices": [
+        "Można tylko czekać.",
+        "Można tylko wydać wyrok.",
+        "W niezbędnym zakresie przeprowadzić czynności procesowe, w tym oględziny, przeszukanie lub czynności wobec osoby podejrzanej.",
+        "Nie wolno nic robić."
+      ],
+      "correctIndex": 2,
+      "explanation": "W granicach koniecznych dla zabezpieczenia śladów i dowodów dopuszczalne są czynności w niezbędnym zakresie jeszcze przed formalnym wszczęciem.",
+      "source": "Art. 308 § 1"
+    },
+    {
+      "id": "kpk-177",
+      "type": "single_choice",
+      "category": "Postępowanie przygotowawcze",
+      "difficulty": "medium",
+      "question": "Śledztwo prowadzi organ właściwy. Kto zasadniczo prowadzi śledztwo?",
+      "choices": [
+        "Prokurator.",
+        "Biegły.",
+        "Pokrzywdzony.",
+        "Mediator."
+      ],
+      "correctIndex": 0,
+      "explanation": "Śledztwo prowadzi prokurator, choć może powierzyć określone czynności Policji.",
+      "source": "Art. 311 § 1"
+    },
+    {
+      "id": "kpk-178",
+      "type": "single_choice",
+      "category": "Postępowanie przygotowawcze",
+      "difficulty": "medium",
+      "question": "Dane uzasadniają dostatecznie podejrzenie, że czyn popełniła określona osoba. Co należy zrobić?",
+      "choices": [
+        "Od razu wydać wyrok.",
+        "Przesłuchać jako świadka bez zarzutów.",
+        "Sporządzić i ogłosić postanowienie o przedstawieniu zarzutów oraz przesłuchać podejrzanego.",
+        "Umorzyć zawsze."
+      ],
+      "correctIndex": 2,
+      "explanation": "Przy dostatecznym podejrzeniu wobec określonej osoby następuje przedstawienie zarzutów i przesłuchanie.",
+      "source": "Art. 313 § 1"
+    },
+    {
+      "id": "kpk-179",
+      "type": "single_choice",
+      "category": "Postępowanie przygotowawcze",
+      "difficulty": "medium",
+      "question": "W toku śledztwa zarzut wymaga istotnej zmiany. Co należy zrobić?",
+      "choices": [
+        "Pominąć do wyroku.",
+        "Wydać nowe postanowienie, ogłosić je i przesłuchać podejrzanego.",
+        "Zmienić tylko w notatce.",
+        "Zawsze umorzyć sprawę."
+      ],
+      "correctIndex": 1,
+      "explanation": "Przy istotnej zmianie zarzutu wydaje się nowe postanowienie, ogłasza je i przesłuchuje podejrzanego.",
+      "source": "Art. 314"
+    },
+    {
+      "id": "kpk-180",
+      "type": "single_choice",
+      "category": "Postępowanie przygotowawcze",
+      "difficulty": "medium",
+      "question": "Podejrzany chce uczestniczyć w czynności, której nie da się powtórzyć na rozprawie. Co do zasady, czy należy go dopuścić?",
+      "choices": [
+        "Tylko po wyroku.",
+        "Tak, chyba że zachodzi niebezpieczeństwo utraty lub zniekształcenia dowodu w razie zwłoki.",
+        "Nigdy.",
+        "Tylko za zgodą świadka."
+      ],
+      "correctIndex": 1,
+      "explanation": "Strony i ich przedstawicieli dopuszcza się do czynności niepowtarzalnych z ustawowym wyjątkiem pilności.",
+      "source": "Art. 316 § 1"
+    },
+    {
+      "id": "kpk-181",
+      "type": "single_choice",
+      "category": "Postępowanie przygotowawcze",
+      "difficulty": "medium",
+      "question": "Strona złożyła wniosek o czynność śledztwa i chce w niej uczestniczyć. Czy można jej odmówić?",
+      "choices": [
+        "Co do zasady nie, jeżeli żąda udziału.",
+        "Tylko oskarżony może uczestniczyć.",
+        "Zawsze można odmówić bez podstaw.",
+        "Zawsze musi być wyłączona."
+      ],
+      "correctIndex": 0,
+      "explanation": "Stronie, która złożyła wniosek, oraz jej obrońcy lub pełnomocnikowi nie można odmówić udziału, gdy tego żądają.",
+      "source": "Art. 315 § 2"
+    },
+    {
+      "id": "kpk-182",
+      "type": "single_choice",
+      "category": "Postępowanie przygotowawcze",
+      "difficulty": "medium",
+      "question": "Przed zamknięciem śledztwa podejrzany składa wniosek o końcowe zaznajomienie z materiałami. Co należy zrobić?",
+      "choices": [
+        "Odmówić zawsze.",
+        "Umożliwić końcowe zaznajomienie z materiałami postępowania.",
+        "Udostępnić materiały dopiero po wyroku.",
+        "Udostępnić tylko pokrzywdzonemu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Na wniosek podejrzanego lub obrońcy umożliwia się końcowe zaznajomienie z materiałami.",
+      "source": "Art. 321 § 1"
+    },
+    {
+      "id": "kpk-183",
+      "type": "single_choice",
+      "category": "Postępowanie przygotowawcze",
+      "difficulty": "medium",
+      "question": "Po końcowym zaznajomieniu strona chce złożyć wnioski o uzupełnienie śledztwa. Jaki ma termin?",
+      "choices": [
+        "14 dni.",
+        "7 dni.",
+        "3 dni od daty zaznajomienia.",
+        "30 dni."
+      ],
+      "correctIndex": 2,
+      "explanation": "Wnioski o uzupełnienie śledztwa można składać w terminie 3 dni od zaznajomienia.",
+      "source": "Art. 321 § 5"
+    },
+    {
+      "id": "kpk-184",
+      "type": "single_choice",
+      "category": "Postępowanie przygotowawcze",
+      "difficulty": "medium",
+      "question": "Postępowanie nie dało podstaw do aktu oskarżenia. Co powinien zrobić prokurator?",
+      "choices": [
+        "Zastosować karę.",
+        "Wydać postanowienie o umorzeniu śledztwa.",
+        "Wnieść akt oskarżenia mimo braku podstaw.",
+        "Przekazać sprawę mediatorowi jako wyrok."
+      ],
+      "correctIndex": 1,
+      "explanation": "Brak podstaw do wniesienia aktu oskarżenia skutkuje umorzeniem śledztwa.",
+      "source": "Art. 322 § 1"
+    },
+    {
+      "id": "kpk-185",
+      "type": "single_choice",
+      "category": "Dochodzenie",
+      "difficulty": "medium",
+      "question": "Kto zasadniczo prowadzi dochodzenie, jeżeli nie prowadzi go prokurator?",
+      "choices": [
+        "Policja lub inny organ wskazany w kodeksie.",
+        "Pokrzywdzony.",
+        "Sąd okręgowy.",
+        "Biegły."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dochodzenie prowadzi Policja lub inne wskazane organy, chyba że prowadzi je prokurator.",
+      "source": "Art. 325a"
+    },
+    {
+      "id": "kpk-186",
+      "type": "single_choice",
+      "category": "Dochodzenie",
+      "difficulty": "hard",
+      "question": "Postanowienie o umorzeniu dochodzenia wydał organ prowadzący dochodzenie inny niż prokurator. Co jest potrzebne?",
+      "choices": [
+        "Zatwierdzenie przez świadka.",
+        "Zatwierdzenie przez prokuratora.",
+        "Brak jakiegokolwiek zatwierdzenia.",
+        "Zgoda oskarżonego."
+      ],
+      "correctIndex": 1,
+      "explanation": "Gdy umorzenie dochodzenia wydaje prowadzący inny niż prokurator, postanowienie zatwierdza prokurator.",
+      "source": "Art. 325e § 2"
+    },
+    {
+      "id": "kpk-187",
+      "type": "single_choice",
+      "category": "Konsensualne zakończenie",
+      "difficulty": "medium",
+      "question": "Podejrzany przyznaje się, okoliczności nie budzą wątpliwości, a cele postępowania mogą zostać osiągnięte. Co może zrobić prokurator zamiast aktu oskarżenia?",
+      "choices": [
+        "Zastosować karę bez sądu.",
+        "Umorzyć zawsze.",
+        "Wydać sam wyrok.",
+        "Wystąpić do sądu z wnioskiem o wydanie wyroku skazującego i orzeczenie uzgodnionych kar lub środków."
+      ],
+      "correctIndex": 3,
+      "explanation": "Przy spełnieniu warunków prokurator może skierować wniosek o skazanie bez aktu oskarżenia.",
+      "source": "Art. 335 § 1"
+    },
+    {
+      "id": "kpk-188",
+      "type": "single_choice",
+      "category": "Warunkowe umorzenie",
+      "difficulty": "medium",
+      "question": "Prokurator widzi podstawy do warunkowego umorzenia. Co może skierować do sądu zamiast aktu oskarżenia?",
+      "choices": [
+        "Wniosek o ukaranie za wykroczenie zawsze.",
+        "Apelację.",
+        "Kasację.",
+        "Wniosek o warunkowe umorzenie postępowania."
+      ],
+      "correctIndex": 3,
+      "explanation": "Prokurator może zamiast aktu oskarżenia sporządzić wniosek o warunkowe umorzenie.",
+      "source": "Art. 336 § 1"
+    },
+    {
+      "id": "kpk-189",
+      "type": "single_choice",
+      "category": "Przygotowanie do rozprawy",
+      "difficulty": "easy",
+      "question": "Oskarżony otrzymał akt oskarżenia i chce odpowiedzieć pisemnie. Jaki ma termin?",
+      "choices": [
+        "30 dni.",
+        "7 dni od doręczenia aktu oskarżenia.",
+        "3 miesiące.",
+        "14 dni."
+      ],
+      "correctIndex": 1,
+      "explanation": "Oskarżony może wnieść odpowiedź na akt oskarżenia w terminie 7 dni od doręczenia.",
+      "source": "Art. 338 § 2"
+    },
+    {
+      "id": "kpk-190",
+      "type": "single_choice",
+      "category": "Konsensualne zakończenie",
+      "difficulty": "medium",
+      "question": "Oskarżony chce złożyć wniosek o dobrowolne poddanie się karze po wniesieniu aktu oskarżenia. Do kiedy może to zrobić?",
+      "choices": [
+        "Nigdy po akcie oskarżenia.",
+        "Tylko przed zarzutami.",
+        "Dopiero po wyroku.",
+        "Do chwili zawiadomienia go o terminie rozprawy."
+      ],
+      "correctIndex": 3,
+      "explanation": "Wniosek taki może zostać złożony przed doręczeniem zawiadomienia o terminie rozprawy.",
+      "source": "Art. 338a"
+    },
+    {
+      "id": "kpk-191",
+      "type": "single_choice",
+      "category": "Posiedzenie sądu",
+      "difficulty": "medium",
+      "question": "Sąd rozważa umorzenie z powodu oczywistego braku faktycznych podstaw oskarżenia. Czy może skierować sprawę na posiedzenie?",
+      "choices": [
+        "Tylko po kasacji.",
+        "Nie, zawsze pełna rozprawa.",
+        "Tak.",
+        "Tylko po zgodzie Policji."
+      ],
+      "correctIndex": 2,
+      "explanation": "Prezes sądu kieruje sprawę na posiedzenie między innymi w celu rozważenia takiego umorzenia.",
+      "source": "Art. 339 § 3 pkt 2"
+    },
+    {
+      "id": "kpk-192",
+      "type": "single_choice",
+      "category": "Warunkowe umorzenie",
+      "difficulty": "medium",
+      "question": "Sąd na posiedzeniu uznaje, że warunkowe umorzenie byłoby nieuzasadnione. Co robi?",
+      "choices": [
+        "Kieruje sprawę na rozprawę.",
+        "Kończy sprawę mediacją.",
+        "Uniewinnia automatycznie.",
+        "Stosuje karę bez procesu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli warunkowe umorzenie jest nieuzasadnione, sąd kieruje sprawę na rozprawę.",
+      "source": "Art. 341 § 2"
+    },
+    {
+      "id": "kpk-193",
+      "type": "single_choice",
+      "category": "Przygotowanie do rozprawy",
+      "difficulty": "medium",
+      "question": "Akta wskazują istotne braki postępowania przygotowawczego, a ich usunięcie przez sąd byłoby bardzo trudne. Co może zrobić sąd?",
+      "choices": [
+        "Zwrócić sprawę prokuratorowi w celu usunięcia braków.",
+        "Przekazać sprawę świadkowi.",
+        "Zawsze wydać wyrok.",
+        "Zawsze umorzyć bez badania."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sąd może zwrócić sprawę prokuratorowi przy istotnych brakach, gdy czynności sądu powodowałyby znaczne trudności.",
+      "source": "Art. 344a § 1"
+    },
+    {
+      "id": "kpk-194",
+      "type": "single_choice",
+      "category": "Przygotowanie do rozprawy",
+      "difficulty": "easy",
+      "question": "Prezes sądu wyznacza rozprawę. Co powinien określić w zarządzeniu?",
+      "choices": [
+        "Wyłącznie rodzaj kary.",
+        "Wyłącznie nazwisko protokolanta.",
+        "Wyłącznie treść wyroku.",
+        "Między innymi skład, dzień, godzinę, salę, osoby do wezwania i inne czynności przygotowawcze."
+      ],
+      "correctIndex": 3,
+      "explanation": "Zarządzenie o wyznaczeniu rozprawy określa elementy organizacyjne i przygotowawcze wskazane w kodeksie.",
+      "source": "Art. 350 § 1"
+    },
+    {
+      "id": "kpk-195",
+      "type": "single_choice",
+      "category": "Rozprawa główna",
+      "difficulty": "easy",
+      "question": "Oskarżony chce uczestniczyć w rozprawie. Jaka jest zasada?",
+      "choices": [
+        "Tylko za zgodą pokrzywdzonego.",
+        "Tylko przy ogłoszeniu wyroku.",
+        "Nie może nigdy.",
+        "Ma prawo brać udział w rozprawie."
+      ],
+      "correctIndex": 3,
+      "explanation": "Oskarżony ma prawo brać udział w rozprawie.",
+      "source": "Art. 374 § 1"
+    },
+    {
+      "id": "kpk-196",
+      "type": "single_choice",
+      "category": "Rozprawa główna",
+      "difficulty": "medium",
+      "question": "Oskarżony prawidłowo zawiadomiony nie stawił się, a jego obecność nie jest obowiązkowa. Co może zrobić sąd?",
+      "choices": [
+        "Zawsze odroczyć.",
+        "Zawsze uniewinnić.",
+        "Zawsze umorzyć.",
+        "Prowadzić rozprawę bez jego udziału, chyba że ustawa stanowi inaczej."
+      ],
+      "correctIndex": 3,
+      "explanation": "Niestawiennictwo oskarżonego nie blokuje rozprawy, jeśli jego obecność nie jest obowiązkowa, chyba że ustawa stanowi inaczej.",
+      "source": "Art. 376 § 1"
+    },
+    {
+      "id": "kpk-197",
+      "type": "single_choice",
+      "category": "Rozprawa główna",
+      "difficulty": "medium",
+      "question": "Oskarżony na rozprawie wyjaśnia odmiennie niż wcześniej. Co może zrobić sąd?",
+      "choices": [
+        "Pominąć wcześniejsze wyjaśnienia zawsze.",
+        "Zniszczyć protokół.",
+        "Umorzyć sprawę.",
+        "Odczytać w odpowiednim zakresie wcześniejsze protokoły wyjaśnień."
+      ],
+      "correctIndex": 3,
+      "explanation": "Przy odmowie, odmiennych wyjaśnieniach lub braku pamięci można odczytywać wcześniejsze protokoły wyjaśnień.",
+      "source": "Art. 389 § 1"
+    },
+    {
+      "id": "kpk-198",
+      "type": "single_choice",
+      "category": "Rozprawa główna",
+      "difficulty": "medium",
+      "question": "Obecność oskarżonego może krępować pokrzywdzonego podczas przesłuchania. Co może zarządzić przewodniczący?",
+      "choices": [
+        "Zakaz składania zeznań przez pokrzywdzonego.",
+        "Odebranie prawa do obrony.",
+        "Umorzenie sprawy.",
+        "Opuszczenie sali przez oskarżonego na czas przesłuchania."
+      ],
+      "correctIndex": 3,
+      "explanation": "Przewodniczący może czasowo usunąć oskarżonego z sali, gdy jego obecność krępowałaby pokrzywdzonego.",
+      "source": "Art. 390 § 2"
+    },
+    {
+      "id": "kpk-199",
+      "type": "single_choice",
+      "category": "Rozprawa główna",
+      "difficulty": "medium",
+      "question": "Świadek zmarł, a wcześniej złożył zeznania w postępowaniu przygotowawczym. Co może zrobić sąd?",
+      "choices": [
+        "Przesłuchać dowolną osobę zamiast niego.",
+        "Zawsze umorzyć postępowanie.",
+        "Odczytać w odpowiednim zakresie protokół wcześniejszych zeznań.",
+        "Pominąć dowód zawsze."
+      ],
+      "correctIndex": 2,
+      "explanation": "Śmierć świadka jest jedną z sytuacji pozwalających odczytać wcześniejsze zeznania.",
+      "source": "Art. 391 § 1"
+    },
+    {
+      "id": "kpk-200",
+      "type": "single_choice",
+      "category": "Rozprawa główna",
+      "difficulty": "medium",
+      "question": "Bezpośrednie przeprowadzenie dowodu z protokołu nie jest niezbędne i żadna obecna strona się nie sprzeciwia. Czy można odczytać protokół?",
+      "choices": [
+        "Nie nigdy.",
+        "Tylko w kasacji.",
+        "Tylko po wyroku.",
+        "Tak."
+      ],
+      "correctIndex": 3,
+      "explanation": "Protokoły mogą być odczytywane, gdy bezpośrednie przeprowadzenie dowodu nie jest konieczne i brak sprzeciwu obecnych stron.",
+      "source": "Art. 392 § 1"
+    },
+    {
+      "id": "kpk-201",
+      "type": "single_choice",
+      "category": "Rozprawa główna",
+      "difficulty": "medium",
+      "question": "Sąd chce odczytać notatkę dotyczącą czynności, z której wymagany był protokół. Czy może?",
+      "choices": [
+        "Nie.",
+        "Tak zawsze.",
+        "Tak, jeśli sporządziła ją Policja.",
+        "Tak, jeśli jest krótka."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nie wolno odczytywać notatek dotyczących czynności, z których wymagany jest protokół.",
+      "source": "Art. 393 § 1"
+    },
+    {
+      "id": "kpk-202",
+      "type": "single_choice",
+      "category": "Rozprawa główna",
+      "difficulty": "medium",
+      "question": "Po przeprowadzeniu dowodów strony nie wnoszą o uzupełnienie postępowania dowodowego. Co robi przewodniczący?",
+      "choices": [
+        "Odroczy zawsze.",
+        "Stosuje areszt.",
+        "Zamyka przewód sądowy.",
+        "Przekazuje sprawę Policji."
+      ],
+      "correctIndex": 2,
+      "explanation": "Po braku wniosków o uzupełnienie postępowania dowodowego przewodniczący zamyka przewód.",
+      "source": "Art. 405 § 1"
+    },
+    {
+      "id": "kpk-203",
+      "type": "single_choice",
+      "category": "Wyrok",
+      "difficulty": "easy",
+      "question": "Na czym może opierać się wyrok?",
+      "choices": [
+        "Na opinii publicznej.",
+        "Na całokształcie okoliczności ujawnionych w toku rozprawy głównej.",
+        "Na prywatnych przypuszczeniach sędziego.",
+        "Na nieujawnionych dokumentach."
+      ],
+      "correctIndex": 1,
+      "explanation": "Podstawą wyroku może być tylko materiał ujawniony w toku rozprawy głównej.",
+      "source": "Art. 410"
+    },
+    {
+      "id": "kpk-204",
+      "type": "single_choice",
+      "category": "Wyrok",
+      "difficulty": "medium",
+      "question": "Po rozpoczęciu przewodu sądowego sąd stwierdza, że czynu nie popełniono. Jakie rozstrzygnięcie jest właściwe?",
+      "choices": [
+        "Zawieszenie bez rozstrzygnięcia.",
+        "Skazanie bez kary.",
+        "Warunkowe umorzenie zawsze.",
+        "Wyrok uniewinniający."
+      ],
+      "correctIndex": 3,
+      "explanation": "W razie stwierdzenia, że czynu nie popełniono albo brak znamion, sąd wydaje wyrok uniewinniający, poza wskazanym wyjątkiem.",
+      "source": "Art. 414 § 1"
+    },
+    {
+      "id": "kpk-205",
+      "type": "single_choice",
+      "category": "Uzasadnienie wyroku",
+      "difficulty": "easy",
+      "question": "Strona chce pisemnego uzasadnienia wyroku. Jaki ma termin na wniosek?",
+      "choices": [
+        "14 dni.",
+        "7 dni od ogłoszenia wyroku.",
+        "30 dni.",
+        "3 miesiące."
+      ],
+      "correctIndex": 1,
+      "explanation": "Wniosek o sporządzenie i doręczenie uzasadnienia składa się w terminie zawitym 7 dni od ogłoszenia wyroku.",
+      "source": "Art. 422 § 1"
+    },
+    {
+      "id": "kpk-206",
+      "type": "single_choice",
+      "category": "Uzasadnienie wyroku",
+      "difficulty": "medium",
+      "question": "Sąd otrzymał wniosek o uzasadnienie wyroku. Jaki jest podstawowy termin sporządzenia?",
+      "choices": [
+        "7 dni.",
+        "6 miesięcy.",
+        "30 dni.",
+        "14 dni od wpływu wniosku."
+      ],
+      "correctIndex": 3,
+      "explanation": "Uzasadnienie powinno być sporządzone w ciągu 14 dni od wpływu wniosku, z możliwością przedłużenia w określonych przypadkach.",
+      "source": "Art. 423 § 1"
+    },
+    {
+      "id": "kpk-207",
+      "type": "single_choice",
+      "category": "Środki odwoławcze",
+      "difficulty": "easy",
+      "question": "Strona chce zaskarżyć wyrok sądu pierwszej instancji. Jaki środek przysługuje?",
+      "choices": [
+        "Mediacja.",
+        "Kasacja jako zwykły środek.",
+        "Zażalenie na każdy wyrok.",
+        "Apelacja."
+      ],
+      "correctIndex": 3,
+      "explanation": "Od wyroku sądu pierwszej instancji przysługuje apelacja.",
+      "source": "Art. 444 § 1"
+    },
+    {
+      "id": "kpk-208",
+      "type": "single_choice",
+      "category": "Środki odwoławcze",
+      "difficulty": "easy",
+      "question": "Uprawniony otrzymał wyrok z uzasadnieniem i chce wnieść apelację. Jaki termin ma na apelację?",
+      "choices": [
+        "7 dni.",
+        "3 miesiące.",
+        "30 dni.",
+        "14 dni od doręczenia wyroku z uzasadnieniem."
+      ],
+      "correctIndex": 3,
+      "explanation": "Termin wniesienia apelacji wynosi 14 dni od doręczenia wyroku z uzasadnieniem.",
+      "source": "Art. 445 § 1"
+    },
+    {
+      "id": "kpk-209",
+      "type": "single_choice",
+      "category": "Środki odwoławcze",
+      "difficulty": "medium",
+      "question": "Apelację od wyroku sądu okręgowego wnosi osoba inna niż prokurator. Jaki wymóg obowiązuje?",
+      "choices": [
+        "Powinna być sporządzona i podpisana przez adwokata, radcę prawnego albo radcę Prokuratorii Generalnej Rzeczypospolitej Polskiej.",
+        "Może ją sporządzić każdy świadek.",
+        "Musi ją sporządzić Policja.",
+        "Nie wymaga podpisu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Apelacja od wyroku sądu okręgowego niepochodząca od prokuratora wymaga profesjonalnego sporządzenia i podpisu.",
+      "source": "Art. 446 § 1"
+    },
+    {
+      "id": "kpk-210",
+      "type": "single_choice",
+      "category": "Środki odwoławcze",
+      "difficulty": "easy",
+      "question": "Strona chce zaskarżyć tylko część orzeczenia. Czy może?",
+      "choices": [
+        "Tylko pokrzywdzony może.",
+        "Nie, zawsze całość.",
+        "Tak.",
+        "Tylko prokurator może."
+      ],
+      "correctIndex": 2,
+      "explanation": "Orzeczenie można zaskarżyć w całości albo w części.",
+      "source": "Art. 425 § 2"
+    },
+    {
+      "id": "kpk-211",
+      "type": "single_choice",
+      "category": "Środki odwoławcze",
+      "difficulty": "medium",
+      "question": "Oskarżyciel publiczny chce wnieść środek odwoławczy na korzyść oskarżonego. Czy może?",
+      "choices": [
+        "Tylko jeśli oskarżony nie ma obrońcy.",
+        "Tylko za zgodą pokrzywdzonego.",
+        "Nie nigdy.",
+        "Tak."
+      ],
+      "correctIndex": 3,
+      "explanation": "Oskarżyciel publiczny może wnieść środek odwoławczy także na korzyść oskarżonego.",
+      "source": "Art. 425 § 4"
+    },
+    {
+      "id": "kpk-212",
+      "type": "single_choice",
+      "category": "Środki odwoławcze",
+      "difficulty": "medium",
+      "question": "Obrońca wnosi środek odwoławczy. Co powinien dodatkowo wskazać?",
+      "choices": [
+        "Tylko dane pokrzywdzonego.",
+        "Tylko prośbę o łaskę.",
+        "Tylko numer telefonu.",
+        "Zarzuty stawiane rozstrzygnięciu oraz uzasadnienie."
+      ],
+      "correctIndex": 3,
+      "explanation": "Środek odwoławczy pochodzący od obrońcy powinien zawierać zarzuty i uzasadnienie.",
+      "source": "Art. 427 § 2"
+    },
+    {
+      "id": "kpk-213",
+      "type": "single_choice",
+      "category": "Środki odwoławcze",
+      "difficulty": "medium",
+      "question": "Gdzie wnosi się środek odwoławczy?",
+      "choices": [
+        "Bezpośrednio do Policji.",
+        "Do sądu, który wydał zaskarżone orzeczenie.",
+        "Do dowolnego sądu.",
+        "Do organu administracji."
+      ],
+      "correctIndex": 1,
+      "explanation": "Środek odwoławczy wnosi się na piśmie do sądu, który wydał orzeczenie.",
+      "source": "Art. 428 § 1"
+    },
+    {
+      "id": "kpk-214",
+      "type": "single_choice",
+      "category": "Środki odwoławcze",
+      "difficulty": "medium",
+      "question": "Środek odwoławczy wniesiono po terminie. Co robi prezes sądu pierwszej instancji?",
+      "choices": [
+        "Zamienia go na kasację.",
+        "Zawsze przekazuje do merytorycznego rozpoznania.",
+        "Odmawia przyjęcia środka.",
+        "Umorzy sprawę."
+      ],
+      "correctIndex": 2,
+      "explanation": "Prezes odmawia przyjęcia środka wniesionego po terminie, przez nieuprawnionego albo niedopuszczalnego.",
+      "source": "Art. 429 § 1"
+    },
+    {
+      "id": "kpk-215",
+      "type": "single_choice",
+      "category": "Środki odwoławcze",
+      "difficulty": "medium",
+      "question": "Jaki jest zasadniczy zakres rozpoznania sprawy przez sąd odwoławczy?",
+      "choices": [
+        "Granice zaskarżenia, a przy wskazaniu zarzutów także ich granice, z wyjątkami ustawowymi.",
+        "Tylko koszty.",
+        "Zawsze cała sprawa bez ograniczeń.",
+        "Tylko wnioski pokrzywdzonego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sąd odwoławczy rozpoznaje sprawę w granicach zaskarżenia i zarzutów, z wyjątkami przewidzianymi ustawą.",
+      "source": "Art. 433 § 1"
+    },
+    {
+      "id": "kpk-216",
+      "type": "single_choice",
+      "category": "Środki odwoławcze",
+      "difficulty": "medium",
+      "question": "Po apelacji sąd odwoławczy uznaje orzeczenie za prawidłowe. Co może zrobić?",
+      "choices": [
+        "Nie może orzekać.",
+        "Utrzymać je w mocy.",
+        "Musi uchylić zawsze.",
+        "Musi przekazać Policji."
+      ],
+      "correctIndex": 1,
+      "explanation": "Po rozpoznaniu środka odwoławczego sąd może utrzymać, zmienić albo uchylić orzeczenie.",
+      "source": "Art. 437 § 1"
+    },
+    {
+      "id": "kpk-217",
+      "type": "single_choice",
+      "category": "Środki odwoławcze",
+      "difficulty": "medium",
+      "question": "W apelacji wskazano błąd w ustaleniach faktycznych, który mógł mieć wpływ na wyrok. Czy to podstawa zmiany lub uchylenia?",
+      "choices": [
+        "Tylko po zgodzie prokuratora.",
+        "Tylko w kasacji.",
+        "Nie nigdy.",
+        "Tak."
+      ],
+      "correctIndex": 3,
+      "explanation": "Błąd w ustaleniach faktycznych może być podstawą uchylenia lub zmiany, jeśli mógł mieć wpływ na treść orzeczenia.",
+      "source": "Art. 438 pkt 3"
+    },
+    {
+      "id": "kpk-218",
+      "type": "single_choice",
+      "category": "Środki odwoławcze",
+      "difficulty": "hard",
+      "question": "W orzekaniu brała udział osoba podlegająca wyłączeniu z mocy prawa. Jak reaguje sąd odwoławczy?",
+      "choices": [
+        "Uchyla orzeczenie niezależnie od granic zaskarżenia i wpływu uchybienia.",
+        "Utrzymuje wyrok zawsze.",
+        "Stosuje mediację.",
+        "Pomija uchybienie."
+      ],
+      "correctIndex": 0,
+      "explanation": "To bezwzględna przyczyna uchylenia orzeczenia.",
+      "source": "Art. 439 § 1 pkt 1"
+    },
+    {
+      "id": "kpk-219",
+      "type": "single_choice",
+      "category": "Środki odwoławcze",
+      "difficulty": "hard",
+      "question": "Utrzymanie orzeczenia byłoby rażąco niesprawiedliwe, choć zarzuty tego nie obejmują. Co może zrobić sąd odwoławczy?",
+      "choices": [
+        "Musi umorzyć każdą sprawę.",
+        "Nie może wyjść poza zarzuty nigdy.",
+        "Zmienić orzeczenie na korzyść oskarżonego albo uchylić je w ustawowej sytuacji.",
+        "Musi zaostrzyć karę."
+      ],
+      "correctIndex": 2,
+      "explanation": "Rażąca niesprawiedliwość pozwala działać na korzyść oskarżonego poza granicami zaskarżenia i zarzutów.",
+      "source": "Art. 440"
+    },
+    {
+      "id": "kpk-220",
+      "type": "single_choice",
+      "category": "Środki odwoławcze",
+      "difficulty": "hard",
+      "question": "W apelacji pojawia się zagadnienie prawne wymagające zasadniczej wykładni. Co może zrobić sąd odwoławczy?",
+      "choices": [
+        "Zawiesić bezterminowo bez decyzji.",
+        "Zmienić ustawę.",
+        "Odroczyć rozpoznanie i przekazać zagadnienie Sądowi Najwyższemu.",
+        "Przekazać pytanie Policji."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sąd odwoławczy może przekazać zagadnienie prawne do rozstrzygnięcia Sądowi Najwyższemu.",
+      "source": "Art. 441 § 1"
+    },
+    {
+      "id": "kpk-221",
+      "type": "single_choice",
+      "category": "Zażalenie",
+      "difficulty": "easy",
+      "question": "Strona chce zaskarżyć postanowienie sądu zamykające drogę do wyroku. Jaki środek przysługuje co do zasady?",
+      "choices": [
+        "Zażalenie.",
+        "Kasacja od protokołu.",
+        "Wniosek o mediację.",
+        "Apelacja od każdego postanowienia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zażalenie przysługuje na postanowienia zamykające drogę do wydania wyroku, chyba że ustawa stanowi inaczej.",
+      "source": "Art. 459 § 1"
+    },
+    {
+      "id": "kpk-222",
+      "type": "single_choice",
+      "category": "Zażalenie",
+      "difficulty": "easy",
+      "question": "Jaki jest zasadniczy termin do wniesienia zażalenia?",
+      "choices": [
+        "7 dni od ogłoszenia albo doręczenia, gdy ustawa nakazuje doręczenie.",
+        "3 miesiące.",
+        "14 dni.",
+        "30 dni."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zażalenie wnosi się w terminie 7 dni od ogłoszenia lub doręczenia postanowienia.",
+      "source": "Art. 460"
+    },
+    {
+      "id": "kpk-223",
+      "type": "single_choice",
+      "category": "Zażalenie",
+      "difficulty": "medium",
+      "question": "Zażalenie dotyczy postanowienia prokuratora. Kto co do zasady je rozpoznaje?",
+      "choices": [
+        "Ten sam prokurator zawsze.",
+        "Mediator.",
+        "Pokrzywdzony.",
+        "Sąd właściwy do rozpoznania sprawy, chyba że ustawa stanowi inaczej."
+      ],
+      "correctIndex": 3,
+      "explanation": "Na postanowienie prokuratora zasadniczo przysługuje zażalenie do sądu właściwego do rozpoznania sprawy.",
+      "source": "Art. 465 § 2"
+    },
+    {
+      "id": "kpk-224",
+      "type": "single_choice",
+      "category": "Postępowanie przyspieszone",
+      "difficulty": "medium",
+      "question": "Sprawca ujęty na gorącym uczynku został zatrzymany i ma być w ciągu 48 godzin przekazany sądowi z wnioskiem. Jaki tryb może mieć zastosowanie?",
+      "choices": [
+        "Postępowanie wykonawcze.",
+        "Kasacja.",
+        "Mediacja obowiązkowa.",
+        "Postępowanie przyspieszone."
+      ],
+      "correctIndex": 3,
+      "explanation": "Postępowanie przyspieszone dotyczy spraw dochodzeniowych, gdy sprawca został ujęty, zatrzymany i szybko przekazany sądowi z wnioskiem.",
+      "source": "Art. 517b § 1"
+    },
+    {
+      "id": "kpk-225",
+      "type": "single_choice",
+      "category": "Postępowanie przyspieszone",
+      "difficulty": "medium",
+      "question": "Do czego można ograniczyć dochodzenie w postępowaniu przyspieszonym?",
+      "choices": [
+        "Do samego wyroku.",
+        "Do przesłuchania osoby podejrzanej jako podejrzanego i zabezpieczenia dowodów w niezbędnym zakresie.",
+        "Do mediacji.",
+        "Do rozmowy z pokrzywdzonym bez dowodów."
+      ],
+      "correctIndex": 1,
+      "explanation": "W tym trybie dochodzenie może być ograniczone do wskazanych czynności.",
+      "source": "Art. 517c § 1"
+    },
+    {
+      "id": "kpk-226",
+      "type": "single_choice",
+      "category": "Postępowanie przyspieszone",
+      "difficulty": "medium",
+      "question": "Oskarżony w postępowaniu przyspieszonym otrzymuje wniosek o rozpoznanie sprawy. Co trzeba mu zapewnić?",
+      "choices": [
+        "Czas na przygotowanie obrony oraz kontakt z obrońcą bez obecności osób trzecich.",
+        "Skazanie bez kontaktu z obrońcą.",
+        "Wyłącznie rozmowę z pokrzywdzonym.",
+        "Obowiązkową rezygnację z obrony."
+      ],
+      "correctIndex": 0,
+      "explanation": "Oskarżonemu doręcza się wniosek, oznacza czas na obronę i umożliwia kontakt z obrońcą bez obecności osób trzecich.",
+      "source": "Art. 517e § 1"
+    },
+    {
+      "id": "kpk-227",
+      "type": "single_choice",
+      "category": "Postępowanie przyspieszone",
+      "difficulty": "hard",
+      "question": "Oskarżony uczestniczy zdalnie w czynnościach sądowych w postępowaniu przyspieszonym. Jak uczestnicy składają wnioski i oświadczenia podczas tych czynności?",
+      "choices": [
+        "Wyłącznie listem po zakończeniu sprawy.",
+        "Wyłącznie przez kuriera.",
+        "Wyłącznie ustnie do protokołu.",
+        "Nie mogą ich składać."
+      ],
+      "correctIndex": 2,
+      "explanation": "Przy zdalnym udziale w tym trybie wnioski i oświadczenia składa się wyłącznie ustnie do protokołu.",
+      "source": "Art. 517ea § 1"
+    },
+    {
+      "id": "kpk-228",
+      "type": "single_choice",
+      "category": "Kasacja",
+      "difficulty": "hard",
+      "question": "Strona chce wnieść kasację wyłącznie z powodu niewspółmierności kary. Czy jest to dopuszczalne?",
+      "choices": [
+        "Tak w każdej sprawie o występek.",
+        "Tak zawsze.",
+        "Nie.",
+        "Tak tylko przez obrońcę."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kasacja nie może być wniesiona wyłącznie z powodu niewspółmierności kary.",
+      "source": "Art. 523 § 1"
+    },
+    {
+      "id": "kpk-229",
+      "type": "single_choice",
+      "category": "Kasacja",
+      "difficulty": "medium",
+      "question": "Strona chce wnieść kasację po doręczeniu orzeczenia z uzasadnieniem. Jaki termin obowiązuje?",
+      "choices": [
+        "30 dni od doręczenia orzeczenia z uzasadnieniem.",
+        "14 dni.",
+        "3 miesiące.",
+        "7 dni."
+      ],
+      "correctIndex": 0,
+      "explanation": "Termin kasacji dla stron wynosi 30 dni od doręczenia orzeczenia z uzasadnieniem.",
+      "source": "Art. 524 § 1"
+    },
+    {
+      "id": "kpk-230",
+      "type": "single_choice",
+      "category": "Odszkodowanie",
+      "difficulty": "medium",
+      "question": "Osoba była niewątpliwie niesłusznie tymczasowo aresztowana. Jakie roszczenie przewiduje kodeks?",
+      "choices": [
+        "Odszkodowanie i zadośćuczynienie.",
+        "Tylko przeprosiny świadka.",
+        "Brak roszczeń.",
+        "Automatyczne skazanie funkcjonariusza."
+      ],
+      "correctIndex": 0,
+      "explanation": "Odszkodowanie i zadośćuczynienie przysługuje także za niewątpliwie niesłuszne tymczasowe aresztowanie lub zatrzymanie.",
+      "source": "Art. 552 § 4"
+    }
+  ]
+}

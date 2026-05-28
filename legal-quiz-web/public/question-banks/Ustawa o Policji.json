@@ -1,0 +1,2391 @@
+{
+  "title": "Ustawa z dnia 6 kwietnia 1990 r. o Policji",
+  "description": "Baza pytań praktycznych opracowana wyłącznie na podstawie przesłanego aktu prawnego.",
+  "question_count": 149,
+  "questions": [
+    {
+      "id": "ustawa-o-policji-001",
+      "type": "single_choice",
+      "category": "Zadania Policji",
+      "difficulty": "easy",
+      "question": "Funkcjonariusz wyjaśnia kandydatowi, po co została utworzona Policja. Które wyjaśnienie najpełniej odpowiada ustawie?",
+      "choices": [
+        "Jest formacją służącą wyłącznie ściganiu sprawców przestępstw.",
+        "Jest umundurowaną i uzbrojoną formacją służącą społeczeństwu, przeznaczoną do ochrony bezpieczeństwa ludzi oraz utrzymywania bezpieczeństwa i porządku publicznego.",
+        "Jest organem samorządu terytorialnego powołanym głównie do ochrony mienia komunalnego.",
+        "Jest formacją pomocniczą przeznaczoną tylko do działań kryzysowych na polecenie wojewody."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ustawa określa Policję jako umundurowaną i uzbrojoną formację służącą społeczeństwu, chroniącą bezpieczeństwo ludzi oraz utrzymującą bezpieczeństwo i porządek publiczny.",
+      "source": "Art. 1 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-002",
+      "type": "single_choice",
+      "category": "Zadania Policji",
+      "difficulty": "easy",
+      "question": "Policjant otrzymuje informację o zagrożeniu życia ludzi i bezprawnym zamachu na mienie. Czy takie działania mieszczą się w podstawowych zadaniach Policji?",
+      "choices": [
+        "Tak, ponieważ ochrona życia, zdrowia ludzi i mienia przed bezprawnymi zamachami należy do podstawowych zadań Policji.",
+        "Nie, ponieważ Policja zajmuje się wyłącznie wykrywaniem przestępstw po ich popełnieniu.",
+        "Tak, ale tylko gdy sprawca jest już osobą zatrzymaną.",
+        "Nie, ponieważ ochrona mienia należy wyłącznie do formacji ochronnych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ochrona życia, zdrowia ludzi oraz mienia przed bezprawnymi zamachami jest jednym z podstawowych zadań Policji.",
+      "source": "Art. 1 ust. 2 pkt 1"
+    },
+    {
+      "id": "ustawa-o-policji-003",
+      "type": "single_choice",
+      "category": "Zadania Policji",
+      "difficulty": "easy",
+      "question": "Na dworcu dochodzi do zakłócenia spokoju i porządku. Które stwierdzenie prawidłowo opisuje kompetencję Policji?",
+      "choices": [
+        "Policja może działać tylko wtedy, gdy dworzec znajduje się przy drodze publicznej.",
+        "Policja chroni bezpieczeństwo i porządek publiczny, w tym spokój w miejscach publicznych oraz w środkach publicznego transportu i komunikacji publicznej.",
+        "Policja może działać wyłącznie na pisemny wniosek zarządcy dworca.",
+        "Policja nie ma zadań związanych z porządkiem publicznym w środkach transportu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ustawa wprost obejmuje ochroną bezpieczeństwo i porządek publiczny, w tym spokój w miejscach publicznych i środkach transportu publicznego.",
+      "source": "Art. 1 ust. 2 pkt 2"
+    },
+    {
+      "id": "ustawa-o-policji-004",
+      "type": "single_choice",
+      "category": "Zadania Policji",
+      "difficulty": "medium",
+      "question": "Jednostka Policji planuje lokalne działania wspólnie z samorządem i organizacją społeczną, aby zapobiegać popełnianiu wykroczeń. Czy taki kierunek działań jest zgodny z ustawowymi zadaniami Policji?",
+      "choices": [
+        "Tak, ponieważ Policja inicjuje i organizuje działania zapobiegawcze oraz współdziała w tym zakresie z organami i organizacjami.",
+        "Nie, bo Policja może współdziałać wyłącznie z prokuratorem i sądem.",
+        "Tak, ale tylko po wydaniu rozporządzenia przez wojewodę.",
+        "Nie, bo profilaktyka nie należy do podstawowych zadań Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Do podstawowych zadań Policji należy inicjowanie i organizowanie działań zapobiegających przestępstwom, wykroczeniom i zjawiskom kryminogennym oraz współdziałanie z organami i organizacjami.",
+      "source": "Art. 1 ust. 2 pkt 3"
+    },
+    {
+      "id": "ustawa-o-policji-005",
+      "type": "single_choice",
+      "category": "Zadania Policji",
+      "difficulty": "easy",
+      "question": "Policjant ujawnia sprawcę wykroczenia i podejmuje czynności w celu jego ukarania. Które stwierdzenie jest prawidłowe?",
+      "choices": [
+        "Policja może wykrywać wyłącznie przestępstwa, ale nie wykroczenia.",
+        "Wykrywanie przestępstw i wykroczeń oraz ściganie ich sprawców należy do podstawowych zadań Policji.",
+        "Ściganie sprawców wykroczeń należy wyłącznie do organów samorządu.",
+        "Policja może działać tylko wtedy, gdy wykroczenie dotyczy ruchu drogowego."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ustawa wskazuje wykrywanie przestępstw i wykroczeń oraz ściganie ich sprawców jako podstawowe zadanie Policji.",
+      "source": "Art. 1 ust. 2 pkt 4"
+    },
+    {
+      "id": "ustawa-o-policji-006",
+      "type": "single_choice",
+      "category": "Zadania Policji",
+      "difficulty": "medium",
+      "question": "Policjant otrzymuje zadanie związane z ochroną obiektu wskazanego przez ministra właściwego do spraw wewnętrznych jako siedziba członka Rady Ministrów. Czy ustawa przewiduje takie zadanie Policji?",
+      "choices": [
+        "Tak, z wyłączeniem obiektów służących Ministrowi Obrony Narodowej i Ministrowi Sprawiedliwości.",
+        "Nie, bo ochrona wszystkich siedzib członków Rady Ministrów należy wyłącznie do Służby Ochrony Państwa.",
+        "Tak, ale tylko gdy obiekt znajduje się w Warszawie.",
+        "Nie, bo Policja nie realizuje ochrony obiektów administracji rządowej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Podstawowe zadania Policji obejmują ochronę wskazanych przez ministra obiektów będących siedzibami członków Rady Ministrów, z wyłączeniem obiektów służących Ministrowi Obrony Narodowej i Ministrowi Sprawiedliwości.",
+      "source": "Art. 1 ust. 2 pkt 4a"
+    },
+    {
+      "id": "ustawa-o-policji-007",
+      "type": "single_choice",
+      "category": "Zadania Policji",
+      "difficulty": "easy",
+      "question": "Podczas kontroli przestrzegania przepisów porządkowych w miejscu publicznym pojawia się wątpliwość, czy Policja może wykonywać takie czynności. Która odpowiedź jest prawidłowa?",
+      "choices": [
+        "Tak, kontrola przestrzegania przepisów porządkowych i administracyjnych związanych z działalnością publiczną lub obowiązujących w miejscach publicznych należy do zadań Policji.",
+        "Nie, bo przepisy porządkowe kontroluje wyłącznie straż gminna.",
+        "Tak, ale wyłącznie w ruchu drogowym.",
+        "Nie, bo Policja może kontrolować tylko przepisy karne."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa wymienia kontrolę przestrzegania przepisów porządkowych i administracyjnych jako podstawowe zadanie Policji.",
+      "source": "Art. 1 ust. 2 pkt 6"
+    },
+    {
+      "id": "ustawa-o-policji-008",
+      "type": "single_choice",
+      "category": "Zadania Policji",
+      "difficulty": "medium",
+      "question": "Jednostka Policji ma współpracować z policją innego państwa przy sprawie międzynarodowej. Które stanowisko jest zgodne z ustawą?",
+      "choices": [
+        "Współdziałanie z policjami innych państw i organizacjami międzynarodowymi jest zadaniem Policji, jeżeli odbywa się na podstawie właściwych umów, porozumień lub przepisów.",
+        "Policja nie może współdziałać z policjami innych państw.",
+        "Współdziałanie jest dopuszczalne wyłącznie po każdorazowej zgodzie sądu.",
+        "Policja może współdziałać wyłącznie z organami państw Unii Europejskiej, nigdy z innymi państwami."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa przewiduje współdziałanie Policji z policjami innych państw, organizacjami międzynarodowymi oraz organami i instytucjami UE na określonych podstawach prawnych.",
+      "source": "Art. 1 ust. 2 pkt 7"
+    },
+    {
+      "id": "ustawa-o-policji-009",
+      "type": "single_choice",
+      "category": "Zadania Policji",
+      "difficulty": "easy",
+      "question": "Osoba używa nazwy „Policja” dla prywatnej formacji ochronnej. Jak należy ocenić takie użycie nazwy?",
+      "choices": [
+        "Nazwa może być używana przez każdą umundurowaną formację prywatną.",
+        "Nazwa przysługuje wyłącznie formacji określonej w ustawie.",
+        "Nazwa może być używana po zgłoszeniu do komendanta powiatowego.",
+        "Nazwa może być używana przez organizację społeczną, jeżeli działa na rzecz bezpieczeństwa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ustawa zastrzega nazwę „Policja” wyłącznie dla formacji określonej w ustawie.",
+      "source": "Art. 1 ust. 1a"
+    },
+    {
+      "id": "ustawa-o-policji-010",
+      "type": "single_choice",
+      "category": "Zadania Policji",
+      "difficulty": "medium",
+      "question": "W sprawie z udziałem żołnierza pojawia się pytanie, kto wykonuje zadania przewidziane dla Policji w Siłach Zbrojnych. Która odpowiedź jest zgodna z ustawą?",
+      "choices": [
+        "W zakresie określonym w odrębnych przepisach zadania te wykonuje Żandarmeria Wojskowa i wojskowe organy porządkowe.",
+        "Zawsze wykonuje je wyłącznie Policja cywilna.",
+        "Wykonuje je wojewoda właściwy dla miejsca zdarzenia.",
+        "Wykonuje je komendant powiatowy Policji bez udziału organów wojskowych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa wskazuje, że w Siłach Zbrojnych oraz w stosunku do żołnierzy zadania przewidziane dla Policji wykonują Żandarmeria Wojskowa i wojskowe organy porządkowe na zasadach określonych w odrębnych przepisach.",
+      "source": "Art. 2"
+    },
+    {
+      "id": "ustawa-o-policji-011",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "easy",
+      "question": "Przełożony omawia z nowymi policjantami rodzaje służb w Policji. Który zestaw obejmuje rodzaje służb wskazane w ustawie?",
+      "choices": [
+        "Kryminalna, śledcza, spraw wewnętrznych, prewencyjna, kontrterrorystyczna, zwalczania cyberprzestępczości i wspomagająca.",
+        "Prewencyjna, sądowa, graniczna, ochronna, ratownicza i skarbowa.",
+        "Kryminalna, drogowa, więzienna, leśna i celna.",
+        "Śledcza, wojskowa, pożarnicza i administracyjna."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa wymienia rodzaje służb w Policji z uwagi na zakres i charakter wykonywanych zadań.",
+      "source": "Art. 4 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-012",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "easy",
+      "question": "Kto jest centralnym organem administracji rządowej właściwym w sprawach ochrony bezpieczeństwa ludzi oraz utrzymania bezpieczeństwa i porządku publicznego?",
+      "choices": [
+        "Komendant Główny Policji.",
+        "Wojewoda.",
+        "Komendant wojewódzki Policji.",
+        "Minister Sprawiedliwości."
+      ],
+      "correctIndex": 0,
+      "explanation": "Centralnym organem administracji rządowej w tych sprawach jest Komendant Główny Policji.",
+      "source": "Art. 5 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-013",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "easy",
+      "question": "Policjant pyta, kto jest przełożonym wszystkich funkcjonariuszy Policji. Która odpowiedź jest prawidłowa?",
+      "choices": [
+        "Komendant wojewódzki Policji.",
+        "Komendant Główny Policji.",
+        "Wojewoda.",
+        "Minister właściwy do spraw finansów publicznych."
+      ],
+      "correctIndex": 1,
+      "explanation": "Komendant Główny Policji jest przełożonym wszystkich funkcjonariuszy Policji.",
+      "source": "Art. 5 ust. 2"
+    },
+    {
+      "id": "ustawa-o-policji-014",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "medium",
+      "question": "Dochodzi do zwolnienia stanowiska Komendanta Głównego Policji. Kto może czasowo powierzyć pełnienie obowiązków i na jaki maksymalny okres?",
+      "choices": [
+        "Prezes Rady Ministrów jednemu z komendantów wojewódzkich na okres do 12 miesięcy.",
+        "Minister właściwy do spraw wewnętrznych jednemu z zastępców na okres nie dłuższy niż 3 miesiące.",
+        "Komendant Stołeczny Policji wybranemu oficerowi na okres do 6 miesięcy.",
+        "Wojewoda jednemu z zastępców na okres do 30 dni."
+      ],
+      "correctIndex": 1,
+      "explanation": "W razie zwolnienia stanowiska Komendanta Głównego Policji minister właściwy do spraw wewnętrznych powierza obowiązki jednemu z jego zastępców na okres nie dłuższy niż 3 miesiące.",
+      "source": "Art. 5 ust. 5"
+    },
+    {
+      "id": "ustawa-o-policji-015",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "medium",
+      "question": "Komendant Główny Policji czasowo nie może sprawować funkcji. Jakie rozwiązanie przewiduje ustawa?",
+      "choices": [
+        "Minister właściwy do spraw wewnętrznych powierza obowiązki jednemu z zastępców, na okres nie dłuższy niż 6 miesięcy.",
+        "Prezydent miasta powierza obowiązki komendantowi wojewódzkiemu.",
+        "Stanowisko pozostaje nieobsadzone do czasu ustania przeszkody.",
+        "Obowiązki przejmuje automatycznie najstarszy służbą policjant w kraju."
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie czasowej niemożności sprawowania funkcji przez Komendanta Głównego Policji minister właściwy do spraw wewnętrznych powierza obowiązki jednemu z jego zastępców na okres nie dłuższy niż 6 miesięcy.",
+      "source": "Art. 5 ust. 6"
+    },
+    {
+      "id": "ustawa-o-policji-016",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "medium",
+      "question": "Jednostka ma rozpoznawać i zwalczać przestępczość zorganizowaną na obszarze całego kraju. Która jednostka Policji jest do tego ustawowo przeznaczona?",
+      "choices": [
+        "Centralne Biuro Śledcze Policji.",
+        "Biuro Spraw Wewnętrznych Policji.",
+        "Centralne Laboratorium Kryminalistyczne Policji.",
+        "Komisariat specjalistyczny."
+      ],
+      "correctIndex": 0,
+      "explanation": "CBŚP jest jednostką organizacyjną Policji służby śledczej realizującą na obszarze całego kraju zadania w zakresie rozpoznawania, zapobiegania i zwalczania przestępczości zorganizowanej.",
+      "source": "Art. 5a ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-017",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "medium",
+      "question": "Pojawia się sprawa dotycząca podejrzenia przestępstwa popełnionego przez policjanta. Która jednostka ma ustawowe zadania w zakresie rozpoznawania, zapobiegania i zwalczania takiej przestępczości?",
+      "choices": [
+        "Centralne Biuro Śledcze Policji.",
+        "Biuro Spraw Wewnętrznych Policji.",
+        "Centralne Biuro Zwalczania Cyberprzestępczości.",
+        "Akademia Policji w Szczytnie."
+      ],
+      "correctIndex": 1,
+      "explanation": "BSWP realizuje na obszarze całego kraju zadania dotyczące przestępczości popełnianej przez policjantów i pracowników Policji oraz określonych przestępstw gospodarczych na szkodę Policji.",
+      "source": "Art. 5b ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-018",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "medium",
+      "question": "Jednostka ma zwalczać przestępstwa popełnione przy użyciu systemu informatycznego lub sieci teleinformatycznej na obszarze całego kraju. Która jednostka jest właściwa?",
+      "choices": [
+        "Centralne Biuro Zwalczania Cyberprzestępczości.",
+        "Centralne Laboratorium Kryminalistyczne Policji.",
+        "Biuro Spraw Wewnętrznych Policji.",
+        "Komisariat kolejowy."
+      ],
+      "correctIndex": 0,
+      "explanation": "CBZC jest jednostką służby zwalczania cyberprzestępczości odpowiedzialną za rozpoznawanie, zwalczanie i zapobieganie przestępstwom popełnionym przy użyciu systemów informatycznych, teleinformatycznych lub sieci teleinformatycznych.",
+      "source": "Art. 5d ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-019",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "medium",
+      "question": "Potrzebne jest przeprowadzenie specjalistycznych badań kryminalistycznych oraz wsparcie w zakresie technik kryminalistycznych. Która jednostka jest ustawowo właściwa w tym zakresie?",
+      "choices": [
+        "Centralne Laboratorium Kryminalistyczne Policji.",
+        "Centralny Pododdział Kontrterrorystyczny Policji.",
+        "Biuro Spraw Wewnętrznych Policji.",
+        "Komenda powiatowa Policji jako jedyna właściwa jednostka."
+      ],
+      "correctIndex": 0,
+      "explanation": "CLKP jest jednostką organizacyjną Policji właściwą w zakresie kryminalistyki i technik kryminalistycznych stosowanych w procesie rozpoznawania, zapobiegania i zwalczania przestępczości.",
+      "source": "Art. 5e ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-020",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "medium",
+      "question": "W sprawie działań kontrterrorystycznych konieczne jest użycie specjalistycznych sił i taktyki. Które podmioty tworzą służbę kontrterrorystyczną?",
+      "choices": [
+        "BOA oraz samodzielne pododdziały kontrterrorystyczne Policji.",
+        "CBŚP i CBZC.",
+        "Oddziały prewencji oraz komendy wojewódzkie.",
+        "Policja sądowa i komisariaty specjalistyczne."
+      ],
+      "correctIndex": 0,
+      "explanation": "Służbę kontrterrorystyczną stanowią BOA oraz samodzielne pododdziały kontrterrorystyczne Policji.",
+      "source": "Art. 5c ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-021",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "hard",
+      "question": "W trakcie zdarzenia o charakterze terrorystycznym pojawia się spór, czy działania kontrterrorystyczne mogą czekać na zakończenie innych działań. Które stanowisko jest zgodne z ustawą?",
+      "choices": [
+        "Działania kontrterrorystyczne realizuje się po zakończeniu czynności dochodzeniowych.",
+        "Działania kontrterrorystyczne są realizowane przez BOA oraz samodzielne pododdziały kontrterrorystyczne Policji przed innymi działaniami.",
+        "O kolejności działań decyduje wyłącznie wojewoda.",
+        "Ustawa nie określa pierwszeństwa takich działań."
+      ],
+      "correctIndex": 1,
+      "explanation": "W przypadku zdarzenia o charakterze terrorystycznym działania kontrterrorystyczne realizowane są przed innymi działaniami.",
+      "source": "Art. 5c ust. 12"
+    },
+    {
+      "id": "ustawa-o-policji-022",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "medium",
+      "question": "Na obszarze m.st. Warszawy trzeba ustalić organ wykonujący zadania odpowiadające zadaniom komendanta wojewódzkiego Policji. Który organ jest właściwy?",
+      "choices": [
+        "Komendant Stołeczny Policji.",
+        "Komendant rejonowy Policji.",
+        "Prezydent m.st. Warszawy.",
+        "Komendant powiatowy Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Komendant Stołeczny Policji wykonuje na wskazanym obszarze zadania i kompetencje odpowiadające zadaniom i kompetencjom komendanta wojewódzkiego Policji.",
+      "source": "Art. 6 ust. 4"
+    },
+    {
+      "id": "ustawa-o-policji-023",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "medium",
+      "question": "W postępowaniu administracyjnym związanym z wykonywaniem zadań Policji trzeba ustalić organ właściwy pierwszej instancji poza Warszawą. Która odpowiedź jest prawidłowa?",
+      "choices": [
+        "Komendant powiatowy lub miejski Policji, jeżeli ustawy nie stanowią inaczej.",
+        "Komendant Główny Policji w każdej sprawie.",
+        "Wojewoda w każdej sprawie.",
+        "Rada gminy właściwa miejscowo."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli ustawy nie stanowią inaczej, organem właściwym jest komendant powiatowy albo miejski Policji, a na obszarze m.st. Warszawy komendant rejonowy Policji.",
+      "source": "Art. 6a ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-024",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "medium",
+      "question": "Komendant powiatowy Policji wydał decyzję administracyjną. Który organ jest organem wyższego stopnia?",
+      "choices": [
+        "Komendant wojewódzki Policji.",
+        "Komendant Główny Policji zawsze bezpośrednio.",
+        "Starosta.",
+        "Minister Sprawiedliwości."
+      ],
+      "correctIndex": 0,
+      "explanation": "W stosunku do komendanta powiatowego lub miejskiego Policji organem wyższego stopnia jest komendant wojewódzki Policji.",
+      "source": "Art. 6a ust. 2 pkt 1"
+    },
+    {
+      "id": "ustawa-o-policji-025",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "medium",
+      "question": "Komendant wojewódzki Policji ma zostać powołany, ale wojewoda nie wydał opinii. Po jakim czasie można dokonać powołania mimo braku opinii?",
+      "choices": [
+        "Po upływie 7 dni od przedstawienia wniosku.",
+        "Po upływie 14 dni od przedstawienia wniosku o wydanie opinii.",
+        "Dopiero po 30 dniach od doręczenia kandydatowi zawiadomienia.",
+        "Nie można powołać bez opinii."
+      ],
+      "correctIndex": 1,
+      "explanation": "W przypadku nieotrzymania wymaganej opinii minister może powołać komendanta wojewódzkiego albo Stołecznego po upływie 14 dni od przedstawienia wniosku o opinię.",
+      "source": "Art. 6b ust. 6"
+    },
+    {
+      "id": "ustawa-o-policji-026",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "medium",
+      "question": "Trzeba powołać komendanta powiatowego Policji. Która procedura jest prawidłowa?",
+      "choices": [
+        "Powołuje go komendant wojewódzki Policji po zasięgnięciu opinii starosty.",
+        "Powołuje go starosta po zasięgnięciu opinii komendanta wojewódzkiego.",
+        "Powołuje go Komendant Główny Policji po zasięgnięciu opinii rady gminy.",
+        "Powołuje go wojewoda bez udziału Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Komendanta powiatowego lub miejskiego Policji powołuje i odwołuje komendant wojewódzki Policji po zasięgnięciu opinii starosty.",
+      "source": "Art. 6c ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-027",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "medium",
+      "question": "Trzeba powołać komendanta komisariatu Policji. Który organ co do zasady dokonuje powołania?",
+      "choices": [
+        "Komendant powiatowy lub miejski Policji po zasięgnięciu opinii właściwego wójta, burmistrza albo prezydenta miasta.",
+        "Wójt po uzgodnieniu z wojewodą.",
+        "Komendant Główny Policji bez opinii lokalnej.",
+        "Rada gminy w drodze uchwały."
+      ],
+      "correctIndex": 0,
+      "explanation": "Komendanta komisariatu Policji powołuje i odwołuje komendant powiatowy albo miejski Policji po zasięgnięciu wskazanej opinii lokalnej.",
+      "source": "Art. 6d ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-028",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "hard",
+      "question": "Opinia lokalnego organu w sprawie powołania komendanta komisariatu Policji nie została doręczona. Po jakim czasie komendant powiatowy może powołać komendanta komisariatu mimo braku opinii?",
+      "choices": [
+        "Po upływie 7 dni.",
+        "Po upływie 14 dni od przedstawienia wniosku o opinię.",
+        "Po upływie 21 dni w każdym przypadku.",
+        "Dopiero po ponownym wystąpieniu o opinię."
+      ],
+      "correctIndex": 1,
+      "explanation": "W razie nieotrzymania opinii komendant powiatowy lub miejski może powołać komendanta komisariatu po upływie 14 dni od przedstawienia wniosku o opinię.",
+      "source": "Art. 6d ust. 8 pkt 1"
+    },
+    {
+      "id": "ustawa-o-policji-029",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "medium",
+      "question": "Komendant powiatowy chce utworzyć posterunek Policji. Które rozwiązanie odpowiada ustawie?",
+      "choices": [
+        "Może tworzyć posterunki Policji na zasadach określonych przez Komendanta Głównego Policji.",
+        "Może to zrobić wyłącznie minister właściwy do spraw wewnętrznych.",
+        "Może to zrobić wyłącznie rada gminy.",
+        "Nie ma ustawowej możliwości tworzenia posterunków Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Komendant powiatowy lub miejski Policji może tworzyć rewiry dzielnicowych oraz posterunki Policji na zasadach określonych przez Komendanta Głównego Policji.",
+      "source": "Art. 8a ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-030",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "medium",
+      "question": "Kierownik posterunku ma zaplanować priorytetowe działania na swoim terenie. Które zadanie jest wprost wymienione w ustawie?",
+      "choices": [
+        "Rozpoznawanie zagrożeń i przeciwdziałanie przyczynom ich powstawania.",
+        "Wydawanie wyroków w sprawach o wykroczenia.",
+        "Samodzielne prowadzenie kontroli operacyjnej bez podstaw ustawowych.",
+        "Ustalanie wysokości podatków lokalnych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Do zadań kierownika rewiru i kierownika posterunku należy między innymi rozpoznawanie zagrożeń i przeciwdziałanie przyczynom ich powstawania.",
+      "source": "Art. 8a ust. 3 pkt 1"
+    },
+    {
+      "id": "ustawa-o-policji-031",
+      "type": "single_choice",
+      "category": "Relacje z samorządem",
+      "difficulty": "medium",
+      "question": "Rada gminy na podstawie informacji o stanie bezpieczeństwa chce wskazać najważniejsze zagrożenia dla wspólnoty. Czy może to zrobić?",
+      "choices": [
+        "Tak, może określić istotne dla wspólnoty zagrożenia bezpieczeństwa i porządku publicznego.",
+        "Nie, rada gminy nie może w żadnej formie odnosić się do zagrożeń bezpieczeństwa.",
+        "Tak, ale może jednocześnie nakazać wykonanie konkretnej czynności służbowej.",
+        "Tak, lecz tylko w sprawach wykrywania przestępstw."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rada powiatu lub gminy może określić istotne zagrożenia, ale uchwała nie może dotyczyć wykonania konkretnej czynności służbowej ani sposobu wykonywania zadań przez Policję.",
+      "source": "Art. 10 ust. 3 i 4"
+    },
+    {
+      "id": "ustawa-o-policji-032",
+      "type": "single_choice",
+      "category": "Relacje z samorządem",
+      "difficulty": "hard",
+      "question": "Rada gminy chce w uchwale wskazać konkretną czynność, którą ma wykonać Policja wobec określonej osoby. Które stanowisko jest prawidłowe?",
+      "choices": [
+        "Może to zrobić, jeżeli chodzi o bezpieczeństwo lokalne.",
+        "Nie może, bo uchwała nie może dotyczyć wykonania konkretnej czynności służbowej ani określać sposobu wykonywania zadań przez Policję.",
+        "Może to zrobić wyłącznie po zatwierdzeniu przez prokuratora.",
+        "Może to zrobić, jeżeli uchwała zapadnie większością kwalifikowaną."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ustawa ogranicza zakres uchwały rady powiatu lub gminy i wyłącza możliwość wskazywania konkretnych czynności służbowych lub sposobu wykonywania zadań przez Policję.",
+      "source": "Art. 10 ust. 4"
+    },
+    {
+      "id": "ustawa-o-policji-033",
+      "type": "single_choice",
+      "category": "Relacje z samorządem",
+      "difficulty": "medium",
+      "question": "Starosta ustnie żąda od właściwego komendanta podjęcia działań zapobiegających zagrożeniu porządku publicznego. Co powinno nastąpić z takim żądaniem?",
+      "choices": [
+        "Ustne żądanie wymaga potwierdzenia na piśmie.",
+        "Żądanie ustne jest zawsze nieważne i nie może być potwierdzone.",
+        "Żądanie jest skuteczne tylko po zatwierdzeniu przez sąd.",
+        "Żądanie może dotyczyć dowolnej czynności operacyjno-rozpoznawczej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Żądanie wójta, burmistrza, prezydenta miasta lub starosty przekazane ustnie wymaga potwierdzenia na piśmie.",
+      "source": "Art. 11 ust. 4"
+    },
+    {
+      "id": "ustawa-o-policji-034",
+      "type": "single_choice",
+      "category": "Relacje z samorządem",
+      "difficulty": "hard",
+      "question": "Wójt żąda od komendanta wykonania konkretnej czynności dochodzeniowo-śledczej w określony sposób. Jak należy ocenić takie żądanie?",
+      "choices": [
+        "Jest dopuszczalne, bo wójt może określać sposób wykonania każdego zadania przez Policję.",
+        "Nie jest dopuszczalne, bo żądanie nie może dotyczyć czynności dochodzeniowo-śledczych, konkretnej czynności służbowej ani sposobu wykonania zadania.",
+        "Jest dopuszczalne tylko przy zgodzie rady gminy.",
+        "Jest dopuszczalne, jeżeli dotyczy mieszkańca gminy."
+      ],
+      "correctIndex": 1,
+      "explanation": "Żądanie organu samorządowego ma ustawowe ograniczenia i nie może ingerować w czynności operacyjne, dochodzeniowe, ściganie wykroczeń, konkretną czynność służbową ani sposób wykonania zadania.",
+      "source": "Art. 11 ust. 2"
+    },
+    {
+      "id": "ustawa-o-policji-035",
+      "type": "single_choice",
+      "category": "Relacje z samorządem",
+      "difficulty": "medium",
+      "question": "Komendant nie jest w stanie wykonać żądania organu samorządowego dotyczącego przywrócenia porządku. Co powinien zrobić?",
+      "choices": [
+        "Niezwłocznie przedłożyć sprawę komendantowi Policji wyższego stopnia.",
+        "Pominąć żądanie bez dokumentowania.",
+        "Przekazać żądanie radzie gminy do wykonania.",
+        "Samodzielnie stwierdzić jego nieważność w każdej sytuacji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli właściwy komendant Policji nie jest w stanie wykonać żądania, niezwłocznie przedkłada sprawę komendantowi Policji wyższego stopnia.",
+      "source": "Art. 11 ust. 5"
+    },
+    {
+      "id": "ustawa-o-policji-036",
+      "type": "single_choice",
+      "category": "Finansowanie Policji",
+      "difficulty": "medium",
+      "question": "Rada gminy chce sfinansować dodatkowe etaty Policji w posterunku na swoim terenie. Jaki warunek czasowy musi zapewnić zgodnie z ustawą?",
+      "choices": [
+        "Pokrywanie kosztów utrzymania etatów przez okres co najmniej 5 lat.",
+        "Pokrywanie kosztów przez jeden miesiąc.",
+        "Pokrywanie kosztów wyłącznie do końca roku budżetowego.",
+        "Nie ma żadnego minimalnego okresu finansowania."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zwiększenie liczby etatów ponad liczbę ustaloną ustawowo wymaga zapewnienia pokrywania kosztów utrzymania etatów przez okres co najmniej 5 lat.",
+      "source": "Art. 13 ust. 4"
+    },
+    {
+      "id": "ustawa-o-policji-037",
+      "type": "single_choice",
+      "category": "Finansowanie Policji",
+      "difficulty": "medium",
+      "question": "Gmina chce przekazać środki dla Policji z przeznaczeniem na rekompensatę za służbę ponad normę i nagrody za osiągnięcia dla policjantów prewencji. Czy ustawa przewiduje taką możliwość?",
+      "choices": [
+        "Tak, na warunkach porozumienia zawartego z właściwym komendantem powiatowym lub miejskim Policji.",
+        "Nie, środki samorządu mogą być przeznaczone wyłącznie na remonty budynków.",
+        "Tak, ale tylko za zgodą sądu administracyjnego.",
+        "Nie, ustawa wyklucza jakiekolwiek finansowanie Policji przez samorząd."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rada powiatu lub gminy może przekazać środki na rekompensatę za czas służby ponad normę i nagrody dla policjantów realizujących zadania służby prewencyjnej, na warunkach porozumienia.",
+      "source": "Art. 13 ust. 4a"
+    },
+    {
+      "id": "ustawa-o-policji-038",
+      "type": "single_choice",
+      "category": "Uprawnienia Policji",
+      "difficulty": "easy",
+      "question": "Policjant podczas czynności służbowych chce ustalić tożsamość osoby. Jakie uprawnienie daje mu ustawa?",
+      "choices": [
+        "Może legitymować osoby w celu ustalenia ich tożsamości.",
+        "Może żądać wyłącznie dobrowolnego podania danych, bez legitymowania.",
+        "Może legitymować tylko osoby zatrzymane przez sąd.",
+        "Może legitymować wyłącznie świadków przestępstwa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjanci wykonując czynności ustawowe mają prawo legitymowania osób w celu ustalenia ich tożsamości.",
+      "source": "Art. 15 ust. 1 pkt 1"
+    },
+    {
+      "id": "ustawa-o-policji-039",
+      "type": "single_choice",
+      "category": "Uprawnienia Policji",
+      "difficulty": "medium",
+      "question": "Osoba swoim zachowaniem w sposób oczywisty stwarza bezpośrednie zagrożenie dla życia innej osoby. Czy policjant może ją zatrzymać na podstawie ustawy?",
+      "choices": [
+        "Tak, ustawa przewiduje zatrzymanie osób stwarzających oczywiste bezpośrednie zagrożenie dla życia lub zdrowia ludzkiego, a także dla mienia.",
+        "Nie, zatrzymanie jest możliwe tylko po wydaniu nakazu sądu.",
+        "Tak, ale tylko jeśli osoba wcześniej popełniła przestępstwo skarbowe.",
+        "Nie, w takiej sytuacji policjant może jedynie pouczyć osobę."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa przewiduje prawo zatrzymania osoby stwarzającej w sposób oczywisty bezpośrednie zagrożenie dla życia lub zdrowia ludzkiego, a także dla mienia.",
+      "source": "Art. 15 ust. 1 pkt 3"
+    },
+    {
+      "id": "ustawa-o-policji-040",
+      "type": "single_choice",
+      "category": "Uprawnienia Policji",
+      "difficulty": "medium",
+      "question": "Policjant rozważa zatrzymanie osoby stwarzającej bezpośrednie zagrożenie, ale dostępne są łagodniejsze i skuteczne środki. Które rozwiązanie jest zgodne z ustawą?",
+      "choices": [
+        "Zatrzymać zawsze, bo ustawa nie wymaga oceny innych środków.",
+        "Nie stosować zatrzymania, jeżeli inne środki nie okazały się bezcelowe lub nieskuteczne.",
+        "Zatrzymać tylko na polecenie wójta.",
+        "Zastosować zatrzymanie wyłącznie po konsultacji z lekarzem."
+      ],
+      "correctIndex": 1,
+      "explanation": "Zatrzymanie osoby może być zastosowane tylko wtedy, gdy inne środki okazały się bezcelowe lub nieskuteczne.",
+      "source": "Art. 15 ust. 3"
+    },
+    {
+      "id": "ustawa-o-policji-041",
+      "type": "single_choice",
+      "category": "Uprawnienia Policji",
+      "difficulty": "easy",
+      "question": "Policjant wykonuje czynności wobec osoby. Jak powinien je prowadzić w świetle ustawy?",
+      "choices": [
+        "W sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której czynności są podejmowane.",
+        "W sposób maksymalnie dolegliwy, aby zwiększyć skuteczność działań.",
+        "Wyłącznie w obecności przełożonego.",
+        "Bez obowiązku uwzględniania dóbr osobistych osoby objętej czynnością."
+      ],
+      "correctIndex": 0,
+      "explanation": "Czynności wymienione w ustawie powinny być wykonywane w sposób możliwie najmniej naruszający dobra osobiste osoby.",
+      "source": "Art. 15 ust. 6"
+    },
+    {
+      "id": "ustawa-o-policji-042",
+      "type": "single_choice",
+      "category": "Uprawnienia Policji",
+      "difficulty": "easy",
+      "question": "Policjant wykonuje czynności służbowe i ma wątpliwość, czy musi respektować prawa osoby, wobec której działa. Która odpowiedź jest prawidłowa?",
+      "choices": [
+        "Tak, policjanci mają obowiązek respektowania godności ludzkiej oraz przestrzegania i ochrony praw człowieka.",
+        "Nie, obowiązek ten dotyczy wyłącznie sądu.",
+        "Tak, ale tylko wobec osób pokrzywdzonych.",
+        "Nie, jeśli czynność dotyczy wykroczenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjanci w toku wykonywania czynności służbowych mają obowiązek respektowania godności ludzkiej oraz przestrzegania i ochrony praw człowieka.",
+      "source": "Art. 14 ust. 3"
+    },
+    {
+      "id": "ustawa-o-policji-043",
+      "type": "single_choice",
+      "category": "Uprawnienia Policji",
+      "difficulty": "medium",
+      "question": "Policjant chce zwrócić się o pilną pomoc do przypadkowej osoby, ponieważ wymaga tego nagły wypadek. Czy ustawa przewiduje taką możliwość?",
+      "choices": [
+        "Tak, w nagłych wypadkach może zwrócić się do każdej osoby o udzielenie doraźnej pomocy w ramach obowiązujących przepisów.",
+        "Nie, pomoc może być żądana wyłącznie od instytucji państwowych.",
+        "Tak, ale tylko od osoby będącej funkcjonariuszem publicznym.",
+        "Nie, ustawa nie przewiduje żadnej pomocy od osób prywatnych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjanci mogą zwracać się w nagłych wypadkach do każdej osoby o udzielenie doraźnej pomocy w ramach obowiązujących przepisów prawa.",
+      "source": "Art. 15 ust. 1 pkt 7"
+    },
+    {
+      "id": "ustawa-o-policji-044",
+      "type": "single_choice",
+      "category": "Uprawnienia Policji",
+      "difficulty": "medium",
+      "question": "Podczas zabezpieczania miejsca zdarzenia osoba przeszkadza w czynnościach i może doprowadzić do zatarcia śladów. Jakie uprawnienie może wykorzystać policjant?",
+      "choices": [
+        "Wydać polecenie określonego zachowania się w granicach niezbędnych do ochrony przed zatarciem śladów.",
+        "Wydać dowolną decyzję administracyjną bez podstawy.",
+        "Zastosować karę dyscyplinarną wobec osoby cywilnej.",
+        "Zakazać osobie poruszania się po kraju."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant może wydawać polecenia określonego zachowania się m.in. w granicach niezbędnych do ochrony przed zatarciem śladów przy zabezpieczaniu miejsca zdarzenia.",
+      "source": "Art. 15 ust. 1 pkt 10"
+    },
+    {
+      "id": "ustawa-o-policji-045",
+      "type": "single_choice",
+      "category": "Uprawnienia Policji",
+      "difficulty": "medium",
+      "question": "Policjant wykonuje kontrolę osobistą. Która zasada jest prawidłowa?",
+      "choices": [
+        "Kontrola powinna być dokonana w sposób możliwie najmniej naruszający dobra osobiste i w zakresie niezbędnym do celu czynności.",
+        "Kontrola zawsze wymaga całkowitego rozebrania osoby.",
+        "Kontrola może być prowadzona bez podania podstawy i przyczyny.",
+        "Kontrola może obejmować dowolne czynności niezależnie od celu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kontrola osobista powinna być wykonywana w sposób możliwie najmniej naruszający dobra osobiste osoby kontrolowanej i w zakresie niezbędnym w danych okolicznościach.",
+      "source": "Art. 15d ust. 2"
+    },
+    {
+      "id": "ustawa-o-policji-046",
+      "type": "single_choice",
+      "category": "Uprawnienia Policji",
+      "difficulty": "medium",
+      "question": "Policjant nieumundurowany przystępuje do kontroli osobistej, a osoba kontrolowana żąda okazania legitymacji. Co powinien zrobić policjant?",
+      "choices": [
+        "Okazać legitymację w sposób umożliwiający odczytanie i zanotowanie numeru, organu wydającego i nazwiska policjanta.",
+        "Może odmówić, bo nieumundurowany policjant nie okazuje legitymacji przy kontroli osobistej.",
+        "Okazać legitymację tylko przełożonemu osoby kontrolowanej.",
+        "Wystarczy, że poda nazwę jednostki."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant nieumundurowany na żądanie osoby kontrolowanej okazuje legitymację w sposób umożliwiający odczytanie i zanotowanie wymaganych danych.",
+      "source": "Art. 15d ust. 4 pkt 1"
+    },
+    {
+      "id": "ustawa-o-policji-047",
+      "type": "single_choice",
+      "category": "Uprawnienia Policji",
+      "difficulty": "hard",
+      "question": "Osoba kontrolowana posiada przedmiot, którego posiadanie jest zabronione. Policjant chce go odebrać, a wcześniejsze sprawdzenie odzieży i bagażu nie wystarcza. Która czynność może wchodzić w zakres kontroli osobistej?",
+      "choices": [
+        "Sprawdzenie zawartości odzieży i obuwia z odsłonięciem przykrytych odzieżą powierzchni ciała w celu i zakresie niezbędnym do odebrania przedmiotu.",
+        "Natychmiastowe zastosowanie kary pieniężnej.",
+        "Przeszukanie mieszkania osoby bez podstawy procesowej.",
+        "Zatrzymanie osoby zawsze na 14 dni."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kontrola osobista może obejmować sprawdzenie odzieży i obuwia z odsłonięciem przykrytych powierzchni ciała w celu i zakresie niezbędnym do odebrania określonych przedmiotów, jeżeli wcześniejsze czynności nie wystarczają.",
+      "source": "Art. 15d ust. 1 pkt 3"
+    },
+    {
+      "id": "ustawa-o-policji-048",
+      "type": "single_choice",
+      "category": "Uprawnienia Policji",
+      "difficulty": "medium",
+      "question": "Policjant rejestruje obraz i dźwięk w trakcie interwencji w miejscu innym niż publiczne. Czy powinien uprzedzić osobę o rejestrowaniu?",
+      "choices": [
+        "W miarę możliwości tak, z wyjątkiem przypadków wyłączonych w ustawie.",
+        "Zawsze nie, bo ustawa zakazuje uprzedzania.",
+        "Tak, ale tylko po zakończeniu interwencji.",
+        "Nie, obowiązek dotyczy wyłącznie monitoringu drogowego."
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadkach rejestrowania interwencji w miejscach innych niż publiczne funkcjonariusz w miarę możliwości uprzedza osobę o rejestrowaniu, z wyłączeniem wskazanych działań kontrterrorystycznych i wsparcia specjalistycznego.",
+      "source": "Art. 15c"
+    },
+    {
+      "id": "ustawa-o-policji-049",
+      "type": "single_choice",
+      "category": "Uprawnienia Policji",
+      "difficulty": "medium",
+      "question": "Policja utrwaliła zapis obrazu z pomieszczenia dla osób zatrzymanych, ale zapis nie zawiera dowodów przydatnych w postępowaniach. Jak długo może być przechowywany?",
+      "choices": [
+        "Co najmniej 30 dni, nie dłużej niż 60 dni od dnia zarejestrowania, a następnie jest niszczony.",
+        "Zawsze bezterminowo.",
+        "Nie dłużej niż 24 godziny.",
+        "Dokładnie 5 lat."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zapisy niezawierające dowodów przydatnych w określonych postępowaniach przechowuje się co najmniej 30 dni, nie dłużej niż 60 dni, a następnie niszczy.",
+      "source": "Art. 15 ust. 11"
+    },
+    {
+      "id": "ustawa-o-policji-050",
+      "type": "single_choice",
+      "category": "Uprawnienia Policji",
+      "difficulty": "medium",
+      "question": "Osoba chce zaskarżyć sposób prowadzenia legitymowania. Do kogo przysługuje zażalenie?",
+      "choices": [
+        "Do właściwego miejscowo prokuratora.",
+        "Do rady gminy.",
+        "Do komendanta komisariatu jako jedynego organu.",
+        "Do wojewody w każdym przypadku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Na sposób prowadzenia wskazanych czynności, w tym legitymowania, przysługuje zażalenie do właściwego miejscowo prokuratora.",
+      "source": "Art. 15 ust. 7"
+    },
+    {
+      "id": "ustawa-o-policji-051",
+      "type": "single_choice",
+      "category": "Uprawnienia Policji",
+      "difficulty": "medium",
+      "question": "Policjant wykonuje czynności administracyjno-porządkowe i potrzebuje użyć psa służbowego dla realizacji ustawowego zadania. Czy ustawa przewiduje używanie psów służbowych?",
+      "choices": [
+        "Tak, w celu realizacji wskazanych zadań Policja może używać psów służbowych lub koni służbowych.",
+        "Nie, użycie zwierząt służbowych nie ma podstawy w ustawie.",
+        "Tak, ale wyłącznie podczas szkoleń.",
+        "Nie, chyba że zgodę wyrazi osoba kontrolowana."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policja może używać psów służbowych lub koni służbowych w celu realizacji określonych ustawowych zadań.",
+      "source": "Art. 14 ust. 5c"
+    },
+    {
+      "id": "ustawa-o-policji-052",
+      "type": "single_choice",
+      "category": "Uprawnienia Policji",
+      "difficulty": "hard",
+      "question": "Policjant chce pobrać od osoby odciski linii papilarnych, aby ustalić jej tożsamość, której nie da się ustalić inaczej. Czy ustawa przewiduje taką możliwość?",
+      "choices": [
+        "Tak, w celu identyfikacji osób o nieustalonej tożsamości oraz osób usiłujących ukryć tożsamość, jeżeli ustalenie jej w inny sposób nie jest możliwe.",
+        "Nie, odciski można pobrać wyłącznie od osoby prawomocnie skazanej.",
+        "Tak, ale tylko za zgodą sądu opiekuńczego.",
+        "Nie, pobieranie odcisków nie jest uprawnieniem Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa pozwala pobierać odciski linii papilarnych lub wymaz ze śluzówki policzków w celu identyfikacji osób o nieustalonej tożsamości albo ukrywających tożsamość, gdy nie można jej ustalić inaczej.",
+      "source": "Art. 15 ust. 1 pkt 3a lit. b"
+    },
+    {
+      "id": "ustawa-o-policji-053",
+      "type": "single_choice",
+      "category": "Przemoc domowa",
+      "difficulty": "medium",
+      "question": "Podczas interwencji policjant stwierdza, że osoba stosująca przemoc domową stwarza bezpośrednie zagrożenie dla życia lub zdrowia. Jakie uprawnienie przewiduje ustawa?",
+      "choices": [
+        "Może zatrzymać taką osobę w trybie określonym w ustawie.",
+        "Może wyłącznie sporządzić notatkę i zakończyć interwencję.",
+        "Może zatrzymać osobę tylko po pisemnej zgodzie pokrzywdzonego.",
+        "Może działać wyłącznie po decyzji sądu rodzinnego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant ma prawo zatrzymania osoby stosującej przemoc domową, jeżeli stwarza bezpośrednie zagrożenie dla życia lub zdrowia ludzkiego.",
+      "source": "Art. 15a ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-054",
+      "type": "single_choice",
+      "category": "Przemoc domowa",
+      "difficulty": "medium",
+      "question": "Policjant ocenia zasadność zatrzymania osoby stosującej przemoc domową. Czy powinien osobno ocenić ryzyko wobec osoby dorosłej i dziecka?",
+      "choices": [
+        "Tak, oceny ryzyka dokonuje się odrębnie dla osoby dorosłej i dziecka.",
+        "Nie, zawsze sporządza się jedną ogólną ocenę bez rozróżnienia.",
+        "Tak, ale tylko gdy dziecko jest świadkiem zdarzenia.",
+        "Nie, ustawa nie przewiduje oceny ryzyka."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa nakazuje oceniać ryzyko bezpośredniego zagrożenia dla życia lub zdrowia odrębnie dla osoby dorosłej i dziecka.",
+      "source": "Art. 15a ust. 2"
+    },
+    {
+      "id": "ustawa-o-policji-055",
+      "type": "single_choice",
+      "category": "Przemoc domowa",
+      "difficulty": "medium",
+      "question": "Po zatrzymaniu osoby stosującej przemoc domową w mieszkaniu zamieszkują także małoletni. Kogo Policja musi dodatkowo zawiadomić?",
+      "choices": [
+        "Właściwy miejscowo sąd opiekuńczy.",
+        "Wyłącznie administratora budynku.",
+        "Radę gminy.",
+        "Pracodawcę osoby zatrzymanej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policja niezwłocznie zawiadamia prokuratora i zespół interdyscyplinarny, a gdy w mieszkaniu zamieszkują małoletni, także właściwy sąd opiekuńczy.",
+      "source": "Art. 15a ust. 4"
+    },
+    {
+      "id": "ustawa-o-policji-056",
+      "type": "single_choice",
+      "category": "Przemoc domowa",
+      "difficulty": "medium",
+      "question": "Policjant stwierdza zagrożenie życia lub zdrowia osoby doznającej przemocy domowej we wspólnie zajmowanym mieszkaniu. Jakie środki może wydać wobec osoby stosującej przemoc?",
+      "choices": [
+        "Nakaz natychmiastowego opuszczenia mieszkania i jego bezpośredniego otoczenia oraz zakaz zbliżania się do nich.",
+        "Wyłącznie ustne pouczenie bez skutków prawnych.",
+        "Zakaz opuszczania kraju.",
+        "Decyzję o eksmisji na stałe."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant ma prawo wydać nakaz natychmiastowego opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia oraz zakaz zbliżania się do nich.",
+      "source": "Art. 15aa ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-057",
+      "type": "single_choice",
+      "category": "Przemoc domowa",
+      "difficulty": "medium",
+      "question": "Osoba doznająca przemocy domowej pracuje w określonym miejscu, a sprawca stwarza zagrożenie dla jej życia lub zdrowia. Który środek może wydać policjant?",
+      "choices": [
+        "Zakaz wstępu na teren miejsca pracy i przebywania na tym terenie, jeżeli zachodzą ustawowe przesłanki.",
+        "Zakaz wykonywania przez osobę doznającą przemocy pracy.",
+        "Nakaz zmiany miejsca zamieszkania przez osobę doznającą przemocy.",
+        "Zakaz kontaktowania się z pracodawcą przez Policję."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant może wydać zakaz wstępu na teren miejsca pracy osoby doznającej przemocy domowej i przebywania na tym terenie, o ile spełnione są ustawowe warunki.",
+      "source": "Art. 15aaa ust. 2"
+    },
+    {
+      "id": "ustawa-o-policji-058",
+      "type": "single_choice",
+      "category": "Przemoc domowa",
+      "difficulty": "medium",
+      "question": "Policjant wydał nakaz i zakaz, a jednocześnie zachodzą przesłanki zakazu kontaktowania. Czy środki te mogą być zastosowane łącznie?",
+      "choices": [
+        "Tak, nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania oraz zakaz wstępu mogą być stosowane łącznie.",
+        "Nie, ustawa dopuszcza zawsze tylko jeden środek.",
+        "Tak, ale tylko po zgodzie osoby stosującej przemoc.",
+        "Nie, środki te wykluczają się wzajemnie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa wprost przewiduje możliwość łącznego stosowania tych środków.",
+      "source": "Art. 15aab ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-059",
+      "type": "single_choice",
+      "category": "Przemoc domowa",
+      "difficulty": "easy",
+      "question": "Policjant wydał wobec osoby stosującej przemoc domową nakaz i zakaz. Od kiedy środek jest wykonalny?",
+      "choices": [
+        "Natychmiast.",
+        "Po upływie 7 dni.",
+        "Dopiero po zatwierdzeniu przez sąd.",
+        "Po doręczeniu prokuratorowi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nakaz i zakaz oraz pozostałe wskazane środki są natychmiast wykonalne.",
+      "source": "Art. 15aab ust. 2"
+    },
+    {
+      "id": "ustawa-o-policji-060",
+      "type": "single_choice",
+      "category": "Przemoc domowa",
+      "difficulty": "medium",
+      "question": "Osoba stosująca przemoc domową została zatrzymana. Kiedy policjant może wydać wobec niej nakaz i zakaz lub inne środki ochronne?",
+      "choices": [
+        "Bezpośrednio po jej zwolnieniu.",
+        "Dopiero po 30 dniach od zatrzymania.",
+        "Wyłącznie przed zatrzymaniem.",
+        "Nie może ich wydać, jeżeli wcześniej doszło do zatrzymania."
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadku zatrzymania osoby stosującej przemoc domową środki mogą być wydane bezpośrednio po jej zwolnieniu.",
+      "source": "Art. 15ab ust. 2"
+    },
+    {
+      "id": "ustawa-o-policji-061",
+      "type": "single_choice",
+      "category": "Przemoc domowa",
+      "difficulty": "hard",
+      "question": "Podczas czynności osoba stosująca przemoc domową jest nieobecna we wspólnie zajmowanym mieszkaniu. Czy Policja może wydać nakaz i zakaz albo inne środki?",
+      "choices": [
+        "Tak, mogą być wydane także w przypadku nieobecności tej osoby podczas czynności.",
+        "Nie, obecność sprawcy jest zawsze warunkiem wydania środka.",
+        "Tak, ale tylko gdy sprawca pisemnie wyrazi zgodę.",
+        "Nie, w takiej sytuacji Policja może wyłącznie sporządzić notatkę."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa dopuszcza wydanie środków także wtedy, gdy osoba stosująca przemoc domową jest nieobecna w mieszkaniu lub jego bezpośrednim otoczeniu podczas czynności.",
+      "source": "Art. 15ab ust. 10"
+    },
+    {
+      "id": "ustawa-o-policji-062",
+      "type": "single_choice",
+      "category": "Przemoc domowa",
+      "difficulty": "medium",
+      "question": "Policjant ma przesłuchać małoletniego w sprawie przemocy domowej. Które rozwiązanie jest prawidłowe?",
+      "choices": [
+        "Małoletniego można przesłuchać tylko wtedy, gdy jego zeznania mogą mieć istotne znaczenie, i wyłącznie w odpowiednio przystosowanych pomieszczeniach.",
+        "Małoletniego przesłuchuje zawsze patrol interweniujący w mieszkaniu.",
+        "Małoletniego nie wolno przesłuchać w żadnej sytuacji.",
+        "Małoletniego przesłuchuje wyłącznie pracownik socjalny bez udziału sądu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa określa szczególne warunki przesłuchania małoletniego w sprawie przemocy domowej, w tym wymóg istotnego znaczenia zeznań i odpowiedniego pomieszczenia.",
+      "source": "Art. 15ab ust. 6"
+    },
+    {
+      "id": "ustawa-o-policji-063",
+      "type": "single_choice",
+      "category": "Przemoc domowa",
+      "difficulty": "hard",
+      "question": "Kto przeprowadza przesłuchanie małoletniego w sprawie przemocy domowej na wniosek Policji?",
+      "choices": [
+        "Sąd opiekuńczy miejsca pobytu małoletniego z udziałem prokuratora i biegłego psychologa.",
+        "Patrol Policji, który przyjął zgłoszenie.",
+        "Dyżurny jednostki Policji bez udziału innych osób.",
+        "Zespół interdyscyplinarny w składzie administracyjnym."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przesłuchanie małoletniego przeprowadza sąd opiekuńczy miejsca pobytu na wniosek Policji, z udziałem prokuratora oraz biegłego psychologa.",
+      "source": "Art. 15ab ust. 7"
+    },
+    {
+      "id": "ustawa-o-policji-064",
+      "type": "single_choice",
+      "category": "Przemoc domowa",
+      "difficulty": "medium",
+      "question": "Osoba stosująca przemoc domową odmawia przyjęcia odpisu wydanego środka. Jaki jest skutek odmowy?",
+      "choices": [
+        "Doręczenie uważa się za dokonane, a policjant dokonuje adnotacji o odmowie.",
+        "Doręczenie jest nieskuteczne i środek nie obowiązuje.",
+        "Policjant musi odstąpić od czynności.",
+        "Środek zaczyna działać dopiero po ponownym doręczeniu przez sąd."
+      ],
+      "correctIndex": 0,
+      "explanation": "Odmowa przyjęcia nakazu lub zakazu nie niweczy doręczenia; uznaje się je za dokonane, a policjant odnotowuje odmowę.",
+      "source": "Art. 15ad ust. 2"
+    },
+    {
+      "id": "ustawa-o-policji-065",
+      "type": "single_choice",
+      "category": "Przemoc domowa",
+      "difficulty": "medium",
+      "question": "Po wydaniu zakazu wstępu dotyczącego szkoły osoby doznającej przemocy domowej Policja musi powiadomić dodatkowy podmiot. Który?",
+      "choices": [
+        "Dyrektora szkoły, placówki oświatowej, opiekuńczej lub artystycznej, której zakaz dotyczy.",
+        "Wyłącznie sąd administracyjny.",
+        "Najbliższy urząd skarbowy.",
+        "Każdego nauczyciela z osobna."
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadku wydania zakazu wstępu Policja zawiadamia odpowiednio dyrektora szkoły lub placówki, osobę zarządzającą obiektem sportowym albo pracodawcę osoby doznającej przemocy.",
+      "source": "Art. 15ad ust. 4"
+    },
+    {
+      "id": "ustawa-o-policji-066",
+      "type": "single_choice",
+      "category": "Przemoc domowa",
+      "difficulty": "medium",
+      "question": "Osoba stosująca przemoc domową, wobec której wydano nakaz opuszczenia mieszkania, chce zabrać rzeczy osobiste i przedmioty potrzebne do pracy. Jak należy postąpić?",
+      "choices": [
+        "Może je zabrać, ale w przypadku sprzeciwu osoby doznającej przemocy przedmioty lub zwierzęta pozostawia się w mieszkaniu lub jego otoczeniu.",
+        "Nie może zabrać żadnych przedmiotów w żadnej sytuacji.",
+        "Może zabrać całe mienie według własnego wyboru.",
+        "Może zabrać przedmioty tylko po prawomocnym orzeczeniu sądu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa pozwala zabrać przedmioty osobiste, potrzebne do pracy lub niezbędne zwierzęta, ale w razie sprzeciwu osoby doznającej przemocy pozostawia się je w mieszkaniu lub jego otoczeniu.",
+      "source": "Art. 15ae ust. 4"
+    },
+    {
+      "id": "ustawa-o-policji-067",
+      "type": "single_choice",
+      "category": "Przemoc domowa",
+      "difficulty": "medium",
+      "question": "Osoba stosująca przemoc domową po wydaniu środka ochronnego zmienia miejsce pobytu. Jaki obowiązek ma wobec jednostki Policji?",
+      "choices": [
+        "Musi poinformować jednostkę o każdej zmianie adresu lub numeru telefonu, o ile numer był możliwy do wskazania.",
+        "Nie ma żadnego obowiązku informacyjnego.",
+        "Ma obowiązek informować wyłącznie sąd cywilny.",
+        "Informuje dopiero po zakończeniu obowiązywania środka."
+      ],
+      "correctIndex": 0,
+      "explanation": "Osoba, wobec której wydano środek, ma obowiązek wskazać adres pobytu i w miarę możliwości numer telefonu oraz informować jednostkę Policji o każdej zmianie.",
+      "source": "Art. 15af ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-068",
+      "type": "single_choice",
+      "category": "Przemoc domowa",
+      "difficulty": "medium",
+      "question": "Policjant wydał środki ochronne wobec osoby stosującej przemoc domową. Jak często Policja ma sprawdzać, czy nie są naruszane?",
+      "choices": [
+        "Przynajmniej trzykrotnie w okresie ich obowiązywania, przy czym pierwsze sprawdzenie odbywa się następnego dnia po wydaniu.",
+        "Jeden raz po upływie 14 dni.",
+        "Tylko na pisemny wniosek osoby doznającej przemocy.",
+        "Codziennie przez 30 dni bez wyjątków."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policja przynajmniej trzykrotnie sprawdza przestrzeganie środków, a pierwsze sprawdzenie odbywa się następnego dnia po ich wydaniu.",
+      "source": "Art. 15ai ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-069",
+      "type": "single_choice",
+      "category": "Przemoc domowa",
+      "difficulty": "medium",
+      "question": "Osoba, wobec której wydano nakaz i zakaz, chce wnieść zażalenie. Jaki jest termin?",
+      "choices": [
+        "3 dni od dnia doręczenia środka.",
+        "7 dni od dnia zdarzenia.",
+        "14 dni od dnia interwencji.",
+        "30 dni od dnia wydania środka."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zażalenie wnosi się w terminie 3 dni od dnia doręczenia nakazu lub zakazu.",
+      "source": "Art. 15aj ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-070",
+      "type": "single_choice",
+      "category": "Przemoc domowa",
+      "difficulty": "hard",
+      "question": "Sąd otrzymał zażalenie na nakaz i zakaz wydany przez Policję. W jakim terminie powinien je rozpoznać?",
+      "choices": [
+        "Niezwłocznie, nie później niż w terminie 3 dni od dnia wpływu do sądu.",
+        "W terminie 14 dni od doręczenia osobie doznającej przemocy.",
+        "W terminie 30 dni od wydania środka.",
+        "Dopiero po zakończeniu postępowania karnego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sąd rozpoznaje zażalenie niezwłocznie, nie później jednak niż w terminie 3 dni od dnia jego wpływu do sądu.",
+      "source": "Art. 15aj ust. 2"
+    },
+    {
+      "id": "ustawa-o-policji-071",
+      "type": "single_choice",
+      "category": "Przemoc domowa",
+      "difficulty": "medium",
+      "question": "Nie wydano sądowego zabezpieczenia przedłużającego środek, a wobec osoby stosującej przemoc nie zastosowano tymczasowego aresztowania. Po jakim czasie nakaz i zakaz zasadniczo tracą moc?",
+      "choices": [
+        "Po upływie 14 dni od dnia wydania, bez wliczania dnia wydania.",
+        "Po 24 godzinach od interwencji.",
+        "Po 7 dniach od zgłoszenia przemocy.",
+        "Po 30 dniach od przesłuchania świadka."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nakaz i zakaz oraz pozostałe środki tracą moc po upływie 14 dni od dnia wydania, chyba że sąd udzielił zabezpieczenia przedłużającego ich obowiązywanie; dnia wydania nie uwzględnia się przy obliczaniu terminu.",
+      "source": "Art. 15ak ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-072",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "easy",
+      "question": "Kandydat pyta, czy służbę w Policji może pełnić osoba bez obywatelstwa polskiego. Która odpowiedź jest zgodna z ustawą?",
+      "choices": [
+        "Nie, służbę może pełnić obywatel polski spełniający ustawowe warunki.",
+        "Tak, obywatelstwo nie ma znaczenia.",
+        "Tak, jeżeli kandydat zna język polski.",
+        "Tak, ale tylko w służbie kontraktowej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Służbę w Policji może pełnić obywatel polski o nieposzlakowanej opinii spełniający pozostałe wymagania ustawowe.",
+      "source": "Art. 25 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-073",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "easy",
+      "question": "Kandydat do Policji został prawomocnie skazany za przestępstwo. Czy spełnia warunek niekaralności wskazany w ustawie?",
+      "choices": [
+        "Nie, kandydat nie może być skazany prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe.",
+        "Tak, jeżeli kara została wykonana.",
+        "Tak, jeżeli przestępstwo nie miało związku ze służbą.",
+        "Tak, jeżeli zgodzi się komendant powiatowy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jednym z warunków służby jest brak prawomocnego skazania za przestępstwo lub przestępstwo skarbowe.",
+      "source": "Art. 25 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-074",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "medium",
+      "question": "Kandydat przeszedł test wiedzy i sprawności, ale odmawia poddania się badaniu psychologicznemu. Czy może ukończyć postępowanie kwalifikacyjne bez tego etapu?",
+      "choices": [
+        "Nie, postępowanie kwalifikacyjne obejmuje także badanie psychologiczne.",
+        "Tak, badanie psychologiczne jest zawsze dobrowolne i poza procedurą.",
+        "Tak, jeśli ma wyższe wykształcenie.",
+        "Tak, jeżeli pozytywnie przejdzie rozmowę kwalifikacyjną."
+      ],
+      "correctIndex": 0,
+      "explanation": "Postępowanie kwalifikacyjne obejmuje m.in. badanie psychologiczne.",
+      "source": "Art. 25 ust. 2 pkt 5"
+    },
+    {
+      "id": "ustawa-o-policji-075",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "medium",
+      "question": "Kandydat do służby musi zostać oceniony pod względem zdolności fizycznej i psychicznej. Kto ustala tę zdolność?",
+      "choices": [
+        "Komisje lekarskie podległe ministrowi właściwemu do spraw wewnętrznych.",
+        "Rada gminy właściwa miejscowo.",
+        "Dowolny lekarz rodzinny bez procedury komisji.",
+        "Sam kandydat w oświadczeniu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zdolność fizyczną i psychiczną do służby ustalają komisje lekarskie podległe ministrowi właściwemu do spraw wewnętrznych.",
+      "source": "Art. 26 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-076",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "easy",
+      "question": "Kandydat został przyjęty do służby. Jaka czynność powinna nastąpić przed podjęciem służby?",
+      "choices": [
+        "Złożenie ślubowania według roty określonej w ustawie.",
+        "Złożenie oświadczenia podatkowego w gminie.",
+        "Uzyskanie zgody wszystkich związków zawodowych.",
+        "Złożenie przysięgi przed sądem powszechnym."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przed podjęciem służby policjant składa ślubowanie według roty określonej w ustawie.",
+      "source": "Art. 27 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-077",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "medium",
+      "question": "Nowo przyjęty policjant pyta, kiedy powstaje jego stosunek służbowy. Która odpowiedź jest prawidłowa?",
+      "choices": [
+        "Z chwilą mianowania na podstawie dobrowolnego zgłoszenia się do służby.",
+        "Automatycznie z dniem złożenia CV.",
+        "Dopiero po roku służby przygotowawczej.",
+        "Z chwilą wydania opinii przez radę gminy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Stosunek służbowy policjanta powstaje w drodze mianowania na podstawie dobrowolnego zgłoszenia się do służby.",
+      "source": "Art. 28 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-078",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "medium",
+      "question": "Rozkaz personalny o mianowaniu wskazuje dzień rozpoczęcia służby. Kiedy policjant rozpoczyna służbę?",
+      "choices": [
+        "Z dniem określonym w rozkazie personalnym.",
+        "Zawsze w dniu podpisania ślubowania przez przełożonego.",
+        "Zawsze pierwszego dnia następnego miesiąca.",
+        "Dopiero po ukończeniu służby przygotowawczej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Termin rozpoczęcia służby określa rozkaz personalny o mianowaniu policjanta.",
+      "source": "Art. 28 ust. 2"
+    },
+    {
+      "id": "ustawa-o-policji-079",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "medium",
+      "question": "Policjant pełni służbę przygotowawczą. Jaki jest zasadniczy czas jej trwania?",
+      "choices": [
+        "3 lata.",
+        "6 miesięcy.",
+        "12 miesięcy.",
+        "5 lat."
+      ],
+      "correctIndex": 0,
+      "explanation": "Osobę przyjętą do służby mianuje się policjantem w służbie przygotowawczej na okres 3 lat.",
+      "source": "Art. 29 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-080",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "medium",
+      "question": "Policjant w służbie przygotowawczej szczególnie dobrze wykonuje zadania i uzyskał kwalifikacje zawodowe podstawowe. Co może zrobić przełożony?",
+      "choices": [
+        "Skrócić okres służby przygotowawczej albo zwolnić policjanta od jej odbywania.",
+        "Natychmiast mianować go na stopień generalny.",
+        "Przedłużyć służbę przygotowawczą bez ograniczeń.",
+        "Zwolnić go ze służby bez decyzji."
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie szczególnych kwalifikacji lub umiejętności przełożony może skrócić okres służby przygotowawczej albo zwolnić od jej odbywania, z uwzględnieniem warunku kwalifikacji zawodowych podstawowych.",
+      "source": "Art. 29 ust. 2 i 3"
+    },
+    {
+      "id": "ustawa-o-policji-081",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "medium",
+      "question": "Policjant odbywa służbę kandydacką i ukończył szkolenie zawodowe podstawowe. Jakie czynności może wykonywać?",
+      "choices": [
+        "Czynności administracyjno-porządkowe.",
+        "Samodzielnie wszystkie czynności operacyjno-rozpoznawcze bez ograniczeń.",
+        "Wyłącznie czynności księgowe.",
+        "Żadne czynności służbowe do czasu zakończenia całej służby."
+      ],
+      "correctIndex": 0,
+      "explanation": "Po ukończeniu szkolenia zawodowego podstawowego policjant w służbie kandydackiej może wykonywać czynności administracyjno-porządkowe.",
+      "source": "Art. 30 ust. 4"
+    },
+    {
+      "id": "ustawa-o-policji-082",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "medium",
+      "question": "Policjant po zakończeniu służby kandydackiej rozpoczyna służbę przygotowawczą po dwumiesięcznej przerwie. Czy okres służby kandydackiej wlicza się do służby przygotowawczej?",
+      "choices": [
+        "Tak, jeżeli przerwa nie przekracza 3 miesięcy.",
+        "Nie, nigdy się nie wlicza.",
+        "Tak, ale tylko po 5 latach służby.",
+        "Tak, jeśli zgodę wyrazi rada powiatu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Do okresu służby przygotowawczej wlicza się okres służby kandydackiej, jeżeli przerwa między nimi nie przekracza 3 miesięcy.",
+      "source": "Art. 30 ust. 5"
+    },
+    {
+      "id": "ustawa-o-policji-083",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "medium",
+      "question": "Policjant otrzymał rozkaz personalny o przeniesieniu na niższe stanowisko. Czy może odwołać się do sądu administracyjnego bez wcześniejszego odwołania do wyższego przełożonego?",
+      "choices": [
+        "Nie, od decyzji w sprawach mianowania i przenoszenia przysługuje odwołanie do wyższego przełożonego, a dopiero od jego decyzji skarga do sądu administracyjnego.",
+        "Tak, zawsze pomija się tryb służbowy.",
+        "Nie ma żadnego środka zaskarżenia.",
+        "Odwołanie przysługuje wyłącznie do rady gminy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Od decyzji w sprawach mianowania i przenoszenia przysługuje odwołanie do wyższego przełożonego, a od decyzji organu odwoławczego skarga do sądu administracyjnego.",
+      "source": "Art. 32 ust. 2"
+    },
+    {
+      "id": "ustawa-o-policji-084",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "easy",
+      "question": "Policjant pyta o podstawowy rozkład czasu służby. Jaka norma tygodniowa wynika z ustawy?",
+      "choices": [
+        "40 godzin służby tygodniowo w przyjętym okresie rozliczeniowym.",
+        "24 godziny służby tygodniowo bez wyjątków.",
+        "60 godzin służby tygodniowo jako norma podstawowa.",
+        "Nie ma żadnej ustawowej normy czasu służby."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zadania służbowe powinny być ustalone w sposób pozwalający na ich wykonanie w ramach 40 godzin służby w tygodniu w przyjętym okresie rozliczeniowym.",
+      "source": "Art. 33 ust. 2"
+    },
+    {
+      "id": "ustawa-o-policji-085",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "medium",
+      "question": "Przełożony planuje czas służby ponad podstawową normę. Jaki limit przeciętny wynika z ustawy?",
+      "choices": [
+        "Co do zasady czas służby przekraczający normę nie może przekraczać 8 godzin tygodniowo w przyjętym okresie rozliczeniowym.",
+        "Może wynosić dowolnie dużo, jeśli przełożony tak zdecyduje.",
+        "Nie może przekraczać jednej godziny miesięcznie.",
+        "Zawsze musi wynosić dokładnie 16 godzin tygodniowo."
+      ],
+      "correctIndex": 0,
+      "explanation": "Czas służby przekraczający normę co do zasady nie może przekraczać 8 godzin tygodniowo w przyjętym okresie rozliczeniowym.",
+      "source": "Art. 33 ust. 2a"
+    },
+    {
+      "id": "ustawa-o-policji-086",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "medium",
+      "question": "Policjant pełnił służbę w czasie przekraczającym normę. Jaką rekompensatę przewiduje ustawa?",
+      "choices": [
+        "Czas wolny od służby w tym samym wymiarze albo rekompensatę pieniężną.",
+        "Wyłącznie awans na wyższy stopień.",
+        "Wyłącznie nagrodę uznaniową bez prawa do czasu wolnego.",
+        "Brak jakiejkolwiek rekompensaty."
+      ],
+      "correctIndex": 0,
+      "explanation": "Za służbę ponad normę policjantowi udziela się czasu wolnego w tym samym wymiarze albo przyznaje rekompensatę pieniężną.",
+      "source": "Art. 33 ust. 3"
+    },
+    {
+      "id": "ustawa-o-policji-087",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "hard",
+      "question": "Policjant ma zostać mianowany na wyższe stanowisko, ale toczy się przeciwko niemu postępowanie karne o przestępstwo umyślne ścigane z oskarżenia publicznego. Czy mianowanie jest dopuszczalne?",
+      "choices": [
+        "Nie, ustawa wyłącza mianowanie lub powołanie na wyższe stanowisko w takiej sytuacji.",
+        "Tak, zawsze do czasu prawomocnego skazania.",
+        "Tak, jeżeli stanowisko jest w tej samej miejscowości.",
+        "Tak, ale tylko na okres próbny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mianowanie lub powołanie policjanta na wyższe stanowisko nie może nastąpić m.in. w razie toczącego się przeciwko niemu postępowania karnego o przestępstwo umyślne ścigane z oskarżenia publicznego.",
+      "source": "Art. 34 ust. 5 pkt 1"
+    },
+    {
+      "id": "ustawa-o-policji-088",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "medium",
+      "question": "Policjant został zapoznany z opinią służbową i nie zgadza się z jej treścią. Jaki termin ma na wniesienie odwołania?",
+      "choices": [
+        "14 dni od dnia zapoznania się z opinią.",
+        "3 dni od dnia wydania opinii.",
+        "30 dni od zakończenia roku.",
+        "Nie przysługuje mu odwołanie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant może wnieść odwołanie od opinii służbowej w terminie 14 dni od dnia zapoznania się z nią.",
+      "source": "Art. 35 ust. 2"
+    },
+    {
+      "id": "ustawa-o-policji-089",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "medium",
+      "question": "Policjant ma zostać czasowo delegowany do innej jednostki w tej samej miejscowości. Jaki podstawowy maksymalny okres delegowania przewiduje ustawa?",
+      "choices": [
+        "Do 6 miesięcy.",
+        "Do 14 dni.",
+        "Do 3 lat.",
+        "Bez żadnego limitu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjanta można czasowo delegować do pełnienia służby w innej jednostce lub miejscowości na okres do 6 miesięcy.",
+      "source": "Art. 36 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-090",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "hard",
+      "question": "Policjant ma zostać delegowany do pełnienia służby poza Policją. Jaki warunek wynika z ustawy?",
+      "choices": [
+        "Wymagana jest zgoda policjanta.",
+        "Wystarczy ustne polecenie dowolnego przełożonego.",
+        "Delegowanie poza Policję jest zawsze niedopuszczalne.",
+        "Wymagana jest uchwała rady powiatu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Delegowanie policjanta do pełnienia zadań służbowych poza Policją może nastąpić po wyrażeniu przez niego zgody.",
+      "source": "Art. 36 ust. 4"
+    },
+    {
+      "id": "ustawa-o-policji-091",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "medium",
+      "question": "Policjantowi powierzono pełnienie obowiązków na innym stanowisku w tej samej miejscowości. Jak długo co do zasady może to trwać?",
+      "choices": [
+        "Do 12 miesięcy.",
+        "Do 7 dni.",
+        "Do 5 lat.",
+        "Bez ograniczeń."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjantowi można powierzyć pełnienie obowiązków służbowych na innym stanowisku w tej samej miejscowości na czas nieprzekraczający 12 miesięcy.",
+      "source": "Art. 37"
+    },
+    {
+      "id": "ustawa-o-policji-092",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "medium",
+      "question": "Policjantowi powierzono obowiązki na innym stanowisku. Co z jego uposażeniem?",
+      "choices": [
+        "Nie może być ono obniżone w stosunku do dotychczas pobieranego.",
+        "Zawsze obniża się o połowę.",
+        "Zawsze przyznaje się uposażenie najniższe w Policji.",
+        "Uposażenie wygasa na czas powierzenia obowiązków."
+      ],
+      "correctIndex": 0,
+      "explanation": "W okresie powierzenia obowiązków uposażenie policjanta nie może być obniżone.",
+      "source": "Art. 37"
+    },
+    {
+      "id": "ustawa-o-policji-093",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "medium",
+      "question": "Przeciwko policjantowi wszczęto postępowanie karne o umyślne przestępstwo ścigane z oskarżenia publicznego. Jakie rozstrzygnięcie dotyczące służby przewiduje ustawa?",
+      "choices": [
+        "Zawieszenie w czynnościach służbowych na czas nie dłuższy niż 3 miesiące.",
+        "Automatyczne wydalenie ze służby bez postępowania.",
+        "Brak możliwości zawieszenia.",
+        "Zawieszenie wyłącznie na jeden dzień."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjanta zawiesza się w czynnościach służbowych na czas nie dłuższy niż 3 miesiące w razie wszczęcia przeciwko niemu postępowania karnego w sprawie o umyślne przestępstwo ścigane z oskarżenia publicznego.",
+      "source": "Art. 39 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-094",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "hard",
+      "question": "Policjant jest zawieszony w czynnościach służbowych, a szczególnie uzasadniony przypadek wymaga przedłużenia zawieszenia. Jaki jest maksymalny łączny okres przedłużenia przewidziany ustawą?",
+      "choices": [
+        "Do 12 miesięcy.",
+        "Do 30 dni.",
+        "Do 3 lat.",
+        "Bez ograniczeń."
+      ],
+      "correctIndex": 0,
+      "explanation": "W szczególnie uzasadnionych przypadkach zawieszenie można przedłużyć do czasu ukończenia postępowania karnego, nie dłużej niż na 12 miesięcy.",
+      "source": "Art. 39 ust. 3"
+    },
+    {
+      "id": "ustawa-o-policji-095",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "medium",
+      "question": "Policjant żąda zwolnienia ze służby na piśmie. W jakim terminie powinno nastąpić zwolnienie?",
+      "choices": [
+        "Do 3 miesięcy od dnia pisemnego zgłoszenia wystąpienia ze służby.",
+        "Niezwłocznie w tym samym dniu bez wyjątku.",
+        "Po 12 miesiącach od zgłoszenia.",
+        "Dopiero po zgodzie wojewody."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjanta zwalnia się ze służby w przypadku pisemnego zgłoszenia wystąpienia ze służby, w terminie do 3 miesięcy od dnia zgłoszenia.",
+      "source": "Art. 41 ust. 3"
+    },
+    {
+      "id": "ustawa-o-policji-096",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "medium",
+      "question": "Policjant został przywrócony do służby po uchyleniu wadliwej decyzji o zwolnieniu. W jakim terminie powinien zgłosić gotowość niezwłocznego podjęcia służby?",
+      "choices": [
+        "W terminie 7 dni od przywrócenia do służby.",
+        "W terminie 30 dni od doręczenia każdej korespondencji.",
+        "W dowolnym terminie.",
+        "W terminie 3 miesięcy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przywrócenie do służby następuje po zgłoszeniu przez policjanta gotowości niezwłocznego podjęcia służby w terminie 7 dni od przywrócenia.",
+      "source": "Art. 42 ust. 2"
+    },
+    {
+      "id": "ustawa-o-policji-097",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "medium",
+      "question": "Policjant otrzymuje świadectwo służby po zwolnieniu. Nie zgadza się z opinią o służbie. Jaki termin ma na odwołanie?",
+      "choices": [
+        "7 dni od dnia zapoznania się z opinią.",
+        "14 dni od powołania komisji lekarskiej.",
+        "30 dni od zakończenia roku służbowego.",
+        "Nie ma prawa do odwołania."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant może wnieść odwołanie od opinii o służbie w terminie 7 dni od dnia zapoznania się z nią.",
+      "source": "Art. 46 ust. 4"
+    },
+    {
+      "id": "ustawa-o-policji-098",
+      "type": "single_choice",
+      "category": "Obowiązki policjanta",
+      "difficulty": "medium",
+      "question": "Policjant otrzymuje polecenie, którego wykonanie łączyłoby się z popełnieniem przestępstwa. Co powinien zrobić?",
+      "choices": [
+        "Odmówić wykonania rozkazu lub polecenia.",
+        "Wykonać polecenie i dopiero potem zgłosić sprawę.",
+        "Wykonać polecenie, jeżeli wydał je przełożony wyższego stopnia.",
+        "Zapytać osobę kontrolowaną o zgodę."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant jest obowiązany odmówić wykonania rozkazu lub polecenia, jeżeli jego wykonanie łączyłoby się z popełnieniem przestępstwa.",
+      "source": "Art. 58 ust. 2"
+    },
+    {
+      "id": "ustawa-o-policji-099",
+      "type": "single_choice",
+      "category": "Obowiązki policjanta",
+      "difficulty": "medium",
+      "question": "Policjant nie może wykonać rozkazu albo polecenia. Jaki obowiązek informacyjny przewiduje ustawa?",
+      "choices": [
+        "Musi zameldować Komendantowi Głównemu Policji o odmowie wykonania rozkazu lub polecenia.",
+        "Wystarczy, że poinformuje kolegę z patrolu.",
+        "Nie musi nikogo informować.",
+        "Musi zawiadomić wyłącznie radę gminy."
+      ],
+      "correctIndex": 0,
+      "explanation": "O odmowie wykonania rozkazu lub polecenia policjant melduje Komendantowi Głównemu Policji z pominięciem drogi służbowej.",
+      "source": "Art. 58 ust. 3"
+    },
+    {
+      "id": "ustawa-o-policji-100",
+      "type": "single_choice",
+      "category": "Obowiązki policjanta",
+      "difficulty": "medium",
+      "question": "Policjant planuje podjąć zajęcie zarobkowe poza służbą. Które działanie jest zgodne z ustawą?",
+      "choices": [
+        "Musi uzyskać pisemną zgodę przełożonego.",
+        "Wystarczy ustne powiadomienie dyżurnego.",
+        "Może podjąć każde zajęcie bez zgody.",
+        "Może to zrobić tylko po odejściu ze służby."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant nie może podejmować zajęcia zarobkowego poza służbą bez pisemnej zgody przełożonego.",
+      "source": "Art. 62 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-101",
+      "type": "single_choice",
+      "category": "Obowiązki policjanta",
+      "difficulty": "medium",
+      "question": "Policjant został członkiem zarządu spółki handlowej. Jak należy ocenić taką sytuację?",
+      "choices": [
+        "Ustawa zakazuje policjantowi bycia członkiem zarządu spółek prawa handlowego.",
+        "Jest to zawsze dopuszczalne bez zgody przełożonego.",
+        "Jest dopuszczalne tylko wtedy, gdy spółka działa poza miejscem służby.",
+        "Ustawa nie reguluje tej kwestii."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant nie może być członkiem zarządów, rad nadzorczych lub komisji rewizyjnych spółek prawa handlowego.",
+      "source": "Art. 62 ust. 2"
+    },
+    {
+      "id": "ustawa-o-policji-102",
+      "type": "single_choice",
+      "category": "Obowiązki policjanta",
+      "difficulty": "medium",
+      "question": "Policjant ma złożyć oświadczenie o stanie majątkowym za dany rok. Do kiedy powinien to zrobić?",
+      "choices": [
+        "Do dnia 31 marca według stanu na dzień 31 grudnia roku poprzedniego.",
+        "Do dnia 1 stycznia według stanu bieżącego.",
+        "W terminie 7 dni od każdej odprawy.",
+        "Tylko raz, przy przyjęciu do służby."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant składa coroczne oświadczenie o stanie majątkowym do dnia 31 marca, według stanu na dzień 31 grudnia roku poprzedniego.",
+      "source": "Art. 62 ust. 4"
+    },
+    {
+      "id": "ustawa-o-policji-103",
+      "type": "single_choice",
+      "category": "Obowiązki policjanta",
+      "difficulty": "easy",
+      "question": "Policjant chce wstąpić do partii politycznej. Która odpowiedź jest zgodna z ustawą?",
+      "choices": [
+        "Nie może być członkiem partii politycznej.",
+        "Może być członkiem partii po zgodzie przełożonego.",
+        "Może być członkiem partii, jeśli nie nosi munduru.",
+        "Może być członkiem partii tylko w czasie urlopu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant nie może być członkiem partii politycznej.",
+      "source": "Art. 63 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-104",
+      "type": "single_choice",
+      "category": "Obowiązki policjanta",
+      "difficulty": "medium",
+      "question": "Policjant wyjeżdża prywatnie poza obszar Unii Europejskiej na 5 dni. Jaki obowiązek przewiduje ustawa?",
+      "choices": [
+        "Musi poinformować przełożonego właściwego w sprawach osobowych przed wyjazdem i po powrocie.",
+        "Nie musi nikogo informować, bo wyjazd jest prywatny.",
+        "Musi uzyskać decyzję sądu.",
+        "Musi złożyć raport tylko po powrocie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant jest obowiązany poinformować przełożonego właściwego w sprawach osobowych o wyjeździe zagranicznym poza obszar UE na więcej niż 3 dni przed wyjazdem i po powrocie.",
+      "source": "Art. 63 ust. 7"
+    },
+    {
+      "id": "ustawa-o-policji-105",
+      "type": "single_choice",
+      "category": "Obowiązki policjanta",
+      "difficulty": "easy",
+      "question": "Podczas wykonywania obowiązków służbowych policjant zostaje zaatakowany. Jaką ochronę przewiduje ustawa?",
+      "choices": [
+        "Policjant podczas i w związku z wykonywaniem obowiązków służbowych korzysta z ochrony przewidzianej w Kodeksie karnym dla funkcjonariuszy publicznych.",
+        "Ustawa nie przewiduje żadnej szczególnej ochrony.",
+        "Policjant korzysta wyłącznie z ochrony pracowniczej właściwej dla urzędników cywilnych.",
+        "Ochrona przysługuje tylko policjantowi w służbie kontrterrorystycznej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant podczas lub w związku z pełnieniem obowiązków służbowych korzysta z ochrony przewidzianej dla funkcjonariuszy publicznych.",
+      "source": "Art. 66 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-106",
+      "type": "single_choice",
+      "category": "Obowiązki policjanta",
+      "difficulty": "medium",
+      "question": "Policjant zrzeszony w związku zawodowym chce zorganizować strajk. Czy ustawa dopuszcza takie działanie?",
+      "choices": [
+        "Nie, policjantom nie przysługuje prawo do strajku.",
+        "Tak, policjantom zawsze przysługuje prawo do strajku.",
+        "Tak, ale tylko po zgodzie komendanta wojewódzkiego.",
+        "Tak, jeżeli strajk trwa krócej niż dobę."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant może zrzeszać się w związku zawodowym, ale nie przysługuje mu prawo do strajku.",
+      "source": "Art. 67 ust. 1 i 2"
+    },
+    {
+      "id": "ustawa-o-policji-107",
+      "type": "single_choice",
+      "category": "Prawa policjanta",
+      "difficulty": "easy",
+      "question": "Policjantowi przydzielono zadania wymagające umundurowania i sprzętu. Jakie uprawnienie przewiduje ustawa?",
+      "choices": [
+        "Policjant otrzymuje bezpłatnie umundurowanie, wyposażenie i uzbrojenie odpowiednie do rodzaju służby.",
+        "Policjant kupuje całe wyposażenie wyłącznie z własnych środków.",
+        "Wyposażenie przysługuje tylko policjantom służby kontrterrorystycznej.",
+        "Ustawa nie reguluje wyposażenia policjanta."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant otrzymuje bezpłatne umundurowanie, wyposażenie i uzbrojenie odpowiednie do rodzaju pełnionej służby.",
+      "source": "Art. 71 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-108",
+      "type": "single_choice",
+      "category": "Prawa policjanta",
+      "difficulty": "medium",
+      "question": "Policjant nie otrzymał elementów umundurowania w naturze. Jakie świadczenie przewiduje ustawa?",
+      "choices": [
+        "Równoważnik pieniężny.",
+        "Automatyczny awans.",
+        "Dodatkowy urlop szkoleniowy.",
+        "Brak jakiegokolwiek świadczenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjantowi w zamian za umundurowanie niewydane w naturze przysługuje równoważnik pieniężny.",
+      "source": "Art. 71 ust. 2"
+    },
+    {
+      "id": "ustawa-o-policji-109",
+      "type": "single_choice",
+      "category": "Prawa policjanta",
+      "difficulty": "medium",
+      "question": "Policjant korzysta z płatnego przejazdu środkami publicznego transportu zbiorowego na terenie kraju. Jakie świadczenie przewiduje ustawa?",
+      "choices": [
+        "Raz w roku przysługuje mu zwrot kosztów przejazdu na zasadach określonych w ustawie.",
+        "Zwrot przysługuje codziennie bez żadnych zasad.",
+        "Zwrot przysługuje wyłącznie poza granicami kraju.",
+        "Nie przysługuje żaden zwrot."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjantowi raz w roku przysługuje prawo zwrotu kosztów przejazdu środkami publicznego transportu zbiorowego na terenie kraju.",
+      "source": "Art. 73 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-110",
+      "type": "single_choice",
+      "category": "Stopnie policyjne",
+      "difficulty": "easy",
+      "question": "Policjant pyta, czy stopień policyjny traci ważność po zmianie stanowiska. Która odpowiedź jest prawidłowa?",
+      "choices": [
+        "Stopnie policyjne są dożywotnie, z wyjątkami przewidzianymi w ustawie.",
+        "Stopień wygasa po każdej zmianie stanowiska.",
+        "Stopień obowiązuje tylko w danej jednostce.",
+        "Stopień wygasa po każdym urlopie dłuższym niż 30 dni."
+      ],
+      "correctIndex": 0,
+      "explanation": "Stopnie policyjne są dożywotnie, z zastrzeżeniem przypadków przewidzianych w ustawie.",
+      "source": "Art. 48 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-111",
+      "type": "single_choice",
+      "category": "Stopnie policyjne",
+      "difficulty": "easy",
+      "question": "Policjant przyjmowany do służby w korpusie szeregowych Policji ma otrzymać pierwszy stopień. Jaki stopień nadaje się w tym korpusie?",
+      "choices": [
+        "Posterunkowy.",
+        "Sierżant.",
+        "Aspirant.",
+        "Komisarz."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pierwszym stopniem w korpusie szeregowych Policji jest posterunkowy.",
+      "source": "Art. 47 ust. 1 pkt 1 i art. 49 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-112",
+      "type": "single_choice",
+      "category": "Stopnie policyjne",
+      "difficulty": "medium",
+      "question": "Kto mianuje na pierwszy stopień oficerski w Policji?",
+      "choices": [
+        "Prezydent Rzeczypospolitej Polskiej na wniosek ministra właściwego do spraw wewnętrznych.",
+        "Komendant powiatowy Policji.",
+        "Komendant komisariatu Policji.",
+        "Rada Ministrów bez wniosku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Na pierwszy stopień oficerski mianuje Prezydent Rzeczypospolitej Polskiej na wniosek ministra właściwego do spraw wewnętrznych.",
+      "source": "Art. 48 ust. 3"
+    },
+    {
+      "id": "ustawa-o-policji-113",
+      "type": "single_choice",
+      "category": "Stopnie policyjne",
+      "difficulty": "medium",
+      "question": "Policjant został zwolniony ze służby za przestępstwo umyślne ścigane z oskarżenia publicznego popełnione w związku z wykonywaniem obowiązków służbowych i w celu osiągnięcia korzyści majątkowej. Co dzieje się z jego stopniem?",
+      "choices": [
+        "Traci stopień policyjny.",
+        "Zachowuje stopień bez wyjątków.",
+        "Automatycznie otrzymuje stopień wyższy.",
+        "Stopień zostaje zawieszony tylko na 7 dni."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa przewiduje utratę stopnia policyjnego w przypadku zwolnienia ze służby z powodu skazania za wskazane przestępstwo umyślne popełnione w związku ze służbą i w celu osiągnięcia korzyści majątkowej.",
+      "source": "Art. 52 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-114",
+      "type": "single_choice",
+      "category": "Uposażenie i świadczenia",
+      "difficulty": "easy",
+      "question": "Policjant pyta, z czego składa się jego uposażenie. Która odpowiedź jest prawidłowa?",
+      "choices": [
+        "Z uposażenia zasadniczego i dodatków do uposażenia.",
+        "Wyłącznie z dodatku służbowego.",
+        "Wyłącznie z nagród rocznych.",
+        "Wyłącznie z równoważnika za umundurowanie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Uposażenie policjanta składa się z uposażenia zasadniczego i dodatków do uposażenia.",
+      "source": "Art. 100"
+    },
+    {
+      "id": "ustawa-o-policji-115",
+      "type": "single_choice",
+      "category": "Uposażenie i świadczenia",
+      "difficulty": "medium",
+      "question": "Policjant został mianowany na wyższe stanowisko służbowe. Od kiedy powstaje prawo do wyższego uposażenia?",
+      "choices": [
+        "Od dnia mianowania na stanowisko, jeżeli z przepisów szczególnych nie wynika inaczej.",
+        "Dopiero od początku następnego roku.",
+        "Po upływie 6 miesięcy od mianowania.",
+        "Dopiero po wydaniu opinii służbowej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Prawo do uposażenia powstaje z dniem mianowania policjanta na stanowisko służbowe, a zmiana uposażenia następuje z dniem zaistnienia okoliczności ją uzasadniających.",
+      "source": "Art. 101 ust. 1 i 2"
+    },
+    {
+      "id": "ustawa-o-policji-116",
+      "type": "single_choice",
+      "category": "Uposażenie i świadczenia",
+      "difficulty": "medium",
+      "question": "Policjant pobrał uposażenie należne za dany miesiąc, a następnie w trakcie miesiąca nastąpiła okoliczność uzasadniająca zmniejszenie uposażenia. Jak należy postąpić?",
+      "choices": [
+        "Uposażenia pobranego za ten miesiąc nie obniża się ani nie cofa.",
+        "Policjant musi zawsze zwrócić całe miesięczne uposażenie.",
+        "Uposażenie automatycznie obniża się wstecz od pierwszego dnia roku.",
+        "Decyzję podejmuje rada gminy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli okoliczności uzasadniające zmniejszenie lub utratę uposażenia powstały w miesiącu, za który policjant pobrał już uposażenie, nie obniża się go ani nie cofa za ten miesiąc.",
+      "source": "Art. 101 ust. 4"
+    },
+    {
+      "id": "ustawa-o-policji-117",
+      "type": "single_choice",
+      "category": "Uposażenie i świadczenia",
+      "difficulty": "easy",
+      "question": "Kiedy wypłaca się policjantowi uposażenie zasadnicze i dodatki o charakterze stałym?",
+      "choices": [
+        "Miesięcznie z góry w pierwszym dniu roboczym każdego miesiąca.",
+        "Raz na kwartał z dołu.",
+        "Po zakończeniu każdego roku.",
+        "Wyłącznie na wniosek policjanta."
+      ],
+      "correctIndex": 0,
+      "explanation": "Uposażenie zasadnicze i dodatki o charakterze stałym są płatne miesięcznie z góry w pierwszym dniu roboczym każdego miesiąca.",
+      "source": "Art. 105 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-118",
+      "type": "single_choice",
+      "category": "Uposażenie i świadczenia",
+      "difficulty": "medium",
+      "question": "Policjant został zawieszony w czynnościach służbowych. Jaka część uposażenia zasadniczego zasadniczo ulega zawieszeniu od najbliższego terminu płatności?",
+      "choices": [
+        "50 procent.",
+        "10 procent.",
+        "Całość uposażenia.",
+        "Żadna część."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjantowi zawieszonemu w czynnościach służbowych zawiesza się od najbliższego terminu płatności 50% ostatnio należnego uposażenia zasadniczego.",
+      "source": "Art. 124 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-119",
+      "type": "single_choice",
+      "category": "Uposażenie i świadczenia",
+      "difficulty": "hard",
+      "question": "Postępowanie karne przeciwko zawieszonemu policjantowi zostało zakończone uniewinnieniem. Co z zawieszoną częścią uposażenia?",
+      "choices": [
+        "Wypłaca się ją wraz z obowiązkowymi podwyżkami wprowadzonymi w okresie zawieszenia, chyba że przepisy wskazują wyjątek dotyczący warunkowego umorzenia.",
+        "Zawsze przepada bez względu na wynik postępowania.",
+        "Zostaje przekazana do Funduszu Wsparcia Policji.",
+        "Może być wypłacona tylko za zgodą rady powiatu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Po zakończeniu postępowania w sposób wskazany w ustawie policjant otrzymuje zawieszoną część uposażenia oraz obowiązkowe podwyżki wprowadzone w okresie zawieszenia.",
+      "source": "Art. 124 ust. 2"
+    },
+    {
+      "id": "ustawa-o-policji-120",
+      "type": "single_choice",
+      "category": "Uposażenie i świadczenia",
+      "difficulty": "medium",
+      "question": "Policjant porzucił służbę. Co dzieje się z uposażeniem za okres samowolnej nieobecności?",
+      "choices": [
+        "Policjant traci prawo do uposażenia za okres samowolnej nieobecności.",
+        "Uposażenie wypłaca się w pełnej wysokości.",
+        "Uposażenie podwaja się jako rekompensata.",
+        "Decyduje o tym wyłącznie sam policjant."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant traci prawo do uposażenia w przypadku samowolnego opuszczenia miejsca pełnienia służby albo pozostawania poza nim lub niepodejmowania służby.",
+      "source": "Art. 126 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-121",
+      "type": "single_choice",
+      "category": "Uposażenie i świadczenia",
+      "difficulty": "medium",
+      "question": "Policjant otrzymał uposażenie w okolicznościach powodujących jego nienależność. Co wynika z ustawy?",
+      "choices": [
+        "Nienależnie pobrane uposażenie i świadczenia pieniężne podlegają potrąceniu z przyszłego uposażenia.",
+        "Nie podlegają zwrotowi w żadnej sytuacji.",
+        "Zawsze są umarzane z mocy prawa.",
+        "Przechodzą na własność policjanta po 7 dniach."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa przewiduje potrącanie nienależnie pobranego uposażenia i innych świadczeń pieniężnych z przyszłego uposażenia policjanta.",
+      "source": "Art. 127 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-122",
+      "type": "single_choice",
+      "category": "Odpowiedzialność dyscyplinarna",
+      "difficulty": "easy",
+      "question": "Policjant naruszył dyscyplinę służbową. Jaki rodzaj odpowiedzialności przewiduje ustawa?",
+      "choices": [
+        "Odpowiedzialność dyscyplinarną.",
+        "Wyłącznie odpowiedzialność cywilną przed radą gminy.",
+        "Wyłącznie odpowiedzialność polityczną.",
+        "Brak jakiejkolwiek odpowiedzialności, jeżeli nie ma szkody."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant odpowiada dyscyplinarnie za popełnienie przewinienia dyscyplinarnego polegającego na naruszeniu dyscypliny służbowej lub zasad etyki zawodowej.",
+      "source": "Art. 132 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-123",
+      "type": "single_choice",
+      "category": "Odpowiedzialność dyscyplinarna",
+      "difficulty": "medium",
+      "question": "Policjant popełnił czyn stanowiący przestępstwo i jednocześnie naruszający dyscyplinę służbową. Czy odpowiedzialność karna wyklucza dyscyplinarną?",
+      "choices": [
+        "Nie, czyn będący przestępstwem lub wykroczeniem może stanowić przewinienie dyscyplinarne.",
+        "Tak, odpowiedzialność karna zawsze wyłącza dyscyplinarną.",
+        "Tak, ale tylko gdy czyn jest umyślny.",
+        "Ustawa nie przewiduje odpowiedzialności dyscyplinarnej za takie czyny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa wskazuje, że czyn będący przestępstwem, przestępstwem skarbowym, wykroczeniem lub wykroczeniem skarbowym może stanowić przewinienie dyscyplinarne.",
+      "source": "Art. 132 ust. 4"
+    },
+    {
+      "id": "ustawa-o-policji-124",
+      "type": "single_choice",
+      "category": "Odpowiedzialność dyscyplinarna",
+      "difficulty": "medium",
+      "question": "Przełożony stwierdza, że policjant odmówił wykonania rozkazu, mimo że nie zachodziła sytuacja uzasadniająca odmowę. Jak można zakwalifikować takie zachowanie?",
+      "choices": [
+        "Jako naruszenie dyscypliny służbowej.",
+        "Jako działanie zawsze dozwolone.",
+        "Jako wyłącznie sprawę prywatną.",
+        "Jako czyn nieregulowany przez ustawę."
+      ],
+      "correctIndex": 0,
+      "explanation": "Odmowa wykonania albo niewykonanie rozkazu lub polecenia, z wyjątkiem przypadków ustawowo dopuszczonej odmowy, jest przykładem naruszenia dyscypliny służbowej.",
+      "source": "Art. 132 ust. 3 pkt 1"
+    },
+    {
+      "id": "ustawa-o-policji-125",
+      "type": "single_choice",
+      "category": "Odpowiedzialność dyscyplinarna",
+      "difficulty": "medium",
+      "question": "Policjant nie zachował drogi służbowej w sprawie, w której nie było podstaw do jej pominięcia. Jak należy ocenić takie zachowanie?",
+      "choices": [
+        "Może stanowić naruszenie dyscypliny służbowej.",
+        "Jest zawsze prawidłowe.",
+        "Nie podlega ocenie służbowej.",
+        "Może być oceniane wyłącznie przez sąd rodzinny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zaniechanie czynności służbowej albo wykonanie jej w sposób nieprawidłowy, a także inne naruszenia dyscypliny mogą skutkować odpowiedzialnością dyscyplinarną; ustawa wskazuje przykłady naruszeń dyscypliny służbowej.",
+      "source": "Art. 132 ust. 3"
+    },
+    {
+      "id": "ustawa-o-policji-126",
+      "type": "single_choice",
+      "category": "Odpowiedzialność dyscyplinarna",
+      "difficulty": "easy",
+      "question": "Jaka kara dyscyplinarna jest najsurowsza spośród wymienionych w ustawie?",
+      "choices": [
+        "Wydalenie ze służby.",
+        "Nagana.",
+        "Ostrzeżenie o niepełnej przydatności na zajmowanym stanowisku.",
+        "Wyznaczenie na niższe stanowisko służbowe."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wydalenie ze służby jest jedną z kar dyscyplinarnych i ma najdalej idący skutek spośród kar wymienionych w ustawie.",
+      "source": "Art. 134 pkt 7"
+    },
+    {
+      "id": "ustawa-o-policji-127",
+      "type": "single_choice",
+      "category": "Odpowiedzialność dyscyplinarna",
+      "difficulty": "medium",
+      "question": "Policjant został ukarany naganą. Co oznacza ta kara w świetle ustawy?",
+      "choices": [
+        "Wytknięcie ukaranemu niewłaściwego postępowania.",
+        "Automatyczne zwolnienie ze służby.",
+        "Pozbawienie stopnia policyjnego w każdym przypadku.",
+        "Zakaz pełnienia służby przez 12 miesięcy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kara nagany oznacza wytknięcie ukaranemu niewłaściwego postępowania.",
+      "source": "Art. 134a ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-128",
+      "type": "single_choice",
+      "category": "Odpowiedzialność dyscyplinarna",
+      "difficulty": "hard",
+      "question": "Policjant został ukarany wyznaczeniem na niższe stanowisko służbowe. Kiedy można go mianować na równorzędne albo wyższe stanowisko?",
+      "choices": [
+        "Nie wcześniej niż po upływie 6 miesięcy od uprawomocnienia się orzeczenia.",
+        "Natychmiast następnego dnia.",
+        "Dopiero po 5 latach.",
+        "Nie można nigdy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa przewiduje, że po karze wyznaczenia na niższe stanowisko policjanta nie można mianować na równorzędne ani wyższe stanowisko przed upływem 6 miesięcy od uprawomocnienia się orzeczenia.",
+      "source": "Art. 134c ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-129",
+      "type": "single_choice",
+      "category": "Odpowiedzialność dyscyplinarna",
+      "difficulty": "medium",
+      "question": "Policjant został ukarany ostrzeżeniem o niepełnej przydatności do służby na zajmowanym stanowisku. Jaki skutek przewiduje ustawa przy ponownym ukaraniu za podobne przewinienie?",
+      "choices": [
+        "Może zostać wyznaczony na niższe stanowisko służbowe.",
+        "Automatycznie otrzymuje nagrodę roczną.",
+        "Nie ma żadnych skutków.",
+        "Zawsze traci stopień policyjny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ostrzeżenie o niepełnej przydatności na zajmowanym stanowisku oznacza uprzedzenie, że ponowne podobne naruszenie może skutkować wyznaczeniem na niższe stanowisko.",
+      "source": "Art. 134d"
+    },
+    {
+      "id": "ustawa-o-policji-130",
+      "type": "single_choice",
+      "category": "Odpowiedzialność dyscyplinarna",
+      "difficulty": "hard",
+      "question": "Policjant został ukarany ostrzeżeniem o niepełnej przydatności do służby. Jaki skutek może mieć ponowne podobne przewinienie?",
+      "choices": [
+        "Wydalenie ze służby.",
+        "Automatyczne przeniesienie do innego województwa bez postępowania.",
+        "Przyznanie dodatku służbowego.",
+        "Brak jakiegokolwiek skutku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ostrzeżenie o niepełnej przydatności do służby oznacza uprzedzenie, że ponowne podobne przewinienie może skutkować wydaleniem ze służby.",
+      "source": "Art. 134e"
+    },
+    {
+      "id": "ustawa-o-policji-131",
+      "type": "single_choice",
+      "category": "Kontyngenty policyjne",
+      "difficulty": "medium",
+      "question": "Policjanci mają zostać wydzieleni do działań poza granicami państwa w celu udziału w misji pokojowej. W jakiej formie może to nastąpić?",
+      "choices": [
+        "Wydzielenia kontyngentu policyjnego.",
+        "Wyłącznie prywatnej delegacji funkcjonariuszy.",
+        "Uchwały rady powiatu.",
+        "Decyzji komendanta komisariatu bez podstaw ustawowych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjanci mogą zostać wydzieleni do kontyngentu policyjnego w celu udziału m.in. w misji pokojowej.",
+      "source": "Art. 145a ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-132",
+      "type": "single_choice",
+      "category": "Kontyngenty policyjne",
+      "difficulty": "medium",
+      "question": "Kto decyduje o utworzeniu i likwidacji kontyngentu policyjnego w przypadkach wskazanych w ustawie?",
+      "choices": [
+        "Minister właściwy do spraw wewnętrznych.",
+        "Komendant komisariatu Policji.",
+        "Rada gminy.",
+        "Dowolny komendant powiatowy."
+      ],
+      "correctIndex": 0,
+      "explanation": "O utworzeniu i likwidacji kontyngentu policyjnego w określonych przypadkach decyduje minister właściwy do spraw wewnętrznych.",
+      "source": "Art. 145b ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-133",
+      "type": "single_choice",
+      "category": "Kontyngenty policyjne",
+      "difficulty": "medium",
+      "question": "Policjant ma zostać delegowany do pełnienia służby poza granicami państwa w kontyngencie. Kto deleguje policjanta?",
+      "choices": [
+        "Komendant Główny Policji.",
+        "Starosta.",
+        "Przewodniczący rady gminy.",
+        "Kierownik posterunku bez upoważnienia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjanta do pełnienia służby poza granicami państwa w kontyngencie deleguje Komendant Główny Policji.",
+      "source": "Art. 145d ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-134",
+      "type": "single_choice",
+      "category": "Kontyngenty policyjne",
+      "difficulty": "medium",
+      "question": "Policjant delegowany do kontyngentu ma użyć środków przymusu bezpośredniego. Które stanowisko jest prawidłowe?",
+      "choices": [
+        "Może ich użyć w przypadkach, w granicach i na zasadach określonych w przepisach o środkach przymusu bezpośredniego i broni palnej.",
+        "Nie może używać żadnych środków przymusu poza granicami kraju.",
+        "Może użyć dowolnych środków bez podstawy prawnej.",
+        "Może ich użyć wyłącznie po zgodzie osoby, wobec której są stosowane."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjanci w kontyngencie mogą używać środków przymusu bezpośredniego i broni palnej w przypadkach, na zasadach i w granicach określonych w przepisach właściwej ustawy.",
+      "source": "Art. 145e ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-135",
+      "type": "single_choice",
+      "category": "Kontyngenty policyjne",
+      "difficulty": "medium",
+      "question": "Policjant delegowany poza granice państwa wykonuje zadania w kontyngencie. Czy zachowuje uprawnienia i obowiązki policjanta?",
+      "choices": [
+        "Tak, w czasie delegowania zachowuje uprawnienia i obowiązki policjanta.",
+        "Nie, na czas delegowania traci status policjanta.",
+        "Tak, ale tylko w zakresie noszenia munduru.",
+        "Nie, obowiązki wynikają wyłącznie z prawa miejscowego."
+      ],
+      "correctIndex": 0,
+      "explanation": "W czasie delegowania do kontyngentu policjant zachowuje uprawnienia i obowiązki policjanta.",
+      "source": "Art. 145d ust. 2"
+    },
+    {
+      "id": "ustawa-o-policji-136",
+      "type": "single_choice",
+      "category": "Czynności policyjne",
+      "difficulty": "medium",
+      "question": "Policja realizuje czynności na polecenie sądu. Kiedy jest do tego uprawniona?",
+      "choices": [
+        "W zakresie, w jakim obowiązek wykonania czynności został określony w odrębnych ustawach.",
+        "Zawsze w dowolnym zakresie, bez podstawy ustawowej.",
+        "Nigdy, bo Policja nie wykonuje poleceń sądu.",
+        "Tylko jeśli polecenie dotyczy ruchu drogowego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policja wykonuje czynności na polecenie sądu, prokuratora oraz organów administracji w zakresie określonym w odrębnych ustawach.",
+      "source": "Art. 14 ust. 2"
+    },
+    {
+      "id": "ustawa-o-policji-137",
+      "type": "single_choice",
+      "category": "Czynności policyjne",
+      "difficulty": "medium",
+      "question": "Policjant chce skorzystać z danych o osobie uzyskanych przez inną służbę w toku czynności operacyjnych. Czy może to zrobić bez wiedzy i zgody tej osoby?",
+      "choices": [
+        "Tak, jeżeli jest to w celu realizacji ustawowych zadań Policji i na zasadach określonych w ustawie.",
+        "Nie, zawsze wymagana jest zgoda osoby.",
+        "Tak, ale wyłącznie w sprawach wykroczeń drogowych.",
+        "Nie, Policja nie może korzystać z danych innych organów."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policja może korzystać i przetwarzać takie dane bez wiedzy i zgody osoby, której dotyczą, w celu realizacji ustawowych zadań i na zasadach określonych w ustawie.",
+      "source": "Art. 14 ust. 4"
+    },
+    {
+      "id": "ustawa-o-policji-138",
+      "type": "single_choice",
+      "category": "Czynności policyjne",
+      "difficulty": "hard",
+      "question": "Administrator danych ma udostępnić dane osobowe policjantowi. Jakie dokumenty powinien okazać policjant wskazany w upoważnieniu?",
+      "choices": [
+        "Imienne upoważnienie właściwego organu Policji oraz legitymację służbową.",
+        "Wyłącznie prywatny dokument tożsamości.",
+        "Polecenie ustne dowolnego policjanta.",
+        "Zaświadczenie z urzędu gminy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Administrator danych udostępnia dane policjantowi wskazanemu w imiennym upoważnieniu po okazaniu tego upoważnienia i legitymacji służbowej.",
+      "source": "Art. 14 ust. 5"
+    },
+    {
+      "id": "ustawa-o-policji-139",
+      "type": "single_choice",
+      "category": "Czynności policyjne",
+      "difficulty": "medium",
+      "question": "Policja potrzebuje informacji kryminalnej zgromadzonej w Krajowym Centrum Informacji Kryminalnych. Czy ustawa dopuszcza korzystanie z takich informacji?",
+      "choices": [
+        "Tak, w zakresie koniecznym do wykonywania ustawowych zadań.",
+        "Nie, ustawa tego zabrania.",
+        "Tak, ale wyłącznie na potrzeby spraw kadrowych.",
+        "Nie, chyba że zgodę wyrazi osoba, której informacja dotyczy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policja może korzystać z informacji kryminalnej zgromadzonej w Krajowym Centrum Informacji Kryminalnych w zakresie koniecznym do wykonywania ustawowych zadań.",
+      "source": "Art. 14 ust. 5a"
+    },
+    {
+      "id": "ustawa-o-policji-140",
+      "type": "single_choice",
+      "category": "Uprawnienia Policji",
+      "difficulty": "medium",
+      "question": "Policja zabezpiecza zgromadzenie i chce sprawdzić osoby oraz bagaże w celu ochrony przed bezprawnymi zamachami. Jakie uprawnienie może mieć zastosowanie?",
+      "choices": [
+        "Sprawdzenie prewencyjne w ustawowo określonym celu.",
+        "Wyłącznie przeszukanie procesowe każdego uczestnika.",
+        "Brak jakiejkolwiek możliwości sprawdzenia.",
+        "Kontrola podatkowa uczestników."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa przewiduje sprawdzenie prewencyjne w celu ochrony przed bezprawnymi zamachami lub zapobiegania zdarzeniom o charakterze terrorystycznym w związku m.in. z zabezpieczeniem imprez masowych lub zgromadzeń.",
+      "source": "Art. 15 ust. 1 pkt 9"
+    },
+    {
+      "id": "ustawa-o-policji-141",
+      "type": "single_choice",
+      "category": "Uprawnienia Policji",
+      "difficulty": "hard",
+      "question": "Osoba zatrzymana ma nieustaloną tożsamość. Czy można ją okazać, fotografować lub daktyloskopować?",
+      "choices": [
+        "Tak, ale tylko wtedy, gdy jej tożsamości nie można ustalić w inny sposób.",
+        "Tak, zawsze w każdym przypadku zatrzymania.",
+        "Nie, ustawa tego całkowicie zabrania.",
+        "Tak, ale wyłącznie po upływie 48 godzin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Osoba zatrzymana w trybie wskazanym w ustawie może być okazywana, fotografowana lub daktyloskopowana tylko wtedy, gdy jej tożsamości nie można ustalić w inny sposób.",
+      "source": "Art. 15 ust. 4"
+    },
+    {
+      "id": "ustawa-o-policji-142",
+      "type": "single_choice",
+      "category": "Uprawnienia Policji",
+      "difficulty": "medium",
+      "question": "Osoba zatrzymana wymaga pilnej pomocy medycznej. Co powinno nastąpić?",
+      "choices": [
+        "Należy ją niezwłocznie poddać badaniu lekarskiemu lub udzielić pierwszej pomocy medycznej, jeżeli zachodzi uzasadniona potrzeba.",
+        "Pomoc medyczna przysługuje dopiero po zakończeniu wszystkich czynności.",
+        "Policjant nie może inicjować pomocy medycznej.",
+        "Osoba zatrzymana traci prawo do pomocy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Osobę zatrzymaną należy niezwłocznie poddać badaniu lekarskiemu lub udzielić pierwszej pomocy medycznej w razie uzasadnionej potrzeby.",
+      "source": "Art. 15 ust. 5"
+    },
+    {
+      "id": "ustawa-o-policji-143",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "medium",
+      "question": "Policjant uzyskał dwie kolejne opinie służbowe stwierdzające nieprzydatność na zajmowanym stanowisku w czasie służby przygotowawczej. Jaką decyzję kadrową przewiduje ustawa jako możliwą?",
+      "choices": [
+        "Można przenieść go na niższe stanowisko służbowe.",
+        "Trzeba zawsze awansować go na wyższe stanowisko.",
+        "Nie można podjąć żadnej decyzji kadrowej.",
+        "Można wyłącznie zmienić mu miejsce zamieszkania."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa przewiduje możliwość przeniesienia policjanta na niższe stanowisko służbowe w razie nieprzydatności na zajmowanym stanowisku stwierdzonej w dwóch kolejnych opiniach w okresie służby przygotowawczej.",
+      "source": "Art. 38 ust. 2 pkt 1"
+    },
+    {
+      "id": "ustawa-o-policji-144",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "medium",
+      "question": "Policjant został skierowany do komisji lekarskiej z powodu podejrzenia trwałej niezdolności do służby. Kto może skierować go do komisji?",
+      "choices": [
+        "Przełożony właściwy w sprawach osobowych z urzędu lub na wniosek policjanta.",
+        "Wyłącznie rada gminy.",
+        "Dowolna osoba kontrolowana.",
+        "Tylko prokurator."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjanta można skierować do komisji lekarskiej z urzędu lub na jego wniosek przez przełożonego właściwego w sprawach osobowych.",
+      "source": "Art. 40 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-145",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "hard",
+      "question": "Policjant jest w trakcie choroby i nie minęło 12 miesięcy od zaprzestania służby z powodu choroby. Czy można go zwolnić ze względu na upływ okresu pozostawania w dyspozycji przełożonego?",
+      "choices": [
+        "Co do zasady nie wcześniej niż po upływie 12 miesięcy od zaprzestania służby z powodu choroby.",
+        "Tak, zawsze natychmiast po pierwszym dniu choroby.",
+        "Tak, bez żadnych ograniczeń.",
+        "Nie można go zwolnić nigdy."
+      ],
+      "correctIndex": 0,
+      "explanation": "W określonych przypadkach zwolnienie policjanta ze służby nie może nastąpić przed upływem 12 miesięcy od dnia zaprzestania służby z powodu choroby.",
+      "source": "Art. 43 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-146",
+      "type": "single_choice",
+      "category": "Służba w Policji",
+      "difficulty": "hard",
+      "question": "Policjantka w ciąży zostaje objęta przesłanką zwolnienia związaną z reorganizacją jednostki, ale nie zachodzą szczególne wyjątki. Jaką ochronę przewiduje ustawa?",
+      "choices": [
+        "Nie można jej zwolnić ze służby na tej podstawie w okresie ciąży oraz w czasie określonych urlopów związanych z rodzicielstwem.",
+        "Można ją zwolnić zawsze bez ograniczeń.",
+        "Można ją zwolnić wyłącznie ustnie.",
+        "Ochrona dotyczy tylko policjantów w służbie kandydackiej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa przewiduje ochronę przed zwolnieniem w okresie ciąży oraz podczas określonych urlopów związanych z rodzicielstwem, z wyjątkami wskazanymi w przepisie.",
+      "source": "Art. 44 ust. 1"
+    },
+    {
+      "id": "ustawa-o-policji-147",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "medium",
+      "question": "Komendant Główny Policji chce powołać inny rodzaj służby niż wymienione w ustawie. Który warunek musi być spełniony?",
+      "choices": [
+        "Musi uzyskać zgodę ministra właściwego do spraw wewnętrznych i działać w uzasadnionych przypadkach.",
+        "Wystarczy decyzja dowolnego komendanta powiatowego.",
+        "Nie może tego zrobić w żadnej sytuacji.",
+        "Wymagana jest uchwała rady gminy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Komendant Główny Policji, za zgodą ministra właściwego do spraw wewnętrznych, może w uzasadnionych przypadkach powoływać inne rodzaje służb, określając ich właściwość, organizację i zakres działania.",
+      "source": "Art. 4 ust. 4"
+    },
+    {
+      "id": "ustawa-o-policji-148",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "medium",
+      "question": "Trzeba określić szczegółowe zasady organizacji i zakres działania komend oraz komisariatów. Kto ma taką kompetencję?",
+      "choices": [
+        "Komendant Główny Policji.",
+        "Rada powiatu.",
+        "Prezydent miasta.",
+        "Komendant komisariatu samodzielnie dla całej Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Komendant Główny Policji określa szczegółowe zasady organizacji i zakres działania komend, komisariatów i innych jednostek organizacyjnych Policji.",
+      "source": "Art. 7 ust. 1 pkt 1"
+    },
+    {
+      "id": "ustawa-o-policji-149",
+      "type": "single_choice",
+      "category": "Organizacja Policji",
+      "difficulty": "medium",
+      "question": "Trzeba utworzyć komisariat wodny. Który organ tworzy taki komisariat w razie potrzeby?",
+      "choices": [
+        "Komendant wojewódzki Policji w porozumieniu z Komendantem Głównym Policji.",
+        "Rada gminy samodzielnie.",
+        "Komendant powiatowy bez porozumienia.",
+        "Minister finansów publicznych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Komendant wojewódzki Policji w porozumieniu z Komendantem Głównym Policji tworzy w razie potrzeby komisariat kolejowy, wodny, lotniczy lub inny komisariat specjalistyczny.",
+      "source": "Art. 8 ust. 1"
+    }
+  ]
+}

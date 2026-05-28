@@ -1,0 +1,2135 @@
+{
+  "title": "Ustawa z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej",
+  "description": "Baza pytań praktycznych opracowana wyłącznie na podstawie przesłanego aktu prawnego.",
+  "question_count": 133,
+  "questions": [
+    {
+      "id": "spb-bp-001",
+      "type": "single_choice",
+      "category": "Zakres ustawy",
+      "difficulty": "easy",
+      "question": "Policjant przygotowuje szkolenie z zasad stosowania przymusu. Który zakres powinien ująć jako objęty tą ustawą?",
+      "choices": [
+        "Rodzaje środków przymusu, przypadki ich użycia, zasady postępowania przed i po użyciu oraz dokumentowanie.",
+        "Wyłącznie zasady odpowiedzialności dyscyplinarnej po użyciu broni palnej.",
+        "Tylko katalog przestępstw, przy których dopuszczalne jest użycie broni.",
+        "Wyłącznie zasady szkolenia policjantów z technik interwencji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa określa m.in. środki przymusu, przypadki i zasady ich używania lub wykorzystywania, postępowanie przed i po użyciu oraz dokumentowanie.",
+      "source": "Art. 1 pkt 1-5"
+    },
+    {
+      "id": "spb-bp-002",
+      "type": "single_choice",
+      "category": "Uprawnieni",
+      "difficulty": "easy",
+      "question": "Funkcjonariusz Policji zastanawia się, czy w ogóle należy do kręgu osób uprawnionych do używania środków przymusu bezpośredniego i broni palnej na podstawie tej ustawy. Która odpowiedź jest prawidłowa?",
+      "choices": [
+        "Tak, funkcjonariusze Policji są wskazani jako uprawnieni.",
+        "Nie, ustawa dotyczy wyłącznie Straży Granicznej i Żandarmerii Wojskowej.",
+        "Tak, ale tylko w ramach pododdziału zwartego.",
+        "Nie, policjanci korzystają wyłącznie z odrębnych przepisów służbowych."
+      ],
+      "correctIndex": 0,
+      "explanation": "W katalogu uprawnionych wymieniono funkcjonariuszy Policji.",
+      "source": "Art. 2 ust. 1 pkt 9"
+    },
+    {
+      "id": "spb-bp-003",
+      "type": "single_choice",
+      "category": "Uprawnieni",
+      "difficulty": "medium",
+      "question": "Pracownik ochrony pyta, czy na podstawie tej ustawy może być uprawniony do użycia lub wykorzystania środków przymusu albo broni palnej. Która odpowiedź jest zgodna z ustawą?",
+      "choices": [
+        "Może być uprawniony, jeżeli ma takie uprawnienie na podstawie przepisów o ochronie osób i mienia.",
+        "Nigdy, bo pracownicy ochrony nie są objęci ustawą.",
+        "Może używać wyłącznie broni palnej, ale nie środków przymusu.",
+        "Może działać tylko na polecenie prokuratora."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa obejmuje pracowników ochrony uprawnionych do użycia lub wykorzystania środków przymusu bezpośredniego lub broni palnej na podstawie przepisów o ochronie osób i mienia.",
+      "source": "Art. 2 ust. 1 pkt 20"
+    },
+    {
+      "id": "spb-bp-004",
+      "type": "single_choice",
+      "category": "Zakres ustawy",
+      "difficulty": "medium",
+      "question": "Podczas działań wobec statku morskiego funkcjonariusz Straży Granicznej sprawdza, czy stosuje tę ustawę. Które rozstrzygnięcie jest prawidłowe?",
+      "choices": [
+        "W zakresie działań wobec statków morskich i powietrznych ustawy nie stosuje się, jeżeli chodzi o przypadki wskazane w przepisach dotyczących Straży Granicznej i ochrony granicy państwowej.",
+        "Ustawę stosuje się zawsze, niezależnie od charakteru działań wobec statku.",
+        "Ustawę stosuje się tylko wtedy, gdy użyta ma być broń palna.",
+        "Ustawę stosuje się wyłącznie do czynności wykonywanych na lądzie przez Policję."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa przewiduje wyłączenie jej stosowania w zakresie działań podejmowanych wobec statków morskich i powietrznych na podstawie wskazanych ustaw dotyczących Straży Granicznej i ochrony granicy państwowej.",
+      "source": "Art. 3 pkt 3"
+    },
+    {
+      "id": "spb-bp-005",
+      "type": "single_choice",
+      "category": "Definicje",
+      "difficulty": "easy",
+      "question": "Policjant oddaje strzał w kierunku osoby z użyciem amunicji penetracyjnej. Jak należy zakwalifikować tę czynność w rozumieniu ustawy?",
+      "choices": [
+        "Jako użycie broni palnej.",
+        "Jako wykorzystanie broni palnej.",
+        "Jako użycie środka przymusu bezpośredniego.",
+        "Jako wykorzystanie środka przymusu bezpośredniego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Użycie broni palnej oznacza oddanie strzału w kierunku osoby z zastosowaniem amunicji penetracyjnej.",
+      "source": "Art. 4 pkt 7"
+    },
+    {
+      "id": "spb-bp-006",
+      "type": "single_choice",
+      "category": "Definicje",
+      "difficulty": "easy",
+      "question": "Funkcjonariusz oddaje strzał w kierunku agresywnego zwierzęcia, które bezpośrednio zagraża ludziom. Jak ustawa kwalifikuje takie działanie?",
+      "choices": [
+        "Jako wykorzystanie broni palnej.",
+        "Jako użycie broni palnej.",
+        "Jako użycie siły fizycznej.",
+        "Jako działanie poza zakresem ustawy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wykorzystanie broni palnej obejmuje oddanie strzału z amunicji penetracyjnej w kierunku zwierzęcia, przedmiotu lub w innym kierunku niestwarzającym zagrożenia dla osoby.",
+      "source": "Art. 4 pkt 10"
+    },
+    {
+      "id": "spb-bp-007",
+      "type": "single_choice",
+      "category": "Definicje",
+      "difficulty": "easy",
+      "question": "Uprawniony stosuje środek wobec osoby, aby pozbawić ją swobody ruchów i przełamać jej opór. Które określenie najlepiej odpowiada temu celowi?",
+      "choices": [
+        "Obezwładnienie.",
+        "Konwój.",
+        "Doprowadzenie.",
+        "Wykorzystanie broni palnej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Obezwładnienie oznacza pozbawienie swobody ruchów lub krótkotrwałą odwracalną dysfunkcję kończyn lub zmysłów w celu wyeliminowania zagrożenia albo przełamania oporu.",
+      "source": "Art. 4 pkt 4"
+    },
+    {
+      "id": "spb-bp-008",
+      "type": "single_choice",
+      "category": "Definicje",
+      "difficulty": "medium",
+      "question": "Policjanci przemieszczają osobę pobraną z aresztu śledczego i wykonują zespół czynności związanych z tym przemieszczaniem. Jak ustawa określa taką sytuację?",
+      "choices": [
+        "Konwój.",
+        "Ujęcie.",
+        "Doprowadzenie techniczne.",
+        "Kontrola osobista."
+      ],
+      "correctIndex": 0,
+      "explanation": "Konwój obejmuje przemieszczanie osób pobranych m.in. z aresztu śledczego oraz zespół czynności realizowanych w związku z tym przemieszczaniem.",
+      "source": "Art. 4 pkt 3 lit. a"
+    },
+    {
+      "id": "spb-bp-009",
+      "type": "single_choice",
+      "category": "Definicje",
+      "difficulty": "medium",
+      "question": "Funkcjonariusz stosuje środek wobec zwierzęcia albo w celu unieruchomienia pojazdu. Jak należy nazwać takie działanie w rozumieniu ustawy?",
+      "choices": [
+        "Wykorzystanie środka przymusu bezpośredniego.",
+        "Użycie środka przymusu bezpośredniego.",
+        "Użycie broni palnej.",
+        "Doprowadzenie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wykorzystanie środka przymusu bezpośredniego oznacza zastosowanie go wobec zwierzęcia, pojazdu, przeszkody albo bezzałogowego statku powietrznego w określonych celach.",
+      "source": "Art. 4 pkt 9"
+    },
+    {
+      "id": "spb-bp-010",
+      "type": "single_choice",
+      "category": "Zakres działania",
+      "difficulty": "easy",
+      "question": "Uprawniony chce użyć środka przymusu w sytuacji prywatnej, niezwiązanej z realizacją zadań podmiotu, w którym pełni służbę. Która decyzja jest prawidłowa?",
+      "choices": [
+        "Nie może użyć środka na podstawie tej ustawy, bo działanie musi mieścić się w realizacji zadań ustawowych podmiotu.",
+        "Może użyć środka zawsze, jeżeli jest funkcjonariuszem.",
+        "Może użyć środka, jeżeli po zdarzeniu sporządzi notatkę.",
+        "Może użyć wyłącznie kajdanek, ale nie innych środków."
+      ],
+      "correctIndex": 0,
+      "explanation": "Środka przymusu bezpośredniego lub broni palnej można użyć albo wykorzystać wyłącznie w zakresie realizacji ustawowych zadań podmiotu, w którym uprawniony pełni służbę albo jest zatrudniony.",
+      "source": "Art. 5"
+    },
+    {
+      "id": "spb-bp-011",
+      "type": "single_choice",
+      "category": "Zasady użycia",
+      "difficulty": "easy",
+      "question": "Podczas interwencji możliwe są dwa skuteczne środki: mniej dolegliwy i bardziej dolegliwy. Który wybór odpowiada zasadom ustawy?",
+      "choices": [
+        "Należy wybrać środek możliwie najmniej dolegliwy, wystarczający do osiągnięcia celu i proporcjonalny do zagrożenia.",
+        "Należy zawsze wybrać środek najbardziej skuteczny, niezależnie od dolegliwości.",
+        "Należy najpierw zastosować broń palną, jeżeli osoba stawia opór.",
+        "Należy użyć co najmniej dwóch środków, aby zapewnić skuteczność."
+      ],
+      "correctIndex": 0,
+      "explanation": "Środki przymusu używa się lub wykorzystuje w sposób niezbędny, proporcjonalny do stopnia zagrożenia i z wyborem środka o możliwie najmniejszej dolegliwości.",
+      "source": "Art. 6 ust. 1"
+    },
+    {
+      "id": "spb-bp-012",
+      "type": "single_choice",
+      "category": "Broń palna",
+      "difficulty": "easy",
+      "question": "Funkcjonariusz rozważa użycie broni palnej, chociaż środek przymusu bezpośredniego nadal może skutecznie zakończyć sytuację. Które postępowanie jest prawidłowe?",
+      "choices": [
+        "Nie powinien używać broni, bo broń palną stosuje się dopiero, gdy środki przymusu są niewystarczające albo niemożliwe do użycia ze względu na okoliczności.",
+        "Może użyć broni, jeżeli uzna ją za wygodniejszą.",
+        "Musi użyć broni, jeżeli osoba nie wykonuje poleceń.",
+        "Może użyć broni zamiast każdego środka przymusu bez dodatkowych warunków."
+      ],
+      "correctIndex": 0,
+      "explanation": "Broń palną używa się lub wykorzystuje wyłącznie wtedy, gdy użycie lub wykorzystanie środków przymusu okazało się niewystarczające albo jest niemożliwe ze względu na okoliczności.",
+      "source": "Art. 6 ust. 2"
+    },
+    {
+      "id": "spb-bp-013",
+      "type": "single_choice",
+      "category": "Zasady użycia",
+      "difficulty": "easy",
+      "question": "Cel użycia środka przymusu został osiągnięty. Co powinien zrobić uprawniony?",
+      "choices": [
+        "Odstąpić od dalszego użycia lub wykorzystania środka.",
+        "Kontynuować środek jeszcze przez standardowy czas zabezpieczenia.",
+        "Zastosować dodatkowy środek dla utrwalenia skutku.",
+        "Czekać na zgodę przełożonego na zakończenie użycia każdego środka."
+      ],
+      "correctIndex": 0,
+      "explanation": "Od użycia lub wykorzystania środków przymusu bezpośredniego albo broni palnej należy odstąpić, gdy cel został osiągnięty.",
+      "source": "Art. 7 ust. 2"
+    },
+    {
+      "id": "spb-bp-014",
+      "type": "single_choice",
+      "category": "Zasady użycia",
+      "difficulty": "easy",
+      "question": "Funkcjonariusz wybiera sposób działania po podjęciu decyzji o użyciu środka. Jaki standard szkody powinien przyjąć?",
+      "choices": [
+        "Działać w sposób wyrządzający możliwie najmniejszą szkodę.",
+        "Działać tak, aby środek był jak najbardziej odstraszający.",
+        "Działać tak, aby szkoda była wystarczająco widoczna dla innych osób.",
+        "Działać bez oceny szkody, jeżeli zachowanie osoby jest bezprawne."
+      ],
+      "correctIndex": 0,
+      "explanation": "Środków przymusu bezpośredniego lub broni palnej używa się albo wykorzystuje w sposób wyrządzający możliwie najmniejszą szkodę.",
+      "source": "Art. 7 ust. 1"
+    },
+    {
+      "id": "spb-bp-015",
+      "type": "single_choice",
+      "category": "Broń palna",
+      "difficulty": "medium",
+      "question": "Policjant rozważa broń palną przy dynamicznym zdarzeniu. Jak powinien traktować taką decyzję?",
+      "choices": [
+        "Ze szczególną rozwagą i jako środek ostateczny.",
+        "Jako standardowy środek pierwszego wyboru przy każdym oporze czynnym.",
+        "Jako środek równorzędny wobec każdego innego środka przymusu.",
+        "Jako działanie niewymagające oceny proporcjonalności."
+      ],
+      "correctIndex": 0,
+      "explanation": "Podejmując decyzję o użyciu lub wykorzystaniu broni palnej, należy postępować ze szczególną rozwagą i traktować jej użycie jako środek ostateczny.",
+      "source": "Art. 7 ust. 4"
+    },
+    {
+      "id": "spb-bp-016",
+      "type": "single_choice",
+      "category": "Zasady użycia",
+      "difficulty": "medium",
+      "question": "Sytuacja uzasadnia równoczesne zastosowanie dwóch różnych środków przymusu. Czy ustawa dopuszcza takie rozwiązanie?",
+      "choices": [
+        "Tak, jeżeli uzasadniają to okoliczności zdarzenia i zachowane są zasady ustawy.",
+        "Nie, zawsze wolno użyć tylko jednego środka.",
+        "Tak, ale wyłącznie po pisemnej zgodzie prokuratora.",
+        "Tak, ale tylko w pododdziale zwartym."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli uzasadniają to okoliczności zdarzenia, uprawniony może jednocześnie użyć lub wykorzystać więcej niż jeden środek przymusu bezpośredniego.",
+      "source": "Art. 8"
+    },
+    {
+      "id": "spb-bp-017",
+      "type": "single_choice",
+      "category": "Osoby szczególnej ochrony",
+      "difficulty": "easy",
+      "question": "Policjant podejmuje interwencję wobec kobiety o widocznej ciąży, która nie stosuje się do poleceń, ale nie atakuje nikogo bezpośrednio. Który środek może zastosować co do zasady?",
+      "choices": [
+        "Wyłącznie siłę fizyczną w postaci technik obezwładnienia.",
+        "Pałkę służbową, jeżeli osoba odmawia wykonania polecenia.",
+        "Przedmiot obezwładniający energią elektryczną, jeżeli interwencja jest utrudniona.",
+        "Broń palną jako środek ostrzegawczy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wobec kobiet o widocznej ciąży co do zasady można użyć wyłącznie siły fizycznej w postaci technik obezwładnienia.",
+      "source": "Art. 9 ust. 1"
+    },
+    {
+      "id": "spb-bp-018",
+      "type": "single_choice",
+      "category": "Osoby szczególnej ochrony",
+      "difficulty": "easy",
+      "question": "Uprawniony podejmuje czynności wobec osoby, której wygląd wskazuje na wiek do 13 lat. Nie ma bezpośredniego zamachu na życie ani zdrowie. Jakie ograniczenie obowiązuje?",
+      "choices": [
+        "Można użyć wyłącznie siły fizycznej w postaci technik obezwładnienia.",
+        "Można użyć dowolnego środka, jeżeli osoba nie wykonuje poleceń.",
+        "Nie można użyć żadnego środka, nawet technik obezwładnienia.",
+        "Można użyć wyłącznie chemicznych środków obezwładniających."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wobec osób, których wygląd wskazuje na wiek do 13 lat, co do zasady dopuszczalna jest wyłącznie siła fizyczna w postaci technik obezwładnienia.",
+      "source": "Art. 9 ust. 1"
+    },
+    {
+      "id": "spb-bp-019",
+      "type": "single_choice",
+      "category": "Osoby szczególnej ochrony",
+      "difficulty": "medium",
+      "question": "Osoba o widocznej niepełnosprawności dokonuje bezpośredniego bezprawnego zamachu na życie innej osoby, a sama siła fizyczna jest niewystarczająca. Która decyzja jest zgodna z ustawą?",
+      "choices": [
+        "Można użyć innych środków przymusu albo broni palnej, jeżeli jest to konieczne do odparcia zamachu.",
+        "Nadal wolno użyć wyłącznie technik obezwładnienia, niezależnie od zagrożenia.",
+        "Należy odstąpić od interwencji do czasu przyjazdu przełożonego.",
+        "Można użyć tylko kajdanek zakładanych na ręce z przodu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wyjątek pozwala użyć innych środków przymusu lub broni palnej, gdy trzeba odeprzeć bezpośredni bezprawny zamach na życie lub zdrowie, a siła fizyczna jest niewystarczająca albo niemożliwa.",
+      "source": "Art. 9 ust. 2"
+    },
+    {
+      "id": "spb-bp-020",
+      "type": "single_choice",
+      "category": "Pomoc dla uprawnionego",
+      "difficulty": "medium",
+      "question": "Po użyciu broni palnej doszło do zranienia osoby. Jakie dodatkowe działanie wobec uprawnionego musi zapewnić przełożony lub dyżurny, niezależnie od innych obowiązków?",
+      "choices": [
+        "Niezbędną pomoc, w szczególności psychologiczną lub prawną.",
+        "Wyłącznie urlop wypoczynkowy.",
+        "Natychmiastowe odsunięcie od służby bez oceny zdarzenia.",
+        "Obowiązkową zmianę jednostki organizacyjnej."
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie śmierci osoby albo zranienia osoby w wyniku użycia lub wykorzystania broni palnej przełożony lub dyżurny zapewnia uprawnionemu niezbędną pomoc, zwłaszcza psychologiczną lub prawną.",
+      "source": "Art. 10 ust. 1"
+    },
+    {
+      "id": "spb-bp-021",
+      "type": "single_choice",
+      "category": "Granica państwowa",
+      "difficulty": "hard",
+      "question": "Funkcjonariusz Policji przy bezpośrednim i bezprawnym zamachu na nienaruszalność granicy działa natychmiast, odpierając zamach na życie innej osoby, lecz narusza zasady użycia środka. Która ocena może wynikać z ustawy?",
+      "choices": [
+        "W warunkach określonych w ustawie nie popełnia przestępstwa.",
+        "Zawsze popełnia przestępstwo, bo każde naruszenie zasad jest karalne.",
+        "Nie ponosi odpowiedzialności tylko wtedy, gdy użył wyłącznie siły fizycznej.",
+        "Odpowiedzialność wyłączona jest wyłącznie wobec żołnierzy, a nie policjantów."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa przewiduje wyłączenie przestępności dla funkcjonariusza Policji, Straży Granicznej lub żołnierza Żandarmerii Wojskowej w ściśle określonych sytuacjach bezpośredniego i bezprawnego zamachu na nienaruszalność granicy, gdy okoliczności wymagają natychmiastowego działania.",
+      "source": "Art. 10a ust. 1"
+    },
+    {
+      "id": "spb-bp-022",
+      "type": "single_choice",
+      "category": "Przypadki użycia środków",
+      "difficulty": "easy",
+      "question": "Osoba odmawia wykonania zgodnego z prawem polecenia, a uprawniony musi wyegzekwować wymagane zachowanie. Czy może rozważyć środek przymusu bezpośredniego?",
+      "choices": [
+        "Tak, jest to jeden z przypadków dopuszczających użycie lub wykorzystanie środka.",
+        "Nie, środki przymusu wolno stosować tylko przy zamachu na życie.",
+        "Tak, ale wyłącznie wobec osoby zatrzymanej.",
+        "Nie, w takiej sytuacji dopuszczalna jest tylko kara porządkowa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jednym z przypadków jest konieczność wyegzekwowania wymaganego prawem zachowania zgodnie z poleceniem uprawnionego.",
+      "source": "Art. 11 pkt 1"
+    },
+    {
+      "id": "spb-bp-023",
+      "type": "single_choice",
+      "category": "Przypadki użycia środków",
+      "difficulty": "easy",
+      "question": "Osoba podejmuje bezpośredni bezprawny zamach na zdrowie policjanta. Które działanie może uzasadniać użycie środka przymusu?",
+      "choices": [
+        "Odparcie tego zamachu.",
+        "Ukaranie osoby za wcześniejsze zachowanie.",
+        "Zademonstrowanie przewagi funkcjonariuszy.",
+        "Zabezpieczenie notatki służbowej przed zniszczeniem."
+      ],
+      "correctIndex": 0,
+      "explanation": "Środków przymusu można użyć lub wykorzystać w celu odparcia bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność uprawnionego albo innej osoby.",
+      "source": "Art. 11 pkt 2"
+    },
+    {
+      "id": "spb-bp-024",
+      "type": "single_choice",
+      "category": "Przypadki użycia środków",
+      "difficulty": "medium",
+      "question": "Podczas konwoju osoba zaczyna przygotowywać się do ucieczki. Który cel może uzasadnić użycie środka przymusu?",
+      "choices": [
+        "Zapewnienie bezpieczeństwa konwoju albo udaremnienie ucieczki.",
+        "Skrócenie czasu czynności administracyjnej.",
+        "Zastąpienie obowiązku nadzoru nad konwojem.",
+        "Ukaranie konwojowanego za brak współpracy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa dopuszcza użycie środków m.in. dla zapewnienia bezpieczeństwa konwoju lub doprowadzenia oraz ujęcia, zatrzymania, udaremnienia ucieczki lub pościgu.",
+      "source": "Art. 11 pkt 9-11"
+    },
+    {
+      "id": "spb-bp-025",
+      "type": "single_choice",
+      "category": "Przypadki użycia środków",
+      "difficulty": "medium",
+      "question": "Osoba nie atakuje funkcjonariusza, ale podejmuje czynności zmierzające bezpośrednio do autoagresji. Który cel jest przewidziany w ustawie?",
+      "choices": [
+        "Przeciwdziałanie czynnościom zmierzającym do autoagresji.",
+        "Wyłącznie zabezpieczenie mienia.",
+        "Ukaranie osoby za zachowanie nieobyczajne.",
+        "Prowadzenie czynności dowodowych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jednym z przypadków użycia środków jest przeciwdziałanie czynnościom zmierzającym do autoagresji.",
+      "source": "Art. 11 pkt 14"
+    },
+    {
+      "id": "spb-bp-026",
+      "type": "single_choice",
+      "category": "Bezzałogowe statki powietrzne",
+      "difficulty": "medium",
+      "question": "Występuje przypadek wymagający zniszczenia albo unieruchomienia bezzałogowego statku powietrznego lub przejęcia kontroli nad jego lotem. Czy ustawa przewiduje taki cel użycia środków?",
+      "choices": [
+        "Tak, w przypadkach wskazanych w przepisach lotniczych ustawa przewiduje taki cel.",
+        "Nie, ustawa dotyczy tylko osób.",
+        "Tak, ale wyłącznie przy użyciu kajdanek.",
+        "Nie, bezzałogowe statki powietrzne są zawsze poza zakresem ustawy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa przewiduje użycie lub wykorzystanie środków w celu zniszczenia albo unieruchomienia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem w wskazanych przypadkach.",
+      "source": "Art. 11 pkt 15"
+    },
+    {
+      "id": "spb-bp-027",
+      "type": "single_choice",
+      "category": "Rodzaje środków",
+      "difficulty": "easy",
+      "question": "Policjant wskazuje katalog środków przymusu bezpośredniego. Który element należy do tego katalogu?",
+      "choices": [
+        "Kajdanki zakładane na ręce.",
+        "Pisemne pouczenie procesowe.",
+        "Mandat karny kredytowany.",
+        "Notatnik służbowy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kajdanki zakładane na ręce są jednym ze środków przymusu bezpośredniego wymienionych w ustawie.",
+      "source": "Art. 12 ust. 1 pkt 2 lit. a"
+    },
+    {
+      "id": "spb-bp-028",
+      "type": "single_choice",
+      "category": "Rodzaje środków",
+      "difficulty": "easy",
+      "question": "Który z wymienionych środków jest środkiem przymusu bezpośredniego według ustawy?",
+      "choices": [
+        "Pies służbowy.",
+        "Rozmowa ostrzegawcza.",
+        "Wezwanie na przesłuchanie.",
+        "Protokół zatrzymania."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pies służbowy znajduje się w katalogu środków przymusu bezpośredniego.",
+      "source": "Art. 12 ust. 1 pkt 9"
+    },
+    {
+      "id": "spb-bp-029",
+      "type": "single_choice",
+      "category": "Rodzaje środków",
+      "difficulty": "medium",
+      "question": "Zwierzę bezpośrednio zagraża życiu przechodnia. Który zestaw środków z katalogu może być wykorzystany także wobec zwierzęcia?",
+      "choices": [
+        "Między innymi siła fizyczna w określonych technikach, pałka, chemiczne środki obezwładniające i przedmioty obezwładniające energią elektryczną.",
+        "Wyłącznie kajdanki zakładane na nogi.",
+        "Wyłącznie cela zabezpieczająca i pokój izolacyjny.",
+        "Wyłącznie środki pirotechniczne o właściwościach ogłuszających."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa wskazuje, które środki można wykorzystać także wobec zwierzęcia bezpośrednio zagrażającego życiu lub zdrowiu, obejmując m.in. określone techniki siły fizycznej, pałkę, pociski niepenetracyjne, środki chemiczne i elektryczne.",
+      "source": "Art. 12 ust. 2"
+    },
+    {
+      "id": "spb-bp-030",
+      "type": "single_choice",
+      "category": "Prewencyjne użycie środków",
+      "difficulty": "easy",
+      "question": "Osoba zatrzymana ma zostać doprowadzona do właściwego organu. Funkcjonariusz chce zapobiec jej ucieczce. Czy prewencyjne użycie wybranych środków może być dopuszczalne?",
+      "choices": [
+        "Tak, m.in. w celu zapobieżenia ucieczce osoby zatrzymanej, doprowadzanej lub konwojowanej.",
+        "Nie, prewencyjne użycie środków nigdy nie jest dopuszczalne.",
+        "Tak, ale wyłącznie po ucieczce osoby.",
+        "Nie, prewencyjnie można użyć tylko broni palnej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wybrane środki, takie jak techniki transportowe, kajdanki, kaftan, pas i kask zabezpieczający, można użyć prewencyjnie m.in. w celu zapobieżenia ucieczce osoby ujętej, doprowadzanej, zatrzymanej, konwojowanej lub pozbawionej wolności.",
+      "source": "Art. 13 ust. 1"
+    },
+    {
+      "id": "spb-bp-031",
+      "type": "single_choice",
+      "category": "Prewencyjne użycie środków",
+      "difficulty": "medium",
+      "question": "Członek służby porządkowej na imprezie masowej chce prewencyjnie użyć środka przymusu. Która ocena jest prawidłowa?",
+      "choices": [
+        "Nie może użyć środków prewencyjnie, bo ustawa wyłącza taką możliwość dla tej grupy uprawnionych.",
+        "Może zawsze użyć prewencyjnie każdego środka.",
+        "Może użyć prewencyjnie tylko broni palnej.",
+        "Może działać prewencyjnie wyłącznie w obecności prokuratora."
+      ],
+      "correctIndex": 0,
+      "explanation": "Prewencyjnie środków nie mogą użyć m.in. członkowie służby porządkowej wskazani w ustawie o bezpieczeństwie imprez masowych.",
+      "source": "Art. 13 ust. 2 w zw. z art. 2 ust. 2 pkt 1"
+    },
+    {
+      "id": "spb-bp-032",
+      "type": "single_choice",
+      "category": "Siła fizyczna",
+      "difficulty": "easy",
+      "question": "Policjant używa siły fizycznej wobec osoby, która stawia opór, ale nie zachodzi zamach na życie, zdrowie, mienie ani przeciwdziałanie ucieczce. Czy może zadawać uderzenia?",
+      "choices": [
+        "Nie, uderzenia są wyłączone poza wskazanymi wyjątkami.",
+        "Tak, każde użycie siły fizycznej pozwala na uderzenia.",
+        "Tak, jeżeli osoba wcześniej odmówiła podania danych.",
+        "Tak, ale tylko po sporządzeniu notatki."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy użyciu siły fizycznej nie zadaje się uderzeń, chyba że chodzi o odparcie zamachu na życie, zdrowie lub mienie albo przeciwdziałanie ucieczce.",
+      "source": "Art. 14 ust. 2"
+    },
+    {
+      "id": "spb-bp-033",
+      "type": "single_choice",
+      "category": "Kajdanki",
+      "difficulty": "easy",
+      "question": "Policjant zakłada kajdanki osobie zatrzymanej w typowej sytuacji. Jak co do zasady powinny być założone?",
+      "choices": [
+        "Na ręce trzymane z tyłu.",
+        "Na ręce trzymane z przodu w każdym przypadku.",
+        "Wyłącznie na nogi.",
+        "Na jedną rękę i element stały otoczenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kajdanki co do zasady zakłada się na ręce trzymane z tyłu.",
+      "source": "Art. 15 ust. 4"
+    },
+    {
+      "id": "spb-bp-034",
+      "type": "single_choice",
+      "category": "Kajdanki",
+      "difficulty": "medium",
+      "question": "Prawdopodobieństwo ucieczki, czynnego oporu lub zagrożenia jest nieznaczne. Jak można założyć kajdanki?",
+      "choices": [
+        "Na ręce trzymane z przodu.",
+        "Wyłącznie na nogi, bez kajdanek na ręce.",
+        "Wyłącznie jako kajdanki zespolone.",
+        "Nie wolno użyć kajdanek w żadnym wariancie."
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadku prewencyjnego użycia kajdanek albo nieznacznego prawdopodobieństwa ucieczki, czynnego oporu lub zagrożenia kajdanki można założyć na ręce trzymane z przodu.",
+      "source": "Art. 15 ust. 6"
+    },
+    {
+      "id": "spb-bp-035",
+      "type": "single_choice",
+      "category": "Kajdanki",
+      "difficulty": "medium",
+      "question": "Funkcjonariusz chce użyć kajdanek zakładanych na nogi. Która zasada musi być spełniona?",
+      "choices": [
+        "Kajdanek na nogi używa się równocześnie z kajdankami na ręce.",
+        "Kajdanek na nogi używa się zamiast kajdanek na ręce.",
+        "Kajdanki na nogi można stosować wyłącznie wobec osób trzeźwych.",
+        "Kajdanki na nogi wolno stosować tylko w budynku sądu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kajdanek zakładanych na nogi używa się równocześnie z kajdankami zakładanymi na ręce.",
+      "source": "Art. 15 ust. 7"
+    },
+    {
+      "id": "spb-bp-036",
+      "type": "single_choice",
+      "category": "Kajdanki",
+      "difficulty": "medium",
+      "question": "Osoba jest agresywna podczas zatrzymania. Czy może to uzasadniać użycie kajdanek zespolonych albo zakładanych na nogi?",
+      "choices": [
+        "Tak, agresywność osoby jest jedną z przesłanek użycia takich kajdanek.",
+        "Nie, takich kajdanek używa się wyłącznie wobec osób nieletnich.",
+        "Tak, ale tylko wobec świadków zdarzenia.",
+        "Nie, kajdanki zespolone są dopuszczalne wyłącznie w konwoju międzynarodowym."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kajdanek zespolonych lub zakładanych na nogi można użyć wyłącznie wobec określonych kategorii osób, w tym osób agresywnych.",
+      "source": "Art. 15 ust. 5 pkt 1"
+    },
+    {
+      "id": "spb-bp-037",
+      "type": "single_choice",
+      "category": "Kaftan i pas obezwładniający",
+      "difficulty": "medium",
+      "question": "Uprawniony rozważa użycie kaftana bezpieczeństwa, choć inne środki mogą skutecznie i bezpiecznie zakończyć sytuację. Która decyzja jest zgodna z ustawą?",
+      "choices": [
+        "Nie powinien używać kaftana, bo stosuje się go, gdy inne środki są niemożliwe albo mogą okazać się nieskuteczne.",
+        "Może użyć kaftana jako pierwszego środka przy każdej odmowie wykonania polecenia.",
+        "Musi użyć kaftana przed kajdankami.",
+        "Może użyć kaftana wyłącznie na polecenie sądu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kaftana bezpieczeństwa lub pasa obezwładniającego używa się, jeżeli użycie innych środków jest niemożliwe albo może okazać się nieskuteczne, w określonych przypadkach.",
+      "source": "Art. 16 ust. 1"
+    },
+    {
+      "id": "spb-bp-038",
+      "type": "single_choice",
+      "category": "Kaftan i pas obezwładniający",
+      "difficulty": "easy",
+      "question": "Po zastosowaniu pasa obezwładniającego funkcjonariusz zauważa, że środek utrudnia osobie oddychanie. Co wynika z ustawy?",
+      "choices": [
+        "Użycie kaftana lub pasa nie może utrudniać oddychania ani tamować obiegu krwi.",
+        "Taki skutek jest dopuszczalny, jeżeli osoba była agresywna.",
+        "Utrudnienie oddychania jest dopuszczalne do 10 minut.",
+        "Przepisy nie odnoszą się do oddychania ani krążenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Użycie kaftana bezpieczeństwa lub pasa obezwładniającego nie może utrudniać oddychania ani tamować obiegu krwi.",
+      "source": "Art. 16 ust. 4"
+    },
+    {
+      "id": "spb-bp-039",
+      "type": "single_choice",
+      "category": "Kaftan i pas obezwładniający",
+      "difficulty": "medium",
+      "question": "Kaftan bezpieczeństwa zastosowano wobec nieletniego. Jakie dalsze działanie jest wymagane?",
+      "choices": [
+        "Należy niezwłocznie zapewnić pomoc medyczną, a dalsze użycie uzależnić od opinii osoby udzielającej pomocy.",
+        "Nie trzeba podejmować dodatkowych działań, jeżeli środek był skuteczny.",
+        "Wystarczy powiadomić dyżurnego po zakończeniu służby.",
+        "Należy automatycznie zastosować także kask zabezpieczający."
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadku użycia kaftana lub pasa wobec nieletniego albo kobiety o widocznej ciąży należy niezwłocznie zapewnić pomoc medyczną, a dalsze użycie zależy od opinii osoby udzielającej pomocy.",
+      "source": "Art. 16 ust. 5"
+    },
+    {
+      "id": "spb-bp-040",
+      "type": "single_choice",
+      "category": "Kask zabezpieczający",
+      "difficulty": "easy",
+      "question": "Osoba pozbawiona wolności próbuje uderzać głową o ścianę. W jakim celu można użyć kasku zabezpieczającego?",
+      "choices": [
+        "W celu zapobieżenia samookaleczeniu głowy.",
+        "W celu ukarania osoby za agresję.",
+        "W celu ułatwienia przesłuchania.",
+        "W celu zastąpienia badania lekarskiego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kasku zabezpieczającego można użyć w celu zapobieżenia samookaleczeniu głowy.",
+      "source": "Art. 17 ust. 1-2"
+    },
+    {
+      "id": "spb-bp-041",
+      "type": "single_choice",
+      "category": "Siatka obezwładniająca",
+      "difficulty": "medium",
+      "question": "Użycie innych środków wobec uciekającej osoby może okazać się nieskuteczne. Funkcjonariusz rozważa siatkę obezwładniającą. Jaki jest jej ustawowy cel wobec osoby?",
+      "choices": [
+        "Unieruchomienie osoby.",
+        "Zadanie trwałej dolegliwości bólowej.",
+        "Zastąpienie kajdanek w każdej sytuacji procesowej.",
+        "Utrwalenie tożsamości osoby."
+      ],
+      "correctIndex": 0,
+      "explanation": "Siatki obezwładniającej i podobnych środków używa się w celu unieruchomienia osoby.",
+      "source": "Art. 18 ust. 2"
+    },
+    {
+      "id": "spb-bp-042",
+      "type": "single_choice",
+      "category": "Pałka służbowa",
+      "difficulty": "medium",
+      "question": "Osoba została już obezwładniona za pomocą urządzenia elektrycznego. Funkcjonariusz chce użyć pałki służbowej do dalszego zadawania bólu. Która ocena jest prawidłowa?",
+      "choices": [
+        "Co do zasady pałki nie stosuje się wobec osoby obezwładnionej takim środkiem, z wyjątkiem dźwigni transportowych.",
+        "Pałkę można stosować bez ograniczeń po każdym obezwładnieniu.",
+        "Pałkę trzeba zastosować zawsze po urządzeniu elektrycznym.",
+        "Zakaz dotyczy tylko osób pozbawionych wolności."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pałki służbowej nie stosuje się wobec osób obezwładnionych wskutek użycia przedmiotów przeznaczonych do obezwładniania energią elektryczną, z wyjątkiem dźwigni transportowych.",
+      "source": "Art. 19 ust. 2 pkt 2"
+    },
+    {
+      "id": "spb-bp-043",
+      "type": "single_choice",
+      "category": "Pałka służbowa",
+      "difficulty": "easy",
+      "question": "Funkcjonariusz używa pałki służbowej. Która zasada dotycząca miejsc uderzeń jest prawidłowa?",
+      "choices": [
+        "Nie zadaje się uderzeń i pchnięć m.in. w głowę, szyję, brzuch oraz szczególnie wrażliwe części ciała, poza sytuacją odparcia zamachu bezpośrednio zagrażającego życiu lub zdrowiu.",
+        "Można zawsze celować w dowolną część ciała.",
+        "Zakaz dotyczy tylko głowy, ale nie szyi ani brzucha.",
+        "Zakaz dotyczy wyłącznie użycia pałki wobec zwierzęcia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pałką służbową nie zadaje się uderzeń i pchnięć w głowę, szyję, brzuch i szczególnie wrażliwe części ciała, z wyjątkiem konieczności odparcia zamachu bezpośrednio zagrażającego życiu lub zdrowiu.",
+      "source": "Art. 19 ust. 4"
+    },
+    {
+      "id": "spb-bp-044",
+      "type": "single_choice",
+      "category": "Wodne środki obezwładniające",
+      "difficulty": "easy",
+      "question": "Podczas zbiorowego zakłócenia porządku rozważane są wodne środki obezwładniające. Jaki jest ich podstawowy cel wobec osoby?",
+      "choices": [
+        "Krótkotrwałe obezwładnienie osoby.",
+        "Trwałe unieruchomienie kończyn.",
+        "Dokumentowanie przebiegu czynności.",
+        "Zastąpienie obowiązku wezwania do zachowania zgodnego z prawem."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wodnych środków obezwładniających używa się w celu krótkotrwałego obezwładnienia osoby.",
+      "source": "Art. 20 ust. 2"
+    },
+    {
+      "id": "spb-bp-045",
+      "type": "single_choice",
+      "category": "Wodne środki obezwładniające",
+      "difficulty": "medium",
+      "question": "Dowódca rozważa użycie wodnych środków obezwładniających z dodatkiem środka barwiącego. Czy ustawa dopuszcza taki dodatek?",
+      "choices": [
+        "Tak, wodnych środków można użyć także z dodatkiem środka łzawiącego lub barwiącego.",
+        "Nie, woda nie może zawierać żadnych dodatków.",
+        "Tak, ale tylko z dodatkiem środka dezynfekcyjnego.",
+        "Tak, ale wyłącznie wobec zwierząt."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa dopuszcza użycie wodnych środków obezwładniających także z dodatkiem środka łzawiącego lub barwiącego.",
+      "source": "Art. 20 ust. 3"
+    },
+    {
+      "id": "spb-bp-046",
+      "type": "single_choice",
+      "category": "Pies służbowy",
+      "difficulty": "medium",
+      "question": "Funkcjonariusz używa psa służbowego. Jaka jest podstawowa zasada dotycząca kagańca?",
+      "choices": [
+        "Psa używa się z założonym kagańcem, chyba że zachodzi ustawowy wyjątek.",
+        "Psa zawsze używa się bez kagańca.",
+        "Kaganiec jest wymagany tylko wobec osób nieletnich.",
+        "Ustawa nie reguluje kagańca psa służbowego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Psa służbowego używa się, gdy ma założony kaganiec, chyba że zachodzą ustawowo wskazane wyjątki.",
+      "source": "Art. 21 ust. 2"
+    },
+    {
+      "id": "spb-bp-047",
+      "type": "single_choice",
+      "category": "Pies służbowy",
+      "difficulty": "hard",
+      "question": "Pies służbowy ma działać bez kagańca w sytuacji odparcia zamachu na życie osoby. Która ocena jest prawidłowa?",
+      "choices": [
+        "Jest to dopuszczalne w warunkach wskazanych w ustawie.",
+        "Nigdy nie jest dopuszczalne użycie psa bez kagańca.",
+        "Dopuszczalne jest tylko wtedy, gdy osoba jest już zakuta w kajdanki.",
+        "Dopuszczalne jest wyłącznie na terenie jednostki Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa przewiduje wyjątek od wymogu kagańca m.in. gdy użycie psa służbowego służy odparciu zamachu na życie lub zdrowie uprawnionego lub innej osoby.",
+      "source": "Art. 21 ust. 2 pkt 2 lit. a"
+    },
+    {
+      "id": "spb-bp-048",
+      "type": "single_choice",
+      "category": "Koń służbowy",
+      "difficulty": "easy",
+      "question": "Podczas zabezpieczenia zgromadzenia używany jest koń służbowy. Jaki cel jego użycia wskazuje ustawa?",
+      "choices": [
+        "Kontrola przemieszczania się grupy osób z wykorzystaniem masy konia.",
+        "Zakładanie blokady na pojazdy.",
+        "Obezwładnianie osób energią elektryczną.",
+        "Przechowywanie osoby pozbawionej wolności."
+      ],
+      "correctIndex": 0,
+      "explanation": "Konia służbowego używa się do kontroli przemieszczania się grupy osób, wykorzystując jego masę.",
+      "source": "Art. 22 ust. 2"
+    },
+    {
+      "id": "spb-bp-049",
+      "type": "single_choice",
+      "category": "Pociski niepenetracyjne",
+      "difficulty": "medium",
+      "question": "Podczas użycia pocisków niepenetracyjnych funkcjonariusz wybiera miejsce celowania. Które zachowanie jest prawidłowe?",
+      "choices": [
+        "Nie celować w głowę ani szyję.",
+        "Celować przede wszystkim w głowę, aby szybko zakończyć interwencję.",
+        "Celować wyłącznie w szyję.",
+        "Przepisy nie przewidują ograniczeń co do celowania."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pocisków niepenetracyjnych używa się w celu obezwładnienia przez zadanie bólu fizycznego, przy czym nie celuje się w głowę lub szyję.",
+      "source": "Art. 23 ust. 3"
+    },
+    {
+      "id": "spb-bp-050",
+      "type": "single_choice",
+      "category": "Pociski niepenetracyjne",
+      "difficulty": "hard",
+      "question": "Dochodzi do zbiorowego zakłócenia porządku publicznego i rozważane jest użycie pocisków niepenetracyjnych. Co co do zasady powinno poprzedzić ich użycie?",
+      "choices": [
+        "Strzał ostrzegawczy lub salwa ostrzegawcza w bezpiecznym kierunku.",
+        "Zawsze pisemna zgoda sądu.",
+        "Obowiązkowe użycie kajdanek wobec wszystkich osób.",
+        "Trzykrotne powiadomienie prokuratora przez megafon."
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadku zbiorowego zakłócenia porządku publicznego użycie pocisków niepenetracyjnych poprzedza się strzałem ostrzegawczym lub salwą ostrzegawczą w bezpiecznym kierunku, z wyjątkiem wskazanych miejsc.",
+      "source": "Art. 23 ust. 2"
+    },
+    {
+      "id": "spb-bp-051",
+      "type": "single_choice",
+      "category": "Chemiczne środki obezwładniające",
+      "difficulty": "easy",
+      "question": "Funkcjonariusz chce użyć ręcznego miotacza substancji obezwładniającej. Jaki jest ustawowy cel takich środków?",
+      "choices": [
+        "Krótkotrwałe zakłócenie orientacji przestrzennej lub obezwładnienie.",
+        "Trwałe uszkodzenie wzroku.",
+        "Zabezpieczenie dokumentów.",
+        "Oznaczenie miejsca zdarzenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chemicznych środków obezwładniających używa się lub wykorzystuje w celu krótkotrwałego zakłócenia orientacji przestrzennej lub obezwładnienia.",
+      "source": "Art. 24 ust. 2"
+    },
+    {
+      "id": "spb-bp-052",
+      "type": "single_choice",
+      "category": "Chemiczne środki obezwładniające",
+      "difficulty": "medium",
+      "question": "Osoba jest już w kajdankach. Funkcjonariusz rozważa użycie chemicznego środka obezwładniającego. Która ocena jest zgodna z ustawą?",
+      "choices": [
+        "Takiego środka nie używa się wobec osób, wobec których użyto wskazanych środków, w tym kajdanek.",
+        "Można go użyć zawsze po założeniu kajdanek.",
+        "Można go użyć tylko wtedy, gdy kajdanki założono z przodu.",
+        "Ustawa nie zawiera ograniczeń w tej sytuacji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chemicznych środków obezwładniających nie używa się wobec osób, w stosunku do których użyto m.in. kajdanek, kaftana, pasa, siatki albo przedmiotów obezwładniających energią elektryczną.",
+      "source": "Art. 24 ust. 3"
+    },
+    {
+      "id": "spb-bp-053",
+      "type": "single_choice",
+      "category": "Energia elektryczna",
+      "difficulty": "medium",
+      "question": "Policjant używa przedmiotu przeznaczonego do obezwładniania energią elektryczną. Gdzie nie powinien celować?",
+      "choices": [
+        "W głowę.",
+        "W nogi.",
+        "W odzież zewnętrzną.",
+        "W ręce."
+      ],
+      "correctIndex": 0,
+      "explanation": "Używając przedmiotów przeznaczonych do obezwładniania osób za pomocą energii elektrycznej, nie celuje się w głowę.",
+      "source": "Art. 25 ust. 4"
+    },
+    {
+      "id": "spb-bp-054",
+      "type": "single_choice",
+      "category": "Energia elektryczna",
+      "difficulty": "medium",
+      "question": "Inne środki mogą być skuteczne wobec agresywnego zwierzęcia, lecz funkcjonariusz chce od razu użyć urządzenia elektrycznego. Kiedy ustawa przewiduje wykorzystanie takiego przedmiotu wobec zwierzęcia?",
+      "choices": [
+        "Gdy użycie innych środków jest niemożliwe albo może okazać się nieskuteczne.",
+        "Zawsze jako środek pierwszego wyboru.",
+        "Wyłącznie w pomieszczeniu zamkniętym.",
+        "Tylko wtedy, gdy zwierzę należy do osoby zatrzymanej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przedmiotów przeznaczonych do obezwładniania energią elektryczną można użyć lub wykorzystać w celu krótkotrwałego obezwładnienia osoby albo zwierzęcia, jeżeli użycie innych środków jest niemożliwe albo może okazać się nieskuteczne.",
+      "source": "Art. 25 ust. 2"
+    },
+    {
+      "id": "spb-bp-055",
+      "type": "single_choice",
+      "category": "Cela zabezpieczająca",
+      "difficulty": "medium",
+      "question": "Osoba pozbawiona wolności została umieszczona w celi zabezpieczającej. Jaki jest maksymalny czas takiego umieszczenia?",
+      "choices": [
+        "Nie dłużej niż 48 godzin.",
+        "Nie dłużej niż 12 godzin.",
+        "Nie dłużej niż 7 dni.",
+        "Bez ograniczenia, do ustania zagrożenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Osoba pozbawiona wolności nie może być umieszczona w celi zabezpieczającej na okres dłuższy niż 48 godzin.",
+      "source": "Art. 26 ust. 2"
+    },
+    {
+      "id": "spb-bp-056",
+      "type": "single_choice",
+      "category": "Izba izolacyjna",
+      "difficulty": "medium",
+      "question": "Nieletni, który nie ukończył 14 lat, ma zostać umieszczony w izbie izolacyjnej. Jaki limit czasu wynika z ustawy?",
+      "choices": [
+        "Nie dłużej niż 12 godzin.",
+        "Nie dłużej niż 24 godziny.",
+        "Nie dłużej niż 48 godzin.",
+        "Nie dłużej niż 72 godziny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nieletni, który nie ukończył 14 lat, nie może być umieszczony w izbie izolacyjnej na okres dłuższy niż 12 godzin.",
+      "source": "Art. 27 ust. 2"
+    },
+    {
+      "id": "spb-bp-057",
+      "type": "single_choice",
+      "category": "Izba izolacyjna",
+      "difficulty": "easy",
+      "question": "Jakie cechy musi mieć izba izolacyjna według ustawy?",
+      "choices": [
+        "Jest pomieszczeniem dźwiękochłonnym i monitorowanym.",
+        "Jest wyłącznie pomieszczeniem niemonitorowanym.",
+        "Musi być pomieszczeniem otwartym.",
+        "Musi znajdować się wyłącznie poza placówką."
+      ],
+      "correctIndex": 0,
+      "explanation": "Izba izolacyjna jest pomieszczeniem dźwiękochłonnym i monitorowanym.",
+      "source": "Art. 27 ust. 3"
+    },
+    {
+      "id": "spb-bp-058",
+      "type": "single_choice",
+      "category": "Pokój izolacyjny",
+      "difficulty": "medium",
+      "question": "Cudzoziemiec przebywający w strzeżonym ośrodku zostaje czasowo odosobniony w pokoju izolacyjnym. Jaki jest maksymalny czas umieszczenia?",
+      "choices": [
+        "Nie dłużej niż 48 godzin.",
+        "Nie dłużej niż 12 godzin.",
+        "Nie dłużej niż 30 dni.",
+        "Do decyzji kierownika bez ustawowego limitu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Cudzoziemiec nie może być umieszczony w pokoju izolacyjnym na okres dłuższy niż 48 godzin.",
+      "source": "Art. 29 ust. 2"
+    },
+    {
+      "id": "spb-bp-059",
+      "type": "single_choice",
+      "category": "Zatrzymywanie pojazdów",
+      "difficulty": "medium",
+      "question": "Umundurowany funkcjonariusz chce użyć kolczatki drogowej do zatrzymania pojazdu. Która czynność powinna poprzedzić wykorzystanie takiego środka?",
+      "choices": [
+        "Danie zrozumiałego i widocznego sygnału do zatrzymania oraz wstrzymanie ruchu w obu kierunkach w wymaganej odległości.",
+        "Wyłącznie sporządzenie notatki przed użyciem środka.",
+        "Oddanie strzału ostrzegawczego w każdym przypadku.",
+        "Ustne powiadomienie prokuratora o numerze rejestracyjnym pojazdu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wykorzystanie kolczatki w celu zatrzymania pojazdu poprzedza sygnał do zatrzymania dany w sposób zrozumiały i widoczny oraz wstrzymanie ruchu w obu kierunkach w odległości co najmniej 100 m od środka.",
+      "source": "Art. 30 ust. 4"
+    },
+    {
+      "id": "spb-bp-060",
+      "type": "single_choice",
+      "category": "Zatrzymywanie pojazdów",
+      "difficulty": "easy",
+      "question": "Pościg dotyczy pojazdu jednośladowego. Czy wolno użyć kolczatki drogowej w celu jego zatrzymania?",
+      "choices": [
+        "Nie, kolczatki drogowej nie wykorzystuje się w celu zatrzymania pojazdu jednośladowego.",
+        "Tak, zawsze przy pościgu.",
+        "Tak, jeżeli kierujący nie ma kasku.",
+        "Tak, ale tylko poza obszarem zabudowanym."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kolczatki drogowej nie wykorzystuje się w celu zatrzymania pojazdu jednośladowego.",
+      "source": "Art. 30 ust. 6"
+    },
+    {
+      "id": "spb-bp-061",
+      "type": "single_choice",
+      "category": "Pojazd służbowy",
+      "difficulty": "medium",
+      "question": "Funkcjonariusze chcą wykorzystać pojazd służbowy do zablokowania innego pojazdu. Jaki warunek dotyczący pojazdu służbowego wynika z ustawy?",
+      "choices": [
+        "Musi poruszać się jako pojazd uprzywilejowany albo pojazd służbowy jadący w kolumnie pojazdów uprzywilejowanych.",
+        "Musi być pojazdem nieoznakowanym.",
+        "Musi być pojazdem prywatnym użyczonym przez funkcjonariusza.",
+        "Nie może używać sygnałów uprzywilejowania."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pojazd służbowy można wykorzystać w określonych przypadkach, jeżeli porusza się jako pojazd uprzywilejowany albo jadący w kolumnie pojazdów uprzywilejowanych.",
+      "source": "Art. 31 ust. 1"
+    },
+    {
+      "id": "spb-bp-062",
+      "type": "single_choice",
+      "category": "Pokonywanie przeszkód",
+      "difficulty": "medium",
+      "question": "Wejście do pomieszczenia jest niemożliwe bez użycia środków do pokonywania zamknięć budowlanych. Który cel ich wykorzystania jest prawidłowy?",
+      "choices": [
+        "Umożliwienie uprawnionym wejścia do pomieszczeń lub innych miejsc, gdy spełnione są ustawowe warunki.",
+        "Ukaranie właściciela pomieszczenia za brak współpracy.",
+        "Zabezpieczenie mienia przed zajęciem cywilnym.",
+        "Zastąpienie nakazu opuszczenia lokalu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Środki do pokonywania zamknięć i przeszkód wykorzystuje się w celu umożliwienia wejścia do pomieszczeń lub innych miejsc, m.in. gdy wejście jest bez nich niemożliwe.",
+      "source": "Art. 32 ust. 2"
+    },
+    {
+      "id": "spb-bp-063",
+      "type": "single_choice",
+      "category": "Środki pirotechniczne",
+      "difficulty": "medium",
+      "question": "Podczas zatrzymania istnieje podejrzenie intensywnego oporu i szczególne zagrożenie dla życia lub zdrowia. Jaki cel może mieć użycie środków pirotechnicznych o właściwościach ogłuszających lub olśniewających?",
+      "choices": [
+        "Ograniczenie możliwości działania osób przez krótkotrwałe zakłócenie orientacji lub odwrócenie uwagi od działań uprawnionego.",
+        "Zadanie trwałych obrażeń osobie zatrzymywanej.",
+        "Zastąpienie obowiązku identyfikacji formacji.",
+        "Automatyczne zakończenie czynności bez dalszej kontroli sytuacji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Środki pirotechniczne o właściwościach ogłuszających lub olśniewających służą m.in. krótkotrwałemu zakłóceniu orientacji przestrzennej lub odwróceniu uwagi od działań uprawnionego, gdy istnieje podejrzenie intensywnego oporu.",
+      "source": "Art. 33 ust. 3-4"
+    },
+    {
+      "id": "spb-bp-064",
+      "type": "single_choice",
+      "category": "Bezzałogowe statki powietrzne",
+      "difficulty": "medium",
+      "question": "Uprawnieni muszą przejąć kontrolę nad bezzałogowym statkiem powietrznym. Który środek może być wykorzystany według ustawy?",
+      "choices": [
+        "Urządzenie wykorzystujące lub zakłócające fale radiowe.",
+        "Kajdanki zespolone.",
+        "Kask zabezpieczający.",
+        "Pokój izolacyjny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zniszczenie, unieruchomienie albo przejęcie kontroli nad bezzałogowym statkiem powietrznym może nastąpić m.in. przez urządzenie wykorzystujące lub zakłócające fale radiowe.",
+      "source": "Art. 33a ust. 2 pkt 1"
+    },
+    {
+      "id": "spb-bp-065",
+      "type": "single_choice",
+      "category": "Procedura przed użyciem środków",
+      "difficulty": "easy",
+      "question": "Przed użyciem środka przymusu wobec osoby, gdy nie ma nagłego zagrożenia ani innego wyjątku, co powinien zrobić uprawniony?",
+      "choices": [
+        "Bezskutecznie wezwać osobę do zachowania zgodnego z prawem i uprzedzić o zamiarze użycia środka.",
+        "Od razu użyć środka bez żadnego wezwania.",
+        "Najpierw sporządzić protokół z pouczenia.",
+        "Uzyskać pisemną zgodę osoby, wobec której działa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Środków przymusu używa się po uprzednim bezskutecznym wezwaniu do zachowania zgodnego z prawem oraz uprzedzeniu o zamiarze ich użycia.",
+      "source": "Art. 34 ust. 1"
+    },
+    {
+      "id": "spb-bp-066",
+      "type": "single_choice",
+      "category": "Procedura przed użyciem środków",
+      "difficulty": "medium",
+      "question": "Osoba stwarza bezpośrednie zagrożenie życia innej osoby. Czy funkcjonariusz musi przed użyciem środka zachować pełną procedurę wezwania i uprzedzenia?",
+      "choices": [
+        "Nie, taki obowiązek nie ma zastosowania przy bezpośrednim zagrożeniu życia, zdrowia lub wolności.",
+        "Tak, procedury nie wolno pominąć nigdy.",
+        "Tak, chyba że osoba jest już zatrzymana.",
+        "Nie, ale tylko jeśli środek używany jest w budynku jednostki."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wymogu uprzedniego wezwania i uprzedzenia nie stosuje się, gdy występuje bezpośrednie zagrożenie życia, zdrowia lub wolności uprawnionego albo innej osoby.",
+      "source": "Art. 34 ust. 2 pkt 1"
+    },
+    {
+      "id": "spb-bp-067",
+      "type": "single_choice",
+      "category": "Decyzja o użyciu środków",
+      "difficulty": "easy",
+      "question": "Policjant podczas samodzielnej interwencji musi zdecydować o użyciu środka przymusu. Która zasada jest właściwa?",
+      "choices": [
+        "Co do zasady decyzję podejmuje samodzielnie.",
+        "Zawsze musi mieć zgodę prokuratora.",
+        "Zawsze musi mieć zgodę dyżurnego, niezależnie od środka.",
+        "Decyzję może podjąć wyłącznie sąd."
+      ],
+      "correctIndex": 0,
+      "explanation": "Co do zasady decyzję o użyciu lub wykorzystaniu środków przymusu bezpośredniego uprawniony podejmuje samodzielnie.",
+      "source": "Art. 35 ust. 1"
+    },
+    {
+      "id": "spb-bp-068",
+      "type": "single_choice",
+      "category": "Decyzja o użyciu środków",
+      "difficulty": "hard",
+      "question": "Podczas konwoju wykonywanego przez grupę policjantów rozważane jest użycie środka wymagającego decyzji wskazanego podmiotu. Kto może podjąć decyzję w tej sytuacji?",
+      "choices": [
+        "Dowódca konwoju albo dowódca grupy wykonującej doprowadzenie lub inne zadania służbowe.",
+        "Wyłącznie każdy policjant indywidualnie, bez roli dowódcy.",
+        "Wyłącznie osoba konwojowana, po pouczeniu.",
+        "Wyłącznie kierowca pojazdu konwojowego."
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadku Policji, podczas konwoju, doprowadzenia lub wykonywania zadań przez grupę funkcjonariuszy decyzję dotyczącą wskazanych środków podejmuje dowódca konwoju lub grupy.",
+      "source": "Art. 35 ust. 4 pkt 1 lit. b"
+    },
+    {
+      "id": "spb-bp-069",
+      "type": "single_choice",
+      "category": "Decyzja o użyciu środków",
+      "difficulty": "hard",
+      "question": "W Policji rozważane jest użycie wodnych środków obezwładniających. Który organ należy do kręgu mogących podjąć decyzję według ustawy?",
+      "choices": [
+        "Komendant Główny Policji, właściwy komendant wojewódzki albo osoby przez nich upoważnione, a także inne wskazane podmioty w ustawie.",
+        "Wyłącznie najbliższy patrol interwencyjny.",
+        "Wyłącznie sąd rejonowy właściwy miejscowo.",
+        "Wyłącznie osoba pełniąca funkcję oskarżyciela publicznego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dla Policji w odniesieniu m.in. do wodnych środków obezwładniających decyzję podejmują wskazani w ustawie przełożeni, w tym Komendant Główny Policji i właściwy komendant wojewódzki albo osoby przez nich upoważnione.",
+      "source": "Art. 35 ust. 4 pkt 1 lit. c"
+    },
+    {
+      "id": "spb-bp-070",
+      "type": "single_choice",
+      "category": "Pierwsza pomoc",
+      "difficulty": "easy",
+      "question": "Po użyciu środka przymusu osoba ma widoczne objawy zagrożenia zdrowia. Co powinien zrobić uprawniony?",
+      "choices": [
+        "Niezwłocznie udzielić pierwszej pomocy, a w razie potrzeby zapewnić wezwanie kwalifikowanej pierwszej pomocy lub medycznych czynności ratunkowych.",
+        "Ograniczyć się do sporządzenia notatki.",
+        "Czekać na decyzję sądu.",
+        "Nie podejmować działań, jeżeli osoba wcześniej stawiała opór."
+      ],
+      "correctIndex": 0,
+      "explanation": "Gdy w wyniku użycia lub wykorzystania środków przymusu nastąpiło zranienie albo widoczne objawy zagrożenia życia lub zdrowia, uprawniony udziela pierwszej pomocy i w razie potrzeby zapewnia wezwanie pomocy kwalifikowanej lub ratunkowej.",
+      "source": "Art. 36 ust. 1"
+    },
+    {
+      "id": "spb-bp-071",
+      "type": "single_choice",
+      "category": "Pierwsza pomoc",
+      "difficulty": "medium",
+      "question": "Udzielenie pierwszej pomocy osobie poszkodowanej spowodowałoby konieczność przerwania czynności ochronnych wobec konwoju. Czy uprawniony może odstąpić od osobistego udzielenia pomocy?",
+      "choices": [
+        "Tak, jest to jedna z okoliczności pozwalających odstąpić od udzielenia pierwszej pomocy, ale trzeba zapewnić wezwanie odpowiedniej pomocy.",
+        "Nie, nigdy nie można odstąpić od osobistego udzielania pomocy.",
+        "Tak, i nie trzeba już wzywać żadnej pomocy.",
+        "Tak, ale tylko przy użyciu broni palnej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa pozwala odstąpić od udzielenia pierwszej pomocy m.in. gdy spowodowałoby to konieczność zaniechania czynności ochronnych w ramach konwoju lub doprowadzenia, lecz w takiej sytuacji należy zapewnić wezwanie właściwej pomocy.",
+      "source": "Art. 36 ust. 2 pkt 2 i ust. 3"
+    },
+    {
+      "id": "spb-bp-072",
+      "type": "single_choice",
+      "category": "Pierwsza pomoc",
+      "difficulty": "medium",
+      "question": "Wobec kobiety ciężarnej użyto środka przymusu bezpośredniego. Czy uprawniony może odstąpić od zapewnienia medycznych czynności ratunkowych?",
+      "choices": [
+        "Nie, ustawa wyłącza taką możliwość.",
+        "Tak, jeżeli kobieta nie żąda pomocy.",
+        "Tak, jeżeli zastosowano tylko siłę fizyczną.",
+        "Tak, jeżeli nie doszło do zranienia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Uprawniony nie może odstąpić od zapewnienia udzielenia medycznych czynności ratunkowych kobiecie ciężarnej, wobec której użyto środków przymusu bezpośredniego.",
+      "source": "Art. 36 ust. 4"
+    },
+    {
+      "id": "spb-bp-073",
+      "type": "single_choice",
+      "category": "Zabezpieczenie zdarzenia",
+      "difficulty": "easy",
+      "question": "Po użyciu środka przymusu nastąpiło zranienie osoby. Jakie obowiązki ma uprawniony poza kwestią pomocy?",
+      "choices": [
+        "Zabezpieczyć miejsce zdarzenia, ustalić świadków i powiadomić przełożonego albo dyżurnego.",
+        "Wyłącznie odnotować godzinę w prywatnych notatkach.",
+        "Zakończyć służbę bez dalszych czynności.",
+        "Przekazać sprawę osobie poszkodowanej do samodzielnego zgłoszenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie zranienia, widocznych objawów zagrożenia życia lub zdrowia, śmierci, zranienia albo śmierci zwierzęcia lub zniszczenia mienia uprawniony zabezpiecza miejsce, ustala świadków i powiadamia przełożonego lub dyżurnego.",
+      "source": "Art. 37 ust. 1"
+    },
+    {
+      "id": "spb-bp-074",
+      "type": "single_choice",
+      "category": "Zabezpieczenie zdarzenia",
+      "difficulty": "medium",
+      "question": "Zabezpieczenie miejsca i ustalenie świadków po użyciu środka naraziłoby funkcjonariusza lub inną osobę na niebezpieczeństwo. Która ocena jest prawidłowa?",
+      "choices": [
+        "Można czasowo nie stosować tych obowiązków do czasu ustania zagrożenia.",
+        "Obowiązki trzeba wykonać natychmiast bez względu na zagrożenie.",
+        "Obowiązki automatycznie wygasają na zawsze.",
+        "Należy wykonać je dopiero po zgodzie sądu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Obowiązku zabezpieczenia miejsca i ustalenia świadków można nie stosować, gdy zagroziłoby to życiu, zdrowiu lub bezpieczeństwu uprawnionego lub innej osoby, do czasu ustania zagrożenia.",
+      "source": "Art. 37 ust. 2 pkt 2 lit. a"
+    },
+    {
+      "id": "spb-bp-075",
+      "type": "single_choice",
+      "category": "Powiadomienia",
+      "difficulty": "medium",
+      "question": "Po użyciu środka przymusu wystąpiła konieczność medycznych czynności ratunkowych i sprawa dotyczy funkcjonariusza Policji. Kogo powinien powiadomić przełożony lub dyżurny oprócz innych czynności?",
+      "choices": [
+        "Właściwego miejscowo prokuratora.",
+        "Wyłącznie komendanta szkoły policyjnej.",
+        "Wyłącznie sąd rodzinny.",
+        "Wyłącznie organ gminy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przełożony uprawnionego będącego m.in. funkcjonariuszem Policji lub osoba pełniąca służbę dyżurną powiadamia właściwego miejscowo prokuratora o zdarzeniu wskazanym w ustawie.",
+      "source": "Art. 39 ust. 2 w zw. z art. 2 ust. 1 pkt 9"
+    },
+    {
+      "id": "spb-bp-076",
+      "type": "single_choice",
+      "category": "Powiadomienia",
+      "difficulty": "medium",
+      "question": "Przełożony analizuje zdarzenie po użyciu środka przymusu, w wyniku którego powstały skutki wymagające działań z ustawy. Jaki obowiązek ocenny spoczywa na przełożonym?",
+      "choices": [
+        "Ustalić, czy użycie lub wykorzystanie środka nastąpiło zgodnie z prawem.",
+        "Automatycznie uznać użycie środka za zgodne z prawem.",
+        "Wyłącznie sprawdzić, czy sporządzono mandat.",
+        "Ocenić tylko zachowanie osoby poszkodowanej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niezależnie od innych obowiązków przełożony ustala, czy użycie lub wykorzystanie środka przymusu bezpośredniego nastąpiło zgodnie z prawem.",
+      "source": "Art. 39 ust. 3 pkt 1"
+    },
+    {
+      "id": "spb-bp-077",
+      "type": "single_choice",
+      "category": "Nieletni",
+      "difficulty": "medium",
+      "question": "Wobec nieletniego umieszczonego w policyjnej izbie dziecka użyto środka przymusu. Kogo powiadamia kierownik izby?",
+      "choices": [
+        "Sąd rodzinny sprawujący nadzór nad wykonywaniem czynności przez Policję lub Straż Graniczną oraz sąd rodzinny właściwy dla obszaru, gdzie znajduje się izba.",
+        "Wyłącznie rodziców nieletniego, bez udziału sądu.",
+        "Wyłącznie prokuratora okręgowego.",
+        "Wyłącznie dyrektora szkoły nieletniego."
+      ],
+      "correctIndex": 0,
+      "explanation": "O użyciu środków wobec nieletniego w policyjnej izbie dziecka kierownik izby powiadamia sądy rodzinne wskazane w ustawie.",
+      "source": "Art. 40 ust. 2"
+    },
+    {
+      "id": "spb-bp-078",
+      "type": "single_choice",
+      "category": "Pododdział zwarty",
+      "difficulty": "easy",
+      "question": "Zorganizowana, jednolicie dowodzona grupa policjantów wykonuje działania prewencyjne przy zakłóceniu porządku publicznego. Jak ustawa określa taką grupę?",
+      "choices": [
+        "Pododdział zwarty.",
+        "Konwój specjalny.",
+        "Grupa dochodzeniowa.",
+        "Zespół notujący."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pododdział zwarty to zorganizowana, jednolicie dowodzona grupa m.in. funkcjonariuszy Policji wykonująca działania prewencyjne w razie zagrożenia lub zakłócenia bezpieczeństwa albo porządku publicznego.",
+      "source": "Art. 4 pkt 5"
+    },
+    {
+      "id": "spb-bp-079",
+      "type": "single_choice",
+      "category": "Pododdział zwarty",
+      "difficulty": "medium",
+      "question": "Kto co do zasady może udzielić zgody na użycie środków przymusu przez policyjny pododdział zwarty?",
+      "choices": [
+        "Komendant Główny Policji, właściwy komendant wojewódzki albo Stołeczny, albo osoby przez nich upoważnione.",
+        "Każdy funkcjonariusz wchodzący w skład pododdziału.",
+        "Wyłącznie przewodniczący zgromadzenia.",
+        "Wyłącznie osoba zatrzymywana."
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadku Policji zgody na użycie lub wykorzystanie środków przez pododdział zwarty udzielają Komendant Główny Policji, właściwy komendant wojewódzki lub Stołeczny albo osoby przez nich upoważnione.",
+      "source": "Art. 42 ust. 1 pkt 1"
+    },
+    {
+      "id": "spb-bp-080",
+      "type": "single_choice",
+      "category": "Pododdział zwarty",
+      "difficulty": "hard",
+      "question": "Zwłoka w użyciu środków przez pododdział zwarty grozi bezpośrednim niebezpieczeństwem dla życia osób. Kto może udzielić zgody w takiej sytuacji?",
+      "choices": [
+        "Także dowódca pododdziału zwartego.",
+        "Wyłącznie sąd po pisemnym wniosku.",
+        "Wyłącznie prokurator rejonowy.",
+        "Nikt, bo zgody nie można udzielić w nagłej sytuacji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Gdy zwłoka grozi bezpośrednim niebezpieczeństwem dla życia, zdrowia, mienia lub zamachem na ważne obiekty, urządzenia lub obszary, zgody może udzielić także dowódca pododdziału zwartego.",
+      "source": "Art. 42 ust. 2"
+    },
+    {
+      "id": "spb-bp-081",
+      "type": "single_choice",
+      "category": "Pododdział zwarty",
+      "difficulty": "medium",
+      "question": "Bezpośrednio przed rozkazem użycia środków przez pododdział zwarty dowódca ma możliwość kontaktu z osobami, wobec których środki mogą być użyte. Co powinien zrobić?",
+      "choices": [
+        "Wezwać do zachowania zgodnego z prawem, a następnie uprzedzić o możliwości użycia środków w razie niepodporządkowania.",
+        "Od razu wydać rozkaz bez żadnego wezwania.",
+        "Najpierw sporządzić notatkę z planowanych działań.",
+        "Uzyskać zgodę każdej osoby w pododdziale."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dowódca przed rozkazem wzywa do zachowania zgodnego z prawem, a następnie uprzedza o możliwości użycia środków w razie niepodporządkowania.",
+      "source": "Art. 43 ust. 2"
+    },
+    {
+      "id": "spb-bp-082",
+      "type": "single_choice",
+      "category": "Pododdział zwarty",
+      "difficulty": "medium",
+      "question": "Uprawniony wchodzący w skład pododdziału zwartego nie może nawiązać kontaktu z dowódcą, a sytuacja zagraża życiu innej osoby. Czy może użyć środków samodzielnie?",
+      "choices": [
+        "Tak, na zasadach określonych w ustawie.",
+        "Nie, zawsze musi czekać na rozkaz.",
+        "Tak, ale tylko po zakończeniu działań pododdziału.",
+        "Nie, może jedynie sporządzić meldunek."
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie braku możliwości kontaktu z dowódcą lub sytuacji zagrażającej życiu albo zdrowiu uprawnionego lub innej osoby, uprawniony z pododdziału zwartego może użyć lub wykorzystać środki na zasadach ustawy.",
+      "source": "Art. 43 ust. 3"
+    },
+    {
+      "id": "spb-bp-083",
+      "type": "single_choice",
+      "category": "Pododdział zwarty",
+      "difficulty": "easy",
+      "question": "Kiedy należy zaprzestać używania środków przez pododdział zwarty?",
+      "choices": [
+        "Na rozkaz dowódcy lub niezwłocznie po osiągnięciu zamierzonego celu.",
+        "Dopiero po upływie 30 minut.",
+        "Tylko po pisemnej decyzji sądu.",
+        "Po zakończeniu całej zmiany służbowej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zaprzestanie użycia środków przez pododdział zwarty następuje na rozkaz dowódcy lub niezwłocznie po osiągnięciu celu.",
+      "source": "Art. 43 ust. 4"
+    },
+    {
+      "id": "spb-bp-084",
+      "type": "single_choice",
+      "category": "Pododdział zwarty",
+      "difficulty": "medium",
+      "question": "Po użyciu środków przez pododdział zwarty nastąpiło zranienie osoby. Które przepisy dotyczące dalszego postępowania stosuje się?",
+      "choices": [
+        "Stosuje się przepisy dotyczące działań po skutkowym użyciu lub wykorzystaniu środków, w tym obowiązki przełożonego lub dyżurnego.",
+        "Nie stosuje się żadnych obowiązków, bo działał pododdział.",
+        "Wystarczy ustne omówienie zdarzenia.",
+        "Dokumentację sporządza wyłącznie osoba poszkodowana."
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadku skutków takich jak zranienie, zagrożenie życia lub zdrowia, śmierć, zniszczenie mienia albo zranienie lub śmierć zwierzęcia po działaniach pododdziału zwartego stosuje się przepisy dotyczące postępowania po użyciu środków.",
+      "source": "Art. 44 ust. 1"
+    },
+    {
+      "id": "spb-bp-085",
+      "type": "single_choice",
+      "category": "Broń palna",
+      "difficulty": "easy",
+      "question": "Osoba dokonuje bezpośredniego bezprawnego zamachu na życie policjanta, a inne środki są niewystarczające. Czy może zaistnieć przypadek użycia broni palnej?",
+      "choices": [
+        "Tak, ustawa przewiduje użycie broni przy konieczności odparcia takiego zamachu.",
+        "Nie, broń palna nigdy nie może być użyta w kierunku osoby.",
+        "Tak, ale wyłącznie po uzyskaniu zgody sądu.",
+        "Nie, wolno jedynie oddać strzał ostrzegawczy w dokumentację."
+      ],
+      "correctIndex": 0,
+      "explanation": "Broni palnej można użyć m.in. w razie konieczności odparcia bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność uprawnionego albo innej osoby.",
+      "source": "Art. 45 pkt 1 lit. a"
+    },
+    {
+      "id": "spb-bp-086",
+      "type": "single_choice",
+      "category": "Broń palna",
+      "difficulty": "medium",
+      "question": "Osoba nie podporządkowuje się wezwaniu do natychmiastowego porzucenia broni, której użycie może zagrozić życiu innej osoby. Która ocena jest prawidłowa?",
+      "choices": [
+        "Może zaistnieć przypadek użycia broni palnej.",
+        "Nigdy nie wolno użyć broni, jeśli osoba jeszcze nie strzeliła.",
+        "Można użyć wyłącznie kajdanek.",
+        "Sytuacja dotyczy wyłącznie środków dokumentacyjnych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Broni palnej można użyć w razie konieczności przeciwstawienia się osobie niepodporządkowującej się wezwaniu do natychmiastowego porzucenia broni, materiału wybuchowego lub innego niebezpiecznego przedmiotu.",
+      "source": "Art. 45 pkt 2 lit. a"
+    },
+    {
+      "id": "spb-bp-087",
+      "type": "single_choice",
+      "category": "Broń palna",
+      "difficulty": "medium",
+      "question": "Osoba usiłuje bezprawnie odebrać broń palną policjantowi. Jaką możliwość przewiduje ustawa?",
+      "choices": [
+        "Może zaistnieć przypadek użycia broni palnej.",
+        "Można użyć tylko środków chemicznych.",
+        "Należy odstąpić od działania do przyjazdu przełożonego.",
+        "Ustawa nie przewiduje takiego przypadku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Użycie broni palnej może być dopuszczalne przy konieczności przeciwstawienia się osobie usiłującej bezprawnie odebrać broń palną uprawnionemu lub innej osobie uprawnionej do jej posiadania.",
+      "source": "Art. 45 pkt 2 lit. b"
+    },
+    {
+      "id": "spb-bp-088",
+      "type": "single_choice",
+      "category": "Broń palna",
+      "difficulty": "hard",
+      "question": "Trwa bezpośredni pościg za osobą, wobec której wcześniej dopuszczalne było użycie broni z powodu zamachu na życie. Czy sam pościg może być przypadkiem użycia broni?",
+      "choices": [
+        "Tak, bezpośredni pościg za taką osobą jest jednym z przypadków wskazanych w ustawie.",
+        "Nie, pościg nigdy nie może uzasadniać użycia broni.",
+        "Tak, ale wyłącznie poza obszarem zabudowanym.",
+        "Nie, chyba że osoba sama złoży oświadczenie o ucieczce."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa przewiduje użycie broni palnej m.in. w bezpośrednim pościgu za osobą, wobec której użycie broni było dopuszczalne w określonych przypadkach.",
+      "source": "Art. 45 pkt 3 lit. a"
+    },
+    {
+      "id": "spb-bp-089",
+      "type": "single_choice",
+      "category": "Broń palna",
+      "difficulty": "hard",
+      "question": "Osoba zatrzymana ucieka, a jej ucieczka stwarza zagrożenie życia innej osoby. Które rozstrzygnięcie odpowiada ustawie?",
+      "choices": [
+        "Może zaistnieć przypadek użycia broni palnej w celu ujęcia lub udaremnienia ucieczki.",
+        "Broń palna jest zawsze wyłączona przy ucieczce osoby zatrzymanej.",
+        "Można użyć broni wyłącznie w celu oddania salwy honorowej.",
+        "Dopuszczalne są tylko środki oddziaływania wychowawczego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa przewiduje możliwość użycia broni przy konieczności ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę, jeżeli ucieczka stwarza zagrożenie życia lub zdrowia uprawnionego albo innej osoby.",
+      "source": "Art. 45 pkt 4 lit. b tiret pierwsze"
+    },
+    {
+      "id": "spb-bp-090",
+      "type": "single_choice",
+      "category": "Broń palna",
+      "difficulty": "medium",
+      "question": "Pododdział zwarty przygotowuje się do działań. Czy broń palna może być użyta przez pododdział zwarty jako taki?",
+      "choices": [
+        "Nie, broń palna nie może być użyta ani wykorzystana przez pododdział zwarty.",
+        "Tak, pododdział zwarty zawsze może używać broni palnej.",
+        "Tak, ale tylko do strzałów ostrzegawczych.",
+        "Tak, jeżeli zgodzi się dowolny członek pododdziału."
+      ],
+      "correctIndex": 0,
+      "explanation": "Broń palna nie może być użyta lub wykorzystana przez pododdział zwarty.",
+      "source": "Art. 46 ust. 1"
+    },
+    {
+      "id": "spb-bp-091",
+      "type": "single_choice",
+      "category": "Broń palna",
+      "difficulty": "medium",
+      "question": "Funkcjonariusz wchodzący w skład pododdziału zwartego znajduje się w sytuacji zagrażającej życiu innej osoby. Czy może użyć broni palnej indywidualnie?",
+      "choices": [
+        "Tak, może użyć lub wykorzystać broń na zasadach określonych w ustawie.",
+        "Nie, członek pododdziału nigdy nie może użyć broni.",
+        "Tak, ale wyłącznie po zakończeniu działań pododdziału.",
+        "Nie, może użyć tylko pałki służbowej."
+      ],
+      "correctIndex": 0,
+      "explanation": "W sytuacji zagrażającej życiu lub zdrowiu uprawnionego lub innej osoby, uprawniony wchodzący w skład pododdziału zwartego może użyć broni palnej lub ją wykorzystać na zasadach ustawy.",
+      "source": "Art. 46 ust. 2"
+    },
+    {
+      "id": "spb-bp-092",
+      "type": "single_choice",
+      "category": "Wykorzystanie broni palnej",
+      "difficulty": "easy",
+      "question": "Policjant oddaje strzał, aby zaalarmować innych funkcjonariuszy i wezwać pomoc, nie strzelając w kierunku osoby. Czy ustawa przewiduje taki cel wykorzystania broni?",
+      "choices": [
+        "Tak, zaalarmowanie lub wezwanie pomocy jest jednym z przypadków wykorzystania broni palnej.",
+        "Nie, broń palną wolno wykorzystać wyłącznie przeciwko osobie.",
+        "Tak, ale tylko w budynku jednostki Policji.",
+        "Nie, do alarmowania wolno używać wyłącznie sygnałów pojazdu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Broń palną można wykorzystać m.in. w celu zaalarmowania lub wezwania pomocy.",
+      "source": "Art. 47 pkt 3"
+    },
+    {
+      "id": "spb-bp-093",
+      "type": "single_choice",
+      "category": "Wykorzystanie broni palnej",
+      "difficulty": "medium",
+      "question": "Agresywne zwierzę bezpośrednio zagraża życiu osoby. Jaki przypadek wykorzystania broni palnej może mieć zastosowanie?",
+      "choices": [
+        "Unieszkodliwienie zwierzęcia, którego zachowanie bezpośrednio zagraża życiu lub zdrowiu.",
+        "Ukaranie właściciela zwierzęcia.",
+        "Zabezpieczenie zwierzęcia do celów dowodowych.",
+        "Użycie broni w kierunku osoby trzymającej zwierzę."
+      ],
+      "correctIndex": 0,
+      "explanation": "Broń palną można wykorzystać do unieszkodliwienia zwierzęcia, którego zachowanie zagraża bezpośrednio życiu lub zdrowiu uprawnionego lub innej osoby.",
+      "source": "Art. 47 pkt 5"
+    },
+    {
+      "id": "spb-bp-094",
+      "type": "single_choice",
+      "category": "Wykorzystanie broni palnej",
+      "difficulty": "medium",
+      "question": "Pojazd zagraża życiu osób i trzeba go zatrzymać. Czy wykorzystanie broni palnej może być dopuszczalne?",
+      "choices": [
+        "Tak, jeżeli zatrzymanie pojazdu jest konieczne, bo jego działanie zagraża życiu lub zdrowiu albo ważnym obiektom, urządzeniom lub obszarom.",
+        "Nie, broń palna nigdy nie może służyć zatrzymaniu pojazdu.",
+        "Tak, ale tylko gdy pojazd jest jednośladowy.",
+        "Nie, bo do pojazdów można stosować wyłącznie kajdanki."
+      ],
+      "correctIndex": 0,
+      "explanation": "Broń palną można wykorzystać w przypadku konieczności zatrzymania pojazdu, jeżeli jego działanie zagraża życiu lub zdrowiu albo stwarza zagrożenie dla ważnych obiektów, urządzeń lub obszarów.",
+      "source": "Art. 47 pkt 1"
+    },
+    {
+      "id": "spb-bp-095",
+      "type": "single_choice",
+      "category": "Procedura przed użyciem broni",
+      "difficulty": "easy",
+      "question": "Przed użyciem broni palnej policjant ma możliwość zastosowania pełnej procedury. Od czego powinien zacząć?",
+      "choices": [
+        "Zidentyfikować swoją formację lub służbę okrzykiem przez wskazanie pełnej nazwy albo ustawowego skrótu.",
+        "Od razu oddać strzał w kierunku osoby.",
+        "Najpierw sporządzić notatkę służbową.",
+        "Najpierw zapytać osobę o zgodę na użycie broni."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przed użyciem broni palnej uprawniony identyfikuje swoją formację albo służbę okrzykiem przez wskazanie jej pełnej nazwy lub ustawowego skrótu.",
+      "source": "Art. 48 ust. 1 pkt 1"
+    },
+    {
+      "id": "spb-bp-096",
+      "type": "single_choice",
+      "category": "Procedura przed użyciem broni",
+      "difficulty": "easy",
+      "question": "Osoba nie reaguje na wezwania poprzedzające użycie broni. Jakie ostrzeżenie przewiduje ustawa przed strzałem ostrzegawczym?",
+      "choices": [
+        "„Stój, bo strzelam!”.",
+        "„Policja, mandat!”.",
+        "„Proszę się zatrzymać, bo sporządzę notatkę!”.",
+        "„Ostatnie pouczenie!”."
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadku niepodporządkowania się wezwaniom uprawniony uprzedza o użyciu broni palnej okrzykiem: „Stój, bo strzelam!”, a gdy jest nieskuteczny, oddaje strzał ostrzegawczy w bezpiecznym kierunku.",
+      "source": "Art. 48 ust. 2"
+    },
+    {
+      "id": "spb-bp-097",
+      "type": "single_choice",
+      "category": "Procedura przed użyciem broni",
+      "difficulty": "medium",
+      "question": "Pełne wykonanie procedury przed użyciem broni groziłoby bezpośrednim niebezpieczeństwem dla życia policjanta. Co przewiduje ustawa?",
+      "choices": [
+        "Można odstąpić od procedury lub jej poszczególnych elementów.",
+        "Nigdy nie można odstąpić od żadnego elementu procedury.",
+        "Można odstąpić tylko od identyfikacji formacji, ale nie od strzału ostrzegawczego.",
+        "Można odstąpić wyłącznie po pisemnej zgodzie przełożonego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Od procedury poprzedzającej użycie broni albo jej poszczególnych elementów można odstąpić, jeżeli ich realizacja groziłaby bezpośrednim niebezpieczeństwem dla życia lub zdrowia uprawnionego albo innej osoby.",
+      "source": "Art. 48 ust. 3 pkt 1"
+    },
+    {
+      "id": "spb-bp-098",
+      "type": "single_choice",
+      "category": "Procedura przed użyciem broni",
+      "difficulty": "hard",
+      "question": "Przed rozpoczęciem konwoju osoba pozbawiona wolności należy do kategorii, wobec której w razie próby ucieczki możliwe jest użycie broni. Co powinien zrobić uprawniony?",
+      "choices": [
+        "Uprzedzić tę osobę o możliwości użycia wobec niej broni palnej w przypadku próby ucieczki.",
+        "Nie informować osoby o żadnych konsekwencjach.",
+        "Oddać strzał ostrzegawczy przed każdym konwojem.",
+        "Założyć obowiązkowo kajdanki na nogi wszystkim konwojowanym osobom."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przed rozpoczęciem konwoju lub doprowadzenia uprawniony uprzedza osobę pozbawioną wolności, wobec której możliwe jest użycie broni w razie próby ucieczki, o takiej możliwości.",
+      "source": "Art. 48 ust. 4"
+    },
+    {
+      "id": "spb-bp-099",
+      "type": "single_choice",
+      "category": "Postępowanie po użyciu broni",
+      "difficulty": "easy",
+      "question": "Policjant użył broni palnej. Kogo powinien niezwłocznie powiadomić?",
+      "choices": [
+        "Przełożonego albo osobę pełniącą służbę dyżurną.",
+        "Wyłącznie osobę, wobec której użyto broni.",
+        "Wyłącznie organ gminy.",
+        "Nikogo, jeśli nie doszło do zranienia."
+      ],
+      "correctIndex": 0,
+      "explanation": "O każdym przypadku użycia lub wykorzystania broni palnej uprawniony niezwłocznie powiadamia przełożonego lub osobę pełniącą służbę dyżurną.",
+      "source": "Art. 50"
+    },
+    {
+      "id": "spb-bp-100",
+      "type": "single_choice",
+      "category": "Postępowanie po użyciu broni",
+      "difficulty": "medium",
+      "question": "Pracownik ochrony użył broni palnej. Poza przełożonym lub dyżurnym, kogo musi powiadomić?",
+      "choices": [
+        "Właściwą miejscowo jednostkę organizacyjną Policji.",
+        "Wyłącznie sąd rodzinny.",
+        "Wyłącznie urząd gminy.",
+        "Nie musi powiadamiać nikogo dodatkowo."
+      ],
+      "correctIndex": 0,
+      "explanation": "Uprawniony będący pracownikiem ochrony, o którym mowa w ustawie, powiadamia o każdym przypadku użycia lub wykorzystania broni palnej także właściwą miejscowo jednostkę organizacyjną Policji.",
+      "source": "Art. 50 w zw. z art. 2 ust. 1 pkt 20"
+    },
+    {
+      "id": "spb-bp-101",
+      "type": "single_choice",
+      "category": "Postępowanie po użyciu broni",
+      "difficulty": "medium",
+      "question": "Po wykorzystaniu broni palnej nastąpiło zranienie osoby. Jakie przepisy o dalszym postępowaniu stosuje się odpowiednio?",
+      "choices": [
+        "Przepisy dotyczące pierwszej pomocy, zabezpieczenia zdarzenia, powiadomień i działań przełożonego.",
+        "Wyłącznie przepisy o mandatach karnych.",
+        "Tylko przepisy o pododdziale zwartym.",
+        "Nie stosuje się żadnych przepisów, jeśli był to strzał ostrzegawczy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Do postępowania po użyciu lub wykorzystaniu broni palnej stosuje się przepisy wskazane dla działań po użyciu lub wykorzystaniu środków przymusu, w tym dotyczące pomocy, zabezpieczenia i powiadomień.",
+      "source": "Art. 49 ust. 1"
+    },
+    {
+      "id": "spb-bp-102",
+      "type": "single_choice",
+      "category": "Dokumentowanie",
+      "difficulty": "easy",
+      "question": "W jaki sposób uprawniony dokumentuje użycie lub wykorzystanie środków przymusu bezpośredniego i broni palnej?",
+      "choices": [
+        "W notatce.",
+        "Wyłącznie w protokole sądowym.",
+        "Wyłącznie w mandacie karnym.",
+        "Wyłącznie ustnym meldunkiem."
+      ],
+      "correctIndex": 0,
+      "explanation": "Uprawniony dokumentuje w notatce użycie i wykorzystanie środków przymusu bezpośredniego i broni palnej.",
+      "source": "Art. 51 ust. 1"
+    },
+    {
+      "id": "spb-bp-103",
+      "type": "single_choice",
+      "category": "Dokumentowanie",
+      "difficulty": "medium",
+      "question": "Użyto broni palnej, ale nie doszło do zranienia ani szkody. Czy notatkę należy przekazać przełożonemu?",
+      "choices": [
+        "Tak, przy broni palnej notatkę przekazuje się niezależnie od skutku użycia lub wykorzystania.",
+        "Nie, jeśli nie było skutków, wystarczy zapamiętać zdarzenie.",
+        "Nie, notatka jest wymagana tylko przy śmierci osoby.",
+        "Tak, ale dopiero po prawomocnym zakończeniu postępowania."
+      ],
+      "correctIndex": 0,
+      "explanation": "Notatkę przekazuje się przełożonemu w przypadku użycia lub wykorzystania broni palnej niezależnie od skutku.",
+      "source": "Art. 51 ust. 2 pkt 2"
+    },
+    {
+      "id": "spb-bp-104",
+      "type": "single_choice",
+      "category": "Dokumentowanie",
+      "difficulty": "medium",
+      "question": "Użyto środka przymusu bezpośredniego i nie nastąpiło zranienie, widoczne zagrożenie życia lub zdrowia, śmierć, zranienie albo śmierć zwierzęcia ani zniszczenie mienia. Jak można udokumentować takie zdarzenie?",
+      "choices": [
+        "Można je udokumentować w notatniku służbowym.",
+        "Nie wolno go w ogóle dokumentować.",
+        "Zawsze trzeba sporządzić pełną notatkę przekazywaną prokuratorowi.",
+        "Dokumentuje je wyłącznie osoba, wobec której zastosowano środek."
+      ],
+      "correctIndex": 0,
+      "explanation": "Gdy nie nastąpiły skutki wskazane w ustawie, uprawniony może dokumentować użycie i wykorzystanie środków przymusu oraz broni palnej w notatniku służbowym, z zastrzeżeniem zasad dotyczących broni palnej.",
+      "source": "Art. 51 ust. 4"
+    },
+    {
+      "id": "spb-bp-105",
+      "type": "single_choice",
+      "category": "Dokumentowanie",
+      "difficulty": "medium",
+      "question": "Środek przymusu użyto wobec nieletniego umieszczonego w policyjnej izbie dziecka. Czy notatkę trzeba każdorazowo przekazać przełożonemu?",
+      "choices": [
+        "Tak, niezależnie od rodzaju i skutku użycia środka.",
+        "Nie, tylko gdy nieletni złoży zażalenie.",
+        "Nie, tylko gdy doszło do szkody w mieniu.",
+        "Nie, wystarczy wpis w prywatnym notesie funkcjonariusza."
+      ],
+      "correctIndex": 0,
+      "explanation": "W przypadku użycia środka przymusu wobec nieletniego umieszczonego m.in. w policyjnej izbie dziecka uprawniony każdorazowo przekazuje przełożonemu notatkę niezależnie od rodzaju i skutku użycia.",
+      "source": "Art. 51 ust. 3"
+    },
+    {
+      "id": "spb-bp-106",
+      "type": "single_choice",
+      "category": "Dokumentowanie",
+      "difficulty": "hard",
+      "question": "Dowódca pododdziału zwartego zakończył działania, w trakcie których użyto środków przymusu. Co powinien zrobić w zakresie dokumentacji?",
+      "choices": [
+        "Niezwłocznie sporządzić notatkę i przekazać ją organowi lub osobie, która udzieliła zgody na użycie środków.",
+        "Nie dokumentować działań pododdziału, bo odpowiadają za nie tylko przełożeni.",
+        "Sporządzić notatkę wyłącznie wtedy, gdy użyto broni palnej przez pododdział.",
+        "Przekazać dokumentację wyłącznie osobom, wobec których działał pododdział."
+      ],
+      "correctIndex": 0,
+      "explanation": "Użycie i wykorzystanie środków przez pododdział zwarty jego dowódca dokumentuje niezwłocznie po zakończeniu działań, sporządzając notatkę i przekazując ją organowi albo osobie, która udzieliła zgody.",
+      "source": "Art. 52 ust. 2"
+    },
+    {
+      "id": "spb-bp-107",
+      "type": "single_choice",
+      "category": "Dokumentowanie",
+      "difficulty": "medium",
+      "question": "Pracownik ochrony sporządził notatkę z użycia środka przymusu. Co powinien z nią zrobić według ustawy?",
+      "choices": [
+        "Przekazać ją w celu umieszczenia w ewidencji prowadzonej na podstawie przepisów o ochronie osób i mienia.",
+        "Zniszczyć ją po zakończeniu zmiany.",
+        "Przekazać wyłącznie osobie, wobec której użyto środka.",
+        "Wysłać ją wyłącznie do sądu rodzinnego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Po sporządzeniu notatki pracownik ochrony, o którym mowa w ustawie, przekazuje ją w celu umieszczenia w ewidencji wskazanej w przepisach o ochronie osób i mienia.",
+      "source": "Art. 53"
+    },
+    {
+      "id": "spb-bp-108",
+      "type": "single_choice",
+      "category": "Treść notatki",
+      "difficulty": "easy",
+      "question": "Po użyciu środka przymusu doszło do zranienia osoby. Który element powinien znaleźć się w notatce?",
+      "choices": [
+        "Określenie czasu i miejsca użycia lub wykorzystania środka.",
+        "Ocena polityczna przebiegu zdarzenia.",
+        "Lista prywatnych kontaktów uprawnionego.",
+        "Informacja o planowanym urlopie funkcjonariusza."
+      ],
+      "correctIndex": 0,
+      "explanation": "W notatce sporządzanej po skutkowym użyciu lub wykorzystaniu środka zamieszcza się m.in. określenie czasu i miejsca zdarzenia.",
+      "source": "Art. 54 ust. 1 pkt 2"
+    },
+    {
+      "id": "spb-bp-109",
+      "type": "single_choice",
+      "category": "Treść notatki",
+      "difficulty": "easy",
+      "question": "Po skutkowym użyciu środka przymusu funkcjonariusz ustalił świadka będącego innym uprawnionym. Jakie dane świadka mogą zostać wskazane w notatce?",
+      "choices": [
+        "Służbowe dane identyfikacyjne tego uprawnionego.",
+        "Wyłącznie prywatny adres zamieszkania.",
+        "Wyłącznie numer konta bankowego.",
+        "Nie wolno wskazywać żadnych danych świadka."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli świadkiem zdarzenia był uprawniony, notatka zawiera jego służbowe dane identyfikacyjne.",
+      "source": "Art. 54 ust. 1 pkt 10 lit. b"
+    },
+    {
+      "id": "spb-bp-110",
+      "type": "single_choice",
+      "category": "Treść notatki",
+      "difficulty": "medium",
+      "question": "Po użyciu środka przymusu nie udało się uzyskać danych osoby, wobec której użyto środka. Co należy zrobić w notatce?",
+      "choices": [
+        "Podać przyczyny nieumieszczenia tych danych.",
+        "Pominąć całą notatkę jako niekompletną.",
+        "Wpisać dowolne dane zastępcze.",
+        "Zastąpić dane numerem patrolu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli uzyskanie wymaganych danych osoby było niemożliwe, w notatce podaje się przyczyny ich nieumieszczenia.",
+      "source": "Art. 54 ust. 2"
+    },
+    {
+      "id": "spb-bp-111",
+      "type": "single_choice",
+      "category": "Treść notatki",
+      "difficulty": "medium",
+      "question": "Notatka dokumentuje wykorzystanie broni palnej, a nie jej użycie w kierunku osoby. Który dodatkowy element musi zawierać?",
+      "choices": [
+        "Nazwę, typ i numer seryjny broni oraz rodzaj i ilość użytej amunicji.",
+        "Wyłącznie kolor kabury.",
+        "Dane producenta munduru.",
+        "Numer prywatnego telefonu uprawnionego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Notatka dokumentująca użycie lub wykorzystanie broni palnej zawiera także nazwę, typ i numer seryjny broni oraz rodzaj i ilość użytej amunicji.",
+      "source": "Art. 55 ust. 2"
+    },
+    {
+      "id": "spb-bp-112",
+      "type": "single_choice",
+      "category": "Treść notatki",
+      "difficulty": "hard",
+      "question": "Dowódca dokumentuje użycie środków przez pododdział zwarty. Którą informację dodatkową powinien uwzględnić?",
+      "choices": [
+        "Informację o liczebności pododdziału zwartego.",
+        "Numer PESEL każdego przechodnia znajdującego się w pobliżu.",
+        "Opis planów urlopowych członków pododdziału.",
+        "Wyłącznie dane osoby, która złożyła skargę."
+      ],
+      "correctIndex": 0,
+      "explanation": "Notatka dowódcy pododdziału zwartego uwzględnia m.in. informację o liczebności pododdziału zwartego.",
+      "source": "Art. 56 pkt 4"
+    },
+    {
+      "id": "spb-bp-113",
+      "type": "single_choice",
+      "category": "Treść notatki",
+      "difficulty": "hard",
+      "question": "W notatce po użyciu środków przez pododdział zwarty trzeba odtworzyć, kto umożliwił użycie środków. Który element jest wymagany?",
+      "choices": [
+        "Informacja o organie lub osobie, która udzieliła zgody na użycie środków.",
+        "Wyłącznie stanowisko osoby poszkodowanej.",
+        "Opis pogody, nawet jeżeli nie miała znaczenia.",
+        "Kopia całego grafiku służby jednostki."
+      ],
+      "correctIndex": 0,
+      "explanation": "Notatka sporządzana przez dowódcę pododdziału zwartego zawiera informację o organie lub osobie, która udzieliła zgody na użycie środków.",
+      "source": "Art. 56 pkt 1"
+    },
+    {
+      "id": "spb-bp-114",
+      "type": "single_choice",
+      "category": "Zasady użycia",
+      "difficulty": "medium",
+      "question": "Środek przymusu ma właściwości, które mogą stanowić zagrożenie dla zdrowia osoby postronnej. Jak powinien działać uprawniony?",
+      "choices": [
+        "Zachować szczególną ostrożność, uwzględniając właściwości środka.",
+        "Pominąć ocenę zagrożenia, jeżeli środek jest ustawowo wymieniony.",
+        "Użyć środka wyłącznie dla efektu odstraszającego.",
+        "Zawsze odstąpić od wszystkich czynności służbowych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Środków przymusu używa się lub wykorzystuje z zachowaniem szczególnej ostrożności, uwzględniając ich właściwości mogące stanowić zagrożenie życia lub zdrowia.",
+      "source": "Art. 7 ust. 3"
+    },
+    {
+      "id": "spb-bp-115",
+      "type": "single_choice",
+      "category": "Przypadki użycia środków",
+      "difficulty": "medium",
+      "question": "Osoba niszczy mienie, a uprawniony musi temu przeciwdziałać. Czy ustawa przewiduje taki przypadek użycia środka przymusu?",
+      "choices": [
+        "Tak, przeciwdziałanie niszczeniu mienia jest jednym z przypadków użycia lub wykorzystania środka.",
+        "Nie, środki przymusu dotyczą tylko ochrony życia.",
+        "Tak, ale wyłącznie w konwoju.",
+        "Nie, można jedynie sporządzić zawiadomienie po zdarzeniu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Środków przymusu można użyć lub wykorzystać m.in. w celu przeciwdziałania niszczeniu mienia.",
+      "source": "Art. 11 pkt 8"
+    },
+    {
+      "id": "spb-bp-116",
+      "type": "single_choice",
+      "category": "Przypadki użycia środków",
+      "difficulty": "medium",
+      "question": "Osoba stawia bierny opór, uniemożliwiając wykonanie zgodnej z prawem czynności. Który cel może uzasadniać użycie środka?",
+      "choices": [
+        "Pokonanie biernego oporu.",
+        "Zastosowanie środka karnego.",
+        "Ustalenie właściwości sądu.",
+        "Zastąpienie protokołu notatką."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa wymienia pokonanie biernego oporu jako jeden z przypadków użycia lub wykorzystania środków przymusu.",
+      "source": "Art. 11 pkt 12"
+    },
+    {
+      "id": "spb-bp-117",
+      "type": "single_choice",
+      "category": "Przypadki użycia środków",
+      "difficulty": "medium",
+      "question": "Osoba stawia czynny opór podczas zatrzymania. Który cel jest wprost przewidziany w ustawie?",
+      "choices": [
+        "Pokonanie czynnego oporu.",
+        "Zastosowanie kary nagany.",
+        "Ustalenie obywatelstwa świadka.",
+        "Przeprowadzenie mediacji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pokonanie czynnego oporu jest jednym z przypadków użycia lub wykorzystania środków przymusu bezpośredniego.",
+      "source": "Art. 11 pkt 13"
+    },
+    {
+      "id": "spb-bp-118",
+      "type": "single_choice",
+      "category": "Kajdanki",
+      "difficulty": "hard",
+      "question": "Osoba została zatrzymana w związku z podejrzeniem popełnienia przestępstwa z użyciem broni palnej. Czy można rozważyć kajdanki zespolone lub zakładane na nogi?",
+      "choices": [
+        "Tak, taka kategoria osoby jest wymieniona jako jedna z dopuszczających użycie tych kajdanek.",
+        "Nie, takie kajdanki wolno stosować tylko wobec osób agresywnych bez względu na rodzaj czynu.",
+        "Nie, ustawa zakazuje ich przy podejrzeniu użycia broni.",
+        "Tak, ale tylko po prawomocnym skazaniu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kajdanek zespolonych lub zakładanych na nogi można użyć m.in. wobec osób zatrzymanych w związku z podejrzeniem popełnienia przestępstwa z użyciem broni palnej, materiałów wybuchowych lub innego niebezpiecznego narzędzia oraz wskazanych przestępstw.",
+      "source": "Art. 15 ust. 5 pkt 2"
+    },
+    {
+      "id": "spb-bp-119",
+      "type": "single_choice",
+      "category": "Chemiczne środki obezwładniające",
+      "difficulty": "easy",
+      "question": "Który środek należy do chemicznych środków obezwładniających wymienionych w ustawie?",
+      "choices": [
+        "Ręczny miotacz substancji obezwładniających.",
+        "Kajdanki zespolone.",
+        "Pokój izolacyjny.",
+        "Pojazd służbowy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ręczne miotacze substancji obezwładniających są jedną z postaci chemicznych środków obezwładniających.",
+      "source": "Art. 12 ust. 1 pkt 12 lit. a"
+    },
+    {
+      "id": "spb-bp-120",
+      "type": "single_choice",
+      "category": "Środki pirotechniczne",
+      "difficulty": "easy",
+      "question": "Który przedmiot ustawa przykładowo zalicza do środków pirotechnicznych o właściwościach ogłuszających lub olśniewających?",
+      "choices": [
+        "Granat hukowo-błyskowy.",
+        "Kajdanki na ręce.",
+        "Karta parkingowa.",
+        "Notatnik służbowy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Do środków pirotechnicznych o właściwościach ogłuszających lub olśniewających zalicza się w szczególności granaty hukowo-błyskowe, także z gazem łzawiącym, petardy i granaty dymne.",
+      "source": "Art. 33 ust. 2"
+    },
+    {
+      "id": "spb-bp-121",
+      "type": "single_choice",
+      "category": "Broń palna",
+      "difficulty": "hard",
+      "question": "Osoba dokonuje zamachu na mienie, ale zamach ten jednocześnie stwarza bezpośrednie zagrożenie życia lub zdrowia innych osób. Czy może to mieścić się w przypadkach użycia broni?",
+      "choices": [
+        "Tak, jeżeli chodzi o zamach na mienie stwarzający jednocześnie bezpośrednie zagrożenie życia, zdrowia lub wolności.",
+        "Nie, zamach na mienie nigdy nie może mieć znaczenia przy użyciu broni.",
+        "Tak, ale tylko gdy mienie należy do Skarbu Państwa.",
+        "Nie, wolno jedynie użyć notatki służbowej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa przewiduje użycie broni przy konieczności odparcia zamachu na mienie, który jednocześnie stwarza bezpośrednie zagrożenie życia, zdrowia lub wolności uprawnionego lub innej osoby.",
+      "source": "Art. 45 pkt 1 lit. c"
+    },
+    {
+      "id": "spb-bp-122",
+      "type": "single_choice",
+      "category": "Broń palna",
+      "difficulty": "hard",
+      "question": "Osoba pozbawiona wolności ucieka z zakładu karnego. Który przypadek może uzasadniać użycie broni palnej niezależnie od innych podstaw wskazanych dla pościgu?",
+      "choices": [
+        "Konieczność udaremnienia ucieczki osoby pozbawionej wolności z zakładu karnego oraz pościg za nią.",
+        "Sama odmowa rozmowy z funkcjonariuszem.",
+        "Spóźnienie na czynność procesową.",
+        "Brak dokumentu tożsamości przy sobie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Broni palnej można użyć w razie konieczności udaremnienia ucieczki osoby pozbawionej wolności z aresztu śledczego lub zakładu karnego oraz osoby konwojowanej lub doprowadzanej, a także w pościgu za taką osobą.",
+      "source": "Art. 45 pkt 5"
+    },
+    {
+      "id": "spb-bp-123",
+      "type": "single_choice",
+      "category": "Wykorzystanie broni palnej",
+      "difficulty": "medium",
+      "question": "Funkcjonariusz musi pokonać przeszkodę utrudniającą ujęcie osoby. Czy broń palna może zostać wykorzystana do pokonania przeszkody?",
+      "choices": [
+        "Tak, gdy przeszkoda uniemożliwia lub utrudnia ujęcie osoby albo ratowanie życia, zdrowia lub mienia.",
+        "Nie, broń palna nie może być użyta wobec przedmiotów.",
+        "Tak, ale tylko w celu ukarania właściciela przeszkody.",
+        "Nie, można użyć wyłącznie pałki służbowej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Broń palną można wykorzystać do pokonania przeszkody uniemożliwiającej lub utrudniającej ujęcie osoby albo ratowanie życia, zdrowia lub mienia.",
+      "source": "Art. 47 pkt 2 lit. a"
+    },
+    {
+      "id": "spb-bp-124",
+      "type": "single_choice",
+      "category": "Wykorzystanie broni palnej",
+      "difficulty": "hard",
+      "question": "Przedmiot może wybuchnąć i jednocześnie powoduje bezpośrednie zagrożenie życia osoby. Jaki cel wykorzystania broni przewiduje ustawa?",
+      "choices": [
+        "Neutralizację przedmiotów lub urządzeń mogących stwarzać niebezpieczeństwo wybuchu.",
+        "Zabezpieczenie przedmiotu do zwrotu właścicielowi.",
+        "Oznaczenie przedmiotu farbą.",
+        "Wpisanie przedmiotu do ewidencji rzeczy znalezionych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Broń palną można wykorzystać do neutralizacji przedmiotów lub urządzeń mogących stwarzać niebezpieczeństwo wybuchu, powodujących jednocześnie bezpośrednie zagrożenie zdrowia lub życia.",
+      "source": "Art. 47 pkt 4"
+    },
+    {
+      "id": "spb-bp-125",
+      "type": "single_choice",
+      "category": "Procedura przed użyciem broni",
+      "difficulty": "medium",
+      "question": "Uprawniony, który nie jest pracownikiem ochrony, poprzedza użycie broni identyfikacją. Jak powinien to zrobić?",
+      "choices": [
+        "Okrzykiem wskazującym pełną nazwę formacji albo jej ustawowy skrót.",
+        "Przez okazanie prywatnego dokumentu tożsamości.",
+        "Wyłącznie przez wpis w notatniku.",
+        "Przez milczące podniesienie ręki."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przed użyciem broni uprawniony identyfikuje swoją formację albo służbę okrzykiem przez wskazanie pełnej nazwy lub ustawowego skrótu.",
+      "source": "Art. 48 ust. 1 pkt 1"
+    },
+    {
+      "id": "spb-bp-126",
+      "type": "single_choice",
+      "category": "Procedura przed użyciem broni",
+      "difficulty": "medium",
+      "question": "Po identyfikacji formacji policjant wzywa osobę do zachowania zgodnego z prawem. Które wezwanie odpowiada przykładowi z ustawy?",
+      "choices": [
+        "Wezwanie do natychmiastowego porzucenia broni lub innego niebezpiecznego przedmiotu.",
+        "Wezwanie do złożenia wniosku dowodowego.",
+        "Wezwanie do zapłaty grzywny na miejscu.",
+        "Wezwanie do podpisania zgody na przeszukanie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przed użyciem broni uprawniony wzywa osobę do zachowania zgodnego z prawem, w szczególności do porzucenia broni lub innego niebezpiecznego przedmiotu, zaniechania ucieczki albo odstąpienia od przemocy.",
+      "source": "Art. 48 ust. 1 pkt 2"
+    },
+    {
+      "id": "spb-bp-127",
+      "type": "single_choice",
+      "category": "Dokumentowanie",
+      "difficulty": "hard",
+      "question": "Funkcjonariusz Służby Więziennej prewencyjnie użył środka przymusu i nie doszło do zranienia, widocznych objawów zagrożenia życia lub zdrowia, śmierci ani szkody w mieniu. Czy musi dokumentować to prewencyjne użycie?",
+      "choices": [
+        "Nie, ustawa przewiduje wyjątek od dokumentowania w takiej sytuacji.",
+        "Tak, zawsze sporządza pełną notatkę niezależnie od skutków.",
+        "Tak, ale tylko w obecności prokuratora.",
+        "Nie wolno używać środków prewencyjnie w Służbie Więziennej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Uprawniony będący funkcjonariuszem Służby Więziennej nie dokumentuje prewencyjnego użycia lub wykorzystania środków, chyba że wystąpiły wskazane skutki, takie jak zranienie, widoczne objawy zagrożenia, śmierć lub szkoda w mieniu.",
+      "source": "Art. 52 ust. 1"
+    },
+    {
+      "id": "spb-bp-128",
+      "type": "single_choice",
+      "category": "Dokumentowanie",
+      "difficulty": "hard",
+      "question": "Pracownik zakładu poprawczego prewencyjnie użył środka przymusu wobec nieletniego bez skutków w postaci zranienia, widocznego zagrożenia, śmierci lub zniszczenia mienia. Jak dokumentuje takie użycie?",
+      "choices": [
+        "W księdze ewidencji prewencyjnego użycia środków przymusu bezpośredniego.",
+        "Nie dokumentuje w żadnej formie.",
+        "Wyłącznie w notatce przekazywanej prokuratorowi.",
+        "Wyłącznie w mandacie karnym."
+      ],
+      "correctIndex": 0,
+      "explanation": "Uprawniony będący pracownikiem określonych placówek dokumentuje prewencyjne użycie środków w księdze ewidencji prewencyjnego użycia środków przymusu bezpośredniego, z wyjątkami przy skutkach wskazanych w ustawie.",
+      "source": "Art. 52 ust. 1a"
+    },
+    {
+      "id": "spb-bp-129",
+      "type": "single_choice",
+      "category": "Treść notatki",
+      "difficulty": "medium",
+      "question": "Notatka dokumentuje użycie środka przymusu ze skutkiem w postaci zranienia osoby. Który opis powinien się w niej znaleźć?",
+      "choices": [
+        "Opis czynności wykonanych przed użyciem środka i po jego użyciu.",
+        "Opis prywatnych poglądów świadka.",
+        "Lista wszystkich spraw prowadzonych przez jednostkę.",
+        "Ocena, czy osoba zasługuje na karę administracyjną."
+      ],
+      "correctIndex": 0,
+      "explanation": "W notatce po skutkowym użyciu lub wykorzystaniu środka zamieszcza się m.in. opis czynności zrealizowanych przed użyciem lub wykorzystaniem środków i po nim.",
+      "source": "Art. 54 ust. 1 pkt 7"
+    },
+    {
+      "id": "spb-bp-130",
+      "type": "single_choice",
+      "category": "Treść notatki",
+      "difficulty": "medium",
+      "question": "Po użyciu środka przymusu udzielono pierwszej pomocy. Czy zakres tej pomocy powinien zostać opisany w notatce, gdy wystąpiły skutki wskazane w ustawie?",
+      "choices": [
+        "Tak, notatka zawiera informację o udzieleniu pierwszej pomocy i jej zakresie albo o zapewnieniu wezwania odpowiednich podmiotów.",
+        "Nie, pomoc medyczna nigdy nie jest elementem notatki.",
+        "Tak, ale tylko wtedy, gdy osoba poszkodowana jest nieletnia.",
+        "Nie, wystarczy wskazać numer patrolu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Notatka zawiera informację o udzieleniu pierwszej pomocy i jej zakresie lub zapewnieniu wezwania kwalifikowanej pierwszej pomocy albo medycznych czynności ratunkowych.",
+      "source": "Art. 54 ust. 1 pkt 9"
+    },
+    {
+      "id": "spb-bp-131",
+      "type": "single_choice",
+      "category": "Przepisy przejściowe",
+      "difficulty": "medium",
+      "question": "Postępowanie wszczęte na podstawie przepisu zmienianej ustawy o transporcie kolejowym nie zakończyło się przed wejściem w życie tej ustawy. Jak powinno być prowadzone?",
+      "choices": [
+        "W dalszym ciągu na podstawie dotychczasowych przepisów.",
+        "Od początku według nowych przepisów bez wyjątków.",
+        "Należy je zawsze umorzyć.",
+        "Należy przekazać je automatycznie sądowi rodzinnemu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Postępowania wskazane w przepisie przejściowym, wszczęte i niezakończone przed wejściem w życie ustawy, prowadzi się dalej na podstawie dotychczasowych przepisów.",
+      "source": "Art. 81"
+    },
+    {
+      "id": "spb-bp-132",
+      "type": "single_choice",
+      "category": "Przepisy końcowe",
+      "difficulty": "easy",
+      "question": "Osoba sprawdza, od kiedy obowiązuje ustawa. Która data wejścia w życie wynika z aktu?",
+      "choices": [
+        "5 czerwca 2013 r.",
+        "24 maja 2013 r.",
+        "1 stycznia 2014 r.",
+        "20 listopada 2013 r."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ustawa wskazuje, że wchodzi w życie z dniem 5 czerwca 2013 r.",
+      "source": "Art. 85"
+    },
+    {
+      "id": "spb-bp-133",
+      "type": "single_choice",
+      "category": "Szkolenia",
+      "difficulty": "medium",
+      "question": "Osoba ma zaświadczenie o ukończeniu szkolenia dotyczącego procedur na pokładzie statku powietrznego i skutków użycia broni wydane na podstawie dotychczasowych przepisów. Co wynika z ustawy?",
+      "choices": [
+        "Zaświadczenie zachowuje ważność na okres, na który zostało wydane.",
+        "Zaświadczenie traci ważność z dniem wejścia w życie ustawy.",
+        "Zaświadczenie jest ważne tylko przez 7 dni.",
+        "Zaświadczenie wymaga automatycznej wymiany na decyzję sądu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zaświadczenia o ukończeniu wskazanego szkolenia wydane na podstawie dotychczasowych przepisów zachowują ważność na okres, na który zostały wydane.",
+      "source": "Art. 82"
+    }
+  ]
+}
