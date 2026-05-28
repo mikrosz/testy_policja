@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-28T10:26:47.888Z",
+  "generatedAt": "2026-05-28T10:31:59.985Z",
   "banks": [
     {
       "path": "/question-banks/Rozporządzenie w sprawie dokumentów uniemożliwiających ustalenie danych identyfikujących policjanta.json",
@@ -439,6 +439,42 @@
         "Zadania specjalistyczne",
         "Zakazy podczas służby",
         "Zakres zarządzenia"
+      ],
+      "types": [
+        "single_choice"
+      ]
+    },
+    {
+      "path": "/question-banks/Zarządzenie nr 768 Komendanta Głównego Policji w sprawie służby patrolowej.json",
+      "title": "Zarządzenie nr 768 Komendanta Głównego Policji z dnia 14 sierpnia 2007 r. w sprawie form i metod wykonywania zadań przez policjantów pełniących służbę patrolową oraz koordynacji działań o charakterze prewencyjnym",
+      "question_count": 126,
+      "detected_question_count": 126,
+      "categories": [
+        "Analiza bezpieczeństwa",
+        "Bezpieczeństwo policjantów",
+        "Ceduła patrolowa",
+        "Dokumentowanie organizacji służby",
+        "Komórki interwencyjne i wywiadowcze",
+        "Miejsce wydarzenia",
+        "Nadzór nad służbą",
+        "Oddziały prewencji",
+        "Odprawa i przygotowanie do służby",
+        "Organizacja służby",
+        "Organizacja służby w rejonach",
+        "Pojazd i łączność",
+        "Pojęcia organizacyjne",
+        "Posterunki i plan dyslokacji",
+        "Przebieg patrolowania",
+        "Przepisy końcowe",
+        "Przerwa w służbie",
+        "Reakcja na zdarzenie",
+        "Rozliczenie służby",
+        "Taktyka patrolu",
+        "Umundurowanie i wyposażenie",
+        "Współpraca i wspólne patrole",
+        "Zadania służby patrolowej",
+        "Zakres zarządzenia",
+        "Zintegrowany system i koordynacja"
       ],
       "types": [
         "single_choice"
