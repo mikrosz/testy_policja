@@ -59,21 +59,6 @@ export default function QuizSessionPage() {
     return false;
   }, [isReview, current, answers]);
 
-  const categoryProgress = useMemo(() => {
-    if (!quiz) return [];
-    const map = new Map<string, { total: number; answered: number }>();
-    for (const q of quiz.questions) {
-      const c = q.category ?? "Ogólne";
-      const v = map.get(c) ?? { total: 0, answered: 0 };
-      v.total += 1;
-      if (answers[q.id]) v.answered += 1;
-      map.set(c, v);
-    }
-    return [...map.entries()]
-      .map(([category, v]) => ({ category, ...v }))
-      .sort((a, b) => b.total - a.total);
-  }, [quiz, answers]);
-
   const remaining = useMemo(() => {
     if (!quiz?.config.timer.enabled) return null;
     const elapsedSeconds = Math.floor((now - startedAt) / 1000);
@@ -192,65 +177,36 @@ export default function QuizSessionPage() {
         </div>
       </div>
 
-      <div className="mt-4 grid grid-cols-1 gap-4 lg:grid-cols-[320px_1fr]">
-        <aside className="rounded-xl border border-slate-200 bg-white p-4 dark:border-slate-700 dark:bg-slate-900/80 dark:shadow-black/20">
-          <div className="text-sm font-semibold">Kategorie i postęp</div>
-          <div className="mt-2 space-y-2">
-            {categoryProgress.map((c) => (
-              <div key={c.category} className="rounded-lg border border-slate-200 p-3 text-sm dark:border-slate-700">
-                <div className="flex items-center justify-between gap-2">
-                  <div className="truncate font-medium">{c.category}</div>
-                  <div className="shrink-0 text-xs text-slate-500 dark:text-slate-400">
-                    {c.answered}/{c.total}
-                  </div>
-                </div>
-                <div className="mt-2">
-                  <ProgressBar value={c.answered} max={c.total} />
-                </div>
-              </div>
-            ))}
-          </div>
-          <div className="mt-4 rounded-lg border border-slate-200 p-3 text-xs text-slate-600 dark:border-slate-700 dark:text-slate-200">
-            Tryb egzaminu: 1 pytanie na raz • wynik po zakończeniu.
-          </div>
-        </aside>
+      <div className="mt-4">
+        <div className="mt-0">
+          <ProgressBar value={index + 1} max={quiz.questions.length} />
+        </div>
 
-        <section>
-          <div className="mt-0">
-            <ProgressBar value={index + 1} max={quiz.questions.length} />
-          </div>
+        <div className="mt-4 rounded-xl border border-slate-200 bg-white p-4 dark:border-slate-700 dark:bg-slate-900/80 dark:shadow-black/20">
+          {current ? (
+            <QuestionView question={current} answer={answers[current.id] ?? null} onAnswer={onAnswer} revealCorrect={revealNow} />
+          ) : (
+            <p className="text-sm text-slate-600 dark:text-slate-300">Brak pytania.</p>
+          )}
+        </div>
 
-          <div className="mt-4 rounded-xl border border-slate-200 bg-white p-4 dark:border-slate-700 dark:bg-slate-900/80 dark:shadow-black/20">
-            {current ? (
-              <QuestionView
-                question={current}
-                answer={answers[current.id] ?? null}
-                onAnswer={onAnswer}
-                revealCorrect={revealNow}
-              />
-            ) : (
-              <p className="text-sm text-slate-600 dark:text-slate-300">Brak pytania.</p>
-            )}
+        <div className="mt-4 flex items-center justify-between gap-2">
+          <Button variant="secondary" disabled={index <= 0} onClick={() => setIndex((i) => Math.max(0, i - 1))}>
+            Poprzednie
+          </Button>
+          <div className="text-xs text-slate-500 dark:text-slate-400">
+            {index + 1} / {quiz.questions.length}
           </div>
-
-          <div className="mt-4 flex items-center justify-between gap-2">
-            <Button variant="secondary" disabled={index <= 0} onClick={() => setIndex((i) => Math.max(0, i - 1))}>
-              Poprzednie
+          {index < quiz.questions.length - 1 ? (
+            <Button onClick={() => setIndex((i) => Math.min(quiz.questions.length - 1, i + 1))}>Następne</Button>
+          ) : !isReview ? (
+            <Button onClick={finish}>Zakończ</Button>
+          ) : (
+            <Button variant="secondary" onClick={() => setIndex(0)}>
+              Do początku
             </Button>
-            <div className="text-xs text-slate-500 dark:text-slate-400">
-              {index + 1} / {quiz.questions.length}
-            </div>
-            {index < quiz.questions.length - 1 ? (
-              <Button onClick={() => setIndex((i) => Math.min(quiz.questions.length - 1, i + 1))}>Następne</Button>
-            ) : !isReview ? (
-              <Button onClick={finish}>Zakończ</Button>
-            ) : (
-              <Button variant="secondary" onClick={() => setIndex(0)}>
-                Do początku
-              </Button>
-            )}
-          </div>
-        </section>
+          )}
+        </div>
       </div>
     </div>
   );

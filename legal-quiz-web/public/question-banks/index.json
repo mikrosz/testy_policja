@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-28T06:05:36.693Z",
+  "generatedAt": "2026-05-28T06:10:11.641Z",
   "banks": [
     {
       "path": "/question-banks/KK.json",
@@ -390,6 +390,27 @@
         "Zakres stosowania ustawy",
         "Zasady ogólne",
         "Środki przymusu"
+      ],
+      "types": [
+        "single_choice"
+      ]
+    },
+    {
+      "path": "/question-banks/Wytyczne notatki służbowe.json",
+      "title": "Wytyczne nr 5 KGP - notatniki służbowe - 250 pytań",
+      "question_count": 250,
+      "detected_question_count": 250,
+      "categories": [
+        "Interwencje",
+        "Kontrole",
+        "Osoby i czynności wobec osób",
+        "Symbole literowe",
+        "Służba i patrole",
+        "Uprawnienia i pouczenia",
+        "Zdarzenia i zabezpieczenie",
+        "Zmiany w wytycznych",
+        "Środki oddziaływania i mandaty",
+        "Środki przymusu i broń"
       ],
       "types": [
         "single_choice"

@@ -8,18 +8,11 @@ import { Select } from "@/components/ui/Select";
 import { NumberInput } from "@/components/ui/NumberInput";
 import { CheckboxGroup } from "@/components/ui/CheckboxGroup";
 import { storage } from "@/lib/storage/storage";
-import type { BankQuestionType, QuestionBank, QuizConfig } from "@/lib/types";
+import type { QuestionBank, QuizConfig } from "@/lib/types";
 import { buildBankQuiz } from "@/lib/quiz/buildBankQuiz";
 import { ToastHost, useToasts } from "@/components/ui/Toast";
 import { activeQuiz } from "@/lib/quiz/activeQuiz";
 import { withBasePath } from "@/lib/nav/withBasePath";
-
-const BANK_QUESTION_TYPES: { key: BankQuestionType; label: string }[] = [
-  { key: "single_choice", label: "Jednokrotnego wyboru" },
-  { key: "multiple_choice", label: "Wielokrotnego wyboru" },
-  { key: "truefalse", label: "Prawda / Fałsz" },
-  { key: "fillblank", label: "Uzupełnij lukę" }
-];
 
 export function NewQuizClient() {
   const searchParams = useSearchParams();
@@ -31,7 +24,6 @@ export function NewQuizClient() {
   const [showCategories, setShowCategories] = useState(false);
   const [count, setCount] = useState<number>(20);
   const [difficulty, setDifficulty] = useState<QuizConfig["difficulty"]>("medium");
-  const [types, setTypes] = useState<BankQuestionType[]>(["truefalse", "single_choice"]);
   const [randomize, setRandomize] = useState(true);
   const [withTimer, setWithTimer] = useState(true);
   const [timerSeconds, setTimerSeconds] = useState<number>(1800);
@@ -62,16 +54,12 @@ export function NewQuizClient() {
 
   async function onBuild() {
     if (!bank) return;
-    if (types.length === 0) {
-      pushToast({ kind: "warning", title: "Brak typów", message: "Zaznacz co najmniej jeden typ pytania." });
-      return;
-    }
     setIsBuilding(true);
     try {
       const config: QuizConfig = {
         bankId: bank.id,
         categories,
-        questionTypes: types,
+        questionTypes: ["single_choice"],
         randomize,
         questionCount: count,
         difficulty,
@@ -80,7 +68,7 @@ export function NewQuizClient() {
       };
       const quiz = buildBankQuiz(bank, config);
       if (quiz.questions.length === 0) {
-        throw new Error("Brak pytań spełniających wybrane filtry (kategorie/typy).");
+        throw new Error("Brak pytań spełniających wybrane filtry (kategorie).");
       }
       await storage.quizzes.put(quiz);
       activeQuiz.setActiveId(quiz.id);
@@ -164,13 +152,6 @@ export function NewQuizClient() {
             ]}
           />
         </div>
-
-        <CheckboxGroup
-          label="Typy pytań"
-          values={types}
-          onChange={(vals) => setTypes(vals as BankQuestionType[])}
-          options={BANK_QUESTION_TYPES.map((t) => ({ value: t.key, label: t.label }))}
-        />
 
         <label className="flex items-center gap-2 text-sm">
           <input

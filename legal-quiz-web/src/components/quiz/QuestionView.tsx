@@ -21,9 +21,6 @@ export function QuestionView({
       <div className="mt-2 rounded-lg border border-slate-200 bg-slate-50 p-3 text-xs text-slate-700 dark:border-slate-700 dark:bg-slate-900/80 dark:text-slate-200">
         <div className="flex items-center justify-between gap-2">
           <div className="font-semibold">Źródło</div>
-          <div className="text-[11px] text-slate-500 dark:text-slate-400">
-            {question.category ? question.category : "Ogólne"}
-          </div>
         </div>
         <div className="mt-1 whitespace-pre-wrap">{question.sourceExcerpt}</div>
       </div>
