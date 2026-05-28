@@ -18,13 +18,6 @@ export function QuestionView({
       <div className="text-sm font-semibold">{question.prompt}</div>
       {question.help ? <div className="mt-1 text-xs text-slate-500 dark:text-slate-400">{question.help}</div> : null}
 
-      <div className="mt-2 rounded-lg border border-slate-200 bg-slate-50 p-3 text-xs text-slate-700 dark:border-slate-700 dark:bg-slate-900/80 dark:text-slate-200">
-        <div className="flex items-center justify-between gap-2">
-          <div className="font-semibold">Źródło</div>
-        </div>
-        <div className="mt-1 whitespace-pre-wrap">{question.sourceExcerpt}</div>
-      </div>
-
       <div className="mt-4 space-y-2">
         {question.type === "truefalse" ? (
           <TrueFalse question={question} answer={answer} onAnswer={onAnswer} revealCorrect={revealCorrect} />
