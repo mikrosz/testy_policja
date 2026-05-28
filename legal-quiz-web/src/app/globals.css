@@ -13,3 +13,9 @@ body {
   outline-offset: 2px;
 }
 
+/* Better typography on mobile for long Polish strings */
+body {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

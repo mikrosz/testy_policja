@@ -53,8 +53,8 @@ export function QuestionView({
 
 function pill(selected: boolean) {
   return selected
-    ? "border-blue-300 bg-blue-50 dark:border-blue-900 dark:bg-blue-950/30"
-    : "border-slate-200 bg-white dark:border-slate-700 dark:bg-slate-900/80";
+    ? "border-blue-400/70 bg-blue-50 dark:border-blue-500/50 dark:bg-blue-950/30"
+    : "border-slate-200 bg-white hover:border-slate-300 hover:bg-slate-50 dark:border-slate-700 dark:bg-slate-900/80 dark:hover:border-slate-600 dark:hover:bg-slate-900";
 }
 
 function TrueFalse({
@@ -70,7 +70,7 @@ function TrueFalse({
 }) {
   const val = answer?.kind === "boolean" ? answer.value : null;
   return (
-    <div className="grid grid-cols-2 gap-2">
+    <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
       {[true, false].map((v) => {
         const chosen = val === v;
         const correct = revealCorrect ? question.correct === v : null;
@@ -88,7 +88,7 @@ function TrueFalse({
             }`}
             onClick={() => onAnswer({ kind: "boolean", value: v })}
           >
-            {v ? "Prawda" : "Fałsz"}
+            <span className="min-w-0 break-words leading-snug">{v ? "Prawda" : "Fałsz"}</span>
           </button>
         );
       })}
@@ -109,7 +109,7 @@ function SingleChoice({
 }) {
   const val = answer?.kind === "single" ? answer.choiceId : null;
   return (
-    <div className="grid grid-cols-2 gap-2">
+    <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
       {question.choices.map((c, idx) => {
         const chosen = val === c.id;
         const correct = revealCorrect ? question.correctChoiceId === c.id : null;
@@ -131,7 +131,7 @@ function SingleChoice({
               <div className="mt-0.5 shrink-0 rounded-md border border-slate-200 bg-white px-2 py-1 text-xs font-semibold text-slate-700 dark:border-slate-700 dark:bg-slate-900/80 dark:text-slate-200">
                 {indexToLetter(idx)}
               </div>
-              <div className="min-w-0">{c.label}</div>
+              <div className="min-w-0 break-words leading-snug">{c.label}</div>
             </div>
           </button>
         );
@@ -157,7 +157,7 @@ function MultipleChoice({
     onAnswer({ kind: "multiple", choiceIds: next });
   }
   return (
-    <div className="grid grid-cols-2 gap-2">
+    <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
       {question.choices.map((c, idx) => {
         const chosen = vals.includes(c.id);
         const correct = revealCorrect ? question.correctChoiceIds.includes(c.id) : null;
@@ -179,7 +179,7 @@ function MultipleChoice({
               <div className="mt-0.5 shrink-0 rounded-md border border-slate-200 bg-white px-2 py-1 text-xs font-semibold text-slate-700 dark:border-slate-700 dark:bg-slate-900/80 dark:text-slate-200">
                 {indexToLetter(idx)}
               </div>
-              <div className="min-w-0">{c.label}</div>
+              <div className="min-w-0 break-words leading-snug">{c.label}</div>
             </div>
           </button>
         );
