@@ -1,0 +1,1575 @@
+{
+  "title": "Zarządzenie Nr 609 Komendanta Głównego Policji z dnia 25 czerwca 2007 r. w sprawie sposobu pełnienia służby na drogach przez policjantów",
+  "description": "Baza pytań praktycznych opracowana wyłącznie na podstawie przesłanego aktu prawnego.",
+  "question_count": 98,
+  "questions": [
+    {
+      "id": "zarzadzenie-609-001",
+      "type": "single_choice",
+      "category": "Zakres zarządzenia",
+      "difficulty": "easy",
+      "question": "Policjant otrzymuje zadanie czuwania nad bezpieczeństwem i porządkiem ruchu na drodze. Który zakres czynności obejmuje to zarządzenie?",
+      "choices": [
+        "Metody i formy wykonywania zadań kontroli ruchu drogowego oraz organizację i sposób pełnienia służby na drogach.",
+        "Wyłącznie zasady nakładania mandatów karnych za wykroczenia drogowe.",
+        "Tylko techniczne warunki dopuszczenia pojazdów policyjnych do ruchu.",
+        "Wyłącznie procedurę zatrzymywania prawa jazdy przez policjanta."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zarządzenie określa metody i formy wykonywania zadań kontroli ruchu drogowego, organizację służby na drogach i sposób jej pełnienia przez policjantów. Podstawa: § 1.",
+      "source": "§ 1"
+    },
+    {
+      "id": "zarzadzenie-609-002",
+      "type": "single_choice",
+      "category": "Zakres zarządzenia",
+      "difficulty": "medium",
+      "question": "Komórka Policji planuje działania z podmiotami spoza Policji dla poprawy bezpieczeństwa na drogach. Czy taki element mieści się w zakresie zarządzenia?",
+      "choices": [
+        "Nie, zarządzenie dotyczy wyłącznie wewnętrznych czynności patrolu.",
+        "Tak, bo obejmuje współdziałanie z innymi służbami Policji i podmiotami pozapolicyjnymi w działaniach na rzecz bezpieczeństwa ruchu drogowego.",
+        "Tak, ale tylko jeżeli działania prowadzi wyłącznie komendant wojewódzki.",
+        "Nie, takie współdziałanie może być opisane wyłącznie w ustawie."
+      ],
+      "correctIndex": 1,
+      "explanation": "Zakres zarządzenia obejmuje współdziałanie z innymi rodzajami służb Policji i podmiotami pozapolicyjnymi w działaniach zmierzających do poprawy bezpieczeństwa ruchu drogowego i zwalczania przestępczości na drogach. Podstawa: § 1.",
+      "source": "§ 1"
+    },
+    {
+      "id": "zarzadzenie-609-003",
+      "type": "single_choice",
+      "category": "Uprawnienia i właściwość policjantów",
+      "difficulty": "easy",
+      "question": "Do kontroli ruchu drogowego ma zostać wyznaczony policjant pełniący służbę w komórce ruchu drogowego. Jaki dodatkowy warunek musi spełniać, aby był traktowany jako policjant ruchu drogowego w rozumieniu zarządzenia?",
+      "choices": [
+        "Musi posiadać przeszkolenie w zakresie kontroli ruchu drogowego.",
+        "Musi pełnić służbę wyłącznie na autostradzie.",
+        "Musi mieć co najmniej pięcioletni staż służby.",
+        "Musi być każdorazowo wyznaczony przez Komendanta Głównego Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjantem ruchu drogowego jest policjant pełniący służbę w komórce właściwej do spraw ruchu drogowego i posiadający przeszkolenie w tym zakresie. Podstawa: § 2 ust. 1.",
+      "source": "§ 2 ust. 1"
+    },
+    {
+      "id": "zarzadzenie-609-004",
+      "type": "single_choice",
+      "category": "Uprawnienia i właściwość policjantów",
+      "difficulty": "easy",
+      "question": "Dyżurny jednostki poleca policjantowi spoza komórki ruchu drogowego wykonanie zadania z zakresu kontroli ruchu drogowego. Czy zarządzenie dopuszcza taką sytuację?",
+      "choices": [
+        "Nie, takie zadania zawsze wykonuje wyłącznie policjant ruchu drogowego.",
+        "Tak, ale tylko po pisemnej zgodzie komendanta wojewódzkiego.",
+        "Tak, policjant inny niż policjant ruchu drogowego może wykonywać takie zadania na polecenie kierownika jednostki albo dyżurnego.",
+        "Nie, chyba że chodzi wyłącznie o czynności administracyjne po zakończeniu służby."
+      ],
+      "correctIndex": 2,
+      "explanation": "Policjant inny niż policjant ruchu drogowego może wykonywać zadania kontroli ruchu drogowego na polecenie kierownika jednostki organizacyjnej Policji lub dyżurnego jednostki. Podstawa: § 2 ust. 2.",
+      "source": "§ 2 ust. 2"
+    },
+    {
+      "id": "zarzadzenie-609-005",
+      "type": "single_choice",
+      "category": "Uprawnienia i właściwość policjantów",
+      "difficulty": "medium",
+      "question": "Policjant ruchu drogowego ma zostać skierowany do innego zadania niż kontrola ruchu drogowego. Kiedy takie skierowanie jest dopuszczalne?",
+      "choices": [
+        "Zawsze, gdy w grafiku występuje wolny patrol.",
+        "Tylko gdy zaistnieje zdarzenie wymagające niezwłocznego podjęcia czynności służbowych.",
+        "Wyłącznie po zakończeniu służby na drodze.",
+        "Tylko w celu wykonania czynności biurowych niezwiązanych z drogą."
+      ],
+      "correctIndex": 1,
+      "explanation": "Policjant ruchu drogowego może być skierowany do innych zadań w przypadku zdarzenia wymagającego niezwłocznego podjęcia czynności służbowych. Podstawa: § 3 ust. 1.",
+      "source": "§ 3 ust. 1"
+    },
+    {
+      "id": "zarzadzenie-609-006",
+      "type": "single_choice",
+      "category": "Uprawnienia i właściwość policjantów",
+      "difficulty": "medium",
+      "question": "W jednostce powstała potrzeba skierowania policjanta ruchu drogowego do pilnych czynności niezwiązanych z kontrolą ruchu. Kto może podjąć decyzję o takim skierowaniu?",
+      "choices": [
+        "Wyłącznie dowódca patrolu.",
+        "Kierownik jednostki organizacyjnej Policji, osoba przez niego upoważniona albo dyżurny jednostki.",
+        "Każdy policjant pełniący służbę na tej samej trasie.",
+        "Wyłącznie osoba kontrolowana, jeżeli zgłosi zagrożenie."
+      ],
+      "correctIndex": 1,
+      "explanation": "Decyzję o skierowaniu policjanta ruchu drogowego do innych zadań podejmuje kierownik jednostki, osoba przez niego upoważniona albo dyżurny jednostki. Podstawa: § 3 ust. 2.",
+      "source": "§ 3 ust. 2"
+    },
+    {
+      "id": "zarzadzenie-609-007",
+      "type": "single_choice",
+      "category": "Zadania specjalistyczne",
+      "difficulty": "medium",
+      "question": "Jednostka planuje skierować policjanta bez odpowiedniego przeszkolenia zawodowego do samodzielnej kontroli stanu technicznego pojazdów silnikowych. Czy jest to prawidłowe?",
+      "choices": [
+        "Tak, każdy policjant może wykonywać taką kontrolę bez ograniczeń.",
+        "Nie, takie zadanie wymaga policjanta ruchu drogowego z odpowiednim przeszkoleniem zawodowym.",
+        "Tak, jeżeli kontrola jest prowadzona tylko w dzień.",
+        "Tak, jeżeli policjant pełni służbę w patrolu dwuosobowym."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kontrolę stanu technicznego pojazdów silnikowych wykonuje wyłącznie policjant ruchu drogowego mający odpowiednie przeszkolenie zawodowe. Podstawa: § 4 pkt 2.",
+      "source": "§ 4 pkt 2"
+    },
+    {
+      "id": "zarzadzenie-609-008",
+      "type": "single_choice",
+      "category": "Zadania specjalistyczne",
+      "difficulty": "hard",
+      "question": "Na drodze trzeba przeprowadzić kontrolę zapisów tachografu. Który policjant powinien wykonać tę czynność?",
+      "choices": [
+        "Dowolny policjant wyznaczony do patrolu, bez względu na przeszkolenie.",
+        "Wyłącznie policjant ruchu drogowego mający odpowiednie przeszkolenie zawodowe.",
+        "Tylko dyżurny jednostki Policji.",
+        "Wyłącznie policjant pełniący służbę na motocyklu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kontrola zapisów urządzeń samoczynnie rejestrujących prędkość jazdy, czas jazdy i postoju należy do zadań wykonywanych wyłącznie przez policjanta ruchu drogowego z odpowiednim przeszkoleniem zawodowym. Podstawa: § 4 pkt 5.",
+      "source": "§ 4 pkt 5"
+    },
+    {
+      "id": "zarzadzenie-609-009",
+      "type": "single_choice",
+      "category": "Zadania specjalistyczne",
+      "difficulty": "hard",
+      "question": "Na miejscu zdarzenia drogowego trzeba wykonać czynności wymagające wiedzy specjalistycznej. Która decyzja odpowiada zarządzeniu?",
+      "choices": [
+        "Do takich czynności kieruje się wyłącznie policjanta ruchu drogowego z odpowiednim przeszkoleniem zawodowym, z przewidzianymi wyjątkami dotyczącymi miejsca zdarzenia.",
+        "Do takich czynności można zawsze skierować patrol prewencji bez żadnych ograniczeń.",
+        "Takie czynności wykonuje wyłącznie dyżurny jednostki przez telefon.",
+        "Takich czynności nie wykonuje się w ramach służby na drogach."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zadania wymagające wiedzy specjalistycznej, w tym czynności na miejscu wypadków drogowych, wykonuje co do zasady wyłącznie policjant ruchu drogowego z odpowiednim przeszkoleniem, z zastrzeżeniem regulacji dotyczącej czynności na miejscu zdarzenia. Podstawa: § 4 pkt 3 oraz § 25 ust. 2.",
+      "source": "§ 4 pkt 3; § 25 ust. 2"
+    },
+    {
+      "id": "zarzadzenie-609-010",
+      "type": "single_choice",
+      "category": "Organizacja służby",
+      "difficulty": "medium",
+      "question": "Trzeba określić organizację służby na wybranych drogach krajowych objętych centralną koordynacją. Kto określa tę organizację?",
+      "choices": [
+        "Dyrektor biura Komendy Głównej Policji właściwy do spraw ruchu drogowego po zasięgnięciu opinii właściwego komendanta wojewódzkiego albo Stołecznego Policji.",
+        "Każdy kierownik patrolu bez konieczności konsultacji.",
+        "Wyłącznie właściwy starosta.",
+        "Kierownik komórki ruchu drogowego dowolnej komendy powiatowej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Centralną koordynację służby na wybranych drogach krajowych określa dyrektor właściwego biura KGP po zasięgnięciu opinii właściwego komendanta wojewódzkiego albo Stołecznego Policji. Podstawa: § 5.",
+      "source": "§ 5"
+    },
+    {
+      "id": "zarzadzenie-609-011",
+      "type": "single_choice",
+      "category": "Organizacja służby",
+      "difficulty": "medium",
+      "question": "Trzeba określić organizację służby na drogach nieobjętych centralną koordynacją. Kto powinien to zrobić?",
+      "choices": [
+        "Dyżurny najbliższej jednostki bez udziału innych organów.",
+        "Komendant wojewódzki albo Stołeczny Policji po zasięgnięciu opinii właściwych komendantów powiatowych lub miejskich Policji.",
+        "Każdy policjant ruchu drogowego po rozpoczęciu służby.",
+        "Wyłącznie komendant powiatowy, bez udziału komendanta wojewódzkiego."
+      ],
+      "correctIndex": 1,
+      "explanation": "Organizację służby na drogach nieobjętych centralną koordynacją określa komendant wojewódzki albo Stołeczny Policji po zasięgnięciu opinii właściwych komendantów powiatowych lub miejskich Policji. Podstawa: § 6 ust. 1.",
+      "source": "§ 6 ust. 1"
+    },
+    {
+      "id": "zarzadzenie-609-012",
+      "type": "single_choice",
+      "category": "Organizacja służby",
+      "difficulty": "medium",
+      "question": "Sąsiadujące komendy planują służbę przy granicy powiatów. Które działanie należy uwzględnić jako element współdziałania?",
+      "choices": [
+        "Rezygnację z przekazywania informacji o patrolach, aby zachować samodzielność działań.",
+        "Wzajemne przekazywanie informacji o danych radiowych i dyslokacji patroli wykonujących zadania przy granicy powiatu.",
+        "Zakaz prowadzenia jakichkolwiek działań na terenie sąsiedniego powiatu.",
+        "Ograniczenie współdziałania wyłącznie do końcowego rozliczenia służby."
+      ],
+      "correctIndex": 1,
+      "explanation": "Przy organizacji służby należy uwzględnić warunki współdziałania sąsiadujących komend, w tym wzajemne przekazywanie informacji o danych radiowych i dyslokacji patroli przy granicy powiatu. Podstawa: § 6 ust. 2 pkt 1.",
+      "source": "§ 6 ust. 2 pkt 1"
+    },
+    {
+      "id": "zarzadzenie-609-013",
+      "type": "single_choice",
+      "category": "Planowanie dyslokacji",
+      "difficulty": "easy",
+      "question": "Kierownik komórki ruchu drogowego ustala dyslokację służby. Na czym powinien się oprzeć w szczególności?",
+      "choices": [
+        "Wyłącznie na liczbie dostępnych radiowozów.",
+        "Między innymi na analizie stanu bezpieczeństwa i porządku na drogach oraz zagrożenia przestępczością.",
+        "Wyłącznie na wnioskach osób kontrolowanych.",
+        "Tylko na grafiku urlopowym policjantów."
+      ],
+      "correctIndex": 1,
+      "explanation": "Dyslokację służby ustala się w szczególności na podstawie analizy stanu bezpieczeństwa i porządku na drogach oraz zagrożenia przestępczością. Podstawa: § 7 ust. 1 pkt 1.",
+      "source": "§ 7 ust. 1 pkt 1"
+    },
+    {
+      "id": "zarzadzenie-609-014",
+      "type": "single_choice",
+      "category": "Planowanie dyslokacji",
+      "difficulty": "medium",
+      "question": "Podczas planowania służby pojawiły się informacje o dużym natężeniu ruchu na konkretnych skrzyżowaniach. Jak powinno to wpłynąć na dyslokację?",
+      "choices": [
+        "Nie ma znaczenia, bo natężenie ruchu nie jest kryterium planowania.",
+        "Może być uwzględnione, ponieważ przy dyslokacji bierze się pod uwagę natężenie i strukturę ruchu na odcinkach dróg i skrzyżowaniach.",
+        "Może być uwzględnione tylko po wydaniu zarządzenia przez Komendanta Głównego Policji.",
+        "Powoduje obowiązek skierowania wyłącznie patroli motocyklowych."
+      ],
+      "correctIndex": 1,
+      "explanation": "Przy ustalaniu dyslokacji bierze się pod uwagę natężenie i strukturę ruchu na poszczególnych odcinkach dróg i skrzyżowaniach. Podstawa: § 7 ust. 1 pkt 2.",
+      "source": "§ 7 ust. 1 pkt 2"
+    },
+    {
+      "id": "zarzadzenie-609-015",
+      "type": "single_choice",
+      "category": "Planowanie dyslokacji",
+      "difficulty": "medium",
+      "question": "Obywatele i instytucje zgłaszają uwagi dotyczące niebezpiecznego odcinka drogi. Kiedy takie informacje mogą wpływać na planowanie służby?",
+      "choices": [
+        "Nigdy, bo źródłem planowania mogą być tylko dane policyjne.",
+        "Gdy są potwierdzone i stanowią uwagi lub wnioski zgłoszone przez obywateli, organy, instytucje albo policjantów.",
+        "Tylko wtedy, gdy zgłoszenia dotyczą autostrady.",
+        "Wyłącznie po zatwierdzeniu przez sąd."
+      ],
+      "correctIndex": 1,
+      "explanation": "Dyslokację służby ustala się m.in. na podstawie potwierdzonych uwag i wniosków zgłoszonych przez obywateli, organy, instytucje oraz policjantów. Podstawa: § 7 ust. 1 pkt 5.",
+      "source": "§ 7 ust. 1 pkt 5"
+    },
+    {
+      "id": "zarzadzenie-609-016",
+      "type": "single_choice",
+      "category": "Planowanie dyslokacji",
+      "difficulty": "easy",
+      "question": "Policjant przygotowuje szczegółowe zadania patrolu na nocną służbę zimą. Jakie okoliczności powinien dodatkowo uwzględnić?",
+      "choices": [
+        "Tylko liczbę zakończonych kontroli z poprzedniego dnia.",
+        "Porę roku i doby, dzień tygodnia, warunki atmosferyczne, przewidywane zagrożenia oraz informacje od innych służb.",
+        "Wyłącznie preferencje policjantów co do trasy patrolu.",
+        "Tylko lokalizację najbliższej jednostki Policji."
+      ],
+      "correctIndex": 1,
+      "explanation": "Przy planowaniu dyslokacji i precyzowaniu zadań należy uwzględniać m.in. porę roku i doby, dzień tygodnia, warunki atmosferyczne, przewidywane zagrożenia oraz informacje od innych służb. Podstawa: § 7 ust. 2.",
+      "source": "§ 7 ust. 2"
+    },
+    {
+      "id": "zarzadzenie-609-017",
+      "type": "single_choice",
+      "category": "Skład patrolu",
+      "difficulty": "easy",
+      "question": "Do służby na drodze planowany jest patrol. Jaka jest podstawowa zasada dotycząca jego liczebności?",
+      "choices": [
+        "Należy kierować patrole co najmniej dwuosobowe, z przewidzianymi wyjątkami.",
+        "Zawsze należy kierować wyłącznie patrole jednoosobowe.",
+        "Patrol musi składać się z co najmniej czterech policjantów.",
+        "Liczebność patrolu nie jest w ogóle regulowana."
+      ],
+      "correctIndex": 0,
+      "explanation": "Do służby na drodze należy kierować patrole co najmniej dwuosobowe, z wyjątkami przewidzianymi w zarządzeniu. Podstawa: § 8 ust. 1.",
+      "source": "§ 8 ust. 1"
+    },
+    {
+      "id": "zarzadzenie-609-018",
+      "type": "single_choice",
+      "category": "Skład patrolu",
+      "difficulty": "easy",
+      "question": "Patrol drogowy ma składać się z policjanta ruchu drogowego i funkcjonariusza innej służby. Czy taki skład jest dopuszczalny?",
+      "choices": [
+        "Nie, patrol drogowy zawsze musi składać się wyłącznie z policjantów ruchu drogowego.",
+        "Tak, patrol może składać się co najmniej z jednego policjanta ruchu drogowego i funkcjonariusza innej służby.",
+        "Nie, chyba że patrol pełni służbę tylko przy zdarzeniu drogowym.",
+        "Tak, ale dowódcą patrolu musi być funkcjonariusz innej służby."
+      ],
+      "correctIndex": 1,
+      "explanation": "Patrol może składać się co najmniej z jednego policjanta ruchu drogowego i funkcjonariusza innej służby. Podstawa: § 8 ust. 2.",
+      "source": "§ 8 ust. 2"
+    },
+    {
+      "id": "zarzadzenie-609-019",
+      "type": "single_choice",
+      "category": "Skład patrolu",
+      "difficulty": "medium",
+      "question": "W patrolu wieloosobowym służy policjant ruchu drogowego oraz funkcjonariusz innej służby. Kto powinien być dowódcą patrolu?",
+      "choices": [
+        "Funkcjonariusz innej służby, jeżeli ma dłuższy staż.",
+        "Dyżurny jednostki, nawet jeżeli nie uczestniczy w patrolu.",
+        "Policjant ruchu drogowego.",
+        "Osoba wybrana przez członków patrolu po odprawie."
+      ],
+      "correctIndex": 2,
+      "explanation": "W przypadku patrolu złożonego z policjanta ruchu drogowego i funkcjonariusza innej służby dowódcą patrolu jest policjant ruchu drogowego. Podstawa: § 8 ust. 6.",
+      "source": "§ 8 ust. 6"
+    },
+    {
+      "id": "zarzadzenie-609-020",
+      "type": "single_choice",
+      "category": "Skład patrolu",
+      "difficulty": "medium",
+      "question": "Jednostka chce wystawić jednoosobowy patrol na posterunku w obszarze zabudowanym od świtu do zmierzchu. Czy zarządzenie to dopuszcza?",
+      "choices": [
+        "Tak, zarządzenie dopuszcza taką służbę w określonych warunkach.",
+        "Nie, posterunek zawsze musi być obsadzony przez co najmniej dwóch policjantów.",
+        "Tak, ale wyłącznie od zmierzchu do świtu.",
+        "Nie, jednoosobowo można służyć tylko na autostradzie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dopuszcza się pełnienie służby przez patrol jednoosobowy, także na posterunku, wyłącznie od świtu do zmierzchu w obszarze zabudowanym. Podstawa: § 8 ust. 4.",
+      "source": "§ 8 ust. 4"
+    },
+    {
+      "id": "zarzadzenie-609-021",
+      "type": "single_choice",
+      "category": "Skład patrolu",
+      "difficulty": "hard",
+      "question": "Policjant ma zabezpieczać zadania związane z wykorzystaniem dróg w sposób szczególny poza obszarem zabudowanym. Czy może pełnić służbę jednoosobowo od świtu do zmierzchu?",
+      "choices": [
+        "Nie, poza obszarem zabudowanym jednoosobowa służba jest zawsze wykluczona.",
+        "Tak, w takim przypadku może pełnić służbę w patrolu albo na posterunku jednoosobowo poza obszarem zabudowanym od świtu do zmierzchu.",
+        "Tak, ale tylko od zmierzchu do świtu.",
+        "Nie, chyba że jest to wyłącznie kontrola prędkości ręcznym miernikiem."
+      ],
+      "correctIndex": 1,
+      "explanation": "Przy zadaniach związanych z wykorzystaniem dróg w sposób szczególny policjant może pełnić służbę jednoosobowo poza obszarem zabudowanym od świtu do zmierzchu. Podstawa: § 8 ust. 5.",
+      "source": "§ 8 ust. 5"
+    },
+    {
+      "id": "zarzadzenie-609-022",
+      "type": "single_choice",
+      "category": "Przygotowanie do służby",
+      "difficulty": "easy",
+      "question": "Policjant ma rozpocząć służbę jako kierujący pojazdem służbowym. Co powinien zrobić przed wyjazdem?",
+      "choices": [
+        "Sprawdzić wyposażenie pojazdu, jego stan techniczny oraz działanie środków łączności.",
+        "Sprawdzić wyłącznie poziom paliwa.",
+        "Ograniczyć się do odbioru dokumentów od dyżurnego.",
+        "Wykonać kontrolę tylko wtedy, gdy pojazd był używany poprzedniej nocy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant kierujący pojazdem służbowym przed rozpoczęciem służby sprawdza wyposażenie pojazdu, stan techniczny oraz działanie środków łączności. Podstawa: § 10.",
+      "source": "§ 10"
+    },
+    {
+      "id": "zarzadzenie-609-023",
+      "type": "single_choice",
+      "category": "Przygotowanie do służby",
+      "difficulty": "easy",
+      "question": "Przed służbą policjant stwierdza usterkę radiowozu, której nie da się natychmiast usunąć. Jak powinien postąpić?",
+      "choices": [
+        "Nie zgłaszać jej, jeżeli pojazd może ruszyć.",
+        "Zgłosić usterkę prowadzącemu odprawę do służby.",
+        "Wpisać ją dopiero po zakończeniu służby.",
+        "Przekazać informację wyłącznie innemu członkowi patrolu."
+      ],
+      "correctIndex": 1,
+      "explanation": "O usterkach, których nie można natychmiast usunąć, albo brakach w wyposażeniu pojazdu policjant melduje prowadzącemu odprawę do służby. Podstawa: § 10.",
+      "source": "§ 10"
+    },
+    {
+      "id": "zarzadzenie-609-024",
+      "type": "single_choice",
+      "category": "Odprawa do służby",
+      "difficulty": "easy",
+      "question": "Kto przeprowadza odprawę policjanta do służby?",
+      "choices": [
+        "Wyłącznie komendant wojewódzki Policji.",
+        "Przełożony policjanta albo inny wyznaczony policjant.",
+        "Dowolny funkcjonariusz innej służby.",
+        "Osoba kontrolowana, jeżeli zgłasza zagrożenie."
+      ],
+      "correctIndex": 1,
+      "explanation": "Odprawę do służby przeprowadza przełożony policjanta albo inny wyznaczony policjant. Podstawa: § 11 ust. 1.",
+      "source": "§ 11 ust. 1"
+    },
+    {
+      "id": "zarzadzenie-609-025",
+      "type": "single_choice",
+      "category": "Odprawa do służby",
+      "difficulty": "medium",
+      "question": "Podczas odprawy patrol nie otrzymał informacji o dyslokacji, składzie patrolu ani wskazania dowódcy. Czy odprawa pomija elementy wymagane zarządzeniem?",
+      "choices": [
+        "Nie, te informacje przekazuje się dopiero po zakończeniu służby.",
+        "Tak, odprawa powinna obejmować poinformowanie o dyslokacji, składzie patrolu oraz wskazanie dowódcy patrolu.",
+        "Nie, te elementy są fakultatywne i zależą od osoby kontrolowanej.",
+        "Tak, ale tylko wtedy, gdy patrol działa na autostradzie."
+      ],
+      "correctIndex": 1,
+      "explanation": "Odprawa powinna uwzględniać m.in. poinformowanie o dyslokacji służby, składzie patrolu i wskazanie dowódcy patrolu. Podstawa: § 11 ust. 2 pkt 3.",
+      "source": "§ 11 ust. 2 pkt 3"
+    },
+    {
+      "id": "zarzadzenie-609-026",
+      "type": "single_choice",
+      "category": "Odprawa do służby",
+      "difficulty": "medium",
+      "question": "Na odprawie należy sprawdzić, czy patrol zna zadania na trasie lub posterunku. Czy taki element jest wymagany?",
+      "choices": [
+        "Tak, odprawa powinna obejmować sprawdzenie znajomości zadań i obowiązków na posterunku lub trasie.",
+        "Nie, znajomość zadań sprawdza się wyłącznie po służbie.",
+        "Nie, zarządzenie wymaga tylko sprawdzenia stanu pojazdu.",
+        "Tak, ale wyłącznie przy patrolu motocyklowym."
+      ],
+      "correctIndex": 0,
+      "explanation": "Odprawa powinna obejmować sprawdzenie znajomości zadań i obowiązków na posterunku lub trasie. Podstawa: § 11 ust. 2 pkt 6.",
+      "source": "§ 11 ust. 2 pkt 6"
+    },
+    {
+      "id": "zarzadzenie-609-027",
+      "type": "single_choice",
+      "category": "Odprawa do służby",
+      "difficulty": "hard",
+      "question": "W jednostce istnieje możliwość dokumentowania odprawy bezpośrednio w systemie informatycznym. Jak należy dokumentować jej przebieg?",
+      "choices": [
+        "Wyłącznie w papierowej książce odpraw, nawet gdy system działa.",
+        "Bezpośrednio w policyjnych systemach informatycznych albo w innej formie elektronicznej z zachowaniem czytelności i kompletności informacji.",
+        "Nie dokumentuje się odprawy, jeżeli patrol jest dwuosobowy.",
+        "Tylko ustnie, a zapis sporządza się po miesiącu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Przebieg odprawy i informacje organizacyjne dokumentuje się bezpośrednio w policyjnych systemach informatycznych lub w innej formie elektronicznej, jeżeli jest taka możliwość. Podstawa: § 11 ust. 3.",
+      "source": "§ 11 ust. 3"
+    },
+    {
+      "id": "zarzadzenie-609-028",
+      "type": "single_choice",
+      "category": "Odprawa do służby",
+      "difficulty": "medium",
+      "question": "W systemie elektronicznym nie można udokumentować odprawy. Jaka forma jest wtedy dopuszczalna?",
+      "choices": [
+        "Brak dokumentowania odprawy.",
+        "Dokumentowanie w książce odpraw lub protokole z odprawy.",
+        "Wyłącznie wiadomość SMS do dyżurnego.",
+        "Ustne potwierdzenie przez członka patrolu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Gdy nie ma możliwości dokumentowania elektronicznego, informacje dotyczące odprawy dokumentuje się w książce odpraw lub protokole z odprawy. Podstawa: § 11 ust. 3.",
+      "source": "§ 11 ust. 3"
+    },
+    {
+      "id": "zarzadzenie-609-029",
+      "type": "single_choice",
+      "category": "Przerwa w służbie",
+      "difficulty": "medium",
+      "question": "Policjant nie wykorzystał przerwy w czasie wskazanym na odprawie. Co powinien zrobić, aby wykorzystać ją później?",
+      "choices": [
+        "Samodzielnie wybrać dowolny czas przerwy bez dokumentowania.",
+        "Uzgodnić wykorzystanie przerwy z dyżurnym jednostki Policji i odnotować to w notatniku służbowym.",
+        "Zrezygnować z przerwy, bo nie można jej przesunąć.",
+        "Uzgodnić przerwę wyłącznie z osobą kontrolowaną."
+      ],
+      "correctIndex": 1,
+      "explanation": "Jeżeli policjant nie wykorzysta przerwy w czasie wyznaczonym na odprawie, jej wykorzystanie uzgadnia z dyżurnym jednostki i odnotowuje w notatniku służbowym. Podstawa: § 12 ust. 1.",
+      "source": "§ 12 ust. 1"
+    },
+    {
+      "id": "zarzadzenie-609-030",
+      "type": "single_choice",
+      "category": "Przerwa w służbie",
+      "difficulty": "medium",
+      "question": "Policjant chce opuścić rejon pełnienia służby na czas przerwy. Kiedy może to zrobić?",
+      "choices": [
+        "Zawsze, bez uzgodnienia.",
+        "Za zgodą dyżurnego jednostki, z wyjątkiem służby na autostradzie i trasie objętej centralną koordynacją.",
+        "Wyłącznie wtedy, gdy prowadzi pościg.",
+        "Nigdy, bo przerwa zawsze musi odbywać się na posterunku."
+      ],
+      "correctIndex": 1,
+      "explanation": "Policjant może za zgodą dyżurnego opuścić rejon, trasę lub posterunek na czas przerwy, ale zasady tej nie stosuje się przy służbie na autostradzie i trasie objętej centralną koordynacją. Podstawa: § 12 ust. 2 i 3.",
+      "source": "§ 12 ust. 2-3"
+    },
+    {
+      "id": "zarzadzenie-609-031",
+      "type": "single_choice",
+      "category": "Przerwa w służbie",
+      "difficulty": "easy",
+      "question": "Policjant korzysta z przerwy w służbie. Jaki obowiązek łączności nadal go dotyczy?",
+      "choices": [
+        "Nie musi utrzymywać żadnej łączności.",
+        "Musi prowadzić stały nasłuch radiowy lub telefoniczny.",
+        "Musi wyłączyć środki łączności, aby przerwa nie była przerywana.",
+        "Musi kontaktować się wyłącznie z kierownikiem komórki po zakończeniu służby."
+      ],
+      "correctIndex": 1,
+      "explanation": "W czasie przerwy policjant prowadzi stały nasłuch radiowy lub telefoniczny. Podstawa: § 12 ust. 4.",
+      "source": "§ 12 ust. 4"
+    },
+    {
+      "id": "zarzadzenie-609-032",
+      "type": "single_choice",
+      "category": "Służba motocyklowa",
+      "difficulty": "medium",
+      "question": "Temperatura powietrza spadła poniżej 5°C, a planowana jest służba na motocyklach. Kto podejmuje decyzję o użyciu motocykli?",
+      "choices": [
+        "Każdy policjant indywidualnie bez zgody przełożonych.",
+        "Kierownik komórki organizacyjnej służby ruchu drogowego albo upoważniony przez niego policjant.",
+        "Wyłącznie osoba prowadząca odprawę, nawet bez upoważnienia.",
+        "Funkcjonariusz innej służby wchodzący w skład patrolu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Decyzję o użyciu motocykli przy temperaturze poniżej 5°C lub innych niekorzystnych zjawiskach atmosferycznych podejmuje kierownik komórki ruchu drogowego albo upoważniony przez niego policjant. Podstawa: § 13 ust. 1.",
+      "source": "§ 13 ust. 1"
+    },
+    {
+      "id": "zarzadzenie-609-033",
+      "type": "single_choice",
+      "category": "Służba motocyklowa",
+      "difficulty": "medium",
+      "question": "Policjant ukończył 40 lat i ma zostać skierowany do służby na motocyklu. Jaki warunek musi być spełniony?",
+      "choices": [
+        "Musi wyrazić pisemną zgodę na pełnienie służby w tej formie.",
+        "Musi pełnić służbę wyłącznie w patrolu jednoosobowym.",
+        "Nie może być skierowany do takiej służby w żadnym przypadku.",
+        "Wystarczy ustna zgoda osoby prowadzącej odprawę."
+      ],
+      "correctIndex": 0,
+      "explanation": "Do służby na motocyklach kieruje się policjantów, którzy nie ukończyli 40 lat, oraz tych po ukończeniu 40 lat, którzy wyrazili pisemną zgodę. Podstawa: § 13 ust. 2.",
+      "source": "§ 13 ust. 2"
+    },
+    {
+      "id": "zarzadzenie-609-034",
+      "type": "single_choice",
+      "category": "Pełnienie służby na drodze",
+      "difficulty": "easy",
+      "question": "Patrol pełni służbę na wyznaczonej trasie. Na czym polega zasadniczy cel tej służby?",
+      "choices": [
+        "Wyłącznie na sporządzaniu dokumentacji po zakończeniu służby.",
+        "Na sprawowaniu nadzoru nad bezpieczeństwem, porządkiem oraz płynnością ruchu na trasie, w rejonie lub posterunku.",
+        "Tylko na kontroli prędkości pojazdów.",
+        "Wyłącznie na kierowaniu ruchem w czasie imprez masowych."
+      ],
+      "correctIndex": 1,
+      "explanation": "Służba na drodze polega na nadzorze nad bezpieczeństwem, porządkiem i płynnością ruchu na trasie, w rejonie lub posterunku. Podstawa: § 14 ust. 1.",
+      "source": "§ 14 ust. 1"
+    },
+    {
+      "id": "zarzadzenie-609-035",
+      "type": "single_choice",
+      "category": "Pełnienie służby na drodze",
+      "difficulty": "medium",
+      "question": "Policjant podczas służby drogowej ujawnia przestępstwo niezwiązane bezpośrednio z bezpieczeństwem ruchu. Czy powinien reagować?",
+      "choices": [
+        "Nie, służba drogowa dotyczy wyłącznie wykroczeń przeciwko bezpieczeństwu ruchu.",
+        "Tak, w ramach służby ma także zapobiegać innym przestępstwom i wykroczeniom.",
+        "Nie, chyba że przestępstwo popełnił kierujący pojazdem ciężarowym.",
+        "Tak, ale tylko po zakończeniu służby na drodze."
+      ],
+      "correctIndex": 1,
+      "explanation": "Policjant pełniący służbę na drodze ma również zapobiegać przestępstwom i wykroczeniom innym niż przeciwko bezpieczeństwu i porządkowi w ruchu drogowym. Podstawa: § 14 ust. 2.",
+      "source": "§ 14 ust. 2"
+    },
+    {
+      "id": "zarzadzenie-609-036",
+      "type": "single_choice",
+      "category": "Obowiązki policjanta na drodze",
+      "difficulty": "easy",
+      "question": "Policjant pełniący służbę na drodze zauważa wykroczenie. Jak powinien postąpić?",
+      "choices": [
+        "Zareagować na wykroczenie, stosując środki przewidziane prawem.",
+        "Zignorować wykroczenie, jeżeli nie było ujęte w zadaniach doraźnych.",
+        "Poczekać z reakcją do końca służby.",
+        "Zareagować tylko wtedy, gdy wykroczenie dotyczy przekroczenia prędkości."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant pełniący służbę na drodze ma obowiązek reagować na przestępstwa i wykroczenia, stosując prawem przewidziane środki. Podstawa: § 15 ust. 1 pkt 1.",
+      "source": "§ 15 ust. 1 pkt 1"
+    },
+    {
+      "id": "zarzadzenie-609-037",
+      "type": "single_choice",
+      "category": "Obowiązki policjanta na drodze",
+      "difficulty": "medium",
+      "question": "Patrol jako pierwszy dociera na miejsce zdarzenia drogowego, mając ograniczone środki. Jak powinien postąpić?",
+      "choices": [
+        "Nie podejmować żadnych czynności do przybycia specjalistycznej grupy.",
+        "Wykonać czynności wstępne stosownie do posiadanych środków i możliwości oraz zgłosić dyżurnemu potrzebę pomocy innych służb.",
+        "Opuścić miejsce, jeżeli zdarzenie blokuje ruch.",
+        "Skupić się wyłącznie na ustaleniu winnego zdarzenia."
+      ],
+      "correctIndex": 1,
+      "explanation": "Policjant ma wykonywać czynności wstępne na miejscu zdarzenia drogowego stosownie do środków i możliwości oraz zgłaszać dyżurnemu potrzebę pomocy innych służb. Podstawa: § 15 ust. 1 pkt 2.",
+      "source": "§ 15 ust. 1 pkt 2"
+    },
+    {
+      "id": "zarzadzenie-609-038",
+      "type": "single_choice",
+      "category": "Obowiązki policjanta na drodze",
+      "difficulty": "easy",
+      "question": "Na trasie powstał zator utrudniający przejazd. Jakie działanie mieści się w obowiązkach policjanta pełniącego służbę na drodze?",
+      "choices": [
+        "Podjęcie działań zmierzających do przywrócenia zakłóconej płynności ruchu.",
+        "Wyłączne sporządzenie informacji po zakończeniu służby.",
+        "Oczekiwanie bez działania, aż ruch sam wróci do normy.",
+        "Opuszczenie trasy bez powiadamiania dyżurnego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant ma obowiązek podejmować działania zmierzające do przywrócenia zakłóconej płynności ruchu. Podstawa: § 15 ust. 1 pkt 3.",
+      "source": "§ 15 ust. 1 pkt 3"
+    },
+    {
+      "id": "zarzadzenie-609-039",
+      "type": "single_choice",
+      "category": "Obowiązki policjanta na drodze",
+      "difficulty": "easy",
+      "question": "Uczestnik ruchu potrzebuje niezbędnej pomocy w uzasadnionej sytuacji. Co powinien zrobić policjant pełniący służbę?",
+      "choices": [
+        "Udzielić pomocy w uzasadnionym przypadku i powiadomić dyżurnego o podjętych działaniach.",
+        "Odmówić pomocy, jeżeli nie doszło do wykroczenia.",
+        "Pomóc tylko wtedy, gdy osoba jest kierującym pojazdem.",
+        "Udzielić pomocy bez obowiązku powiadomienia dyżurnego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant ma w uzasadnionych przypadkach udzielać niezbędnej pomocy uczestnikom ruchu i powiadomić dyżurnego o podjętych działaniach. Podstawa: § 15 ust. 1 pkt 4.",
+      "source": "§ 15 ust. 1 pkt 4"
+    },
+    {
+      "id": "zarzadzenie-609-040",
+      "type": "single_choice",
+      "category": "Obowiązki policjanta na drodze",
+      "difficulty": "medium",
+      "question": "Osoba kontrolowana prosi policjanta o okazanie wyniku pomiaru. Jak powinien zachować się policjant?",
+      "choices": [
+        "W miarę możliwości okazać nagranie lub wynik pomiaru.",
+        "Zawsze odmówić, bo wynik może być okazany tylko przełożonemu.",
+        "Okazać wynik wyłącznie po pisemnym wniosku złożonym po służbie.",
+        "Okazać wynik tylko wtedy, gdy kontrola odbywa się na autostradzie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant pełniący służbę na drodze ma w miarę możliwości okazać osobie kontrolowanej nagranie lub wynik pomiaru na jej żądanie. Podstawa: § 15 ust. 1 pkt 5.",
+      "source": "§ 15 ust. 1 pkt 5"
+    },
+    {
+      "id": "zarzadzenie-609-041",
+      "type": "single_choice",
+      "category": "Obowiązki policjanta na drodze",
+      "difficulty": "medium",
+      "question": "Policjant rozpoczyna służbę na posterunku. Jaki meldunek powinien przekazać?",
+      "choices": [
+        "Nie musi nic meldować, jeżeli był na odprawie.",
+        "Powinien niezwłocznie zameldować dyżurnemu o objęciu służby na trasie lub posterunku.",
+        "Meldunek składa się dopiero po zakończeniu służby.",
+        "Meldunek przekazuje wyłącznie kierownikowi komórki w formie pisemnej."
+      ],
+      "correctIndex": 1,
+      "explanation": "Policjant ma utrzymywać stałą łączność z dyżurnym oraz niezwłocznie meldować o objęciu służby na trasie lub posterunku. Podstawa: § 15 ust. 1 pkt 6.",
+      "source": "§ 15 ust. 1 pkt 6"
+    },
+    {
+      "id": "zarzadzenie-609-042",
+      "type": "single_choice",
+      "category": "Obowiązki policjanta na drodze",
+      "difficulty": "medium",
+      "question": "Podczas służby policjant zauważa powtarzający się problem z infrastrukturą drogową wpływający na bezpieczeństwo. Co powinien zrobić?",
+      "choices": [
+        "Zebrać i zgłosić przełożonemu uwagi oraz propozycje niezbędnych przedsięwzięć.",
+        "Nie zgłaszać problemu, bo infrastruktura nie mieści się w zadaniach służby drogowej.",
+        "Zgłosić problem wyłącznie osobie kontrolowanej.",
+        "Podjąć samodzielnie roboty drogowe bez informowania przełożonego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant ma zbierać i zgłaszać przełożonemu uwagi i propozycje dotyczące usprawnienia, poprawy bezpieczeństwa i porządku ruchu, w tym infrastruktury drogowej. Podstawa: § 15 ust. 1 pkt 7.",
+      "source": "§ 15 ust. 1 pkt 7"
+    },
+    {
+      "id": "zarzadzenie-609-043",
+      "type": "single_choice",
+      "category": "Obowiązki policjanta na drodze",
+      "difficulty": "medium",
+      "question": "Osoba kontrolowana prosi o potwierdzenie legalizacji używanego przyrządu kontrolno-pomiarowego. Co powinien mieć przy sobie policjant?",
+      "choices": [
+        "Potwierdzoną kopię świadectwa legalizacji używanego przyrządu i okazać ją na prośbę osoby kontrolowanej.",
+        "Wyłącznie ustną informację, że przyrząd jest sprawny.",
+        "Tylko numer seryjny przyrządu zapisany w notatniku.",
+        "Żaden dokument, bo legalizację sprawdza się tylko w jednostce."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant ma posiadać przy sobie potwierdzoną kopię świadectwa legalizacji używanych przyrządów kontrolno-pomiarowych i okazać ją na prośbę osoby kontrolowanej. Podstawa: § 15 ust. 1 pkt 8.",
+      "source": "§ 15 ust. 1 pkt 8"
+    },
+    {
+      "id": "zarzadzenie-609-044",
+      "type": "single_choice",
+      "category": "Obowiązki policjanta na drodze",
+      "difficulty": "easy",
+      "question": "Policjant ruchu drogowego pełni służbę w dzień przy dobrej pogodzie. Czy musi używać umundurowania z elementami odblaskowymi?",
+      "choices": [
+        "Tak, bez względu na porę dnia i roku.",
+        "Nie, tylko od zmierzchu do świtu.",
+        "Nie, tylko poza obszarem zabudowanym.",
+        "Tak, ale wyłącznie podczas kontroli prędkości."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant pełniący służbę na drodze ma używać umundurowania z elementami odblaskowymi bez względu na porę dnia i roku. Podstawa: § 15 ust. 1 pkt 9.",
+      "source": "§ 15 ust. 1 pkt 9"
+    },
+    {
+      "id": "zarzadzenie-609-045",
+      "type": "single_choice",
+      "category": "Obowiązki policjanta na drodze",
+      "difficulty": "easy",
+      "question": "W patrolu wieloosobowym jeden policjant chce użyć odmiennego umundurowania niż pozostali. Co wynika z zarządzenia?",
+      "choices": [
+        "W patrolu wieloosobowym należy stosować jednolite umundurowanie.",
+        "Każdy policjant zawsze wybiera umundurowanie samodzielnie.",
+        "Jednolite umundurowanie jest wymagane tylko na autostradzie.",
+        "Zasada jednolitego umundurowania dotyczy wyłącznie patroli pieszych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant pełniący służbę na drodze ma stosować w patrolu wieloosobowym jednolite umundurowanie. Podstawa: § 15 ust. 1 pkt 10.",
+      "source": "§ 15 ust. 1 pkt 10"
+    },
+    {
+      "id": "zarzadzenie-609-046",
+      "type": "single_choice",
+      "category": "Sytuacje zagrożenia",
+      "difficulty": "hard",
+      "question": "Policjant odbiera hasło wskazujące, że inny policjant potrzebuje pomocy. Kiedy takie hasło może zostać użyte zgodnie z zarządzeniem?",
+      "choices": [
+        "Tylko w sytuacji, gdy zagrożone jest życie lub zdrowie policjanta.",
+        "Przy każdym sporze z osobą kontrolowaną.",
+        "Gdy patrol chce szybciej zakończyć kontrolę.",
+        "Wyłącznie przy awarii pojazdu służbowego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hasło \"policjant wzywa pomocy\" może być użyte tylko wtedy, gdy zagrożone jest życie lub zdrowie policjanta. Podstawa: § 15 ust. 2.",
+      "source": "§ 15 ust. 2"
+    },
+    {
+      "id": "zarzadzenie-609-047",
+      "type": "single_choice",
+      "category": "Sytuacje zagrożenia",
+      "difficulty": "medium",
+      "question": "Po otrzymaniu hasła wskazującego na zagrożenie policjanta, patrol chce ruszyć na miejsce. Jak powinien postąpić?",
+      "choices": [
+        "Udać się do miejsca zagrożenia w uzgodnieniu z dyżurnym.",
+        "Ruszyć bez kontaktu z dyżurnym i bez dalszych ustaleń.",
+        "Czekać do zakończenia aktualnej służby.",
+        "Zignorować hasło, jeżeli patrol wykonuje kontrolę statyczną."
+      ],
+      "correctIndex": 0,
+      "explanation": "Na hasło \"policjant wzywa pomocy\" policjant w uzgodnieniu z dyżurnym udaje się do miejsca zagrożenia. Podstawa: § 15 ust. 2.",
+      "source": "§ 15 ust. 2"
+    },
+    {
+      "id": "zarzadzenie-609-048",
+      "type": "single_choice",
+      "category": "Zakazy podczas służby",
+      "difficulty": "easy",
+      "question": "Policjant chce wykorzystać radiowóz do sprawy prywatnej podczas służby. Czy jest to dopuszczalne?",
+      "choices": [
+        "Nie, zabronione jest wykonywanie czynności niezwiązanych ze służbą, w tym wykorzystywanie pojazdu służbowego do celów prywatnych.",
+        "Tak, jeżeli nie wpływa to na czas służby.",
+        "Tak, za zgodą osoby kontrolowanej.",
+        "Tak, jeżeli radiowóz jest nieoznakowany."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjantowi pełniącemu służbę na drodze zabrania się wykonywania czynności niezwiązanych ze służbą, w szczególności wykorzystywania pojazdu służbowego do celów prywatnych. Podstawa: § 16 ust. 1 pkt 1.",
+      "source": "§ 16 ust. 1 pkt 1"
+    },
+    {
+      "id": "zarzadzenie-609-049",
+      "type": "single_choice",
+      "category": "Zakazy podczas służby",
+      "difficulty": "medium",
+      "question": "Policjant pełni służbę statyczną i chce przebywać w radiowozie, aby sporządzić dokumentację związaną z wykonywanymi zadaniami. Czy jest to dopuszczalne?",
+      "choices": [
+        "Tak, jest to jeden z wyjątków od zakazu przebywania w radiowozie podczas służby statycznej.",
+        "Nie, w służbie statycznej nigdy nie wolno przebywać w radiowozie.",
+        "Tak, ale tylko poza obszarem zabudowanym.",
+        "Nie, dokumentację można sporządzać wyłącznie po powrocie do jednostki."
+      ],
+      "correctIndex": 0,
+      "explanation": "W czasie służby statycznej co do zasady zabrania się przebywania w radiowozie, ale wyjątkiem jest m.in. sporządzanie dokumentacji w związku z wykonywanymi zadaniami. Podstawa: § 16 ust. 1 pkt 2 lit. b.",
+      "source": "§ 16 ust. 1 pkt 2 lit. b"
+    },
+    {
+      "id": "zarzadzenie-609-050",
+      "type": "single_choice",
+      "category": "Zakazy podczas służby",
+      "difficulty": "medium",
+      "question": "Policjant pełniący służbę statyczną pozostaje w radiowozie wyłącznie z powodu niekorzystnych warunków atmosferycznych. Czy zarządzenie przewiduje taki wyjątek?",
+      "choices": [
+        "Nie, warunki atmosferyczne nigdy nie uzasadniają przebywania w radiowozie.",
+        "Tak, niekorzystne warunki atmosferyczne są wyjątkiem od zakazu przebywania w radiowozie podczas służby statycznej.",
+        "Tak, ale tylko gdy patrol jest jednoosobowy.",
+        "Nie, wyjątek dotyczy wyłącznie przerwy w służbie."
+      ],
+      "correctIndex": 1,
+      "explanation": "Niekorzystne warunki atmosferyczne są jednym z wyjątków od zakazu przebywania w radiowozie podczas służby statycznej. Podstawa: § 16 ust. 1 pkt 2 lit. d.",
+      "source": "§ 16 ust. 1 pkt 2 lit. d"
+    },
+    {
+      "id": "zarzadzenie-609-051",
+      "type": "single_choice",
+      "category": "Zakazy podczas służby",
+      "difficulty": "medium",
+      "question": "Policjant chce wsiąść do kontrolowanego pojazdu wyłącznie po to, aby porozmawiać z kierującym w wygodniejszych warunkach. Czy jest to dopuszczalne?",
+      "choices": [
+        "Nie, wsiadanie do kontrolowanego pojazdu jest zabronione, jeżeli nie wiąże się z kontrolą stanu technicznego, wyposażenia, ładunku albo niezbędnym kierowaniem pojazdem.",
+        "Tak, policjant może wsiąść do pojazdu w każdym celu służbowym.",
+        "Tak, jeżeli kontrolowany wyrazi zgodę.",
+        "Tak, ale tylko w porze nocnej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjantowi zabrania się wsiadania do kontrolowanego pojazdu w przypadkach niezwiązanych z kontrolą stanu technicznego, wyposażenia, ładunku lub niezbędnym kierowaniem tym pojazdem. Podstawa: § 16 ust. 1 pkt 4.",
+      "source": "§ 16 ust. 1 pkt 4"
+    },
+    {
+      "id": "zarzadzenie-609-052",
+      "type": "single_choice",
+      "category": "Opuszczanie trasy lub posterunku",
+      "difficulty": "medium",
+      "question": "Podczas służby poza wyznaczoną trasą pojawia się konieczność udzielenia pomocy rannym. Czy policjant może opuścić trasę?",
+      "choices": [
+        "Tak, w razie konieczności udzielenia pomocy chorym lub rannym.",
+        "Nie, nawet w takiej sytuacji trasy nie wolno opuścić.",
+        "Tak, ale tylko po zakończeniu przerwy.",
+        "Nie, chyba że zadanie dotyczy wyłącznie kontroli prędkości."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant może opuścić trasę, rejon lub posterunek w razie konieczności udzielenia pomocy chorym lub rannym. Podstawa: § 16 ust. 2 pkt 1 lit. a.",
+      "source": "§ 16 ust. 2 pkt 1 lit. a"
+    },
+    {
+      "id": "zarzadzenie-609-053",
+      "type": "single_choice",
+      "category": "Opuszczanie trasy lub posterunku",
+      "difficulty": "medium",
+      "question": "Patrol musi doprowadzić sprawcę przestępstwa do jednostki Policji. Czy jest to podstawa do opuszczenia posterunku?",
+      "choices": [
+        "Nie, doprowadzenie sprawcy nigdy nie uzasadnia opuszczenia posterunku.",
+        "Tak, zarządzenie przewiduje taką możliwość.",
+        "Tak, ale wyłącznie gdy sprawca jest kierowcą autobusu.",
+        "Nie, posterunek można opuścić tylko z powodu awarii pojazdu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Policjant może opuścić trasę, rejon lub posterunek w razie konieczności doprowadzenia sprawcy wykroczenia lub przestępstwa do jednostki Policji, izby wytrzeźwień albo placówki służby zdrowia. Podstawa: § 16 ust. 2 pkt 1 lit. b.",
+      "source": "§ 16 ust. 2 pkt 1 lit. b"
+    },
+    {
+      "id": "zarzadzenie-609-054",
+      "type": "single_choice",
+      "category": "Opuszczanie trasy lub posterunku",
+      "difficulty": "medium",
+      "question": "W trakcie służby pojawia się konieczność poddania osoby badaniu na obecność alkoholu. Czy może to uzasadniać opuszczenie trasy?",
+      "choices": [
+        "Tak, jeżeli chodzi o badanie w celu ustalenia zawartości alkoholu albo środka działającego podobnie do alkoholu.",
+        "Nie, takie badanie zawsze musi odbywać się na trasie.",
+        "Tak, ale tylko w przypadku patrolu motocyklowego.",
+        "Nie, chyba że badanie dotyczy pasażera autobusu szkolnego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant może opuścić trasę, rejon lub posterunek w razie konieczności poddania osoby badaniu w celu ustalenia zawartości alkoholu lub środka działającego podobnie do alkoholu. Podstawa: § 16 ust. 2 pkt 1 lit. c.",
+      "source": "§ 16 ust. 2 pkt 1 lit. c"
+    },
+    {
+      "id": "zarzadzenie-609-055",
+      "type": "single_choice",
+      "category": "Opuszczanie trasy lub posterunku",
+      "difficulty": "medium",
+      "question": "Podczas służby patrol podejmuje pościg. Czy może opuścić wyznaczony rejon?",
+      "choices": [
+        "Tak, podjęcie pościgu jest jedną z dopuszczalnych podstaw opuszczenia trasy, rejonu lub posterunku.",
+        "Nie, pościg może prowadzić wyłącznie inny patrol.",
+        "Tak, ale tylko po zakończeniu kontroli statycznej prędkości.",
+        "Nie, chyba że pościg odbywa się pieszo."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant może opuścić trasę, rejon lub posterunek w razie podjęcia pościgu. Podstawa: § 16 ust. 2 pkt 3.",
+      "source": "§ 16 ust. 2 pkt 3"
+    },
+    {
+      "id": "zarzadzenie-609-056",
+      "type": "single_choice",
+      "category": "Opuszczanie trasy lub posterunku",
+      "difficulty": "medium",
+      "question": "W trakcie służby radiowóz ulega awarii. Czy nagłe zdarzenie dotyczące patrolu może uzasadniać opuszczenie rejonu?",
+      "choices": [
+        "Nie, awaria pojazdu nigdy nie ma znaczenia dla służby.",
+        "Tak, nagłe zdarzenia losowe dotyczące patrolu, w szczególności awaria pojazdu, mogą uzasadniać opuszczenie trasy, rejonu lub posterunku.",
+        "Tak, ale wyłącznie gdy awaria wystąpiła na autostradzie.",
+        "Nie, chyba że patrol jest jednoosobowy."
+      ],
+      "correctIndex": 1,
+      "explanation": "Policjant może opuścić trasę, rejon lub posterunek w razie nagłych zdarzeń losowych dotyczących patrolu, w szczególności choroby policjanta lub awarii pojazdu. Podstawa: § 16 ust. 2 pkt 4.",
+      "source": "§ 16 ust. 2 pkt 4"
+    },
+    {
+      "id": "zarzadzenie-609-057",
+      "type": "single_choice",
+      "category": "Sposoby pełnienia służby",
+      "difficulty": "easy",
+      "question": "Na drodze wzmożony ruch i zagrożenie występują systematycznie przez znaczną część doby. Jaki sposób pełnienia służby odpowiada tej sytuacji?",
+      "choices": [
+        "Stały.",
+        "Okresowy.",
+        "Doraźny.",
+        "Wyłącznie motocyklowy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Służbę pełni się w sposób stały codziennie na drogach, na których wzmożony ruch i wynikające z tego zagrożenie występuje systematycznie przez znaczną część doby. Podstawa: § 17 pkt 1.",
+      "source": "§ 17 pkt 1"
+    },
+    {
+      "id": "zarzadzenie-609-058",
+      "type": "single_choice",
+      "category": "Sposoby pełnienia służby",
+      "difficulty": "easy",
+      "question": "Służbę trzeba zaplanować w określonych terminach, stosownie do potrzeb. Jaki sposób pełnienia służby to opisuje?",
+      "choices": [
+        "Stały.",
+        "Okresowy.",
+        "Doraźny.",
+        "Centralny."
+      ],
+      "correctIndex": 1,
+      "explanation": "Służba okresowa jest pełniona w określonych terminach, stosownie do potrzeb. Podstawa: § 17 pkt 2.",
+      "source": "§ 17 pkt 2"
+    },
+    {
+      "id": "zarzadzenie-609-059",
+      "type": "single_choice",
+      "category": "Sposoby pełnienia służby",
+      "difficulty": "easy",
+      "question": "Pojawia się krótkotrwała potrzeba działania wynikająca z natężenia ruchu i zagrożenia bezpieczeństwa. Jaki sposób pełnienia służby będzie właściwy?",
+      "choices": [
+        "Doraźny.",
+        "Stały.",
+        "Wyłącznie centralnie koordynowany.",
+        "Wyłącznie statyczny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Służba doraźna jest pełniona w krótkim okresie stosownie do potrzeb, natężenia ruchu i zagrożenia jego bezpieczeństwa. Podstawa: § 17 pkt 3.",
+      "source": "§ 17 pkt 3"
+    },
+    {
+      "id": "zarzadzenie-609-060",
+      "type": "single_choice",
+      "category": "Formy nadzoru na drodze",
+      "difficulty": "easy",
+      "question": "Patrol obserwuje ruch, przemieszczając się pojazdem służbowym z prędkością umożliwiającą obserwację. Jaki to sposób nadzoru?",
+      "choices": [
+        "Dynamiczny.",
+        "Statyczny.",
+        "Wyłącznie dokumentacyjny.",
+        "Administracyjny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nadzór dynamiczny polega na patrolowaniu trasy pojazdem służbowym z prędkością zapewniającą obserwację ruchu drogowego lub pieszo. Podstawa: § 18 ust. 1 pkt 1.",
+      "source": "§ 18 ust. 1 pkt 1"
+    },
+    {
+      "id": "zarzadzenie-609-061",
+      "type": "single_choice",
+      "category": "Formy nadzoru na drodze",
+      "difficulty": "easy",
+      "question": "Policjant wykonuje czynności na posterunku i kieruje ruchem. Jaki to sposób nadzoru?",
+      "choices": [
+        "Dynamiczny.",
+        "Statyczny.",
+        "Doraźny.",
+        "Centralny."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nadzór statyczny polega na wykonywaniu czynności na posterunku lub podczas kierowania ruchem. Podstawa: § 18 ust. 1 pkt 2.",
+      "source": "§ 18 ust. 1 pkt 2"
+    },
+    {
+      "id": "zarzadzenie-609-062",
+      "type": "single_choice",
+      "category": "Formy nadzoru na drodze",
+      "difficulty": "easy",
+      "question": "Patrol naprzemiennie patroluje trasę i wykonuje czynności na posterunku. Jak należy określić taki sposób nadzoru?",
+      "choices": [
+        "Dynamiczno-statyczny.",
+        "Wyłącznie statyczny.",
+        "Wyłącznie doraźny.",
+        "Administracyjno-techniczny."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nadzór dynamiczno-statyczny polega na przemiennym wykonywaniu czynności dynamicznych i statycznych. Podstawa: § 18 ust. 1 pkt 3.",
+      "source": "§ 18 ust. 1 pkt 3"
+    },
+    {
+      "id": "zarzadzenie-609-063",
+      "type": "single_choice",
+      "category": "Formy nadzoru na drodze",
+      "difficulty": "medium",
+      "question": "Podczas służby statycznej patrol ustawia radiowóz. Jakie wymagania dotyczą miejsca ustawienia?",
+      "choices": [
+        "Radiowóz powinien być ustawiony w miejscu bezpiecznym i widocznym dla uczestników ruchu.",
+        "Radiowóz powinien być zawsze ukryty przed uczestnikami ruchu.",
+        "Radiowóz musi stać wyłącznie poza drogą, niezależnie od sytuacji.",
+        "Zarządzenie nie przewiduje żadnych wymagań w tym zakresie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Podczas służby statycznej radiowóz powinien być ustawiony w miejscu bezpiecznym i widocznym dla uczestników ruchu. Podstawa: § 18 ust. 2.",
+      "source": "§ 18 ust. 2"
+    },
+    {
+      "id": "zarzadzenie-609-064",
+      "type": "single_choice",
+      "category": "Formy nadzoru na drodze",
+      "difficulty": "medium",
+      "question": "Oznakowany radiowóz pełni służbę w warunkach niedostatecznej widoczności. Jaki element powinien być włączony?",
+      "choices": [
+        "Świetlny napis \"POLICJA\".",
+        "Wyłącznie światła awaryjne bez innych elementów.",
+        "Tylko sygnał dźwiękowy przez cały czas służby.",
+        "Żaden dodatkowy element, jeżeli radiowóz stoi poza jezdnią."
+      ],
+      "correctIndex": 0,
+      "explanation": "W warunkach niedostatecznej widoczności w radiowozie oznakowanym powinien być włączony świetlny napis \"POLICJA\". Podstawa: § 18 ust. 3.",
+      "source": "§ 18 ust. 3"
+    },
+    {
+      "id": "zarzadzenie-609-065",
+      "type": "single_choice",
+      "category": "Kontrola pojazdów",
+      "difficulty": "medium",
+      "question": "Kierujący nie zatrzymał się do kontroli. Co powinien zrobić policjant?",
+      "choices": [
+        "Natychmiast przekazać dyżurnemu informacje o pojeździe i osobach w nim się znajdujących oraz w miarę możliwości podjąć pościg.",
+        "Czekać do końca służby i dopiero wtedy sporządzić notatkę.",
+        "Zaniechać działań, jeżeli nie doszło do kolizji.",
+        "Poinformować wyłącznie kierownika komórki przy rozliczeniu służby."
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie niezatrzymania się pojazdu do kontroli policjant natychmiast przekazuje dyżurnemu informacje o pojeździe i osobach oraz, w miarę możliwości, podejmuje pościg. Podstawa: § 19 ust. 1.",
+      "source": "§ 19 ust. 1"
+    },
+    {
+      "id": "zarzadzenie-609-066",
+      "type": "single_choice",
+      "category": "Kontrola pojazdów",
+      "difficulty": "hard",
+      "question": "Policjant zamierza skontrolować pojazd poza obszarem zabudowanym w nocy. Co powinien zrobić przed podjęciem kontroli?",
+      "choices": [
+        "Każdorazowo przekazać drogą radiową dyżurnemu informację o zamiarze kontroli, podając dane pojazdu, miejsce kontroli i istotne okoliczności.",
+        "Nie ma żadnych dodatkowych obowiązków informacyjnych.",
+        "Powiadomić dyżurnego dopiero po zakończeniu kontroli.",
+        "Uzyskać zgodę osoby kontrolowanej na przekazanie numeru rejestracyjnego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przed kontrolą poza obszarem zabudowanym od zmierzchu do świtu policjant każdorazowo przekazuje dyżurnemu drogą radiową informację o zamiarze kontroli, podając numer rejestracyjny, markę, miejsce kontroli i inne istotne okoliczności. Podstawa: § 19 ust. 2.",
+      "source": "§ 19 ust. 2"
+    },
+    {
+      "id": "zarzadzenie-609-067",
+      "type": "single_choice",
+      "category": "Kontrola pojazdów",
+      "difficulty": "hard",
+      "question": "Policjant prowadzi planowane działania kontrolno-blokadowe, o których dyżurny został wcześniej powiadomiony. Czy musi stosować zwykły obowiązek każdorazowego meldowania nocnej kontroli poza obszarem zabudowanym?",
+      "choices": [
+        "Nie, ten obowiązek nie ma zastosowania przy planowanych działaniach kontrolno-blokadowych lub konieczności zatrzymania pojazdu w wyniku działań pościgowych, o których dyżurny został wcześniej powiadomiony.",
+        "Tak, bez wyjątków musi meldować każdą kontrolę w pełnym zakresie.",
+        "Nie, ale tylko wtedy, gdy kontrola dotyczy rowerzystów.",
+        "Tak, chyba że patrol jest jednoosobowy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Obowiązku każdorazowego meldowania nocnej kontroli poza obszarem zabudowanym nie stosuje się przy planowanych działaniach kontrolno-blokadowych albo przy konieczności zatrzymania pojazdu w działaniach pościgowych, jeżeli dyżurny był wcześniej powiadomiony. Podstawa: § 19 ust. 3.",
+      "source": "§ 19 ust. 3"
+    },
+    {
+      "id": "zarzadzenie-609-068",
+      "type": "single_choice",
+      "category": "Kontrola pojazdów",
+      "difficulty": "easy",
+      "question": "W patrolu jeden policjant wykonuje czynności kontrolne, a drugi mu asystuje. Jaki obowiązek ma policjant asystujący?",
+      "choices": [
+        "Ubezpieczać policjanta wykonującego czynności kontrolne.",
+        "Opuścić miejsce kontroli i patrolować okolicę.",
+        "Zająć się wyłącznie sporządzaniem dokumentacji po kontroli.",
+        "Wsiąść do kontrolowanego pojazdu w każdym przypadku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant asystujący przy czynnościach kontrolnych ma obowiązek ubezpieczać policjanta, który je wykonuje. Podstawa: § 20.",
+      "source": "§ 20"
+    },
+    {
+      "id": "zarzadzenie-609-069",
+      "type": "single_choice",
+      "category": "Kontrola pojazdów",
+      "difficulty": "medium",
+      "question": "Pasażerowie kontrolowanego pojazdu proszą o możliwość opuszczenia pojazdu. Kiedy policjant może na to zezwolić?",
+      "choices": [
+        "Gdy ma pewność, że przebieg kontroli nie zostanie zakłócony.",
+        "Zawsze, bez oceny wpływu na kontrolę.",
+        "Nigdy, pasażerowie zawsze muszą pozostać w pojeździe.",
+        "Wyłącznie wtedy, gdy kontrola dotyczy prędkości."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant może zezwolić pasażerom na opuszczenie pojazdu, jeżeli ma pewność, że przebieg kontroli nie zostanie zakłócony. Podstawa: § 21 ust. 1.",
+      "source": "§ 21 ust. 1"
+    },
+    {
+      "id": "zarzadzenie-609-070",
+      "type": "single_choice",
+      "category": "Kontrola pojazdów",
+      "difficulty": "hard",
+      "question": "Patrol działa poza obszarem zabudowanym i zatrzymał jeden pojazd do kontroli. Czy może równocześnie zatrzymać kolejny pojazd?",
+      "choices": [
+        "Co do zasady nie, chyba że kierujący innym pojazdem dopuszcza się przestępstwa lub wykroczenia.",
+        "Tak, zawsze może zatrzymać dowolną liczbę pojazdów.",
+        "Nie, nawet gdy inny kierujący popełnia przestępstwo.",
+        "Tak, ale tylko gdy drugi pojazd jest motocyklem."
+      ],
+      "correctIndex": 0,
+      "explanation": "Patrol poza obszarem zabudowanym może zatrzymać do kontroli tylko jeden pojazd, z wyjątkiem sytuacji, gdy kierujący innym pojazdem dopuszcza się przestępstwa lub wykroczenia. Podstawa: § 21 ust. 2.",
+      "source": "§ 21 ust. 2"
+    },
+    {
+      "id": "zarzadzenie-609-071",
+      "type": "single_choice",
+      "category": "Kontrola pojazdów",
+      "difficulty": "hard",
+      "question": "Prowadzone są wzmożone działania na podstawie odrębnego planu, których głównym celem jest skontrolowanie maksymalnej liczby kierujących i pojazdów. Czy ograniczenie do jednego pojazdu poza obszarem zabudowanym nadal obowiązuje?",
+      "choices": [
+        "Nie, ograniczenia tego nie stosuje się podczas takich wzmożonych działań.",
+        "Tak, obowiązuje zawsze bez wyjątków.",
+        "Nie, ale tylko w porze nocnej.",
+        "Tak, chyba że działania prowadzi patrol motocyklowy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ograniczenia dotyczącego zatrzymania tylko jednego pojazdu poza obszarem zabudowanym nie stosuje się podczas wzmożonych działań realizowanych na podstawie odrębnego planu, których celem jest skontrolowanie maksymalnej liczby kierujących i pojazdów. Podstawa: § 21 ust. 3.",
+      "source": "§ 21 ust. 3"
+    },
+    {
+      "id": "zarzadzenie-609-072",
+      "type": "single_choice",
+      "category": "Kontrola prędkości",
+      "difficulty": "medium",
+      "question": "Policjant ma prowadzić statyczną kontrolę prędkości ręcznym przyrządem pomiarowym. Jak powinien organizować tę czynność?",
+      "choices": [
+        "Przemiennie z patrolowaniem trasy.",
+        "Wyłącznie przez całą służbę w jednym miejscu bez patrolowania.",
+        "Tylko po zakończeniu służby dynamicznej.",
+        "Bez związku z nałożonymi zadaniami."
+      ],
+      "correctIndex": 0,
+      "explanation": "Statyczną kontrolę prędkości pojazdów przy użyciu ręcznych przyrządów pomiarowych należy dokonywać przemiennie z patrolowaniem trasy. Podstawa: § 22 ust. 1.",
+      "source": "§ 22 ust. 1"
+    },
+    {
+      "id": "zarzadzenie-609-073",
+      "type": "single_choice",
+      "category": "Kontrola prędkości",
+      "difficulty": "medium",
+      "question": "Policjant samodzielnie wybiera dowolne miejsce kontroli prędkości, mimo że nie wynika ono z nałożonych zadań. Czy to prawidłowe?",
+      "choices": [
+        "Nie, czas i miejsce kontroli prędkości muszą wynikać z nałożonych zadań w wyznaczonym miejscu pomiaru.",
+        "Tak, miejsce kontroli zawsze wybiera policjant bez ograniczeń.",
+        "Tak, jeżeli kontrola odbywa się w dzień.",
+        "Nie, kontrola prędkości jest dopuszczalna wyłącznie na autostradzie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Czas i miejsce kontroli prędkości muszą wynikać z nałożonych zadań w wyznaczonym punkcie pomiarowym. Podstawa: § 22 ust. 2.",
+      "source": "§ 22 ust. 2"
+    },
+    {
+      "id": "zarzadzenie-609-074",
+      "type": "single_choice",
+      "category": "Kontrola prędkości",
+      "difficulty": "hard",
+      "question": "W trakcie służby warunki na drodze uzasadniają zmianę miejsca kontroli prędkości. Kto może zmienić czas i miejsce kontroli?",
+      "choices": [
+        "Dyżurny jednostki Policji na uzasadniony wniosek policjanta.",
+        "Każdy członek patrolu bez powiadomienia dyżurnego.",
+        "Osoba kontrolowana, jeżeli wskaże inne miejsce.",
+        "Wyłącznie komendant wojewódzki Policji w formie pisemnej."
+      ],
+      "correctIndex": 0,
+      "explanation": "Czas i miejsce kontroli prędkości może zmienić dyżurny jednostki Policji na uzasadniony wniosek policjanta, np. z powodu warunków na drodze. Podstawa: § 22 ust. 3.",
+      "source": "§ 22 ust. 3"
+    },
+    {
+      "id": "zarzadzenie-609-075",
+      "type": "single_choice",
+      "category": "Kierujący pod wpływem alkoholu lub podobnych środków",
+      "difficulty": "medium",
+      "question": "Policjant ujawnia kierującego znajdującego się w stanie nietrzeźwości. Kogo powinien zawiadomić?",
+      "choices": [
+        "Dyżurnego jednostki Policji.",
+        "Wyłącznie kierownika komórki po zakończeniu służby.",
+        "Tylko osobę wskazaną przez kierującego.",
+        "Nie ma obowiązku nikogo zawiadamiać."
+      ],
+      "correctIndex": 0,
+      "explanation": "O ujawnieniu kierującego w stanie nietrzeźwości, po użyciu alkoholu albo środka działającego podobnie do alkoholu policjant zawiadamia dyżurnego jednostki Policji. Podstawa: § 23 ust. 1.",
+      "source": "§ 23 ust. 1"
+    },
+    {
+      "id": "zarzadzenie-609-076",
+      "type": "single_choice",
+      "category": "Kierujący pod wpływem alkoholu lub podobnych środków",
+      "difficulty": "medium",
+      "question": "Kierujący pod wpływem alkoholu przewozi ładunek łatwo psujący się, który musi dotrzeć do miejsca przeznaczenia w określonym czasie. Co powinien zrobić policjant?",
+      "choices": [
+        "Niezwłocznie zawiadomić dyżurnego jednostki Policji w celu uzgodnienia dalszego trybu postępowania.",
+        "Pozostawić ładunek bez żadnych ustaleń do czasu zakończenia wszystkich czynności.",
+        "Samodzielnie dostarczyć ładunek bez kontaktu z dyżurnym.",
+        "Zwolnić kierującego z dalszych czynności, aby ładunek dotarł na czas."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli kierujący przewozi osoby lub ładunek wymagające dostarczenia w określonym czasie, policjant powinien niezwłocznie zawiadomić dyżurnego w celu uzgodnienia dalszego trybu postępowania. Podstawa: § 23 ust. 3.",
+      "source": "§ 23 ust. 3"
+    },
+    {
+      "id": "zarzadzenie-609-077",
+      "type": "single_choice",
+      "category": "Kierujący pod wpływem alkoholu lub podobnych środków",
+      "difficulty": "easy",
+      "question": "Zachodzi potrzeba usunięcia pojazdu z drogi po ujawnieniu kierującego pod wpływem alkoholu. W jaki sposób policjant realizuje usunięcie pojazdu?",
+      "choices": [
+        "Za pośrednictwem dyżurnego jednostki Policji.",
+        "Samodzielnie, bez udziału dyżurnego.",
+        "Wyłącznie przez kierownika komórki ruchu drogowego po odprawie.",
+        "Przez osobę kontrolowaną, bez nadzoru Policji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Usunięcie pojazdu z drogi policjant realizuje za pośrednictwem dyżurnego jednostki Policji. Podstawa: § 23 ust. 2.",
+      "source": "§ 23 ust. 2"
+    },
+    {
+      "id": "zarzadzenie-609-078",
+      "type": "single_choice",
+      "category": "Doprowadzenie do jednostki Policji",
+      "difficulty": "hard",
+      "question": "Policjant doprowadza kierującego wraz z pojazdem do jednostki Policji. Jakie dokumenty powinien zabezpieczyć?",
+      "choices": [
+        "Dokumenty uprawniające do kierowania pojazdem, dokumenty pojazdu i ładunku, a w razie potrzeby także dokumenty pasażerów.",
+        "Wyłącznie dokument tożsamości kierującego.",
+        "Żadnych dokumentów, jeżeli pojazd jedzie za radiowozem.",
+        "Tylko dokumenty pasażerów, bez dokumentów pojazdu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy doprowadzaniu kierującego wraz z pojazdem, pasażerami lub ładunkiem do jednostki Policji policjant zabezpiecza dokumenty uprawniające do kierowania, dokumenty pojazdu i ładunku, a w razie potrzeby także dokumenty pasażerów. Podstawa: § 24 ust. 1 pkt 1.",
+      "source": "§ 24 ust. 1 pkt 1"
+    },
+    {
+      "id": "zarzadzenie-609-079",
+      "type": "single_choice",
+      "category": "Doprowadzenie do jednostki Policji",
+      "difficulty": "medium",
+      "question": "Policjant doprowadza pojazd do jednostki Policji. Jak powinien jechać względem doprowadzanego pojazdu?",
+      "choices": [
+        "Za pojazdem w bezpiecznej odległości.",
+        "Zawsze bezpośrednio przed pojazdem.",
+        "Równolegle obok pojazdu.",
+        "W dowolnym miejscu kolumny, bez znaczenia dla bezpieczeństwa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy doprowadzaniu kierującego z pojazdem policjant powinien jechać za pojazdem w bezpiecznej odległości. Podstawa: § 24 ust. 1 pkt 3.",
+      "source": "§ 24 ust. 1 pkt 3"
+    },
+    {
+      "id": "zarzadzenie-609-080",
+      "type": "single_choice",
+      "category": "Doprowadzenie do jednostki Policji",
+      "difficulty": "medium",
+      "question": "Policjant doprowadza kierującego z pojazdem do jednostki. Jakie instrukcje powinien przekazać kierującemu?",
+      "choices": [
+        "Określić kierującemu kierunek, prędkość i sposób jazdy.",
+        "Nie przekazywać żadnych instrukcji.",
+        "Polecić kierującemu samodzielny wybór trasy i prędkości.",
+        "Określić tylko miejsce końcowe, bez sposobu jazdy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy doprowadzaniu policjant powinien określić kierującemu kierunek, prędkość i sposób jazdy. Podstawa: § 24 ust. 1 pkt 2.",
+      "source": "§ 24 ust. 1 pkt 2"
+    },
+    {
+      "id": "zarzadzenie-609-081",
+      "type": "single_choice",
+      "category": "Doprowadzenie do jednostki Policji",
+      "difficulty": "hard",
+      "question": "Po doprowadzeniu do jednostki przekazano osoby, pojazd, zabezpieczone przedmioty i dokumenty. Kto potwierdza to w notatniku służbowym policjanta albo na kopii notatki?",
+      "choices": [
+        "Dyżurny jednostki Policji albo inny policjant wyznaczony przez kierownika jednostki.",
+        "Wyłącznie osoba doprowadzona.",
+        "Dowolny pasażer pojazdu.",
+        "Nie wymaga się żadnego potwierdzenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przekazanie osób, pojazdów, zabezpieczonych przedmiotów i dokumentów każdorazowo potwierdza dyżurny jednostki Policji albo inny policjant wyznaczony przez kierownika jednostki. Podstawa: § 24 ust. 2.",
+      "source": "§ 24 ust. 2"
+    },
+    {
+      "id": "zarzadzenie-609-082",
+      "type": "single_choice",
+      "category": "Czynności na miejscu zdarzenia drogowego",
+      "difficulty": "medium",
+      "question": "Na miejsce zdarzenia drogowego ma zostać skierowany patrol do wykonania czynności specjalistycznych. Kto co do zasady wykonuje takie czynności?",
+      "choices": [
+        "Policjanci ruchu drogowego z komórki obsługi zdarzeń drogowych albo inni policjanci ruchu drogowego wyposażeni w sprzęt specjalistyczny.",
+        "Wyłącznie policjanci administracyjni bez wymogu wyposażenia.",
+        "Tylko dyżurny jednostki na podstawie rozmowy telefonicznej.",
+        "Każdy policjant, bez względu na rodzaj służby i wyposażenie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Czynności na miejscu zdarzenia drogowego wykonują policjanci ruchu drogowego pełniący służbę w komórce obsługi zdarzeń drogowych albo inni policjanci ruchu drogowego wyposażeni w sprzęt specjalistyczny. Podstawa: § 25 ust. 1.",
+      "source": "§ 25 ust. 1"
+    },
+    {
+      "id": "zarzadzenie-609-083",
+      "type": "single_choice",
+      "category": "Czynności na miejscu zdarzenia drogowego",
+      "difficulty": "hard",
+      "question": "Zdarzenie drogowe nie obejmuje osób zabitych ani rannych. W uzasadnionych okolicznościach dyżurny poleca wykonanie czynności innym policjantom. Czy zarządzenie dopuszcza taką sytuację?",
+      "choices": [
+        "Tak, w przypadku zdarzenia bez osoby zabitej lub rannej, w uzasadnionych okolicznościach na polecenie dyżurnego czynności mogą wykonywać także inni policjanci.",
+        "Nie, czynności zawsze wykonuje wyłącznie komórka obsługi zdarzeń drogowych.",
+        "Tak, ale wyłącznie po pisemnym poleceniu Komendanta Głównego Policji.",
+        "Nie, jeżeli zdarzenie miało miejsce w obszarze zabudowanym."
+      ],
+      "correctIndex": 0,
+      "explanation": "Czynności na miejscu zdarzenia mogą wykonywać także inni policjanci w uzasadnionych okolicznościach na polecenie dyżurnego, gdy w zdarzeniu nie ma osoby zabitej lub rannej. Podstawa: § 25 ust. 2.",
+      "source": "§ 25 ust. 2"
+    },
+    {
+      "id": "zarzadzenie-609-084",
+      "type": "single_choice",
+      "category": "Czynności na miejscu zdarzenia drogowego",
+      "difficulty": "easy",
+      "question": "Policjant wykonuje czynności na miejscu zdarzenia drogowego przy użyciu pojazdu służbowego. Jaki obowiązek dotyczy świateł pojazdu?",
+      "choices": [
+        "Włączyć niebieskie światła błyskowe.",
+        "Włączyć wyłącznie światła pozycyjne.",
+        "Nie używać żadnych świateł, aby nie rozpraszać kierujących.",
+        "Włączyć tylko świetlny napis \"POLICJA\" bez innych świateł."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant wykonujący czynności na miejscu zdarzenia drogowego jest obowiązany włączyć w pojeździe służbowym niebieskie światła błyskowe. Podstawa: § 25 ust. 3.",
+      "source": "§ 25 ust. 3"
+    },
+    {
+      "id": "zarzadzenie-609-085",
+      "type": "single_choice",
+      "category": "Czynności na miejscu zdarzenia drogowego",
+      "difficulty": "medium",
+      "question": "Policjant ruchu drogowego ma w pojeździe urządzenia techniczne służące do zabezpieczania miejsca zdarzenia. Jak powinien postąpić na miejscu zdarzenia?",
+      "choices": [
+        "Powinien ich użyć przy wykonywaniu czynności na miejscu zdarzenia.",
+        "Może ich nie używać, bo są przeznaczone wyłącznie do ćwiczeń.",
+        "Powinien używać ich tylko poza obszarem zabudowanym.",
+        "Nie wolno mu ich używać bez zgody osoby uczestniczącej w zdarzeniu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant ruchu drogowego posiadający urządzenia techniczne do zabezpieczania miejsca zdarzenia jest obowiązany do ich stosowania przy wykonywaniu czynności. Podstawa: § 25 ust. 4.",
+      "source": "§ 25 ust. 4"
+    },
+    {
+      "id": "zarzadzenie-609-086",
+      "type": "single_choice",
+      "category": "Czynności na miejscu zdarzenia drogowego",
+      "difficulty": "hard",
+      "question": "Pojazdy uczestniczące w zdarzeniu znajdują się poza jezdnią, a wykonywane czynności nie stwarzają zagrożenia dla policjanta ani innych uczestników ruchu. Czy obowiązki włączenia niebieskich świateł i użycia urządzeń zabezpieczających stosuje się bezwzględnie?",
+      "choices": [
+        "Nie, w takiej sytuacji zarządzenie przewiduje odstąpienie od tych obowiązków.",
+        "Tak, zawsze bez wyjątków.",
+        "Tak, ale tylko w porze nocnej.",
+        "Nie, ale wyłącznie gdy zdarzenie dotyczy motocykla."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przepisów o włączeniu niebieskich świateł i stosowaniu urządzeń zabezpieczających nie stosuje się, jeżeli pojazdy są poza jezdnią, a czynności nie stwarzają zagrożenia bezpieczeństwa. Podstawa: § 25 ust. 5.",
+      "source": "§ 25 ust. 5"
+    },
+    {
+      "id": "zarzadzenie-609-087",
+      "type": "single_choice",
+      "category": "Dokumentowanie służby",
+      "difficulty": "easy",
+      "question": "Policjant pełniący służbę w komórce ruchu drogowego dokumentuje przebieg własnej służby. Jakiego dokumentu używa?",
+      "choices": [
+        "Notatnika służbowego.",
+        "Wyłącznie książki pracy przyrządu pomiarowego.",
+        "Tylko protokołu z odprawy.",
+        "Wyłącznie karty zdarzenia drogowego."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant pełniący służbę w komórkach ruchu drogowego na drodze dokumentuje przebieg własnej służby w notatniku służbowym. Podstawa: § 26 ust. 1.",
+      "source": "§ 26 ust. 1"
+    },
+    {
+      "id": "zarzadzenie-609-088",
+      "type": "single_choice",
+      "category": "Dokumentowanie służby",
+      "difficulty": "easy",
+      "question": "Policjant sporządził podczas służby karty rejestracyjne i karty zdarzeń drogowych. Co robi z nimi po służbie?",
+      "choices": [
+        "Przekazuje je osobie rozliczającej służbę.",
+        "Zostawia je w radiowozie do następnej zmiany.",
+        "Przechowuje je wyłącznie u siebie bez przekazania.",
+        "Niszczy je po wprowadzeniu danych ustnie dyżurnemu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Karty rejestracyjne Mrd-5 oraz karty zdarzeń drogowych Mrd-2 sporządzone podczas służby policjant przekazuje po jej zakończeniu osobie rozliczającej służbę. Podstawa: § 26 ust. 2.",
+      "source": "§ 26 ust. 2"
+    },
+    {
+      "id": "zarzadzenie-609-089",
+      "type": "single_choice",
+      "category": "Dokumentowanie służby",
+      "difficulty": "medium",
+      "question": "Po zakończeniu służby trzeba ująć efekty pracy policjanta. Jak przewiduje to zarządzenie?",
+      "choices": [
+        "Wpisuje się je do karty statystycznej czynności policjanta ruchu drogowego albo wprowadza do ewidencji komputerowej.",
+        "Nie dokumentuje się efektów pracy po służbie.",
+        "Wpisuje się je wyłącznie do książki odpraw.",
+        "Przekazuje się je tylko ustnie bez żadnej ewidencji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Każdorazowo po zakończeniu służby efekty pracy policjanta wpisuje się do karty statystycznej czynności policjanta ruchu drogowego lub wprowadza do ewidencji komputerowej. Podstawa: § 27 ust. 1.",
+      "source": "§ 27 ust. 1"
+    },
+    {
+      "id": "zarzadzenie-609-090",
+      "type": "single_choice",
+      "category": "Rozliczenie służby",
+      "difficulty": "medium",
+      "question": "Kierownik komórki ruchu drogowego rozlicza policjanta ze służby i odbiera dokumenty. Jak potwierdza tę czynność?",
+      "choices": [
+        "Własnoręcznym podpisem w notatniku służbowym policjanta.",
+        "Wyłącznie ustnym meldunkiem do dyżurnego.",
+        "Poprzez wysłanie wiadomości SMS do patrolu.",
+        "Nie musi potwierdzać odbioru dokumentów."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kierownik komórki właściwej do spraw ruchu drogowego albo wyznaczona osoba rozlicza policjanta i kwituje odbiór dokumentów własnoręcznym podpisem w notatniku służbowym. Podstawa: § 28 ust. 1.",
+      "source": "§ 28 ust. 1"
+    },
+    {
+      "id": "zarzadzenie-609-091",
+      "type": "single_choice",
+      "category": "Rozliczenie służby",
+      "difficulty": "hard",
+      "question": "Osoby zwykle rozliczające policjanta nie mogą tego zrobić. Kto może wtedy potwierdzić zakończenie służby i odbiór dokumentów?",
+      "choices": [
+        "Dyżurny jednostki Policji, za zgodą kierownika jednostki Policji.",
+        "Dowolny członek patrolu bez zgody przełożonego.",
+        "Osoba kontrolowana podczas ostatniej czynności.",
+        "Nikt, rozliczenie trzeba odłożyć bez potwierdzenia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jeżeli rozliczenia nie mogą dokonać właściwe osoby, dyżurny jednostki Policji za zgodą kierownika jednostki potwierdza zakończenie służby i odbiór dokumentów. Podstawa: § 28 ust. 2.",
+      "source": "§ 28 ust. 2"
+    },
+    {
+      "id": "zarzadzenie-609-092",
+      "type": "single_choice",
+      "category": "Przyrządy kontrolno-pomiarowe",
+      "difficulty": "medium",
+      "question": "Policjant używa podczas służby przyrządu do określenia prędkości. Jak powinien prowadzić książkę pracy tego przyrządu?",
+      "choices": [
+        "Wypełniać ją na bieżąco zgodnie z treścią kolumn.",
+        "Uzupełnić ją zbiorczo raz w miesiącu.",
+        "Nie prowadzić jej, jeżeli wynik pomiaru okazano kierującemu.",
+        "Wypełnić ją dopiero po utracie ważności legalizacji."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant używający przyrządu kontrolno-pomiarowego do określenia prędkości wypełnia na bieżąco zarejestrowaną książkę pracy tego przyrządu zgodnie z treścią kolumn. Podstawa: § 29 ust. 1.",
+      "source": "§ 29 ust. 1"
+    },
+    {
+      "id": "zarzadzenie-609-093",
+      "type": "single_choice",
+      "category": "Przyrządy kontrolno-pomiarowe",
+      "difficulty": "medium",
+      "question": "Policjant zaczyna pracę z przyrządem do pomiaru prędkości. Co powinien wpisać przed rozpoczęciem pracy z przyrządem?",
+      "choices": [
+        "Czas i miejsce rozpoczęcia pracy oraz swoje dane osobowe.",
+        "Wyłącznie numer rejestracyjny pierwszego kontrolowanego pojazdu.",
+        "Tylko nazwisko dyżurnego jednostki.",
+        "Nic, pierwszy wpis wykonuje się po zakończeniu służby."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przed przystąpieniem do pracy z przyrządem policjant wpisuje czas i miejsce rozpoczęcia pracy oraz swoje dane osobowe. Podstawa: § 29 ust. 1.",
+      "source": "§ 29 ust. 1"
+    },
+    {
+      "id": "zarzadzenie-609-094",
+      "type": "single_choice",
+      "category": "Nadzór i przepisy końcowe",
+      "difficulty": "easy",
+      "question": "Kto sprawuje nadzór nad przestrzeganiem przepisów zarządzenia?",
+      "choices": [
+        "Dyrektor biura Komendy Głównej Policji właściwy do spraw ruchu drogowego.",
+        "Każdy kierujący kontrolowany przez Policję.",
+        "Wyłącznie komendant powiatowy Policji.",
+        "Wyłącznie dyżurny jednostki pełniący służbę w danym dniu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nadzór nad przestrzeganiem przepisów zarządzenia sprawuje dyrektor biura KGP właściwy do spraw ruchu drogowego. Podstawa: § 30.",
+      "source": "§ 30"
+    },
+    {
+      "id": "zarzadzenie-609-095",
+      "type": "single_choice",
+      "category": "Nadzór i przepisy końcowe",
+      "difficulty": "medium",
+      "question": "Policjant znajduje się na miejscu zdarzenia drogowego. Według jakich dodatkowych wytycznych powinien postępować?",
+      "choices": [
+        "Zgodnie z wytycznymi Komendanta Głównego Policji w tej sprawie.",
+        "Wyłącznie według własnej praktyki patrolowej.",
+        "Tylko zgodnie z ustnymi wskazówkami uczestników zdarzenia.",
+        "Zarządzenie nie wskazuje żadnych dodatkowych wytycznych."
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjant na miejscu zdarzenia drogowego postępuje zgodnie z wytycznymi Komendanta Głównego Policji w przedmiotowej sprawie. Podstawa: § 31.",
+      "source": "§ 31"
+    },
+    {
+      "id": "zarzadzenie-609-096",
+      "type": "single_choice",
+      "category": "Nadzór i przepisy końcowe",
+      "difficulty": "hard",
+      "question": "Prowadzone są działania zatwierdzone odrębnym planem, których celem jest sprawdzenie wyłącznie stanu trzeźwości jak największej liczby kierujących. Badanie ma wynik negatywny. Czy można odstąpić od dokumentowania samego faktu kontroli według zwykłych wytycznych?",
+      "choices": [
+        "Tak, zarządzenie dopuszcza odstąpienie w takiej sytuacji.",
+        "Nie, fakt każdej kontroli zawsze musi być dokumentowany bez wyjątków.",
+        "Tak, ale tylko w przypadku kontroli na autostradzie.",
+        "Nie, chyba że badanie wykonywał patrol jednoosobowy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przy działaniach mających sprawdzić wyłącznie stan trzeźwości jak największej liczby kierujących, prowadzonych na podstawie odrębnego planu, przy negatywnym wyniku badania dopuszcza się odstąpienie od dokumentowania faktu kontroli według wytycznych. Podstawa: § 32 ust. 2.",
+      "source": "§ 32 ust. 2"
+    },
+    {
+      "id": "zarzadzenie-609-097",
+      "type": "single_choice",
+      "category": "Nadzór i przepisy końcowe",
+      "difficulty": "easy",
+      "question": "Kierownik jednostki organizacyjnej Policji ma zapoznać podległych policjantów z przepisami zarządzenia. W jakim terminie od wejścia w życie zarządzenia powinien to zrobić?",
+      "choices": [
+        "W terminie 15 dni.",
+        "W terminie 24 godzin.",
+        "W terminie 6 miesięcy.",
+        "Nie ma określonego terminu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kierownik jednostki organizacyjnej Policji ma w terminie 15 dni od dnia wejścia w życie zarządzenia zapoznać podległych policjantów z jego przepisami. Podstawa: § 33.",
+      "source": "§ 33"
+    },
+    {
+      "id": "zarzadzenie-609-098",
+      "type": "single_choice",
+      "category": "Nadzór i przepisy końcowe",
+      "difficulty": "easy",
+      "question": "Od kiedy zarządzenie zaczęło obowiązywać?",
+      "choices": [
+        "Od 1 lipca 2007 r.",
+        "Od dnia ogłoszenia w Dzienniku Urzędowym KGP.",
+        "Od 25 czerwca 2007 r.",
+        "Od 6 czerwca 2013 r."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zarządzenie wchodzi w życie z dniem 1 lipca 2007 r. Podstawa: § 35.",
+      "source": "§ 35"
+    }
+  ]
+}

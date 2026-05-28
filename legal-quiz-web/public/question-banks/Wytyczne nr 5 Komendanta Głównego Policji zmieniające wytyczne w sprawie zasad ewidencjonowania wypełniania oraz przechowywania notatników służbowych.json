@@ -1,0 +1,743 @@
+{
+  "title": "Wytyczne nr 5 Komendanta Głównego Policji z dnia 20 listopada 2013 r. zmieniające wytyczne w sprawie zasad ewidencjonowania, wypełniania oraz przechowywania notatników służbowych",
+  "description": "Baza pytań praktycznych opracowana wyłącznie na podstawie przesłanego aktu prawnego.",
+  "question_count": 46,
+  "questions": [
+    {
+      "id": "wytyczne-5-001",
+      "type": "single_choice",
+      "category": "Ewidencjonowanie notatników",
+      "difficulty": "easy",
+      "question": "Policjant otrzymuje notatnik służbowy po zmianie wytycznych. Gdzie powinny znajdować się informacje i symbole literowe ułatwiające dokonywanie wpisów?",
+      "choices": [
+        "Na ostatniej stronie notatnika",
+        "Na pierwszej stronie notatnika",
+        "Wyłącznie w osobnym załączniku do notatnika",
+        "Tylko w policyjnym systemie informatycznym"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wytyczne wprowadzają zasadę, że ostatnia strona notatnika zawiera informacje oraz symbole literowe stosowane przy wpisach.",
+      "source": "§ 1 pkt 1"
+    },
+    {
+      "id": "wytyczne-5-002",
+      "type": "single_choice",
+      "category": "Przepisy przejściowe",
+      "difficulty": "easy",
+      "question": "W jednostce pozostały notatniki przygotowane według dotychczasowych zasad. Jak należy postąpić z ich używaniem po wejściu nowych wytycznych?",
+      "choices": [
+        "Można je stosować do czasu wyczerpania ich nakładu",
+        "Należy je natychmiast wycofać z użycia",
+        "Można ich używać tylko przez siedem dni",
+        "Można ich używać wyłącznie po ręcznym dopisaniu wszystkich nowych symboli"
+      ],
+      "correctIndex": 0,
+      "explanation": "Akt dopuszcza dalsze stosowanie notatników przeznaczonych do używania na podstawie przepisów dotychczasowych do czasu wyczerpania ich nakładu.",
+      "source": "§ 2"
+    },
+    {
+      "id": "wytyczne-5-003",
+      "type": "single_choice",
+      "category": "Wejście w życie",
+      "difficulty": "easy",
+      "question": "Policjant pyta, od kiedy należy stosować wytyczne zmieniające. Która odpowiedź jest prawidłowa?",
+      "choices": [
+        "Od dnia podpisania",
+        "Od dnia ogłoszenia w Dzienniku Ustaw",
+        "Po upływie 14 dni od publikacji",
+        "Od początku następnego roku kalendarzowego"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wytyczne wchodzą w życie z dniem podpisania.",
+      "source": "§ 3"
+    },
+    {
+      "id": "wytyczne-5-004",
+      "type": "single_choice",
+      "category": "Symbole czynności służbowych",
+      "difficulty": "easy",
+      "question": "Policjant dokumentuje wykonany obchód. Którego symbolu powinien użyć w notatniku?",
+      "choices": [
+        "O",
+        "PP",
+        "PZ",
+        "KMZ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dla obchodu przewidziano symbol O.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 1"
+    },
+    {
+      "id": "wytyczne-5-005",
+      "type": "single_choice",
+      "category": "Symbole czynności służbowych",
+      "difficulty": "easy",
+      "question": "Policjant pełnił patrol pieszy i chce skrócić wpis w notatniku. Jaki symbol odpowiada tej formie służby?",
+      "choices": [
+        "PP",
+        "PZ",
+        "K",
+        "O"
+      ],
+      "correctIndex": 0,
+      "explanation": "Patrol pieszy oznacza się symbolem PP.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 2"
+    },
+    {
+      "id": "wytyczne-5-006",
+      "type": "single_choice",
+      "category": "Symbole czynności służbowych",
+      "difficulty": "easy",
+      "question": "Patrol wykonywał zadania z wykorzystaniem środka transportu. Który symbol powinien zostać zastosowany?",
+      "choices": [
+        "PZ",
+        "PP",
+        "SPU",
+        "KZO"
+      ],
+      "correctIndex": 0,
+      "explanation": "Patrol z wykorzystaniem środka transportu oznacza się symbolem PZ.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 3"
+    },
+    {
+      "id": "wytyczne-5-007",
+      "type": "single_choice",
+      "category": "Symbole czynności służbowych",
+      "difficulty": "easy",
+      "question": "Policjant dokumentuje konwój. Który symbol literowy odpowiada tej czynności?",
+      "choices": [
+        "K",
+        "D",
+        "A",
+        "Z"
+      ],
+      "correctIndex": 0,
+      "explanation": "Konwój oznacza się symbolem K.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 4"
+    },
+    {
+      "id": "wytyczne-5-008",
+      "type": "single_choice",
+      "category": "Zatrzymania i doprowadzenia",
+      "difficulty": "easy",
+      "question": "Policjant wykonał doprowadzenie osoby i chce użyć właściwego skrótu w notatniku. Który symbol jest prawidłowy?",
+      "choices": [
+        "D",
+        "K",
+        "ZW",
+        "ZP"
+      ],
+      "correctIndex": 0,
+      "explanation": "Doprowadzenie oznacza się symbolem D.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 5"
+    },
+    {
+      "id": "wytyczne-5-009",
+      "type": "single_choice",
+      "category": "Asysta i pomoc",
+      "difficulty": "easy",
+      "question": "Policjant udzielił asysty lub pomocy i dokumentuje tę czynność skrótem. Który symbol powinien wybrać?",
+      "choices": [
+        "A",
+        "O",
+        "P",
+        "UP"
+      ],
+      "correctIndex": 0,
+      "explanation": "Udzielona asysta lub pomoc została oznaczona symbolem A.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 6"
+    },
+    {
+      "id": "wytyczne-5-010",
+      "type": "single_choice",
+      "category": "Legitymowanie",
+      "difficulty": "easy",
+      "question": "Podczas służby policjant legitymował osobę. Jaki symbol odpowiada osobie legitymowanej?",
+      "choices": [
+        "L",
+        "Z",
+        "KO",
+        "KP"
+      ],
+      "correctIndex": 0,
+      "explanation": "Osobę legitymowaną oznacza się symbolem L.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 7"
+    },
+    {
+      "id": "wytyczne-5-011",
+      "type": "single_choice",
+      "category": "Zatrzymania i doprowadzenia",
+      "difficulty": "easy",
+      "question": "Policjant zatrzymał osobę i dokumentuje tę czynność w notatniku. Który symbol powinien zastosować?",
+      "choices": [
+        "Z",
+        "L",
+        "ZN",
+        "ZDR"
+      ],
+      "correctIndex": 0,
+      "explanation": "Osobę zatrzymaną oznacza się symbolem Z.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 8"
+    },
+    {
+      "id": "wytyczne-5-012",
+      "type": "single_choice",
+      "category": "Zatrzymania i doprowadzenia",
+      "difficulty": "medium",
+      "question": "Policjant zatrzymał osobę nieletnią. Który symbol właściwie oddaje tę sytuację?",
+      "choices": [
+        "ZN",
+        "Z",
+        "ZP",
+        "ZW"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dla osoby zatrzymanej nieletniej przewidziano symbol ZN.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 9"
+    },
+    {
+      "id": "wytyczne-5-013",
+      "type": "single_choice",
+      "category": "Zatrzymania i doprowadzenia",
+      "difficulty": "medium",
+      "question": "W trakcie czynności zatrzymano osobę poszukiwaną. Który symbol należy zastosować przy wpisie?",
+      "choices": [
+        "ZP",
+        "ZN",
+        "ZW",
+        "ZPJ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Osobę zatrzymaną poszukiwaną oznacza się symbolem ZP.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 10"
+    },
+    {
+      "id": "wytyczne-5-014",
+      "type": "single_choice",
+      "category": "Zatrzymania i doprowadzenia",
+      "difficulty": "medium",
+      "question": "Osoba została doprowadzona w celu wytrzeźwienia. Który skrót odpowiada tej czynności?",
+      "choices": [
+        "ZW",
+        "D",
+        "Z",
+        "KT"
+      ],
+      "correctIndex": 0,
+      "explanation": "Osobę doprowadzoną w celu wytrzeźwienia oznacza się symbolem ZW.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 11"
+    },
+    {
+      "id": "wytyczne-5-015",
+      "type": "single_choice",
+      "category": "Środki oddziaływania",
+      "difficulty": "medium",
+      "question": "Policjant zakończył czynność zastosowaniem pouczenia jako środka oddziaływania pozakarnego. Który symbol powinien wpisać?",
+      "choices": [
+        "P",
+        "PP",
+        "NCW",
+        "UP"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zastosowany środek oddziaływania pozakarnego w postaci pouczenia oznacza się symbolem P.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 12"
+    },
+    {
+      "id": "wytyczne-5-016",
+      "type": "single_choice",
+      "category": "Mandaty karne",
+      "difficulty": "easy",
+      "question": "Policjant nałożył grzywnę w drodze mandatu karnego kredytowanego. Który symbol jest właściwy?",
+      "choices": [
+        "MKK",
+        "MKG",
+        "MKZ",
+        "NCW"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mandat karny kredytowany oznacza się symbolem MKK.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 13"
+    },
+    {
+      "id": "wytyczne-5-017",
+      "type": "single_choice",
+      "category": "Mandaty karne",
+      "difficulty": "easy",
+      "question": "Policjant nałożył grzywnę w drodze mandatu karnego gotówkowego. Jaki symbol powinien zastosować?",
+      "choices": [
+        "MKG",
+        "MKK",
+        "MKZ",
+        "P"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mandat karny gotówkowy oznacza się symbolem MKG.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 14"
+    },
+    {
+      "id": "wytyczne-5-018",
+      "type": "single_choice",
+      "category": "Mandaty karne",
+      "difficulty": "medium",
+      "question": "Policjant dokumentuje nałożenie grzywny w drodze mandatu karnego zaocznego. Który symbol jest prawidłowy?",
+      "choices": [
+        "MKZ",
+        "MKK",
+        "MKG",
+        "NCW"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mandat karny zaoczny oznacza się symbolem MKZ.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 15"
+    },
+    {
+      "id": "wytyczne-5-019",
+      "type": "single_choice",
+      "category": "Czynności wyjaśniające",
+      "difficulty": "medium",
+      "question": "Policjant sporządza notatkę w celu przeprowadzenia czynności wyjaśniających w sprawie o wykroczenie. Który symbol powinien wybrać?",
+      "choices": [
+        "NCW",
+        "NK",
+        "KMZ",
+        "KP"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sporządzenie notatki celem przeprowadzenia czynności wyjaśniających w sprawie o wykroczenie oznacza się symbolem NCW.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 16"
+    },
+    {
+      "id": "wytyczne-5-020",
+      "type": "single_choice",
+      "category": "Kontrola drogowa",
+      "difficulty": "easy",
+      "question": "Policjant przeprowadził kontrolę drogową. Który symbol odpowiada tej czynności?",
+      "choices": [
+        "KP",
+        "KT",
+        "KN",
+        "KB"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kontrolę drogową oznacza się symbolem KP.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 17"
+    },
+    {
+      "id": "wytyczne-5-021",
+      "type": "single_choice",
+      "category": "Kontrola drogowa",
+      "difficulty": "easy",
+      "question": "Podczas kontroli policjant sprawdził stan trzeźwości kierującego. Który symbol powinien zastosować?",
+      "choices": [
+        "KT",
+        "KP",
+        "KN",
+        "ZW"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kontrolę stanu trzeźwości kierującego oznacza się symbolem KT.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 18"
+    },
+    {
+      "id": "wytyczne-5-022",
+      "type": "single_choice",
+      "category": "Kontrola drogowa",
+      "difficulty": "medium",
+      "question": "Policjant bada kierującego na zawartość środków działających podobnie do alkoholu. Który symbol odpowiada tej czynności?",
+      "choices": [
+        "KN",
+        "KT",
+        "KP",
+        "KO"
+      ],
+      "correctIndex": 0,
+      "explanation": "Badanie kierującego na zawartość środków działających podobnie do alkoholu oznacza się symbolem KN.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 19"
+    },
+    {
+      "id": "wytyczne-5-023",
+      "type": "single_choice",
+      "category": "Dokumenty kierującego i pojazdu",
+      "difficulty": "easy",
+      "question": "Policjant zatrzymał prawo jazdy. Jaki symbol powinien wpisać w notatniku?",
+      "choices": [
+        "ZPJ",
+        "ZDR",
+        "ZP",
+        "D"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zatrzymanie prawa jazdy oznacza się symbolem ZPJ.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 20"
+    },
+    {
+      "id": "wytyczne-5-024",
+      "type": "single_choice",
+      "category": "Dokumenty kierującego i pojazdu",
+      "difficulty": "easy",
+      "question": "Policjant zatrzymał dowód rejestracyjny pojazdu. Który symbol jest właściwy?",
+      "choices": [
+        "ZDR",
+        "ZPJ",
+        "ZP",
+        "KP"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zatrzymanie dowodu rejestracyjnego oznacza się symbolem ZDR.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 21"
+    },
+    {
+      "id": "wytyczne-5-025",
+      "type": "single_choice",
+      "category": "Kontrole osób i rzeczy",
+      "difficulty": "easy",
+      "question": "Policjant wykonał kontrolę osobistą. Który skrót powinien zastosować?",
+      "choices": [
+        "KO",
+        "KB",
+        "KP",
+        "KMZ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kontrolę osobistą oznacza się symbolem KO.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 22"
+    },
+    {
+      "id": "wytyczne-5-026",
+      "type": "single_choice",
+      "category": "Kontrole osób i rzeczy",
+      "difficulty": "easy",
+      "question": "Policjant wykonał kontrolę bagażu. Który symbol odpowiada tej czynności?",
+      "choices": [
+        "KB",
+        "KO",
+        "KZO",
+        "KP"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kontrolę bagażu oznacza się symbolem KB.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 23"
+    },
+    {
+      "id": "wytyczne-5-027",
+      "type": "single_choice",
+      "category": "Kontrola miejsc i obiektów",
+      "difficulty": "medium",
+      "question": "Patrol sprawdził miejsce wskazywane jako zagrożone. Który symbol powinien pojawić się w notatniku?",
+      "choices": [
+        "KMZ",
+        "KZO",
+        "ZMZ",
+        "KO"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kontrolę miejsca zagrożonego oznacza się symbolem KMZ.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 24"
+    },
+    {
+      "id": "wytyczne-5-028",
+      "type": "single_choice",
+      "category": "Kontrola miejsc i obiektów",
+      "difficulty": "medium",
+      "question": "Policjant kontroluje zabezpieczenie obiektu. Który symbol literowy jest właściwy?",
+      "choices": [
+        "KZO",
+        "KMZ",
+        "KB",
+        "KO"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kontrolę zabezpieczenia obiektu oznacza się symbolem KZO.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 25"
+    },
+    {
+      "id": "wytyczne-5-029",
+      "type": "single_choice",
+      "category": "Interwencje",
+      "difficulty": "medium",
+      "question": "Policjant podjął interwencję własną w miejscu publicznym. Który symbol odpowiada tej sytuacji?",
+      "choices": [
+        "IWP",
+        "IWD",
+        "IZP",
+        "IZD"
+      ],
+      "correctIndex": 0,
+      "explanation": "Interwencję własną w miejscu publicznym oznacza się symbolem IWP.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 26 lit. a"
+    },
+    {
+      "id": "wytyczne-5-030",
+      "type": "single_choice",
+      "category": "Interwencje",
+      "difficulty": "medium",
+      "question": "Policjant podjął interwencję własną domową. Który symbol powinien zastosować?",
+      "choices": [
+        "IWD",
+        "IWP",
+        "IZD",
+        "IZP"
+      ],
+      "correctIndex": 0,
+      "explanation": "Interwencję własną domową oznacza się symbolem IWD.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 26 lit. b"
+    },
+    {
+      "id": "wytyczne-5-031",
+      "type": "single_choice",
+      "category": "Interwencje",
+      "difficulty": "medium",
+      "question": "Patrol realizuje interwencję zleconą w miejscu publicznym. Który symbol jest właściwy?",
+      "choices": [
+        "IZP",
+        "IWP",
+        "IZD",
+        "IWD"
+      ],
+      "correctIndex": 0,
+      "explanation": "Interwencję zleconą w miejscu publicznym oznacza się symbolem IZP.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 27 lit. a"
+    },
+    {
+      "id": "wytyczne-5-032",
+      "type": "single_choice",
+      "category": "Interwencje",
+      "difficulty": "medium",
+      "question": "Patrol realizuje interwencję zleconą domową. Który symbol należy wpisać?",
+      "choices": [
+        "IZD",
+        "IWD",
+        "IZP",
+        "IWP"
+      ],
+      "correctIndex": 0,
+      "explanation": "Interwencję zleconą domową oznacza się symbolem IZD.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 27 lit. b"
+    },
+    {
+      "id": "wytyczne-5-033",
+      "type": "single_choice",
+      "category": "Dokumentowanie czynności",
+      "difficulty": "medium",
+      "question": "Policjant sporządził Niebieską Kartę. Jaki symbol odpowiada tej czynności?",
+      "choices": [
+        "NK",
+        "NCW",
+        "ZMZ",
+        "UP"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sporządzenie Niebieskiej Karty oznacza się symbolem NK.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 28"
+    },
+    {
+      "id": "wytyczne-5-034",
+      "type": "single_choice",
+      "category": "Zdarzenia i zabezpieczenia",
+      "difficulty": "medium",
+      "question": "Policjant zabezpiecza miejsce zdarzenia. Który symbol powinien zastosować w notatniku?",
+      "choices": [
+        "ZMZ",
+        "KMZ",
+        "KD",
+        "WD"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zabezpieczenie miejsca zdarzenia oznacza się symbolem ZMZ.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 29"
+    },
+    {
+      "id": "wytyczne-5-035",
+      "type": "single_choice",
+      "category": "Zdarzenia drogowe",
+      "difficulty": "medium",
+      "question": "Policjant wykonuje czynności na miejscu kolizji drogowej. Który symbol jest prawidłowy?",
+      "choices": [
+        "KD",
+        "WD",
+        "KP",
+        "ZMZ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Czynności na miejscu kolizji drogowej oznacza się symbolem KD.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 30"
+    },
+    {
+      "id": "wytyczne-5-036",
+      "type": "single_choice",
+      "category": "Zdarzenia drogowe",
+      "difficulty": "medium",
+      "question": "Policjant wykonuje czynności na miejscu wypadku drogowego. Jaki symbol powinien wpisać?",
+      "choices": [
+        "WD",
+        "KD",
+        "ZMZ",
+        "KP"
+      ],
+      "correctIndex": 0,
+      "explanation": "Czynności na miejscu wypadku drogowego oznacza się symbolem WD.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 31"
+    },
+    {
+      "id": "wytyczne-5-037",
+      "type": "single_choice",
+      "category": "Środki przymusu i broń palna",
+      "difficulty": "medium",
+      "question": "Policjant dokumentuje użycie lub wykorzystanie środków przymusu bezpośredniego. Który symbol odpowiada tej czynności?",
+      "choices": [
+        "ŚPB",
+        "BP",
+        "SPU",
+        "UP"
+      ],
+      "correctIndex": 0,
+      "explanation": "Użycie lub wykorzystanie środków przymusu bezpośredniego oznacza się symbolem ŚPB.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 32"
+    },
+    {
+      "id": "wytyczne-5-038",
+      "type": "single_choice",
+      "category": "Środki przymusu i broń palna",
+      "difficulty": "medium",
+      "question": "Policjant dokumentuje użycie lub wykorzystanie broni palnej. Który symbol powinien zastosować?",
+      "choices": [
+        "BP",
+        "ŚPB",
+        "SPU",
+        "UP"
+      ],
+      "correctIndex": 0,
+      "explanation": "Użycie lub wykorzystanie broni palnej oznacza się symbolem BP.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 33"
+    },
+    {
+      "id": "wytyczne-5-039",
+      "type": "single_choice",
+      "category": "Pojazd uprzywilejowany",
+      "difficulty": "medium",
+      "question": "Policjant użył sygnałów pojazdu uprzywilejowanego i chce odnotować to skrótem. Który symbol jest właściwy?",
+      "choices": [
+        "SPU",
+        "BP",
+        "ŚPB",
+        "KP"
+      ],
+      "correctIndex": 0,
+      "explanation": "Użycie sygnałów pojazdu uprzywilejowanego oznacza się symbolem SPU.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 34"
+    },
+    {
+      "id": "wytyczne-5-040",
+      "type": "single_choice",
+      "category": "Pouczenia o uprawnieniach",
+      "difficulty": "hard",
+      "question": "Policjant poinformował osobę, wobec której podjęto czynność, o prawie złożenia zażalenia do właściwego miejscowo prokuratora na sposób jej przeprowadzenia. Który symbol powinien zastosować?",
+      "choices": [
+        "UP",
+        "P",
+        "NCW",
+        "KO"
+      ],
+      "correctIndex": 0,
+      "explanation": "Poinformowanie osoby o prawie złożenia zażalenia do właściwego miejscowo prokuratora na sposób przeprowadzania czynności oznacza się symbolem UP.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 35"
+    },
+    {
+      "id": "wytyczne-5-041",
+      "type": "single_choice",
+      "category": "Interwencje",
+      "difficulty": "hard",
+      "question": "W notatniku trzeba odróżnić interwencję własną od zleconej, obie wykonywane w miejscu publicznym. Która para symboli jest prawidłowa?",
+      "choices": [
+        "IWP i IZP",
+        "IWD i IZD",
+        "IZP i IZD",
+        "IWP i IWD"
+      ],
+      "correctIndex": 0,
+      "explanation": "Interwencja własna w miejscu publicznym to IWP, a interwencja zlecona w miejscu publicznym to IZP.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 26 lit. a i pkt 27 lit. a"
+    },
+    {
+      "id": "wytyczne-5-042",
+      "type": "single_choice",
+      "category": "Kontrola drogowa",
+      "difficulty": "hard",
+      "question": "Patrol najpierw przeprowadził kontrolę drogową, a następnie osobno sprawdził stan trzeźwości kierującego. Która para symboli odpowiada tym czynnościom?",
+      "choices": [
+        "KP i KT",
+        "KT i KN",
+        "KP i KN",
+        "KO i KT"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kontrola drogowa ma symbol KP, a kontrola stanu trzeźwości kierującego ma symbol KT.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 17 i 18"
+    },
+    {
+      "id": "wytyczne-5-043",
+      "type": "single_choice",
+      "category": "Kontrola drogowa",
+      "difficulty": "hard",
+      "question": "Podczas czynności policjant bada kierującego nie pod kątem alkoholu, lecz pod kątem środków działających podobnie. Który symbol lepiej oddaje tę czynność niż symbol kontroli trzeźwości?",
+      "choices": [
+        "KN",
+        "KT",
+        "KP",
+        "ZW"
+      ],
+      "correctIndex": 0,
+      "explanation": "Badanie na zawartość środków działających podobnie do alkoholu ma odrębny symbol KN, inny niż KT dla kontroli stanu trzeźwości.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 18 i 19"
+    },
+    {
+      "id": "wytyczne-5-044",
+      "type": "single_choice",
+      "category": "Dokumenty kierującego i pojazdu",
+      "difficulty": "hard",
+      "question": "W jednej kontroli policjant zatrzymał prawo jazdy oraz dowód rejestracyjny. Która para symboli właściwie opisuje te czynności?",
+      "choices": [
+        "ZPJ i ZDR",
+        "ZP i ZDR",
+        "ZPJ i ZP",
+        "KP i ZDR"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zatrzymanie prawa jazdy oznacza się symbolem ZPJ, a zatrzymanie dowodu rejestracyjnego symbolem ZDR.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 20 i 21"
+    },
+    {
+      "id": "wytyczne-5-045",
+      "type": "single_choice",
+      "category": "Zdarzenia drogowe",
+      "difficulty": "hard",
+      "question": "Policjant musi odróżnić czynności na miejscu kolizji drogowej od czynności na miejscu wypadku drogowego. Która para symboli jest prawidłowa?",
+      "choices": [
+        "KD i WD",
+        "ZMZ i KD",
+        "WD i ZMZ",
+        "KP i KD"
+      ],
+      "correctIndex": 0,
+      "explanation": "Czynności na miejscu kolizji drogowej oznacza się symbolem KD, a czynności na miejscu wypadku drogowego symbolem WD.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 30 i 31"
+    },
+    {
+      "id": "wytyczne-5-046",
+      "type": "single_choice",
+      "category": "Środki przymusu i broń palna",
+      "difficulty": "hard",
+      "question": "Policjant dokumentuje dwa różne zdarzenia: jedno związane ze środkami przymusu bezpośredniego, a drugie z bronią palną. Która para symboli jest właściwa?",
+      "choices": [
+        "ŚPB i BP",
+        "BP i SPU",
+        "ŚPB i UP",
+        "SPU i BP"
+      ],
+      "correctIndex": 0,
+      "explanation": "Środki przymusu bezpośredniego oznacza się symbolem ŚPB, a broń palną symbolem BP.",
+      "source": "§ 1 pkt 3, zmieniany § 6 ust. 1 pkt 32 i 33"
+    }
+  ]
+}
