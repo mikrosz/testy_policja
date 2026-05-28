@@ -70,7 +70,7 @@ function TrueFalse({
 }) {
   const val = answer?.kind === "boolean" ? answer.value : null;
   return (
-    <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
+    <div className="grid grid-cols-2 gap-2">
       {[true, false].map((v) => {
         const chosen = val === v;
         const correct = revealCorrect ? question.correct === v : null;
@@ -109,7 +109,7 @@ function SingleChoice({
 }) {
   const val = answer?.kind === "single" ? answer.choiceId : null;
   return (
-    <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
+    <div className="grid grid-cols-2 gap-2">
       {question.choices.map((c, idx) => {
         const chosen = val === c.id;
         const correct = revealCorrect ? question.correctChoiceId === c.id : null;
@@ -157,7 +157,7 @@ function MultipleChoice({
     onAnswer({ kind: "multiple", choiceIds: next });
   }
   return (
-    <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
+    <div className="grid grid-cols-2 gap-2">
       {question.choices.map((c, idx) => {
         const chosen = vals.includes(c.id);
         const correct = revealCorrect ? question.correctChoiceIds.includes(c.id) : null;
