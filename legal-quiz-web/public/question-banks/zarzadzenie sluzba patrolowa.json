@@ -1,0 +1,4007 @@
+{
+  "title": "Zarządzenie nr 768 KGP - służba patrolowa - 250 pytań",
+  "description": "Baza pytań jednokrotnego wyboru A/B/C/D do zarządzenia nr 768 KGP w sprawie form i metod wykonywania zadań przez policjantów pełniących służbę patrolową oraz koordynacji działań o charakterze prewencyjnym.",
+  "question_count": 250,
+  "questions": [
+    {
+      "id": "sluzba-patrolowa-001",
+      "type": "single_choice",
+      "category": "Przepisy ogólne",
+      "difficulty": "medium",
+      "question": "Co określa zarządzenie nr 768 KGP w zakresie służby patrolowej?",
+      "choices": [
+        "Zasady nadawania stopni policyjnych",
+        "Tryb postępowania dyscyplinarnego wobec policjantów",
+        "Zasady prowadzenia postępowań przygotowawczych przez prokuratora",
+        "Formy i metody wykonywania zadań przez policjantów pełniących służbę patrolową"
+      ],
+      "correctIndex": 3,
+      "explanation": "Zarządzenie określa m.in. organizację i sposób pełnienia służby patrolowej.",
+      "source": "§ 1 ust. 1 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-002",
+      "type": "single_choice",
+      "category": "Przepisy ogólne",
+      "difficulty": "medium",
+      "question": "Czego dotyczy zarządzenie w zakresie współpracy z podmiotami pozapolicyjnymi?",
+      "choices": [
+        "Wyłącznie zasad finansowania patroli",
+        "Wyłącznie zasad szkolenia kandydatów do służby",
+        "Przedsięwzięć, warunków współpracy oraz koordynacji działań zewnętrznych o charakterze prewencyjnym",
+        "Wyłącznie prowadzenia postępowań mandatowych"
+      ],
+      "correctIndex": 2,
+      "explanation": "Zarządzenie obejmuje przedsięwzięcia i warunki współpracy służb Policji oraz podmiotów pozapolicyjnych.",
+      "source": "§ 1 ust. 1 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-003",
+      "type": "single_choice",
+      "category": "Przepisy ogólne",
+      "difficulty": "medium",
+      "question": "Jakich odrębnych uregulowań zarządzenie nr 768 KGP nie narusza w szczególności?",
+      "choices": [
+        "Regulaminu pracy urzędów skarbowych",
+        "Organizacji i pełnienia służby m.in. na drogach, wodach i pokładach statków powietrznych",
+        "Postępowania administracyjnego w sprawach paszportowych",
+        "Organizacji sądów powszechnych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zarządzenie nie narusza szczególnych regulacji dotyczących m.in. służby na drogach i wodach.",
+      "source": "§ 1 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-004",
+      "type": "single_choice",
+      "category": "Przepisy ogólne",
+      "difficulty": "medium",
+      "question": "Do kogo stosuje się odpowiednio przepisy dotyczące komendanta powiatowego Policji?",
+      "choices": [
+        "Do komendanta miejskiego i rejonowego Policji",
+        "Do wojewody i starosty",
+        "Do prokuratora rejonowego",
+        "Do dowódcy jednostki wojskowej"
+      ],
+      "correctIndex": 0,
+      "explanation": "Przepisy dotyczące komendanta powiatowego i komendy powiatowej stosuje się odpowiednio do miejskich i rejonowych jednostek.",
+      "source": "§ 1 ust. 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-005",
+      "type": "single_choice",
+      "category": "Przepisy ogólne",
+      "difficulty": "easy",
+      "question": "Do jakich jednostek stosuje się odpowiednio przepisy dotyczące oddziałów prewencji Policji?",
+      "choices": [
+        "Do komisji lekarskich",
+        "Do straży miejskich",
+        "Do szkół policyjnych",
+        "Do samodzielnych pododdziałów prewencji Policji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Zarządzenie wskazuje odpowiednie stosowanie przepisów dotyczących OPP do samodzielnych pododdziałów prewencji.",
+      "source": "§ 1 ust. 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-006",
+      "type": "single_choice",
+      "category": "Definicje",
+      "difficulty": "medium",
+      "question": "Czym jest organizacja służby patrolowej według zarządzenia?",
+      "choices": [
+        "Wyłącznie dokumentem statystycznym po służbie",
+        "Jedynie odprawą do służby",
+        "Zespołem czynności obejmujących m.in. analizowanie, planowanie, przygotowanie, rozmieszczenie, koordynację i nadzór",
+        "Wyłącznie wykazem użytego wyposażenia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Organizacja służby patrolowej obejmuje szeroki zestaw czynności służących realizacji ustawowych zadań Policji.",
+      "source": "§ 2 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-007",
+      "type": "single_choice",
+      "category": "Definicje",
+      "difficulty": "medium",
+      "question": "Co oznacza służba patrolowa lub patrolowanie?",
+      "choices": [
+        "Wyłącznie dyżur przy telefonie alarmowym",
+        "Wykonywanie zadań przez policjanta lub grupę policjantów w patrolu pieszym albo z użyciem środka transportu",
+        "Wyłącznie czynności administracyjne w sekretariacie",
+        "Wyłącznie udział w szkoleniu zawodowym"
+      ],
+      "correctIndex": 1,
+      "explanation": "Patrolowanie może być piesze albo z wykorzystaniem środka transportu.",
+      "source": "§ 2 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-008",
+      "type": "single_choice",
+      "category": "Definicje",
+      "difficulty": "medium",
+      "question": "Co obejmują działania zewnętrzne?",
+      "choices": [
+        "Działania patrolowe, obchodowe i podstawowe czynności operacyjno-rozpoznawcze",
+        "Wyłącznie czynności kadrowe",
+        "Wyłącznie obsługę magazynów broni",
+        "Wyłącznie postępowania dyscyplinarne"
+      ],
+      "correctIndex": 0,
+      "explanation": "Działania zewnętrzne mogą być wykonywane przez Policję lub wspólnie z podmiotami pozapolicyjnymi.",
+      "source": "§ 2 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-009",
+      "type": "single_choice",
+      "category": "Definicje",
+      "difficulty": "medium",
+      "question": "Czym jest rejon zagrożenia?",
+      "choices": [
+        "Miejscem przechowywania akt spraw",
+        "Obszarem wyłączonym z nadzoru Policji",
+        "Wyłącznie odcinkiem autostrady",
+        "Obszarem o szczególnym nasileniu przestępstw, wykroczeń lub innych zjawisk patologii społecznej"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rejon zagrożenia wyznacza się ze względu na szczególne nasilenie zagrożeń.",
+      "source": "§ 2 pkt 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-010",
+      "type": "single_choice",
+      "category": "Definicje",
+      "difficulty": "easy",
+      "question": "Czym jest trasa patrolowa?",
+      "choices": [
+        "Stałym miejscem zakwaterowania policjanta",
+        "Wewnętrznym regulaminem komisariatu",
+        "Odcinkiem drogi łączącym rejony i miejsca zagrożone, ważniejsze obiekty, posterunki lub inne punkty",
+        "Wyłącznie drogą dojazdu do jednostki"
+      ],
+      "correctIndex": 2,
+      "explanation": "Trasa patrolowa łączy miejsca ważne z punktu widzenia służby.",
+      "source": "§ 2 pkt 5 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-011",
+      "type": "single_choice",
+      "category": "Definicje",
+      "difficulty": "medium",
+      "question": "Czym jest miejsce zagrożone?",
+      "choices": [
+        "Całym województwem bez rozróżnienia",
+        "Obiektem lub niewielkim obszarem wymagającym systematycznego nadzoru i kontroli policyjnej",
+        "Wyłącznie siedzibą komendy wojewódzkiej",
+        "Wyłącznie miejscem odprawy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Miejsce zagrożone wymaga systematycznego nadzoru z powodu występowania przestępstw, wykroczeń lub patologii społecznej.",
+      "source": "§ 2 pkt 6 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-012",
+      "type": "single_choice",
+      "category": "Definicje",
+      "difficulty": "medium",
+      "question": "Czym jest rejon odpowiedzialności?",
+      "choices": [
+        "Obszarem wyznaczonym w oparciu m.in. o rejony i miejsca zagrożone oraz rejony służbowe dzielnicowych",
+        "Miejscem przechowywania broni służbowej",
+        "Wyłącznie pokojem dyżurnego",
+        "Stałym punktem obsługi interesantów"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rejon odpowiedzialności to obszar, za którego bezpieczeństwo odpowiadają w miarę możliwości ci sami policjanci.",
+      "source": "§ 2 pkt 7 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-013",
+      "type": "single_choice",
+      "category": "Definicje",
+      "difficulty": "medium",
+      "question": "Czym jest posterunek w rozumieniu zarządzenia?",
+      "choices": [
+        "Dowolnym miejscem odpoczynku patrolu",
+        "Miejscem prowadzenia szkoleń strzeleckich",
+        "Wyłącznie budynkiem komisariatu",
+        "Ściśle określonym miejscem pełnienia służby patrolowej"
+      ],
+      "correctIndex": 3,
+      "explanation": "Posterunek to miejsce służby z zadaniami określonymi w regulaminie.",
+      "source": "§ 2 pkt 8 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-014",
+      "type": "single_choice",
+      "category": "Definicje",
+      "difficulty": "medium",
+      "question": "Kim są siły wzmocnienia?",
+      "choices": [
+        "Wyłącznie pracownikami cywilnymi Policji",
+        "Wyłącznie funkcjonariuszami straży miejskiej",
+        "Policjantami skierowanymi lub oddelegowanymi do pełnienia służby patrolowej poza zwykłymi zadaniami lub jednostką",
+        "Wyłącznie kandydatami do służby"
+      ],
+      "correctIndex": 2,
+      "explanation": "Siły wzmocnienia obejmują policjantów kierowanych do wsparcia służby patrolowej.",
+      "source": "§ 2 pkt 9 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-015",
+      "type": "single_choice",
+      "category": "Definicje",
+      "difficulty": "easy",
+      "question": "Czym jest system koncentryczny?",
+      "choices": [
+        "Systemem archiwizacji dokumentów",
+        "Sposobem organizacji służby umożliwiającym doraźne koncentrowanie policjantów i kierowanie ich do działań zespołowych",
+        "Systemem premiowania policjantów",
+        "Sposobem oznakowania radiowozów"
+      ],
+      "correctIndex": 1,
+      "explanation": "System koncentryczny pozwala szybko skupić siły do działań zespołowych.",
+      "source": "§ 2 pkt 10 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-016",
+      "type": "single_choice",
+      "category": "Definicje",
+      "difficulty": "medium",
+      "question": "Na czym opiera się zintegrowany system organizacji dyslokacji służby?",
+      "choices": [
+        "Na skoordynowanym współdziałaniu jednostek Policji, podmiotów pozapolicyjnych i komórek organizacyjnych",
+        "Na wyłącznym działaniu jednego patrolu",
+        "Na losowym rozmieszczaniu patroli",
+        "Na pominięciu podmiotów pozapolicyjnych"
+      ],
+      "correctIndex": 0,
+      "explanation": "System opiera się na koordynacji działań zewnętrznych.",
+      "source": "§ 2 pkt 11 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-017",
+      "type": "single_choice",
+      "category": "Definicje",
+      "difficulty": "medium",
+      "question": "Czym jest ceduła patrolowa?",
+      "choices": [
+        "Nakazem zatrzymania osoby",
+        "Formularzem urlopowym",
+        "Wyłącznie listą obecności na odprawie",
+        "Dokumentem graficzno-opisowym usprawniającym organizację służby patrolowej"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ceduła zawiera charakterystykę rejonów, tras, miejsc i podstawowe informacje dla patrolu.",
+      "source": "§ 2 pkt 12 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-018",
+      "type": "single_choice",
+      "category": "Definicje",
+      "difficulty": "medium",
+      "question": "Czym są zadania doraźne?",
+      "choices": [
+        "Zadaniami wykonywanymi tylko raz w roku",
+        "Stałym harmonogramem urlopów",
+        "Poleceniami podjęcia jednorazowych lub krótkotrwałych działań wynikających z analiz albo informacji",
+        "Wyłącznie szkoleniami w jednostce"
+      ],
+      "correctIndex": 2,
+      "explanation": "Zadania doraźne wynikają z bieżącej analizy lub informacji od służb i innych źródeł.",
+      "source": "§ 2 pkt 13 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-019",
+      "type": "single_choice",
+      "category": "Definicje",
+      "difficulty": "medium",
+      "question": "Czym jest podmiot pozapolicyjny?",
+      "choices": [
+        "Każdym sądem powszechnym",
+        "Innym niż Policja podmiotem działającym na rzecz zapobiegania przestępstwom, wykroczeniom lub patologiom społecznym",
+        "Wyłącznie organem podatkowym",
+        "Wyłącznie szkołą policyjną"
+      ],
+      "correctIndex": 1,
+      "explanation": "Podmiot pozapolicyjny działa na rzecz bezpieczeństwa i zapobiegania zagrożeniom.",
+      "source": "§ 2 pkt 14 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-020",
+      "type": "single_choice",
+      "category": "Służba patrolowa",
+      "difficulty": "easy",
+      "question": "Policjanci których komórek pełnią służbę patrolową według § 3?",
+      "choices": [
+        "Patrolowych, interwencyjnych, patrolowo-interwencyjnych i wywiadowczych",
+        "Wyłącznie komórek finansowych",
+        "Wyłącznie archiwów zakładowych",
+        "Wyłącznie zespołów prasowych"
+      ],
+      "correctIndex": 0,
+      "explanation": "§ 3 wymienia komórki, których policjanci pełnią służbę patrolową.",
+      "source": "§ 3 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-021",
+      "type": "single_choice",
+      "category": "Służba patrolowa",
+      "difficulty": "medium",
+      "question": "Która formacja organizacyjna Policji została wprost wskazana jako pełniąca służbę patrolową?",
+      "choices": [
+        "Komisje lekarskie",
+        "Biura paszportowe",
+        "Sądy dyscyplinarne",
+        "Oddziały prewencji Policji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Służbę patrolową pełnią także policjanci oddziałów prewencji Policji.",
+      "source": "§ 3 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-022",
+      "type": "single_choice",
+      "category": "Służba patrolowa",
+      "difficulty": "medium",
+      "question": "Czy służbę patrolową mogą pełnić policjanci innych jednostek i komórek niż wymienione wprost w § 3 pkt 1 i 2?",
+      "choices": [
+        "Nie, jest to bezwzględnie zakazane",
+        "Tak, ale wyłącznie pracownicy cywilni",
+        "Tak, mogą ją pełnić policjanci innych jednostek i komórek organizacyjnych Policji",
+        "Nie, chyba że są funkcjonariuszami straży miejskiej"
+      ],
+      "correctIndex": 2,
+      "explanation": "§ 3 pkt 3 dopuszcza pełnienie służby patrolowej przez policjantów innych jednostek i komórek.",
+      "source": "§ 3 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-023",
+      "type": "single_choice",
+      "category": "Zadania patrolu",
+      "difficulty": "medium",
+      "question": "Jakie jest podstawowe zadanie policjantów pełniących służbę patrolową?",
+      "choices": [
+        "Prowadzenie rejestracji pojazdów",
+        "Przeciwdziałanie popełnianiu przestępstw lub wykroczeń",
+        "Rozpatrywanie odwołań administracyjnych",
+        "Wydawanie dokumentów paszportowych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Podstawowym zadaniem patrolu jest przeciwdziałanie przestępstwom i wykroczeniom.",
+      "source": "§ 4 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-024",
+      "type": "single_choice",
+      "category": "Zadania patrolu",
+      "difficulty": "medium",
+      "question": "Które działanie należy do podstawowych zadań patrolu?",
+      "choices": [
+        "Zapobieganie zachowaniom zagrażającym bezpieczeństwu osób i mienia lub naruszającym porządek publiczny",
+        "Pobieranie opłat sądowych",
+        "Ustalanie podatku lokalnego",
+        "Nadzór nad obrotem papierami wartościowymi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Patrol ma zapobiegać zagrożeniom dla bezpieczeństwa i porządku publicznego.",
+      "source": "§ 4 ust. 1 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-025",
+      "type": "single_choice",
+      "category": "Zadania patrolu",
+      "difficulty": "easy",
+      "question": "Gdzie patrol ma w szczególności zapobiegać popełnianiu przestępstw i wykroczeń?",
+      "choices": [
+        "Wyłącznie w pomieszczeniach służbowych",
+        "Wyłącznie na terenach prywatnych bez dostępu publicznego",
+        "Wyłącznie w sądach",
+        "W miejscach publicznych"
+      ],
+      "correctIndex": 3,
+      "explanation": "Zarządzenie wskazuje zapobieganie przestępstwom i wykroczeniom w miejscach publicznych.",
+      "source": "§ 4 ust. 1 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-026",
+      "type": "single_choice",
+      "category": "Zadania patrolu",
+      "difficulty": "medium",
+      "question": "Jakie działania profilaktyczne należą do zadań patrolu?",
+      "choices": [
+        "Wyłącznie działania kadrowe",
+        "Wyłącznie czynności egzekucyjne",
+        "Niezbędne działania profilaktyczne",
+        "Wyłącznie działania księgowe"
+      ],
+      "correctIndex": 2,
+      "explanation": "§ 4 przewiduje prowadzenie niezbędnych działań profilaktycznych.",
+      "source": "§ 4 ust. 1 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-027",
+      "type": "single_choice",
+      "category": "Zadania patrolu",
+      "difficulty": "medium",
+      "question": "W jakim celu policjanci patrolowi mają nawiązywać i utrzymywać więzi ze społecznością lokalną?",
+      "choices": [
+        "W celu prowadzenia działalności gospodarczej",
+        "W celu tworzenia poczucia bezpieczeństwa i współodpowiedzialności za zapobieganie zagrożeniom",
+        "W celu zastąpienia organów samorządu",
+        "W celu prowadzenia wyborów lokalnych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Więzi ze społecznością lokalną służą bezpieczeństwu i współodpowiedzialności.",
+      "source": "§ 4 ust. 1 pkt 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-028",
+      "type": "single_choice",
+      "category": "Zadania patrolu",
+      "difficulty": "medium",
+      "question": "Co powinni zrobić policjanci patrolowi w razie zaistnienia przestępstwa lub wykroczenia?",
+      "choices": [
+        "Niezwłocznie podjąć działania zmierzające do ujęcia sprawcy",
+        "Zawsze zakończyć służbę",
+        "Odstąpić od jakichkolwiek działań",
+        "Przekazać sprawę wyłącznie podmiotowi pozapolicyjnemu"
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie zdarzenia patrol powinien działać w kierunku ujęcia sprawcy.",
+      "source": "§ 4 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-029",
+      "type": "single_choice",
+      "category": "Organizacja służby",
+      "difficulty": "medium",
+      "question": "Kto odpowiada za prawidłową organizację służby patrolowej?",
+      "choices": [
+        "Wyłącznie wojewoda",
+        "Wyłącznie prokurator rejonowy",
+        "Wyłącznie rada gminy",
+        "Komendant powiatowy Policji i komendant komisariatu Policji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Za organizację służby odpowiadają wskazani komendanci.",
+      "source": "§ 5 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-030",
+      "type": "single_choice",
+      "category": "Organizacja służby",
+      "difficulty": "easy",
+      "question": "Co komendant powinien opracowywać na potrzeby dyslokacji służby?",
+      "choices": [
+        "Raporty podatkowe",
+        "Akty oskarżenia",
+        "Analizy stanu bezpieczeństwa i porządku",
+        "Wnioski paszportowe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Analizy są podstawą wyznaczania rejonów i celów służby.",
+      "source": "§ 5 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-031",
+      "type": "single_choice",
+      "category": "Organizacja służby",
+      "difficulty": "medium",
+      "question": "Co należy do zadań komendanta w zakresie planowania służby?",
+      "choices": [
+        "Wyłącznie sporządzanie list urlopowych",
+        "Opracowywanie planów dyslokacji służby i określanie taktyki patroli",
+        "Wyłącznie prowadzenie archiwum",
+        "Wyłącznie wydawanie prawa jazdy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Komendant odpowiada m.in. za plany dyslokacji i taktykę patroli.",
+      "source": "§ 5 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-032",
+      "type": "single_choice",
+      "category": "Organizacja służby",
+      "difficulty": "medium",
+      "question": "Za co odpowiada komendant w zakresie ceduł patrolowych?",
+      "choices": [
+        "Za opracowanie i aktualizację ceduł patrolowych",
+        "Za ich zniszczenie po każdej służbie",
+        "Za zastąpienie ich wyłącznie ustnym poleceniem",
+        "Za wydawanie ich wyłącznie sądom"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ceduły patrolowe muszą być opracowywane i aktualizowane.",
+      "source": "§ 5 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-033",
+      "type": "single_choice",
+      "category": "Organizacja służby",
+      "difficulty": "medium",
+      "question": "Kto sporządza grafiki służby policjantów planowanych do służby patrolowej?",
+      "choices": [
+        "Przewodniczący rady gminy",
+        "Prokurator prowadzący sprawę",
+        "Kierownik urzędu skarbowego",
+        "Właściwi kierownicy komórek prewencji"
+      ],
+      "correctIndex": 3,
+      "explanation": "§ 5 wskazuje sporządzanie grafików przez właściwych kierowników komórek prewencji.",
+      "source": "§ 5 pkt 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-034",
+      "type": "single_choice",
+      "category": "Organizacja służby",
+      "difficulty": "medium",
+      "question": "Co może zrobić komendant w celu wsparcia służby patrolowej?",
+      "choices": [
+        "Występować o likwidację patroli",
+        "Nakazać zaniechanie analizy bezpieczeństwa",
+        "Występować o przydział sił wzmocnienia",
+        "Zastąpić patrol wyłącznie dokumentacją"
+      ],
+      "correctIndex": 2,
+      "explanation": "Komendant może występować o siły wzmocnienia.",
+      "source": "§ 5 pkt 5 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-035",
+      "type": "single_choice",
+      "category": "Organizacja służby",
+      "difficulty": "easy",
+      "question": "Co komendant określa w zakresie kontroli realizacji zadań patrolowych?",
+      "choices": [
+        "Wysokość opłat za mandaty",
+        "System nadzoru nad realizacją zadań",
+        "Treść wyroków sądowych",
+        "Zasady prowadzenia ksiąg wieczystych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Komendant określa system nadzoru nad zadaniami patrolowymi.",
+      "source": "§ 5 pkt 6 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-036",
+      "type": "single_choice",
+      "category": "Organizacja służby",
+      "difficulty": "medium",
+      "question": "Co komendant określa w relacji z podmiotami pozapolicyjnymi?",
+      "choices": [
+        "Sposób współpracy i współdziałania na rzecz bezpieczeństwa w miejscach publicznych",
+        "Zasady poboru podatków",
+        "Tryb awansu nauczycieli",
+        "Organizację ruchu lotniczego"
+      ],
+      "correctIndex": 0,
+      "explanation": "Komendant określa sposób współpracy z podmiotami pozapolicyjnymi.",
+      "source": "§ 5 pkt 7 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-037",
+      "type": "single_choice",
+      "category": "Organizacja służby",
+      "difficulty": "medium",
+      "question": "Kogo wyznacza się w celu sprawnej organizacji i nadzoru nad służbą patrolową?",
+      "choices": [
+        "Wyłącznie przedstawiciela samorządu",
+        "Wyłącznie pracownika sądu",
+        "Wyłącznie osobę spoza Policji",
+        "Policjanta odpowiedzialnego za organizację służby patrolowej"
+      ],
+      "correctIndex": 3,
+      "explanation": "W komendzie powiatowej i w razie potrzeb w komisariatach wyznacza się policjanta odpowiedzialnego za organizację tej służby.",
+      "source": "§ 6 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-038",
+      "type": "single_choice",
+      "category": "Organizacja służby",
+      "difficulty": "medium",
+      "question": "Komu powierza się bezpośredni nadzór nad policjantem odpowiedzialnym za organizację służby patrolowej w komendzie powiatowej?",
+      "choices": [
+        "Sędziemu dyżurnemu",
+        "Przewodniczącemu rady powiatu",
+        "Kierownikowi właściwej komórki służby prewencyjnej",
+        "Kierownikowi urzędu pracy"
+      ],
+      "correctIndex": 2,
+      "explanation": "W komendzie powiatowej nadzór powierzany jest kierownikowi właściwej komórki prewencyjnej.",
+      "source": "§ 6 ust. 2 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-039",
+      "type": "single_choice",
+      "category": "Organizacja służby",
+      "difficulty": "medium",
+      "question": "Komu może być powierzony nadzór nad organizatorem służby patrolowej w komisariacie?",
+      "choices": [
+        "Wyłącznie wojewodzie",
+        "Kierownikowi właściwej komórki, komendantowi komisariatu lub jego zastępcy",
+        "Wyłącznie prokuratorowi",
+        "Wyłącznie strażnikowi miejskiemu"
+      ],
+      "correctIndex": 1,
+      "explanation": "W komisariacie nadzór może sprawować wskazany kierownik, komendant lub zastępca.",
+      "source": "§ 6 ust. 2 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-040",
+      "type": "single_choice",
+      "category": "Organizator służby",
+      "difficulty": "easy",
+      "question": "Jakie informacje wykorzystuje policjant odpowiedzialny za organizację służby przy sporządzaniu analizy?",
+      "choices": [
+        "Informacje z komórek operacyjno-rozpoznawczych, prewencyjnych oraz innych źródeł",
+        "Wyłącznie informacje losowe",
+        "Wyłącznie dane podatkowe",
+        "Wyłącznie dane archiwalne sprzed wielu lat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Analiza opiera się na wielu źródłach informacji.",
+      "source": "§ 7 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-041",
+      "type": "single_choice",
+      "category": "Organizator służby",
+      "difficulty": "medium",
+      "question": "Co określa policjant odpowiedzialny za organizację służby patrolowej?",
+      "choices": [
+        "Wyłącznie cennik mandatów",
+        "Wyłącznie obsadę sądów",
+        "Wyłącznie listę pracowników cywilnych",
+        "Rejony zagrożenia, rejony odpowiedzialności, miejsca zagrożone i trasy patrolowe"
+      ],
+      "correctIndex": 3,
+      "explanation": "Organizator wskazuje obszary i trasy istotne dla rozmieszczenia sił.",
+      "source": "§ 7 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-042",
+      "type": "single_choice",
+      "category": "Organizator służby",
+      "difficulty": "medium",
+      "question": "Jakie dokumenty opracowuje i aktualizuje policjant odpowiedzialny za organizację służby patrolowej?",
+      "choices": [
+        "Akty notarialne",
+        "Dokumenty paszportowe",
+        "Ceduły patrolowe",
+        "Protokoły posiedzeń rady gminy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jednym z jego zadań jest opracowanie i aktualizacja ceduł.",
+      "source": "§ 7 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-043",
+      "type": "single_choice",
+      "category": "Organizator służby",
+      "difficulty": "medium",
+      "question": "Jakie zadania w zakresie służby patrolowej wyznacza policjant odpowiedzialny za organizację?",
+      "choices": [
+        "Wyłącznie zadania urlopowe",
+        "Zadania doraźne",
+        "Wyłącznie zadania finansowe",
+        "Wyłącznie zadania sądowe"
+      ],
+      "correctIndex": 1,
+      "explanation": "Organizator wyznacza zadania doraźne.",
+      "source": "§ 7 pkt 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-044",
+      "type": "single_choice",
+      "category": "Organizator służby",
+      "difficulty": "medium",
+      "question": "Do czego organizator służby inspiruje jednostki podległe i właściwe komórki organizacyjne?",
+      "choices": [
+        "Do przedsięwzięć wpływających na wzrost poczucia bezpieczeństwa obywateli",
+        "Do ograniczenia kontaktu z obywatelami",
+        "Do rezygnacji z analizy zagrożeń",
+        "Do prowadzenia wyłącznie czynności biurowych"
+      ],
+      "correctIndex": 0,
+      "explanation": "Organizator ma inicjować przedsięwzięcia poprawiające poczucie bezpieczeństwa.",
+      "source": "§ 7 pkt 5 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-045",
+      "type": "single_choice",
+      "category": "Organizator służby",
+      "difficulty": "easy",
+      "question": "Co organizator służby monitoruje na bieżąco?",
+      "choices": [
+        "Wyłącznie kursy walut",
+        "Wyłącznie stan magazynowy biura",
+        "Wyłącznie ruch turystyczny za granicą",
+        "Stan zagrożenia przestępstwami, wykroczeniami i innymi zjawiskami patologii społecznej"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bieżące monitorowanie zagrożeń jest jednym z jego zadań.",
+      "source": "§ 7 pkt 6 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-046",
+      "type": "single_choice",
+      "category": "Organizator służby",
+      "difficulty": "medium",
+      "question": "Jaki regulamin opracowuje policjant odpowiedzialny za organizację służby?",
+      "choices": [
+        "Regulamin prowadzenia szkół podstawowych",
+        "Regulamin pracy sądu",
+        "Regulamin pełnienia służby patrolowej na posterunku",
+        "Regulamin wyborów samorządowych"
+      ],
+      "correctIndex": 2,
+      "explanation": "Organizator opracowuje regulamin służby na posterunku.",
+      "source": "§ 7 pkt 7 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-047",
+      "type": "single_choice",
+      "category": "Organizator służby",
+      "difficulty": "medium",
+      "question": "Jaki plan sporządza policjant odpowiedzialny za organizację służby?",
+      "choices": [
+        "Plan budżetu gminy",
+        "Plan dyslokacji służby",
+        "Plan urlopów prokuratorów",
+        "Plan postępowań sądowych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Organizator sporządza plan dyslokacji służby.",
+      "source": "§ 7 pkt 8 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-048",
+      "type": "single_choice",
+      "category": "Organizator służby",
+      "difficulty": "medium",
+      "question": "Jak powinno być planowane rozmieszczenie policjantów komórek interwencyjnych?",
+      "choices": [
+        "Tak, aby w razie potrzeby można było szybko skoncentrować patrole w jednym miejscu",
+        "Tak, aby patrole nie mogły się przemieszczać",
+        "Wyłącznie losowo",
+        "Tak, aby pełniły służbę poza zasięgiem łączności"
+      ],
+      "correctIndex": 0,
+      "explanation": "Planowanie ma umożliwiać maksymalnie szybką koncentrację patroli.",
+      "source": "§ 7 pkt 9 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-049",
+      "type": "single_choice",
+      "category": "Organizator służby",
+      "difficulty": "medium",
+      "question": "W jakiej współpracy bierze udział organizator służby?",
+      "choices": [
+        "Wyłącznie w pracy komisji egzaminacyjnej",
+        "Wyłącznie w czynnościach sądu cywilnego",
+        "Wyłącznie w ewidencji podatników",
+        "We współpracy z podmiotami pozapolicyjnymi w celu wymiany informacji potrzebnych do analizy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Organizator współpracuje z podmiotami pozapolicyjnymi przy wymianie informacji.",
+      "source": "§ 7 pkt 10 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-050",
+      "type": "single_choice",
+      "category": "Zintegrowany system",
+      "difficulty": "easy",
+      "question": "Na czym należy opierać pełnienie służby patrolowej i działania zewnętrzne?",
+      "choices": [
+        "Na braku planowania i analiz",
+        "Na przypadkowym rozdziale patroli",
+        "Na zintegrowanym systemie organizacji i dyslokacji służby opartym na rejonach odpowiedzialności",
+        "Wyłącznie na działaniach bez kontaktu z podmiotami zewnętrznymi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Służba i działania zewnętrzne mają opierać się na zintegrowanym systemie.",
+      "source": "§ 8 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-051",
+      "type": "single_choice",
+      "category": "Zintegrowany system",
+      "difficulty": "hard",
+      "question": "Na czym polega realizacja zadań w ramach zintegrowanego systemu?",
+      "choices": [
+        "Na całkowitym zakazie współpracy między komórkami",
+        "Na skoordynowanym realizowaniu zadań przez policjantów różnych jednostek lub komórek",
+        "Na pominięciu komórek kryminalnych",
+        "Na wyłącznym działaniu sekretariatu"
+      ],
+      "correctIndex": 1,
+      "explanation": "System zakłada koordynację działań różnych jednostek i komórek.",
+      "source": "§ 8 ust. 2 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-052",
+      "type": "single_choice",
+      "category": "Zintegrowany system",
+      "difficulty": "medium",
+      "question": "Jaką formę służby z podmiotami pozapolicyjnymi przewiduje zintegrowany system?",
+      "choices": [
+        "Pełnienie wspólnych służb patrolowych",
+        "Wyłącznie korespondencję pocztową",
+        "Wyłącznie spotkania bez działań w terenie",
+        "Wyłącznie działania sądowe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jedną z form jest wspólne patrolowanie policjantów i przedstawicieli określonych podmiotów.",
+      "source": "§ 8 ust. 2 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-053",
+      "type": "single_choice",
+      "category": "Zintegrowany system",
+      "difficulty": "medium",
+      "question": "Co można wyznaczać dla poszczególnych podmiotów w zintegrowanym systemie?",
+      "choices": [
+        "Terminy urlopów",
+        "Wysokość wynagrodzeń",
+        "Numery spraw sądowych",
+        "Rejony odpowiedzialności"
+      ],
+      "correctIndex": 3,
+      "explanation": "System pozwala wyznaczać rejony odpowiedzialności dla podmiotów działających na rzecz bezpieczeństwa.",
+      "source": "§ 8 ust. 2 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-054",
+      "type": "single_choice",
+      "category": "Zintegrowany system",
+      "difficulty": "hard",
+      "question": "Co określa się dla poszczególnych podmiotów w obszarach odpowiedzialności?",
+      "choices": [
+        "Wyłącznie kolor umundurowania",
+        "Wyłącznie limit paliwa",
+        "Ścisły zakres kompetencji",
+        "Wyłącznie wzór legitymacji"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dla podmiotów można wyznaczać zakres kompetencji w określonych obszarach.",
+      "source": "§ 8 ust. 2 pkt 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-055",
+      "type": "single_choice",
+      "category": "Zintegrowany system",
+      "difficulty": "easy",
+      "question": "Jakie spotkania organizuje się w ramach działań zewnętrznych?",
+      "choices": [
+        "Wyłącznie spotkania rodzinne policjantów",
+        "Systematyczne spotkania przedstawicieli Policji z przedstawicielami podmiotów pozapolicyjnych",
+        "Wyłącznie posiedzenia sądu",
+        "Wyłącznie spotkania komisji wyborczych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Współpraca obejmuje systematyczne spotkania Policji i podmiotów pozapolicyjnych.",
+      "source": "§ 8 ust. 3 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-056",
+      "type": "single_choice",
+      "category": "Zintegrowany system",
+      "difficulty": "medium",
+      "question": "Co tworzy się w ramach działań zewnętrznych na podstawie analiz bezpieczeństwa?",
+      "choices": [
+        "Mapy zagrożeń",
+        "Mapy urlopów",
+        "Mapy wynagrodzeń",
+        "Mapy stopni służbowych"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tworzenie map zagrożeń ma opierać się na analizach stanu bezpieczeństwa i porządku.",
+      "source": "§ 8 ust. 3 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-057",
+      "type": "single_choice",
+      "category": "Zintegrowany system",
+      "difficulty": "hard",
+      "question": "Co wspólnie planuje się w ramach działań zewnętrznych?",
+      "choices": [
+        "Postępowania sądowe cywilne",
+        "Zasady podatkowe",
+        "Zamówienia prywatne policjantów",
+        "Przedsięwzięcia"
+      ],
+      "correctIndex": 3,
+      "explanation": "W ramach działań zewnętrznych wspólnie planuje się przedsięwzięcia.",
+      "source": "§ 8 ust. 3 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-058",
+      "type": "single_choice",
+      "category": "Zintegrowany system",
+      "difficulty": "medium",
+      "question": "Co koordynuje się w ramach organizacji i realizacji działań zewnętrznych?",
+      "choices": [
+        "Wyłącznie odprawy kadrowe",
+        "Wyłącznie rekrutację",
+        "Działania zewnętrzne",
+        "Wyłącznie remonty jednostek"
+      ],
+      "correctIndex": 2,
+      "explanation": "Zarządzenie wprost wskazuje koordynowanie działań zewnętrznych.",
+      "source": "§ 8 ust. 3 pkt 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-059",
+      "type": "single_choice",
+      "category": "Zintegrowany system",
+      "difficulty": "medium",
+      "question": "Jaką ocenę przeprowadza się w ramach działań zewnętrznych?",
+      "choices": [
+        "Wyłącznie ocenę kosztów prywatnych",
+        "Wspólną ocenę osiągniętych efektów",
+        "Wyłącznie ocenę sprzętu komputerowego",
+        "Wyłącznie ocenę postępowań sądowych"
+      ],
+      "correctIndex": 1,
+      "explanation": "W ramach systemu dokonuje się wspólnej oceny efektów.",
+      "source": "§ 8 ust. 3 pkt 5 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-060",
+      "type": "single_choice",
+      "category": "Koordynacja",
+      "difficulty": "hard",
+      "question": "Komu powierza się koordynację działań zewnętrznych?",
+      "choices": [
+        "Zastępcom komendantów nadzorującym służbę prewencyjną",
+        "Wyłącznie rzecznikom prasowym",
+        "Wyłącznie pracownikom cywilnym archiwum",
+        "Wyłącznie dyrektorom szkół"
+      ],
+      "correctIndex": 0,
+      "explanation": "Koordynatorami są zastępcy komendantów nadzorujący służbę prewencyjną.",
+      "source": "§ 9 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-061",
+      "type": "single_choice",
+      "category": "Koordynacja",
+      "difficulty": "medium",
+      "question": "Kto pełni funkcję koordynatora, gdy w strukturze jednostki jest jeden zastępca komendanta?",
+      "choices": [
+        "Zawsze prokurator rejonowy",
+        "Zawsze przedstawiciel straży miejskiej",
+        "Zawsze pracownik administracyjny",
+        "Nadzorujący służbę prewencyjną komendant lub jego zastępca"
+      ],
+      "correctIndex": 3,
+      "explanation": "W takiej sytuacji funkcję pełni właściwy komendant lub zastępca.",
+      "source": "§ 9 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-062",
+      "type": "single_choice",
+      "category": "Koordynacja",
+      "difficulty": "medium",
+      "question": "Czy komendant powiatowy może powołać koordynatora w podległych komisariatach?",
+      "choices": [
+        "Nie, jest to zawsze zakazane",
+        "Tak, ale tylko wojewoda może to zrobić",
+        "Tak, w zależności od potrzeb",
+        "Nie, bo koordynator działa wyłącznie w sądzie"
+      ],
+      "correctIndex": 2,
+      "explanation": "Komendant powiatowy może powołać koordynatora w komisariatach zależnie od potrzeb.",
+      "source": "§ 9 ust. 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-063",
+      "type": "single_choice",
+      "category": "Koordynacja",
+      "difficulty": "hard",
+      "question": "Co należy do zadań koordynatora wojewódzkiego i Stołecznego?",
+      "choices": [
+        "Prowadzenie rejestru pojazdów prywatnych",
+        "Analizowanie stanu bezpieczeństwa i porządku oraz jego zmian na terenie województwa",
+        "Nadawanie numerów PESEL",
+        "Wydawanie wyroków"
+      ],
+      "correctIndex": 1,
+      "explanation": "Koordynator wojewódzki analizuje stan bezpieczeństwa i porządku.",
+      "source": "§ 10 ust. 1 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-064",
+      "type": "single_choice",
+      "category": "Koordynacja",
+      "difficulty": "medium",
+      "question": "Co określa koordynator wojewódzki i Stołeczny?",
+      "choices": [
+        "Kierunki działań zewnętrznych",
+        "Wysokość podatków",
+        "Listę sędziów",
+        "Zasady zatrudniania nauczycieli"
+      ],
+      "correctIndex": 0,
+      "explanation": "Do zadań koordynatora wojewódzkiego należy określanie kierunków działań zewnętrznych.",
+      "source": "§ 10 ust. 1 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-065",
+      "type": "single_choice",
+      "category": "Koordynacja",
+      "difficulty": "easy",
+      "question": "Jakie siły przydziela jednostkom podległym koordynator wojewódzki i Stołeczny?",
+      "choices": [
+        "Wyłącznie prywatne firmy ochroniarskie bez podstawy prawnej",
+        "Wyłącznie pracowników sądowych",
+        "Wyłącznie osoby cywilne do prowadzenia śledztw",
+        "Siły wzmocnienia oraz siły podmiotów pozapolicyjnych"
+      ],
+      "correctIndex": 3,
+      "explanation": "Koordynator przydziela siły wzmocnienia i siły podmiotów pozapolicyjnych.",
+      "source": "§ 10 ust. 1 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-066",
+      "type": "single_choice",
+      "category": "Koordynacja",
+      "difficulty": "hard",
+      "question": "Nad kim sprawuje nadzór koordynator wojewódzki i Stołeczny?",
+      "choices": [
+        "Nad sądami rejonowymi",
+        "Nad wojewodą",
+        "Nad koordynatorami powiatowymi",
+        "Nad radami gmin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Koordynator wojewódzki sprawuje nadzór nad koordynatorami powiatowymi.",
+      "source": "§ 10 ust. 1 pkt 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-067",
+      "type": "single_choice",
+      "category": "Koordynacja",
+      "difficulty": "medium",
+      "question": "Co analizuje koordynator powiatowy?",
+      "choices": [
+        "Wyłącznie budżet jednostki",
+        "Stan bezpieczeństwa i porządku oraz jego zmiany",
+        "Wyłącznie listę obecności pracowników cywilnych",
+        "Wyłącznie ceny paliw"
+      ],
+      "correctIndex": 1,
+      "explanation": "Koordynator powiatowy analizuje bezpieczeństwo i porządek.",
+      "source": "§ 10 ust. 2 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-068",
+      "type": "single_choice",
+      "category": "Koordynacja",
+      "difficulty": "medium",
+      "question": "Czym kieruje koordynator powiatowy?",
+      "choices": [
+        "Realizacją działań zewnętrznych",
+        "Postępowaniem sądowym",
+        "Zarządzaniem ruchem lotniczym",
+        "Rekrutacją do samorządu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Koordynator powiatowy kieruje działaniami zewnętrznymi.",
+      "source": "§ 10 ust. 2 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-069",
+      "type": "single_choice",
+      "category": "Koordynacja",
+      "difficulty": "hard",
+      "question": "Co robi koordynator powiatowy z przydzielonymi siłami?",
+      "choices": [
+        "Zawsze odsyła je bez użycia",
+        "Przekazuje wyłącznie do archiwum",
+        "Wykorzystuje wyłącznie do celów prywatnych",
+        "Pozyskuje je i efektywnie wykorzystuje"
+      ],
+      "correctIndex": 3,
+      "explanation": "Do jego zadań należy pozyskiwanie i efektywne wykorzystanie sił.",
+      "source": "§ 10 ust. 2 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-070",
+      "type": "single_choice",
+      "category": "Koordynacja",
+      "difficulty": "easy",
+      "question": "Co określa koordynator powiatowy w odniesieniu do służby?",
+      "choices": [
+        "Taryfy mandatów",
+        "Treść wyroków",
+        "Sposób i taktykę pełnienia służby",
+        "Regulamin szkół"
+      ],
+      "correctIndex": 2,
+      "explanation": "Koordynator określa sposób i taktykę służby.",
+      "source": "§ 10 ust. 2 pkt 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-071",
+      "type": "single_choice",
+      "category": "Koordynacja",
+      "difficulty": "medium",
+      "question": "Jak koordynator powiatowy może sprawować nadzór nad realizacją zadań?",
+      "choices": [
+        "Wyłącznie korespondencyjnie",
+        "Między innymi przez bezpośrednie uczestniczenie",
+        "Wyłącznie po zakończeniu roku",
+        "Wyłącznie przez podmiot prywatny"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nadzór może obejmować bezpośredni udział.",
+      "source": "§ 10 ust. 2 pkt 5 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-072",
+      "type": "single_choice",
+      "category": "Koordynacja",
+      "difficulty": "hard",
+      "question": "Co koordynator powiatowy określa w relacji z podmiotami pozapolicyjnymi?",
+      "choices": [
+        "Zasady współpracy",
+        "Zasady prowadzenia akt cywilnych",
+        "Wysokość opłat skarbowych",
+        "Tryb wyborów samorządowych"
+      ],
+      "correctIndex": 0,
+      "explanation": "Koordynator określa zasady współpracy z podmiotami pozapolicyjnymi.",
+      "source": "§ 10 ust. 2 pkt 6 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-073",
+      "type": "single_choice",
+      "category": "Koordynacja",
+      "difficulty": "medium",
+      "question": "Jakie plany opracowuje i aktualizuje koordynator powiatowy?",
+      "choices": [
+        "Plany urlopowe szkół",
+        "Plany budżetowe sądów",
+        "Plany rejestracji firm",
+        "Zintegrowane plany dyslokacji służb"
+      ],
+      "correctIndex": 3,
+      "explanation": "Koordynator opracowuje i aktualizuje zintegrowane plany dyslokacji.",
+      "source": "§ 10 ust. 2 pkt 8 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-074",
+      "type": "single_choice",
+      "category": "Koordynacja",
+      "difficulty": "medium",
+      "question": "Przy pomocy czego koordynator realizuje swoje zadania?",
+      "choices": [
+        "Komisji egzaminacyjnej kierowców",
+        "Rady nadzorczej spółki",
+        "Zespołu zadaniowego",
+        "Wyłącznie sekretariatu sądu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Koordynator realizuje zadania z pomocą zespołu.",
+      "source": "§ 10 ust. 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-075",
+      "type": "single_choice",
+      "category": "Koordynacja",
+      "difficulty": "hard",
+      "question": "Kto w szczególności wchodzi w skład zespołu zadaniowego koordynatora?",
+      "choices": [
+        "Wyłącznie pracownicy cywilni z urzędu gminy",
+        "Policjanci, zwłaszcza kierowniczy ze służby prewencyjnej i kryminalnej oraz organizator służby patrolowej",
+        "Wyłącznie aplikanci sądowi",
+        "Wyłącznie przedstawiciele mediów"
+      ],
+      "correctIndex": 1,
+      "explanation": "W skład zespołu wchodzą wskazani policjanci i organizator służby patrolowej.",
+      "source": "§ 10 ust. 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-076",
+      "type": "single_choice",
+      "category": "Koordynacja",
+      "difficulty": "medium",
+      "question": "Kto zapewnia odpowiednią ilość sił i środków służby kryminalnej na wniosek koordynatora?",
+      "choices": [
+        "Zastępca komendanta jednostki nadzorujący służbę kryminalną",
+        "Wójt gminy",
+        "Prezes sądu",
+        "Dyrektor szkoły"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zastępca nadzorujący służbę kryminalną zapewnia siły i środki w celu realizacji działań.",
+      "source": "§ 10 ust. 5 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-077",
+      "type": "single_choice",
+      "category": "Zespół zadaniowy",
+      "difficulty": "medium",
+      "question": "Jakie informacje zespół zadaniowy uzyskuje od podmiotów pozapolicyjnych?",
+      "choices": [
+        "Wyłącznie informacje o urlopach",
+        "Wyłącznie informacje podatkowe",
+        "Wyłącznie reklamy usług",
+        "Informacje potrzebne do realizowanych zadań"
+      ],
+      "correctIndex": 3,
+      "explanation": "Zespół uzyskuje informacje w ramach bezpośrednich kontaktów.",
+      "source": "§ 11 ust. 1 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-078",
+      "type": "single_choice",
+      "category": "Zespół zadaniowy",
+      "difficulty": "medium",
+      "question": "Co zespół przekazuje koordynatorowi?",
+      "choices": [
+        "Wyłącznie informacje o zakupach",
+        "Wyłącznie wyniki sportowe",
+        "Informacje o stanie bezpieczeństwa i oczekiwaniach społecznych",
+        "Wyłącznie informacje o remontach prywatnych"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jednym z zadań zespołu jest przekazywanie koordynatorowi informacji o bezpieczeństwie i oczekiwaniach społecznych.",
+      "source": "§ 11 ust. 1 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-079",
+      "type": "single_choice",
+      "category": "Zespół zadaniowy",
+      "difficulty": "medium",
+      "question": "Jakie spotkania organizuje zespół?",
+      "choices": [
+        "Spotkania wyłącznie towarzyskie",
+        "Spotkania przedstawicieli służby prewencyjnej i kryminalnej w celu wymiany informacji i określania kierunków działania",
+        "Spotkania komisji wyborczych",
+        "Spotkania księgowych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zespół organizuje spotkania komórek prewencji i kryminalnych.",
+      "source": "§ 11 ust. 1 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-080",
+      "type": "single_choice",
+      "category": "Zespół zadaniowy",
+      "difficulty": "easy",
+      "question": "O czym zespół informuje koordynatora?",
+      "choices": [
+        "O stanie realizacji zadań",
+        "O prywatnych planach urlopowych",
+        "O cenach paliwa",
+        "O zmianie rozkładu lekcji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zespół ma informować koordynatora o stanie realizacji zadań.",
+      "source": "§ 11 ust. 1 pkt 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-081",
+      "type": "single_choice",
+      "category": "Zespół zadaniowy",
+      "difficulty": "medium",
+      "question": "Co zespół analizuje w odniesieniu do działań?",
+      "choices": [
+        "Wyłącznie kolor oznakowania radiowozów",
+        "Wyłącznie liczbę biurek",
+        "Wyłącznie koszty prywatne",
+        "Efekty i jakość prowadzonych działań"
+      ],
+      "correctIndex": 3,
+      "explanation": "Do zadań zespołu należy analiza efektów i jakości działań.",
+      "source": "§ 11 ust. 1 pkt 5 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-082",
+      "type": "single_choice",
+      "category": "Zespół zadaniowy",
+      "difficulty": "medium",
+      "question": "Jaki cel mają wspólne szkolenia prowadzone przez zespół?",
+      "choices": [
+        "Wyłącznie rozliczenie czasu wolnego",
+        "Wyłącznie przygotowanie listy płac",
+        "Wymianę wiedzy i doświadczeń pomiędzy służbami",
+        "Wyłącznie zmianę umundurowania"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wspólne szkolenia służą doskonaleniu zawodowemu i wymianie doświadczeń.",
+      "source": "§ 11 ust. 1 pkt 6 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-083",
+      "type": "single_choice",
+      "category": "Zespół zadaniowy",
+      "difficulty": "medium",
+      "question": "Jakie postawy zespół ma kreować wśród policjantów?",
+      "choices": [
+        "Postawy izolowania się od społeczności",
+        "Postawy prospołeczne",
+        "Postawy wyłącznie biurowe",
+        "Postawy obojętności na zagrożenia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jednym z zadań zespołu jest kreowanie postaw prospołecznych.",
+      "source": "§ 11 ust. 1 pkt 7 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-084",
+      "type": "single_choice",
+      "category": "Zespół zadaniowy",
+      "difficulty": "medium",
+      "question": "Jakie analizy przygotowuje zespół w komendzie powiatowej?",
+      "choices": [
+        "Analizy stanu bezpieczeństwa i porządku publicznego na potrzeby planów dyslokacji",
+        "Analizy giełdowe",
+        "Analizy pogodowe dla rolnictwa",
+        "Analizy szkolne"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zespół powiatowy przygotowuje analizy na potrzeby zintegrowanych planów dyslokacji.",
+      "source": "§ 11 ust. 2 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-085",
+      "type": "single_choice",
+      "category": "Zespół zadaniowy",
+      "difficulty": "easy",
+      "question": "Jakie plany tworzy zespół w komendzie powiatowej?",
+      "choices": [
+        "Plany wakacyjne",
+        "Plany postępowań cywilnych",
+        "Plany transportu prywatnego",
+        "Plany dyslokacji służby"
+      ],
+      "correctIndex": 3,
+      "explanation": "Zespół tworzy plany dyslokacji służby.",
+      "source": "§ 11 ust. 2 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-086",
+      "type": "single_choice",
+      "category": "Zespół zadaniowy",
+      "difficulty": "medium",
+      "question": "Co określa zespół w komendzie powiatowej?",
+      "choices": [
+        "Wyłącznie ceny usług",
+        "Wyłącznie grafik urlopów sędziów",
+        "Taktykę pełnienia służby i podział zadań",
+        "Wyłącznie listy zakupów"
+      ],
+      "correctIndex": 2,
+      "explanation": "Zespół określa taktykę i podział zadań.",
+      "source": "§ 11 ust. 2 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-087",
+      "type": "single_choice",
+      "category": "Zespół zadaniowy",
+      "difficulty": "medium",
+      "question": "Jaki nadzór w terenie sprawuje zespół w komendzie powiatowej?",
+      "choices": [
+        "Wyłącznie kontrolę finansową",
+        "Bieżący nadzór, w tym udzielanie pomocy i instruktażu",
+        "Wyłącznie nadzór sądowy",
+        "Wyłącznie nadzór budowlany"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zespół sprawuje bieżący nadzór w terenie.",
+      "source": "§ 11 ust. 2 pkt 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-088",
+      "type": "single_choice",
+      "category": "Zespół zadaniowy",
+      "difficulty": "medium",
+      "question": "W jakich odprawach bierze udział zespół w komendzie powiatowej?",
+      "choices": [
+        "W odprawach policjantów przewidzianych do działań zewnętrznych",
+        "Wyłącznie odprawach lotniczych",
+        "Wyłącznie naradach szkolnych",
+        "Wyłącznie posiedzeniach sądu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zespół uczestniczy w odprawach policjantów do działań zewnętrznych.",
+      "source": "§ 11 ust. 2 pkt 5 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-089",
+      "type": "single_choice",
+      "category": "Zespół zadaniowy",
+      "difficulty": "medium",
+      "question": "Co zespół może zmieniać w zależności od bieżących potrzeb?",
+      "choices": [
+        "Treść ustaw",
+        "Skład sądu",
+        "Ustrój samorządu",
+        "Dyslokację służby"
+      ],
+      "correctIndex": 3,
+      "explanation": "Zespół może zmieniać dyslokację służby stosownie do potrzeb.",
+      "source": "§ 11 ust. 2 pkt 6 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-090",
+      "type": "single_choice",
+      "category": "Wspólne patrole",
+      "difficulty": "easy",
+      "question": "Gdzie można organizować wspólne patrole przemieszczające się przez rejony kilku komisariatów lub posterunków?",
+      "choices": [
+        "Wyłącznie poza granicami kraju",
+        "Wyłącznie w siedzibie sądu",
+        "W granicach właściwości terytorialnej komendy powiatowej Policji",
+        "Wyłącznie na terenie prywatnym bez potrzeby służby"
+      ],
+      "correctIndex": 2,
+      "explanation": "§ 12 ust. 1 dopuszcza takie patrole w granicach właściwości komendy powiatowej.",
+      "source": "§ 12 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-091",
+      "type": "single_choice",
+      "category": "Wspólne patrole",
+      "difficulty": "medium",
+      "question": "Czy można organizować wspólne patrole przez rejony jednostek z różnych komend powiatowych?",
+      "choices": [
+        "Nie, jest to bezwzględnie zakazane",
+        "Tak, w uzasadnionych sytuacjach",
+        "Tak, ale wyłącznie decyzją sądu",
+        "Nie, chyba że dotyczy to tylko pracowników cywilnych"
+      ],
+      "correctIndex": 1,
+      "explanation": "§ 12 ust. 2 dopuszcza takie patrole w uzasadnionych sytuacjach.",
+      "source": "§ 12 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-092",
+      "type": "single_choice",
+      "category": "Wspólne patrole",
+      "difficulty": "medium",
+      "question": "Jak komendanci powiatowi uzgadniają warunki współpracy przy patrolach z różnych komend powiatowych?",
+      "choices": [
+        "Pisemnie",
+        "Wyłącznie ustnie bez dokumentacji",
+        "Przez ogłoszenie prasowe",
+        "Nie wymagają żadnych uzgodnień"
+      ],
+      "correctIndex": 0,
+      "explanation": "Warunki współpracy uzgadnia się pisemnie.",
+      "source": "§ 12 ust. 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-093",
+      "type": "single_choice",
+      "category": "Wspólne patrole",
+      "difficulty": "medium",
+      "question": "Z kim policjanci mogą pełnić wspólną służbę patrolową?",
+      "choices": [
+        "Wyłącznie z osobami przypadkowymi",
+        "Wyłącznie z prywatnymi znajomymi",
+        "Wyłącznie z dziennikarzami",
+        "M.in. ze strażnikami gminnymi lub miejskimi, Żandarmerią Wojskową, Strażą Graniczną i Strażą Ochrony Kolei"
+      ],
+      "correctIndex": 3,
+      "explanation": "§ 12 ust. 4 wymienia podmioty, z którymi można pełnić służbę na zasadach określonych w odrębnych przepisach.",
+      "source": "§ 12 ust. 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-094",
+      "type": "single_choice",
+      "category": "Wspólne patrole",
+      "difficulty": "medium",
+      "question": "W jakim składzie może być pełniona służba patrolowa w strefie nadgranicznej?",
+      "choices": [
+        "Wyłącznie jednoosobowo",
+        "Wyłącznie przez straż miejską",
+        "W składzie międzynarodowym, na zasadach określonych w umowach międzynarodowych",
+        "Wyłącznie przez pracowników cywilnych"
+      ],
+      "correctIndex": 2,
+      "explanation": "Służba w strefie nadgranicznej może mieć skład międzynarodowy.",
+      "source": "§ 12 ust. 5 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-095",
+      "type": "single_choice",
+      "category": "Posterunki",
+      "difficulty": "easy",
+      "question": "W jakiej formie można organizować służbę patrolową według § 13?",
+      "choices": [
+        "Wyłącznie w formie pracy zdalnej",
+        "W formie posterunków stałych lub doraźnych",
+        "Wyłącznie w formie rozprawy sądowej",
+        "Wyłącznie w formie dyżuru telefonicznego"
+      ],
+      "correctIndex": 1,
+      "explanation": "Służba może być organizowana jako posterunki stałe albo doraźne.",
+      "source": "§ 13 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-096",
+      "type": "single_choice",
+      "category": "Posterunki",
+      "difficulty": "medium",
+      "question": "Gdzie można organizować posterunki stałe lub doraźne?",
+      "choices": [
+        "W miejscach lub przy obiektach podlegających szczególnej ochronie, np. ambasadach i konsulatach",
+        "Wyłącznie w prywatnych mieszkaniach policjantów",
+        "Wyłącznie w placówkach bankowych bez potrzeby służby",
+        "Wyłącznie na salach szkolnych"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zarządzenie wskazuje przykładowo ambasady i konsulaty.",
+      "source": "§ 13 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-097",
+      "type": "single_choice",
+      "category": "Posterunki",
+      "difficulty": "medium",
+      "question": "Kiedy można organizować posterunki w rejonach odległych od jednostek Policji?",
+      "choices": [
+        "Gdy nie występują żadne zagrożenia",
+        "Wyłącznie w celu promocji jednostki",
+        "Wyłącznie podczas urlopów",
+        "Gdy są zagrożone przestępczością lub wykroczeniami"
+      ],
+      "correctIndex": 3,
+      "explanation": "Posterunki mogą być tworzone w rejonach odległych zagrożonych przestępczością lub wykroczeniami.",
+      "source": "§ 13 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-098",
+      "type": "single_choice",
+      "category": "Posterunki",
+      "difficulty": "medium",
+      "question": "Jaka ogólna przesłanka uzasadnia organizację posterunku stałego lub doraźnego?",
+      "choices": [
+        "Interes prywatny policjanta",
+        "Wyłącznie wniosek osoby przypadkowej",
+        "Potrzeby służby",
+        "Zawsze brak zagrożeń"
+      ],
+      "correctIndex": 2,
+      "explanation": "Posterunki można tworzyć, gdy uzasadniają to potrzeby służby.",
+      "source": "§ 13 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-099",
+      "type": "single_choice",
+      "category": "Plan dyslokacji",
+      "difficulty": "medium",
+      "question": "W oparciu o jaki dokument pełniona jest służba patrolowa?",
+      "choices": [
+        "Plan urlopowy",
+        "Plan dyslokacji służby",
+        "Rozkład jazdy autobusów",
+        "Plan posiedzeń rady gminy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Służba patrolowa pełniona jest w oparciu o plan dyslokacji.",
+      "source": "§ 14 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-100",
+      "type": "single_choice",
+      "category": "Plan dyslokacji",
+      "difficulty": "easy",
+      "question": "Co należy uwzględnić przy sporządzaniu planu dyslokacji służby?",
+      "choices": [
+        "Wszystkie komórki komendy powiatowej oraz jednostki podległe, których policjanci pełnią służbę obchodową i patrolową",
+        "Wyłącznie komórkę finansową",
+        "Wyłącznie sekretariat",
+        "Wyłącznie jednostki spoza Policji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Plan powinien uwzględniać wszystkie właściwe komórki i jednostki.",
+      "source": "§ 14 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-101",
+      "type": "single_choice",
+      "category": "Plan dyslokacji",
+      "difficulty": "medium",
+      "question": "Czy plan dyslokacji służby obejmuje komórki ruchu drogowego?",
+      "choices": [
+        "Nie, nigdy ich nie uwzględnia",
+        "Tak, ale wyłącznie sądowe",
+        "Nie, plan dotyczy tylko pracowników cywilnych",
+        "Tak, w planie uwzględnia się także komórki ruchu drogowego"
+      ],
+      "correctIndex": 3,
+      "explanation": "§ 14 ust. 2 wskazuje również komórki ruchu drogowego.",
+      "source": "§ 14 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-102",
+      "type": "single_choice",
+      "category": "Plan dyslokacji",
+      "difficulty": "medium",
+      "question": "Jakie siły należy w miarę możliwości uwzględnić w planie dyslokacji?",
+      "choices": [
+        "Wyłącznie osoby prywatne bez uprawnień",
+        "Wyłącznie pracowników sądu",
+        "Siły podmiotów pozapolicyjnych oraz siły wzmocnienia",
+        "Wyłącznie uczniów szkół"
+      ],
+      "correctIndex": 2,
+      "explanation": "Plan w miarę możliwości uwzględnia siły podmiotów pozapolicyjnych i wzmocnienia.",
+      "source": "§ 14 ust. 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-103",
+      "type": "single_choice",
+      "category": "Analiza zagrożeń",
+      "difficulty": "medium",
+      "question": "Na jakim czynniku powinna opierać się analiza stanu bezpieczeństwa?",
+      "choices": [
+        "Wyłącznie prognozie pogody",
+        "Ilości oraz rodzaju popełnionych przestępstw i wykroczeń",
+        "Wyłącznie liczbie urlopów",
+        "Wyłącznie stanie budynków"
+      ],
+      "correctIndex": 1,
+      "explanation": "Analiza powinna uwzględniać ilość i rodzaj przestępstw oraz wykroczeń.",
+      "source": "§ 15 ust. 1 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-104",
+      "type": "single_choice",
+      "category": "Analiza zagrożeń",
+      "difficulty": "medium",
+      "question": "Co analiza powinna uwzględniać w odniesieniu do przestępstw, wykroczeń i interwencji?",
+      "choices": [
+        "Miejsce i czas ich popełnienia lub zgłoszenia",
+        "Wyłącznie nazwę producenta sprzętu",
+        "Wyłącznie stopnie służbowe policjantów",
+        "Wyłącznie liczbę komputerów"
+      ],
+      "correctIndex": 0,
+      "explanation": "Miejsce i czas zdarzeń są elementem analizy.",
+      "source": "§ 15 ust. 1 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-105",
+      "type": "single_choice",
+      "category": "Analiza zagrożeń",
+      "difficulty": "easy",
+      "question": "Jaki element dotyczący sprawców uwzględnia analiza?",
+      "choices": [
+        "Ich prywatne zainteresowania niezwiązane ze sprawą",
+        "Wyłącznie kolor ubioru policjantów",
+        "Wyłącznie staż służby dyżurnego",
+        "Sposób działania sprawców"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sposób działania sprawców jest czynnikiem analitycznym.",
+      "source": "§ 15 ust. 1 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-106",
+      "type": "single_choice",
+      "category": "Analiza zagrożeń",
+      "difficulty": "medium",
+      "question": "Jakie warunki analiza powinna uwzględniać?",
+      "choices": [
+        "Wyłącznie warunki kadrowe sądu",
+        "Wyłącznie daty świąt państwowych",
+        "Okoliczności i warunki sprzyjające popełnianiu przestępstw i wykroczeń",
+        "Wyłącznie rozkład komunikacji miejskiej bez związku z zagrożeniami"
+      ],
+      "correctIndex": 2,
+      "explanation": "Analiza obejmuje okoliczności sprzyjające zagrożeniom.",
+      "source": "§ 15 ust. 1 pkt 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-107",
+      "type": "single_choice",
+      "category": "Analiza zagrożeń",
+      "difficulty": "medium",
+      "question": "Czy analiza powinna uwzględniać rozpoznanie dokonane przez służby Policji?",
+      "choices": [
+        "Nie, jest to zakazane",
+        "Tak, jest to jeden z czynników analizy",
+        "Tak, ale wyłącznie rozpoznanie sądu",
+        "Nie, analiza nie opiera się na rozpoznaniu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rozpoznanie policyjne jest wskazane jako czynnik analizy.",
+      "source": "§ 15 ust. 1 pkt 5 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-108",
+      "type": "single_choice",
+      "category": "Analiza zagrożeń",
+      "difficulty": "medium",
+      "question": "Co analiza powinna oceniać w odniesieniu do sił i środków?",
+      "choices": [
+        "Prawidłowość dotychczasowego rozmieszczenia i ich efektywność",
+        "Wyłącznie kolor pojazdów",
+        "Wyłącznie liczbę biurek",
+        "Wyłącznie wysokość wynagrodzeń"
+      ],
+      "correctIndex": 0,
+      "explanation": "Analiza obejmuje ocenę rozmieszczenia sił i środków oraz ich efektywności.",
+      "source": "§ 15 ust. 1 pkt 6 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-109",
+      "type": "single_choice",
+      "category": "Analiza zagrożeń",
+      "difficulty": "medium",
+      "question": "Jakie obiekty powinny być rozpoznane w analizie?",
+      "choices": [
+        "Wyłącznie sklepy internetowe",
+        "Wyłącznie prywatne profile społecznościowe",
+        "Wyłącznie siedziby klubów sportowych bez związku z bezpieczeństwem",
+        "Obiekty strzeżone, istotne ze względu na ważny interes społeczny i bezpieczeństwo publiczne"
+      ],
+      "correctIndex": 3,
+      "explanation": "Analiza obejmuje rozpoznanie obiektów strzeżonych i istotnych dla bezpieczeństwa.",
+      "source": "§ 15 ust. 1 pkt 7 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-110",
+      "type": "single_choice",
+      "category": "Analiza zagrożeń",
+      "difficulty": "easy",
+      "question": "Jakie informacje o poczuciu bezpieczeństwa powinna uwzględniać analiza?",
+      "choices": [
+        "Wyłącznie anonimowe plotki bez znaczenia",
+        "Wyłącznie dane księgowe",
+        "Bieżące i okresowe informacje oparte na opiniach społeczności lokalnej",
+        "Wyłącznie harmonogramy szkoleń"
+      ],
+      "correctIndex": 2,
+      "explanation": "Analiza powinna uwzględniać opinie społeczności lokalnej.",
+      "source": "§ 15 ust. 1 pkt 8 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-111",
+      "type": "single_choice",
+      "category": "Analiza zagrożeń",
+      "difficulty": "medium",
+      "question": "Co powinna zawierać analiza oprócz opisu zagrożeń?",
+      "choices": [
+        "Wyłącznie spis telefonów prywatnych",
+        "Wnioski, cel służby i taktykę działania patroli policyjnych",
+        "Wyłącznie listę urlopów",
+        "Wyłącznie opis umundurowania"
+      ],
+      "correctIndex": 1,
+      "explanation": "Analiza powinna zawierać wnioski, przewidywane zagrożenia, cel i taktykę patroli.",
+      "source": "§ 15 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-112",
+      "type": "single_choice",
+      "category": "Analiza zagrożeń",
+      "difficulty": "medium",
+      "question": "Jak często należy sporządzać analizę stanu bezpieczeństwa i porządku na potrzeby dyslokacji?",
+      "choices": [
+        "Nie rzadziej niż raz w miesiącu",
+        "Raz na pięć lat",
+        "Wyłącznie po zakończeniu roku",
+        "Tylko na żądanie sądu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Analizę sporządza się co najmniej raz w miesiącu.",
+      "source": "§ 15 ust. 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-113",
+      "type": "single_choice",
+      "category": "Komórki interwencyjne",
+      "difficulty": "medium",
+      "question": "Kto może tworzyć komórki interwencyjne?",
+      "choices": [
+        "Wyłącznie sąd rejonowy",
+        "Wyłącznie rada gminy",
+        "Wyłącznie prokurator",
+        "Komendant powiatowy Policji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Komendant powiatowy może tworzyć komórki interwencyjne.",
+      "source": "§ 16 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-114",
+      "type": "single_choice",
+      "category": "Komórki interwencyjne",
+      "difficulty": "medium",
+      "question": "W jakim celu można tworzyć komórki interwencyjne?",
+      "choices": [
+        "Aby zastąpić wszystkie patrole dzielnicowych",
+        "Aby prowadzić wyłącznie czynności kadrowe",
+        "Aby zapewnić gotowość służb jednostki Policji do natychmiastowych działań na rzecz bezpieczeństwa i porządku",
+        "Aby prowadzić rejestrację pojazdów"
+      ],
+      "correctIndex": 2,
+      "explanation": "Komórki interwencyjne mają zapewnić gotowość do natychmiastowych działań.",
+      "source": "§ 16 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-115",
+      "type": "single_choice",
+      "category": "Komórki interwencyjne",
+      "difficulty": "easy",
+      "question": "W czyjej dyspozycji pozostają policjanci komórek interwencyjnych?",
+      "choices": [
+        "Wyłącznie dziennikarza",
+        "Dyżurnego jednostki Policji lub innej uprawnionej osoby",
+        "Wyłącznie przedstawiciela samorządu",
+        "Wyłącznie pracownika ochrony"
+      ],
+      "correctIndex": 1,
+      "explanation": "Policjanci komórek interwencyjnych są stale dyspozycyjni wobec dyżurnego lub uprawnionej osoby.",
+      "source": "§ 16 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-116",
+      "type": "single_choice",
+      "category": "Komórki interwencyjne",
+      "difficulty": "medium",
+      "question": "Gdzie co do zasady przebywają policjanci komórek interwencyjnych?",
+      "choices": [
+        "Patrolują rejon zagrożony lub przebywają w miejscu zagrożonym",
+        "Wyłącznie w archiwum",
+        "Wyłącznie w domu",
+        "Wyłącznie w sekretariacie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chyba że otrzymają inne polecenie, działają w rejonie albo miejscu zagrożonym.",
+      "source": "§ 16 ust. 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-117",
+      "type": "single_choice",
+      "category": "Komórki interwencyjne",
+      "difficulty": "medium",
+      "question": "Co należy do zadań policjantów komórek interwencyjnych po przyjęciu zgłoszenia?",
+      "choices": [
+        "Przybycie dopiero po zakończeniu służby",
+        "Oczekiwanie na decyzję sądu",
+        "Zignorowanie zgłoszenia",
+        "Przybycie na miejsce wydarzenia w możliwie najkrótszym czasie"
+      ],
+      "correctIndex": 3,
+      "explanation": "Komórka interwencyjna ma szybko reagować na zgłoszenia.",
+      "source": "§ 17 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-118",
+      "type": "single_choice",
+      "category": "Komórki interwencyjne",
+      "difficulty": "medium",
+      "question": "Jakie działania wobec osób podejrzewanych należą do zadań komórek interwencyjnych?",
+      "choices": [
+        "Wyłącznie prowadzenie statystyki",
+        "Wyłącznie przekazanie sprawy do mediów",
+        "Ustalenie i zatrzymanie osób oraz zabezpieczenie miejsca wydarzenia",
+        "Wyłącznie sporządzenie listy obecności"
+      ],
+      "correctIndex": 2,
+      "explanation": "Komórki interwencyjne mają działać wobec sprawców i zabezpieczać miejsce.",
+      "source": "§ 17 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-119",
+      "type": "single_choice",
+      "category": "Komórki interwencyjne",
+      "difficulty": "medium",
+      "question": "Co robią komórki interwencyjne w przypadku zdarzeń naruszających bezpieczeństwo i porządek publiczny?",
+      "choices": [
+        "Zawsze odstępują od działań",
+        "Podejmują natychmiastowe działania zmierzające do przywrócenia porządku",
+        "Wzywają wyłącznie pracownika cywilnego",
+        "Czekają do następnego miesiąca"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ich zadaniem jest zapobieganie zdarzeniom i natychmiastowe reagowanie.",
+      "source": "§ 17 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-120",
+      "type": "single_choice",
+      "category": "Komórki interwencyjne",
+      "difficulty": "easy",
+      "question": "W jakich sytuacjach komórki interwencyjne podejmują działania porządkowe?",
+      "choices": [
+        "M.in. podczas pożarów, katastrof, powodzi i innych klęsk żywiołowych",
+        "Wyłącznie podczas odprawy",
+        "Wyłącznie podczas egzaminów",
+        "Wyłącznie przy rejestracji samochodu"
+      ],
+      "correctIndex": 0,
+      "explanation": "§ 17 wymienia działania porządkowe podczas zdarzeń kryzysowych.",
+      "source": "§ 17 pkt 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-121",
+      "type": "single_choice",
+      "category": "Komórki interwencyjne",
+      "difficulty": "medium",
+      "question": "Za kim komórki interwencyjne podejmują działania pościgowe?",
+      "choices": [
+        "Za osobami zgłaszającymi interwencję",
+        "Za świadkami, którzy udzielili pomocy",
+        "Za pracownikami administracji",
+        "Za sprawcami przestępstw i wykroczeń zbiegłymi z miejsca wydarzenia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Komórki interwencyjne wykonują działania pościgowe zgodnie z odrębnymi przepisami.",
+      "source": "§ 17 pkt 5 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-122",
+      "type": "single_choice",
+      "category": "Komórki interwencyjne",
+      "difficulty": "medium",
+      "question": "Komu komórki interwencyjne udzielają w razie potrzeby natychmiastowej pomocy?",
+      "choices": [
+        "Wyłącznie przełożonym administracyjnym",
+        "Wyłącznie przedstawicielom mediów",
+        "Innym policjantom oraz osobom, również przy udziale innych powołanych podmiotów",
+        "Wyłącznie osobom spoza zdarzenia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Udzielanie natychmiastowej pomocy jest jednym z zadań komórek interwencyjnych.",
+      "source": "§ 17 pkt 6 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-123",
+      "type": "single_choice",
+      "category": "Komórki wywiadowcze",
+      "difficulty": "medium",
+      "question": "Na jakiej podstawie komendant powiatowy może tworzyć komórki wywiadowcze lub organizować służbę bez umundurowania?",
+      "choices": [
+        "Wyłącznie na podstawie losowania",
+        "W oparciu o wnioski z analiz i zgodnie z obowiązującymi przepisami",
+        "Wyłącznie na polecenie osoby prywatnej",
+        "Bez żadnej podstawy"
+      ],
+      "correctIndex": 1,
+      "explanation": "§ 18 uzależnia to od wniosków z analiz i obowiązujących przepisów.",
+      "source": "§ 18 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-124",
+      "type": "single_choice",
+      "category": "Komórki wywiadowcze",
+      "difficulty": "medium",
+      "question": "Jakie rozpoznanie należy do zadań policjantów komórek wywiadowczych?",
+      "choices": [
+        "Rozpoznanie środowisk przestępczych i metod ich działania",
+        "Rozpoznanie wyłącznie struktury urzędu gminy",
+        "Rozpoznanie programu szkolnego",
+        "Rozpoznanie dokumentów podatkowych obywateli bez związku ze sprawą"
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjanci wywiadowczy rozpoznają środowiska przestępcze i metody działania.",
+      "source": "§ 19 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-125",
+      "type": "single_choice",
+      "category": "Komórki wywiadowcze",
+      "difficulty": "easy",
+      "question": "Jakie działania prewencyjne należą do zadań policjantów z § 18?",
+      "choices": [
+        "Wyłącznie prowadzenie sekretariatu",
+        "Wyłącznie wydawanie zaświadczeń",
+        "Wyłącznie czynności księgowe",
+        "Zapobieganie popełnianiu przestępstw i wykroczeń"
+      ],
+      "correctIndex": 3,
+      "explanation": "Do ich zadań należy także zapobieganie przestępstwom i wykroczeniom.",
+      "source": "§ 19 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-126",
+      "type": "single_choice",
+      "category": "Komórki wywiadowcze",
+      "difficulty": "medium",
+      "question": "Jakie działania wobec sprawców wykonują policjanci z § 18?",
+      "choices": [
+        "Wyłącznie wystawiają zaświadczenia",
+        "Wyłącznie kierują ruchem",
+        "Ujawniają przestępstwa i wykroczenia oraz zatrzymują sprawców na gorącym uczynku lub w bezpośrednim pościgu",
+        "Wyłącznie prowadzą szkolenia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ich zadaniem jest ujawnianie czynów i zatrzymywanie sprawców.",
+      "source": "§ 19 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-127",
+      "type": "single_choice",
+      "category": "Komórki wywiadowcze",
+      "difficulty": "medium",
+      "question": "W jakiej formie co do zasady pełnią służbę policjanci komórek wywiadowczych?",
+      "choices": [
+        "Wyłącznie w umundurowaniu galowym",
+        "Bez umundurowania",
+        "Wyłącznie w stroju cywilnym bez związku ze służbą i bez metod operacyjnych",
+        "Wyłącznie w mundurze ćwiczebnym OPP"
+      ],
+      "correctIndex": 1,
+      "explanation": "Komórki wywiadowcze z zasady pełnią służbę bez umundurowania.",
+      "source": "§ 20 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-128",
+      "type": "single_choice",
+      "category": "Komórki wywiadowcze",
+      "difficulty": "medium",
+      "question": "Jakie metody wykorzystują komórki wywiadowcze w trakcie służby?",
+      "choices": [
+        "Podstawowe metody pracy operacyjno-rozpoznawczej",
+        "Metody pracy księgowej",
+        "Metody prowadzenia egzaminu szkolnego",
+        "Metody obsługi paszportów"
+      ],
+      "correctIndex": 0,
+      "explanation": "Podczas służby wykorzystują podstawowe metody operacyjno-rozpoznawcze.",
+      "source": "§ 20 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-129",
+      "type": "single_choice",
+      "category": "Oddziały prewencji",
+      "difficulty": "hard",
+      "question": "Za czyją zgodą policjanci oddziałów prewencji pełnią służbę patrolową jako siły wzmocnienia?",
+      "choices": [
+        "Sądu rejonowego",
+        "Wójta gminy",
+        "Przewodniczącego rady powiatu",
+        "Komendanta wojewódzkiego lub Stołecznego Policji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Służba OPP jako wzmocnienie wymaga zgody wskazanego komendanta.",
+      "source": "§ 21 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-130",
+      "type": "single_choice",
+      "category": "Oddziały prewencji",
+      "difficulty": "easy",
+      "question": "Kto wyznacza policjantów oddziału prewencji do pełnienia służby patrolowej?",
+      "choices": [
+        "Dyżurny straży miejskiej",
+        "Wojewoda",
+        "Dowódca oddziału prewencji Policji",
+        "Prokurator"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dowódca oddziału wyznacza policjantów do patrolowania.",
+      "source": "§ 21 ust. 2 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-131",
+      "type": "single_choice",
+      "category": "Oddziały prewencji",
+      "difficulty": "medium",
+      "question": "Co przygotowuje jednostka terenowa wspierana przez oddział prewencji?",
+      "choices": [
+        "Wyłącznie listę urlopów",
+        "Ceduły patrolowe i taktykę pełnienia służby w uzgodnieniu z dowódcą",
+        "Wyłącznie akty oskarżenia",
+        "Wyłącznie budżet jednostki"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jednostka wspierana przygotowuje ceduły i uzgadnia taktykę.",
+      "source": "§ 21 ust. 2 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-132",
+      "type": "single_choice",
+      "category": "Oddziały prewencji",
+      "difficulty": "hard",
+      "question": "Gdzie przeprowadza się odprawę i rozliczenie służby patrolowej policjantów OPP?",
+      "choices": [
+        "Na terenie działania jednostki Policji, gdzie mają pełnić służbę",
+        "Wyłącznie w komendzie głównej",
+        "Wyłącznie w sądzie",
+        "Wyłącznie poza jednostką"
+      ],
+      "correctIndex": 0,
+      "explanation": "Odprawę i rozliczenie przeprowadza się na terenie jednostki, gdzie pełniona jest służba.",
+      "source": "§ 21 ust. 2 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-133",
+      "type": "single_choice",
+      "category": "Oddziały prewencji",
+      "difficulty": "medium",
+      "question": "Kto odpowiada za sposób pełnienia służby przez policjantów OPP w rejonie działania?",
+      "choices": [
+        "Wyłącznie przedstawiciel mediów",
+        "Wyłącznie podmiot prywatny",
+        "Wyłącznie osoba zgłaszająca interwencję",
+        "Ich bezpośredni przełożony lub kierownik jednostki, na terenie której pełniona jest służba"
+      ],
+      "correctIndex": 3,
+      "explanation": "Odpowiedzialność ponosi bezpośredni przełożony albo kierownik jednostki właściwej terenowo.",
+      "source": "§ 21 ust. 2 pkt 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-134",
+      "type": "single_choice",
+      "category": "Oddziały prewencji",
+      "difficulty": "medium",
+      "question": "Jaki dodatkowy sprzęt mogą mieć pododdziały prewencji kierowane do służby patrolowej?",
+      "choices": [
+        "Wyłącznie sprzęt biurowy",
+        "Wyłącznie sprzęt sportowy prywatny",
+        "Sprzęt do działań przywracających naruszony porządek publiczny, bez środków wzmocnienia",
+        "Wyłącznie wyposażenie straży pożarnej"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pododdziały mogą posiadać dodatkowy sprzęt do przywracania porządku.",
+      "source": "§ 21 ust. 2 pkt 5 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-135",
+      "type": "single_choice",
+      "category": "Oddziały prewencji",
+      "difficulty": "hard",
+      "question": "Gdzie policjanci pododdziałów alarmowych pełnią służbę patrolową?",
+      "choices": [
+        "Wyłącznie za granicą",
+        "Wyłącznie w mieście będącym siedzibą OPP lub miejscowości pobliskiej",
+        "Wyłącznie na terenie dowolnej gminy bez ograniczeń",
+        "Wyłącznie w sądzie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pododdziały alarmowe pełnią służbę na wskazanym obszarze.",
+      "source": "§ 21 ust. 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-136",
+      "type": "single_choice",
+      "category": "Oddziały prewencji",
+      "difficulty": "medium",
+      "question": "W jakim systemie pełniona jest służba pododdziałów alarmowych?",
+      "choices": [
+        "W systemie koncentrycznym",
+        "W systemie losowym",
+        "W systemie archiwalnym",
+        "W systemie wyłącznie biurowym"
+      ],
+      "correctIndex": 0,
+      "explanation": "§ 21 ust. 3 wskazuje system koncentryczny.",
+      "source": "§ 21 ust. 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-137",
+      "type": "single_choice",
+      "category": "Oddziały prewencji",
+      "difficulty": "medium",
+      "question": "Jaka jest najmniejsza komórka organizacyjna samodzielnie kierowana do służby patrolowej z policjantami służby kandydackiej?",
+      "choices": [
+        "Pojedynczy kandydat bez nadzoru",
+        "Losowa grupa osób cywilnych",
+        "Pracownik administracyjny",
+        "Etatowa drużyna pod nadzorem bezpośrednich przełożonych"
+      ],
+      "correctIndex": 3,
+      "explanation": "Najmniejszą komórką jest etatowa drużyna pod nadzorem.",
+      "source": "§ 21 ust. 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-138",
+      "type": "single_choice",
+      "category": "Ceduły patrolowe",
+      "difficulty": "hard",
+      "question": "O jakie rejony lub miejsca komendant powiatowy może opierać organizację służby patrolowej?",
+      "choices": [
+        "Wyłącznie rejony urlopowe",
+        "Wyłącznie rejony sądów cywilnych",
+        "Rejony zagrożenia, rejony odpowiedzialności, miejsca zagrożone, rejony dzielnicowych lub inne wskazane rejony",
+        "Wyłącznie miejsca prywatne bez znaczenia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Organizacja służby może opierać się o różne rejony i miejsca wymienione w § 22.",
+      "source": "§ 22 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-139",
+      "type": "single_choice",
+      "category": "Ceduły patrolowe",
+      "difficulty": "medium",
+      "question": "Jak opracowuje się ceduły patrolowe dla patroli pieszych i zmotoryzowanych?",
+      "choices": [
+        "Zawsze jako jeden wspólny dokument bez rozróżnienia",
+        "Odrębnie dla patroli pieszych i dla patroli wykorzystujących środki transportu",
+        "Wyłącznie ustnie",
+        "Wyłącznie dla patroli lotniczych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ceduły tworzy się odrębnie według formy patrolu.",
+      "source": "§ 22 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-140",
+      "type": "single_choice",
+      "category": "Ceduły patrolowe",
+      "difficulty": "easy",
+      "question": "Z jakich części składa się ceduła patrolowa?",
+      "choices": [
+        "Z części stałej i części wymiennej",
+        "Z części sądowej i podatkowej",
+        "Wyłącznie z okładki",
+        "Z części urlopowej i płacowej"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ceduła ma część stałą oraz wymienną.",
+      "source": "§ 22 ust. 3 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-141",
+      "type": "single_choice",
+      "category": "Ceduły patrolowe",
+      "difficulty": "hard",
+      "question": "Co zawiera część stała ceduły patrolowej jako element identyfikacyjny?",
+      "choices": [
+        "Wyłącznie podpis mieszkańca",
+        "Wyłącznie wykaz urlopów",
+        "Wyłącznie prywatny adres policjanta",
+        "Oznaczenie dokumentu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Część stała zawiera m.in. oznaczenie dokumentu.",
+      "source": "§ 22 ust. 3 pkt 1 lit. a zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-142",
+      "type": "single_choice",
+      "category": "Ceduły patrolowe",
+      "difficulty": "medium",
+      "question": "Co graficznego zawiera część stała ceduły patrolowej?",
+      "choices": [
+        "Plan urlopów",
+        "Mapa administracyjna całego kraju bez oznaczeń",
+        "Szkic rejonu z naniesionymi ważnymi obiektami, posterunkami, punktami blokadowymi i trasą patrolowania",
+        "Rysunek dowolny bez znaczenia służbowego"
+      ],
+      "correctIndex": 2,
+      "explanation": "Część stała zawiera szkic graficzny rejonu.",
+      "source": "§ 22 ust. 3 pkt 1 lit. b zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-143",
+      "type": "single_choice",
+      "category": "Ceduły patrolowe",
+      "difficulty": "medium",
+      "question": "Jakie akty prawne wskazuje część stała ceduły patrolowej?",
+      "choices": [
+        "Wyłącznie akty dotyczące podatku rolnego",
+        "Podstawowe akty dotyczące użycia broni palnej, środków przymusu bezpośredniego i uprawnień policjanta",
+        "Wyłącznie przepisy szkolne",
+        "Wyłącznie kodeks pracy bez związku z uprawnieniami"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ceduła ma zawierać wykaz podstawowych aktów prawnych dotyczących uprawnień i środków.",
+      "source": "§ 22 ust. 3 pkt 1 lit. c zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-144",
+      "type": "single_choice",
+      "category": "Ceduły patrolowe",
+      "difficulty": "hard",
+      "question": "Jakie dane łączności zawiera część stała ceduły?",
+      "choices": [
+        "Dane dotyczące utrzymania łączności radiowej",
+        "Wyłącznie listę prywatnych telefonów",
+        "Wyłącznie dane bankowe",
+        "Wyłącznie adresy sklepów"
+      ],
+      "correctIndex": 0,
+      "explanation": "Część stała zawiera informacje o łączności radiowej.",
+      "source": "§ 22 ust. 3 pkt 1 lit. d zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-145",
+      "type": "single_choice",
+      "category": "Ceduły patrolowe",
+      "difficulty": "easy",
+      "question": "Jakie dane teleadresowe zawiera część stała ceduły?",
+      "choices": [
+        "Dane losowych osób prywatnych bez związku",
+        "Dane sklepów internetowych",
+        "Dane biur podróży",
+        "Dane ważniejszych instytucji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ceduła zawiera dane teleadresowe ważniejszych instytucji.",
+      "source": "§ 22 ust. 3 pkt 1 lit. e zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-146",
+      "type": "single_choice",
+      "category": "Ceduły patrolowe",
+      "difficulty": "medium",
+      "question": "Jakie informacje o dzielnicowym zawiera część stała ceduły?",
+      "choices": [
+        "Informację o prywatnym urlopie dzielnicowego",
+        "Informację o stopniach wszystkich emerytów",
+        "Informację o dzielnicowym obsługującym dany rejon",
+        "Informację o danych bankowych dzielnicowego"
+      ],
+      "correctIndex": 2,
+      "explanation": "Część stała zawiera informację o dzielnicowym danego rejonu.",
+      "source": "§ 22 ust. 3 pkt 1 lit. f zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-147",
+      "type": "single_choice",
+      "category": "Ceduły patrolowe",
+      "difficulty": "hard",
+      "question": "Co zawiera część wymienna ceduły patrolowej w zakresie zagrożeń?",
+      "choices": [
+        "Wyłącznie wykaz sprzętu biurowego",
+        "Wykaz miejsc i rejonów zagrożonych z czasem i rodzajem zagrożeń",
+        "Wyłącznie cennik mandatów",
+        "Wyłącznie listę urlopów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Część wymienna wskazuje miejsca, rejony, czas i rodzaj zagrożeń.",
+      "source": "§ 22 ust. 3 pkt 2 lit. a zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-148",
+      "type": "single_choice",
+      "category": "Ceduły patrolowe",
+      "difficulty": "medium",
+      "question": "Jakie zadania mogą być ujęte w części wymiennej ceduły patrolowej?",
+      "choices": [
+        "Zadania doraźne wynikające np. z programów, akcji lub operacji",
+        "Zadania prywatne",
+        "Zadania szkolne dzieci policjantów",
+        "Zadania podatkowe obywateli"
+      ],
+      "correctIndex": 0,
+      "explanation": "Część wymienna może zawierać zadania doraźne do służby.",
+      "source": "§ 22 ust. 3 pkt 2 lit. b zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-149",
+      "type": "single_choice",
+      "category": "Ceduły patrolowe",
+      "difficulty": "medium",
+      "question": "Jaki wykaz osób może zawierać część wymienna ceduły patrolowej?",
+      "choices": [
+        "Wykaz wszystkich mieszkańców",
+        "Wykaz pracowników sklepów",
+        "Wykaz kandydatów w wyborach",
+        "Wykaz osób poszukiwanych w trybie nadzwyczajnym wraz z dokumentacją fotograficzną"
+      ],
+      "correctIndex": 3,
+      "explanation": "Część wymienna może zawierać wykaz osób poszukiwanych.",
+      "source": "§ 22 ust. 3 pkt 2 lit. c zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-150",
+      "type": "single_choice",
+      "category": "Ceduły patrolowe",
+      "difficulty": "hard",
+      "question": "Jakie inne dane może zawierać część wymienna ceduły?",
+      "choices": [
+        "Dane niezwiązane ze służbą",
+        "Wyłącznie ciekawostki historyczne",
+        "Inne istotne dane niezbędne do właściwej realizacji zadań jednostki",
+        "Wyłącznie przepisy kulinarne"
+      ],
+      "correctIndex": 2,
+      "explanation": "Część wymienna może zawierać inne istotne dane służbowe.",
+      "source": "§ 22 ust. 3 pkt 2 lit. d zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-151",
+      "type": "single_choice",
+      "category": "Organizacja rejonowa",
+      "difficulty": "medium",
+      "question": "Na czym polega organizacja służby patrolowej w oparciu o rejony i miejsca?",
+      "choices": [
+        "Na całkowitym braku patrolowania",
+        "Na obejmowaniu patrolowaniem wybranych rejonów i miejsc oraz dostosowaniu form i taktyki służby",
+        "Na losowaniu miejsc bez analizy",
+        "Na wykonywaniu wyłącznie czynności biurowych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Organizacja obejmuje patrolowanie wybranych rejonów i dostosowanie taktyki.",
+      "source": "§ 23 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-152",
+      "type": "single_choice",
+      "category": "Organizacja rejonowa",
+      "difficulty": "medium",
+      "question": "Jak dostosowuje się liczbę policjantów kierowanych do służby patrolowej?",
+      "choices": [
+        "Do istniejącego stanu zagrożenia w określonym czasie i miejscach",
+        "Wyłącznie do liczby biurek",
+        "Wyłącznie do pogody",
+        "Wyłącznie do prywatnych preferencji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Liczba policjantów ma odpowiadać poziomowi zagrożenia.",
+      "source": "§ 23 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-153",
+      "type": "single_choice",
+      "category": "Organizacja rejonowa",
+      "difficulty": "medium",
+      "question": "Kogo w miarę możliwości kieruje się do poszczególnych miejsc i rejonów?",
+      "choices": [
+        "Zawsze osoby przypadkowe",
+        "Wyłącznie pracowników cywilnych",
+        "Wyłącznie funkcjonariuszy spoza Policji",
+        "Tych samych policjantów"
+      ],
+      "correctIndex": 3,
+      "explanation": "W miarę możliwości te same osoby kieruje się do danych rejonów.",
+      "source": "§ 23 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-154",
+      "type": "single_choice",
+      "category": "Organizacja rejonowa",
+      "difficulty": "medium",
+      "question": "Z kim przewidziana jest współpraca przy organizacji rejonowej służby?",
+      "choices": [
+        "Wyłącznie z urzędem skarbowym",
+        "Wyłącznie z sądem rodzinnym",
+        "M.in. ze strażami miejskimi lub gminnymi, Żandarmerią Wojskową, Strażą Graniczną i SOK",
+        "Wyłącznie z prywatnym klubem sportowym"
+      ],
+      "correctIndex": 2,
+      "explanation": "§ 23 pkt 4 przewiduje współpracę z wymienionymi podmiotami.",
+      "source": "§ 23 pkt 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-155",
+      "type": "single_choice",
+      "category": "Pełnienie służby",
+      "difficulty": "easy",
+      "question": "Kto dokonuje bieżącego rozmieszczenia sił policyjnych na podległym terenie?",
+      "choices": [
+        "Wyłącznie pracownik cywilny urzędu miasta",
+        "Kierownik komórki właściwej do spraw służby patrolowej lub inny uprawniony policjant",
+        "Wyłącznie prokurator",
+        "Wyłącznie przedstawiciel mediów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bieżącego rozmieszczenia dokonuje kierownik właściwej komórki lub uprawniony policjant.",
+      "source": "§ 24 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-156",
+      "type": "single_choice",
+      "category": "Pełnienie służby",
+      "difficulty": "medium",
+      "question": "Gdzie dokumentuje się bieżące rozmieszczenie sił policyjnych?",
+      "choices": [
+        "W książce służby",
+        "W księdze wieczystej",
+        "W dzienniku lekcyjnym",
+        "Wyłącznie w prasie lokalnej"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rozmieszczenie dokumentuje się w książce służby.",
+      "source": "§ 24 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-157",
+      "type": "single_choice",
+      "category": "Pełnienie służby",
+      "difficulty": "medium",
+      "question": "Czy dopuszcza się inną formę dokumentowania rozmieszczenia sił niż książka służby?",
+      "choices": [
+        "Nie, nigdy",
+        "Tak, bez żadnych wymogów",
+        "Tak, ale wyłącznie ustnie",
+        "Tak, jeżeli spełnia wymogi kancelaryjne i zapewnia czytelność oraz kompletność informacji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Zarządzenie dopuszcza inne formy dokumentowania pod warunkami.",
+      "source": "§ 24 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-158",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "medium",
+      "question": "Gdzie sprawdza się przygotowanie policjantów do służby patrolowej?",
+      "choices": [
+        "Wyłącznie po zakończeniu służby",
+        "Wyłącznie w sądzie",
+        "Na odprawach lub indywidualnie",
+        "Wyłącznie podczas urlopu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Przygotowanie sprawdza się na odprawach albo indywidualnie.",
+      "source": "§ 25 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-159",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "medium",
+      "question": "Kto przeprowadza odprawę do służby patrolowej?",
+      "choices": [
+        "Dowolna osoba cywilna",
+        "Bezpośredni przełożony albo inny wyznaczony policjant z odpowiednią wiedzą i doświadczeniem",
+        "Wyłącznie przedstawiciel mediów",
+        "Wyłącznie pracownik banku"
+      ],
+      "correctIndex": 1,
+      "explanation": "Odprawę prowadzi uprawniona osoba z wiedzą i doświadczeniem, zwłaszcza prewencyjnym.",
+      "source": "§ 25 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-160",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "easy",
+      "question": "Jaki charakter powinna mieć odprawa do służby patrolowej?",
+      "choices": [
+        "Krótkiego przekazu konkretnych informacji o bieżącej sytuacji w rejonie",
+        "Długiej rozprawy sądowej",
+        "Wyłącznie szkolenia teoretycznego bez związku z rejonem",
+        "Spotkania towarzyskiego"
+      ],
+      "correctIndex": 0,
+      "explanation": "Odprawa ma być krótka i konkretna.",
+      "source": "§ 25 ust. 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-161",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "medium",
+      "question": "Na co powinna wpływać odprawa?",
+      "choices": [
+        "Na obniżenie gotowości",
+        "Na ograniczenie wiedzy",
+        "Wyłącznie na liczbę dokumentów",
+        "Na wzrost poziomu wiedzy i umiejętności policjantów"
+      ],
+      "correctIndex": 3,
+      "explanation": "Odprawa powinna podnosić wiedzę i umiejętności.",
+      "source": "§ 25 ust. 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-162",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "medium",
+      "question": "Kto powinien uczestniczyć w odprawie w celu przekazania informacji do działań zewnętrznych?",
+      "choices": [
+        "Wyłącznie księgowy",
+        "Wyłącznie pracownik sądu",
+        "Policjant służby kryminalnej",
+        "Wyłącznie strażnik bez informacji"
+      ],
+      "correctIndex": 2,
+      "explanation": "W odprawie powinien uczestniczyć policjant służby kryminalnej.",
+      "source": "§ 25 ust. 5 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-163",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "medium",
+      "question": "Kto może przekazać informacje ze służby kryminalnej w sytuacjach szczególnie uzasadnionych?",
+      "choices": [
+        "Wyłącznie osoba prywatna",
+        "Prowadzący odprawę",
+        "Wyłącznie pokrzywdzony",
+        "Wyłącznie prokurator"
+      ],
+      "correctIndex": 1,
+      "explanation": "W szczególnych sytuacjach informacje może przekazać prowadzący odprawę.",
+      "source": "§ 25 ust. 6 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-164",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "medium",
+      "question": "Kto w szczególnie uzasadnionych sytuacjach może rozpocząć służbę patrolową bez odprawy?",
+      "choices": [
+        "Policjanci z odpowiednim doświadczeniem prewencyjnym, za zgodą bezpośredniego przełożonego",
+        "Każdy policjant bez warunków",
+        "Wyłącznie pracownik cywilny",
+        "Wyłącznie osoba spoza Policji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bez odprawy mogą rozpocząć tylko doświadczeni policjanci za zgodą przełożonego.",
+      "source": "§ 25 ust. 7 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-165",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "easy",
+      "question": "Co musi zrobić policjant rozpoczynający służbę bez odprawy w szczególnie uzasadnionej sytuacji?",
+      "choices": [
+        "Nie zgłaszać niczego",
+        "Zgłosić wyłącznie urlop",
+        "Zgłosić się do sądu",
+        "Zgłosić rozpoczęcie i zakończenie służby właściwej osobie lub dyżurnemu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Policjant musi zgłosić rozpoczęcie i zakończenie służby.",
+      "source": "§ 25 ust. 8 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-166",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "medium",
+      "question": "Gdzie musi znaleźć odzwierciedlenie rozpoczęcie i zakończenie służby bez odprawy?",
+      "choices": [
+        "Wyłącznie w prywatnym notesie",
+        "Wyłącznie w mediach",
+        "W notatniku służbowym policjanta i dokumentacji organizacji służby",
+        "Wyłącznie ustnie bez dokumentacji"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fakt ten musi być udokumentowany.",
+      "source": "§ 25 ust. 8 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-167",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "medium",
+      "question": "Jak policjanci dokumentują przebieg służby patrolowej?",
+      "choices": [
+        "Wyłącznie ustnie",
+        "W notatnikach służbowych lub przy pomocy nośników elektronicznych",
+        "Wyłącznie w mediach społecznościowych",
+        "Wyłącznie w prywatnym telefonie bez zasad"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przebieg służby dokumentuje się w notatnikach lub elektronicznie.",
+      "source": "§ 25 ust. 9 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-168",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "medium",
+      "question": "Co prowadzący odprawę ma przekazać policjantom w zakresie aktualnych wydarzeń?",
+      "choices": [
+        "Aktualne wydarzenia, polecenia kierownictwa, zadania doraźne oraz sposób ich wykonania i taktykę",
+        "Wyłącznie prywatne informacje",
+        "Wyłącznie informacje o urlopach",
+        "Wyłącznie wyniki sportowe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Prowadzący odprawę ma zapoznać policjantów z aktualną sytuacją i zadaniami.",
+      "source": "§ 26 ust. 1 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-169",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "medium",
+      "question": "Co prowadzący odprawę wskazuje w zakresie miejsca i czasu służby?",
+      "choices": [
+        "Wyłącznie miejsce zamieszkania policjanta",
+        "Wyłącznie trasę do domu",
+        "Wyłącznie harmonogram sądu",
+        "Rejony i czas pełnienia służby oraz miejsca i czas przerw"
+      ],
+      "correctIndex": 3,
+      "explanation": "Odprawa obejmuje rejony, czas służby i przerwy.",
+      "source": "§ 26 ust. 1 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-170",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "easy",
+      "question": "Co prowadzący odprawę przydziela policjantom?",
+      "choices": [
+        "Akty notarialne",
+        "Karty płatnicze",
+        "Ceduły patrolowe",
+        "Dokumenty paszportowe obywateli"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jednym z obowiązków odprawiającego jest przydzielenie ceduł patrolowych.",
+      "source": "§ 26 ust. 1 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-171",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "medium",
+      "question": "Co prowadzący odprawę określa przy patrolach wieloosobowych?",
+      "choices": [
+        "Wyłącznie kolejność urlopów",
+        "Skład patrolu oraz dowódcę patrolu",
+        "Wyłącznie dane pojazdu prywatnego",
+        "Wyłącznie osobę odpowiedzialną za catering"
+      ],
+      "correctIndex": 1,
+      "explanation": "Odprawiający określa skład patrolu i dowódcę.",
+      "source": "§ 26 ust. 1 pkt 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-172",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "medium",
+      "question": "Jakie informacje o dyslokacji przekazuje prowadzący odprawę?",
+      "choices": [
+        "Dyslokację sił policyjnych oraz w miarę możliwości sił podmiotów pozapolicyjnych",
+        "Wyłącznie informacje pogodowe",
+        "Wyłącznie rozkład jazdy pociągów",
+        "Wyłącznie dane urlopowe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Prowadzący odprawę przekazuje informacje o dyslokacji sił.",
+      "source": "§ 26 ust. 1 pkt 5 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-173",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "medium",
+      "question": "Co prowadzący odprawę określa i sprawdza w zakresie wyposażenia?",
+      "choices": [
+        "Wyłącznie stan prywatnej odzieży",
+        "Wyłącznie wyposażenie biurowe",
+        "Wyłącznie sprzęt sportowy",
+        "Wyposażenie, uzbrojenie indywidualne i jednolite umundurowanie"
+      ],
+      "correctIndex": 3,
+      "explanation": "Odprawiający sprawdza wyposażenie, uzbrojenie i umundurowanie stosownie do służby.",
+      "source": "§ 26 ust. 1 pkt 6 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-174",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "medium",
+      "question": "O czym prowadzący odprawę przypomina policjantom?",
+      "choices": [
+        "O prywatnych zakupach",
+        "O wyłącznie sprawach płacowych",
+        "O zasadach zachowania bezpieczeństwa podczas wykonywania zadań",
+        "O grafiku sądu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Odprawa ma przypominać zasady bezpieczeństwa.",
+      "source": "§ 26 ust. 1 pkt 7 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-175",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "easy",
+      "question": "Na co prowadzący odprawę zwraca uwagę u policjantów?",
+      "choices": [
+        "Wyłącznie na kolor notatnika",
+        "Na stan psychofizyczny policjantów",
+        "Wyłącznie na prywatny telefon",
+        "Wyłącznie na wzrost policjanta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Odprawiający zwraca uwagę na stan psychofizyczny.",
+      "source": "§ 26 ust. 1 pkt 8 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-176",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "medium",
+      "question": "Co prowadzący odprawę określa w zakresie komunikacji?",
+      "choices": [
+        "Sposób utrzymywania łączności z dyżurnym jednostki Policji",
+        "Sposób korzystania z prywatnych mediów",
+        "Zasady rozmów prywatnych",
+        "Wyłącznie adres poczty prywatnej"
+      ],
+      "correctIndex": 0,
+      "explanation": "Prowadzący odprawę określa łączność z dyżurnym.",
+      "source": "§ 26 ust. 1 pkt 9 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-177",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "medium",
+      "question": "Jaką znajomość prowadzący odprawę sprawdza u policjantów?",
+      "choices": [
+        "Wyłącznie znajomość przepisów podatkowych",
+        "Wyłącznie zasad pisania CV",
+        "Wyłącznie regulaminu szkoły",
+        "Zasad użycia środków przymusu bezpośredniego, broni służbowej, uprawnień i zasad służby patrolowej"
+      ],
+      "correctIndex": 3,
+      "explanation": "Odprawiający sprawdza znajomość kluczowych zasad służby i uprawnień.",
+      "source": "§ 26 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-178",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "medium",
+      "question": "Gdzie prowadzący odprawę wpisuje jej przebieg i zadania doraźne?",
+      "choices": [
+        "Do księgi wieczystej",
+        "Do dziennika lekcyjnego",
+        "Do książki odpraw",
+        "Do prywatnego notesu bez znaczenia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Przebieg odprawy wpisuje się do książki odpraw.",
+      "source": "§ 26 ust. 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-179",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "medium",
+      "question": "Czy przebieg odprawy można dokumentować w innej formie niż książka odpraw?",
+      "choices": [
+        "Nie, jest to zawsze zakazane",
+        "Tak, jeśli forma spełnia wymogi kancelaryjne i zapewnia czytelność oraz kompletność",
+        "Tak, bez żadnych wymogów",
+        "Tak, ale tylko ustnie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dopuszcza się inną formę dokumentowania przy zachowaniu wymogów.",
+      "source": "§ 26 ust. 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-180",
+      "type": "single_choice",
+      "category": "Odprawa",
+      "difficulty": "easy",
+      "question": "Co policjanci odnotowują w notatnikach służbowych lub elektronicznie, jeśli nie ma tego w cedułach?",
+      "choices": [
+        "Zadania doraźne i istotne informacje przekazane przez odprawiającego",
+        "Prywatne wiadomości",
+        "Wyniki sportowe",
+        "Informacje bez związku ze służbą"
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjanci odnotowują zadania i istotne informacje nieujęte w cedułach.",
+      "source": "§ 26 ust. 5 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-181",
+      "type": "single_choice",
+      "category": "Taktyka służby",
+      "difficulty": "medium",
+      "question": "Jakie powinno być rozmieszczenie patroli?",
+      "choices": [
+        "Przypadkowe i niezwiązane z zagrożeniami",
+        "Zawsze jednakowe bez względu na sytuację",
+        "Oparte wyłącznie na odległości od domu policjanta",
+        "Proporcjonalne i adekwatne do potrzeb oraz przewidywanego zagrożenia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Taktyka rozmieszczenia patroli ma odpowiadać potrzebom i zagrożeniom.",
+      "source": "§ 27 ust. 1 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-182",
+      "type": "single_choice",
+      "category": "Taktyka służby",
+      "difficulty": "medium",
+      "question": "Co powinny gwarantować zastosowane formy pełnienia służby patrolowej?",
+      "choices": [
+        "Wyłącznie ograniczenie aktywności",
+        "Wyłącznie brak kontaktu z obywatelami",
+        "Bezpieczeństwo policjanta oraz skuteczność i efektywność służby",
+        "Wyłącznie ułatwienie pracy biurowej"
+      ],
+      "correctIndex": 2,
+      "explanation": "Formy służby mają zapewniać bezpieczeństwo i skuteczność.",
+      "source": "§ 27 ust. 1 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-183",
+      "type": "single_choice",
+      "category": "Taktyka służby",
+      "difficulty": "hard",
+      "question": "Kto może wykonywać zadania w patrolu jednoosobowym?",
+      "choices": [
+        "Każdy nowo przyjęty bez doświadczenia",
+        "Policjanci z odpowiednim doświadczeniem, zwłaszcza w służbie stałej",
+        "Wyłącznie pracownik cywilny",
+        "Osoba spoza Policji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Patrol jednoosobowy jest ograniczony do policjantów z odpowiednim doświadczeniem.",
+      "source": "§ 27 ust. 2 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-184",
+      "type": "single_choice",
+      "category": "Taktyka służby",
+      "difficulty": "medium",
+      "question": "W jakiej porze można wykonywać zadania w patrolu jednoosobowym?",
+      "choices": [
+        "W porze dziennej, od świtu do zmroku",
+        "Wyłącznie nocą",
+        "Wyłącznie między północą a świtem",
+        "Bez żadnych ograniczeń czasowych"
+      ],
+      "correctIndex": 0,
+      "explanation": "Patrol jednoosobowy może być realizowany od świtu do zmroku.",
+      "source": "§ 27 ust. 2 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-185",
+      "type": "single_choice",
+      "category": "Taktyka służby",
+      "difficulty": "easy",
+      "question": "Jaki warunek wsparcia musi być spełniony przy patrolu jednoosobowym?",
+      "choices": [
+        "Brak jakiegokolwiek wsparcia",
+        "Wsparcie wyłącznie telefoniczne osoby cywilnej",
+        "Wsparcie dopiero po zakończeniu służby",
+        "Stała obecność patrolu wspierającego w rejonie służby"
+      ],
+      "correctIndex": 3,
+      "explanation": "Patrol jednoosobowy wymaga obecności patrolu wspierającego.",
+      "source": "§ 27 ust. 2 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-186",
+      "type": "single_choice",
+      "category": "Taktyka służby",
+      "difficulty": "hard",
+      "question": "Jakie interwencje powinny być ograniczone przy patrolu jednoosobowym?",
+      "choices": [
+        "Wyłącznie czynności biurowe",
+        "Wyłącznie rozmowy z dyżurnym",
+        "Interwencje domowe, w pomieszczeniach zamkniętych oraz wobec więcej niż dwóch osób",
+        "Wyłącznie dokumentowanie służby"
+      ],
+      "correctIndex": 2,
+      "explanation": "Przy patrolu jednoosobowym ogranicza się samodzielne podejmowanie określonych interwencji.",
+      "source": "§ 27 ust. 2 pkt 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-187",
+      "type": "single_choice",
+      "category": "Pojazd służbowy",
+      "difficulty": "medium",
+      "question": "Co ma obowiązek sprawdzić policjant kierujący pojazdem służbowym przed odprawą?",
+      "choices": [
+        "Wyłącznie kolor pojazdu",
+        "Wyposażenie pojazdu, stan techniczny i działanie środków łączności",
+        "Wyłącznie prywatne rzeczy w bagażniku",
+        "Wyłącznie stan budynku komendy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Przed odprawą kierowca sprawdza pojazd i łączność.",
+      "source": "§ 28 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-188",
+      "type": "single_choice",
+      "category": "Pojazd służbowy",
+      "difficulty": "medium",
+      "question": "Komu policjant melduje o usterkach pojazdu lub brakach w jego wyposażeniu?",
+      "choices": [
+        "Prowadzącemu odprawę",
+        "Wyłącznie sądowi",
+        "Wyłącznie przypadkowej osobie",
+        "Wyłącznie mediom"
+      ],
+      "correctIndex": 0,
+      "explanation": "Usterki lub braki zgłasza się prowadzącemu odprawę.",
+      "source": "§ 28 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-189",
+      "type": "single_choice",
+      "category": "Łączność i rejon",
+      "difficulty": "medium",
+      "question": "Jaki kontakt mają obowiązek utrzymywać policjanci pełniący służbę patrolową?",
+      "choices": [
+        "Wyłącznie kontakt prywatny z rodziną",
+        "Wyłącznie kontakt z mediami",
+        "Brak kontaktu z jednostką",
+        "Bieżący kontakt środkami łączności z dyżurnym jednostki Policji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Patrole muszą utrzymywać bieżącą łączność z dyżurnym.",
+      "source": "§ 29 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-190",
+      "type": "single_choice",
+      "category": "Łączność i rejon",
+      "difficulty": "easy",
+      "question": "Kiedy policjanci mogą opuścić rejon pełnienia służby patrolowej?",
+      "choices": [
+        "Zawsze według własnego uznania",
+        "Wyłącznie po zgłoszeniu w mediach",
+        "Wyłącznie na polecenie lub za uprzednią zgodą dyżurnego albo innej uprawnionej osoby",
+        "Bez wiedzy dyżurnego"
+      ],
+      "correctIndex": 2,
+      "explanation": "Opuszczenie rejonu wymaga polecenia lub zgody.",
+      "source": "§ 29 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-191",
+      "type": "single_choice",
+      "category": "Łączność i rejon",
+      "difficulty": "medium",
+      "question": "Kto ustala zasady utrzymywania łączności między patrolami a dyżurnym?",
+      "choices": [
+        "Przypadkowy świadek",
+        "Prowadzący odprawę",
+        "Wyłącznie pracownik cywilny spoza jednostki",
+        "Osoba zgłaszająca interwencję"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zasady łączności ustala prowadzący odprawę.",
+      "source": "§ 29 ust. 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-192",
+      "type": "single_choice",
+      "category": "Patrolowanie",
+      "difficulty": "medium",
+      "question": "Jacy powinni być policjanci podczas patrolowania, jeśli nie określono innej taktyki?",
+      "choices": [
+        "Widoczni w rejonie pełnienia służby",
+        "Ukryci bez potrzeby",
+        "Nieobecni w rejonie",
+        "Zawsze poza rejonem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjanci powinni być widoczni, o ile taktyka nie stanowi inaczej.",
+      "source": "§ 30 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-193",
+      "type": "single_choice",
+      "category": "Patrolowanie",
+      "difficulty": "medium",
+      "question": "Na co policjanci mają reagować w każdym przypadku podczas patrolowania?",
+      "choices": [
+        "Wyłącznie na wezwanie przełożonego do spraw urlopu",
+        "Wyłącznie na komunikaty medialne",
+        "Wyłącznie na prywatne wiadomości",
+        "Na wezwanie do udzielenia pomocy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Patrole zawsze reagują na wezwanie do pomocy.",
+      "source": "§ 30 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-194",
+      "type": "single_choice",
+      "category": "Patrolowanie",
+      "difficulty": "medium",
+      "question": "Co policjanci powinni systematycznie kontrolować podczas patrolowania?",
+      "choices": [
+        "Wyłącznie miejsca przypadkowe",
+        "Wyłącznie siedzibę jednostki",
+        "Wszystkie miejsca zagrożone na trasie patrolu lub w rejonie służby",
+        "Wyłącznie pojazd służbowy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Patrol ma systematycznie kontrolować miejsca zagrożone.",
+      "source": "§ 30 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-195",
+      "type": "single_choice",
+      "category": "Patrolowanie",
+      "difficulty": "easy",
+      "question": "Jakie informacje policjanci powinni pozyskiwać i przyjmować podczas patrolowania?",
+      "choices": [
+        "Wyłącznie prywatne opinie o pogodzie",
+        "Wszystkie informacje o zagrożeniach w danym rejonie",
+        "Wyłącznie informacje handlowe",
+        "Wyłącznie informacje niezwiązane z bezpieczeństwem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Patrole powinny pozyskiwać informacje o zagrożeniach.",
+      "source": "§ 30 pkt 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-196",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo patrolu",
+      "difficulty": "medium",
+      "question": "Jakie środki ostrożności obowiązują policjantów przy patrolowaniu miejsc o ograniczonej widoczności i podejmowaniu interwencji?",
+      "choices": [
+        "Szczególne środki ostrożności i gotowość do odparcia zamachu",
+        "Całkowity brak ostrożności",
+        "Wyłączenie łączności",
+        "Odstąpienie od przygotowania"
+      ],
+      "correctIndex": 0,
+      "explanation": "§ 31 nakłada obowiązek szczególnej ostrożności i gotowości.",
+      "source": "§ 31 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-197",
+      "type": "single_choice",
+      "category": "Bezpieczeństwo patrolu",
+      "difficulty": "medium",
+      "question": "O co policjanci powinni zwrócić się w razie potrzeby za pośrednictwem dyżurnego?",
+      "choices": [
+        "O wydanie urlopu",
+        "O zmianę przepisów",
+        "O publikację w prasie",
+        "O zapewnienie wsparcia innego patrolu"
+      ],
+      "correctIndex": 3,
+      "explanation": "W razie potrzeby patrol może poprosić o wsparcie innego patrolu.",
+      "source": "§ 31 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-198",
+      "type": "single_choice",
+      "category": "Patrol samochodowy",
+      "difficulty": "medium",
+      "question": "Jak policjanci powinni wykorzystywać samochód służbowy podczas patrolowania?",
+      "choices": [
+        "Do stałego postoju bez obserwacji",
+        "Do celów prywatnych",
+        "Wyłącznie do przemieszczania się między rejonami i miejscami zagrożonymi z prędkością umożliwiającą obserwację",
+        "Do jazdy bez związku z rejonem"
+      ],
+      "correctIndex": 2,
+      "explanation": "Samochód służy przemieszczaniu i obserwacji terenu oraz osób.",
+      "source": "§ 32 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-199",
+      "type": "single_choice",
+      "category": "Patrol samochodowy",
+      "difficulty": "medium",
+      "question": "Co powinni robić policjanci po opuszczeniu samochodu służbowego?",
+      "choices": [
+        "Zawsze zakończyć służbę",
+        "Pieszo patrolować miejsca zagrożone i sprawdzać miejsca oraz obiekty w rejonach zagrożonych",
+        "Wyłącznie odpoczywać",
+        "Opuścić rejon bez zgody"
+      ],
+      "correctIndex": 1,
+      "explanation": "Patrol samochodowy powinien także wykonywać piesze sprawdzenia.",
+      "source": "§ 32 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-200",
+      "type": "single_choice",
+      "category": "Patrol samochodowy",
+      "difficulty": "easy",
+      "question": "Kiedy policjanci zgłaszają dyżurnemu wyjście i powrót do pojazdu?",
+      "choices": [
+        "Gdy mogą wystąpić trudności w utrzymaniu łączności",
+        "Zawsze wyłącznie po zakończeniu roku",
+        "Nigdy",
+        "Tylko na żądanie osoby przypadkowej"
+      ],
+      "correctIndex": 0,
+      "explanation": "W razie możliwych trudności z łącznością zgłasza się wyjście i powrót.",
+      "source": "§ 32 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-201",
+      "type": "single_choice",
+      "category": "Umundurowanie i wyposażenie",
+      "difficulty": "medium",
+      "question": "W czym policjanci co do zasady pełnią służbę patrolową?",
+      "choices": [
+        "Wyłącznie w ubraniu prywatnym bez zgody",
+        "Wyłącznie w stroju sportowym",
+        "Wyłącznie bez oznakowania",
+        "W umundurowaniu określonym w odrębnych przepisach"
+      ],
+      "correctIndex": 3,
+      "explanation": "Zasadą jest pełnienie służby w umundurowaniu.",
+      "source": "§ 33 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-202",
+      "type": "single_choice",
+      "category": "Umundurowanie i wyposażenie",
+      "difficulty": "medium",
+      "question": "Kiedy przełożony może zwolnić policjantów z obowiązku noszenia umundurowania?",
+      "choices": [
+        "Zawsze bez powodu",
+        "Wyłącznie z przyczyn prywatnych",
+        "Gdy wynika to z charakteru wykonywanych zadań służbowych",
+        "Nigdy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Zwolnienie z umundurowania może wynikać z charakteru zadań.",
+      "source": "§ 33 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-203",
+      "type": "single_choice",
+      "category": "Umundurowanie i wyposażenie",
+      "difficulty": "medium",
+      "question": "Jakie wyposażenie i uzbrojenie powinni posiadać policjanci?",
+      "choices": [
+        "Dowolne prywatne",
+        "Zgodne z przepisami i stosowne do charakteru, czasu i sposobu służby",
+        "Wyłącznie biurowe",
+        "Nieokreślone i bez decyzji odprawiającego"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wyposażenie i uzbrojenie mają odpowiadać przepisom i charakterowi służby.",
+      "source": "§ 33 ust. 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-204",
+      "type": "single_choice",
+      "category": "Umundurowanie i wyposażenie",
+      "difficulty": "medium",
+      "question": "Kto decyduje o wyposażeniu i uzbrojeniu stosownym do służby?",
+      "choices": [
+        "Odprawiający do służby",
+        "Przypadkowy przechodzień",
+        "Wyłącznie osoba zatrzymana",
+        "Wyłącznie przedstawiciel mediów"
+      ],
+      "correctIndex": 0,
+      "explanation": "Odprawiający decyduje o stosownym wyposażeniu.",
+      "source": "§ 33 ust. 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-205",
+      "type": "single_choice",
+      "category": "Umundurowanie i wyposażenie",
+      "difficulty": "easy",
+      "question": "Z kim dowódca oddziału prewencji uzgadnia umundurowanie, uzbrojenie i wyposażenie do służby?",
+      "choices": [
+        "Z dowolną osobą prywatną",
+        "Wyłącznie z sądem",
+        "Wyłącznie z urzędem skarbowym",
+        "Z kierownikiem jednostki Policji, w której pełniona będzie służba patrolowa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dowódca OPP uzgadnia te kwestie z kierownikiem właściwej jednostki.",
+      "source": "§ 33 ust. 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-206",
+      "type": "single_choice",
+      "category": "Przerwa w służbie",
+      "difficulty": "medium",
+      "question": "Kto zwraca się o zgodę na przerwę w służbie?",
+      "choices": [
+        "Zawsze osoba zgłaszająca interwencję",
+        "Wyłącznie pracownik cywilny",
+        "Dowódca patrolu",
+        "Wyłącznie przedstawiciel samorządu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dowódca patrolu zwraca się o zgodę na przerwę.",
+      "source": "§ 34 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-207",
+      "type": "single_choice",
+      "category": "Przerwa w służbie",
+      "difficulty": "medium",
+      "question": "Kogo dowódca patrolu informuje o rozpoczęciu i zakończeniu przerwy?",
+      "choices": [
+        "Wyłącznie media",
+        "Dyżurnego jednostki Policji lub inną uprawnioną osobę",
+        "Wyłącznie sąd",
+        "Wyłącznie znajomych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dowódca informuje uprawnioną osobę o przerwie.",
+      "source": "§ 34 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-208",
+      "type": "single_choice",
+      "category": "Przerwa w służbie",
+      "difficulty": "medium",
+      "question": "Kiedy policjanci mogą opuścić rejon pełnienia służby w czasie przerwy?",
+      "choices": [
+        "Za zgodą dyżurnego jednostki Policji lub innej uprawnionej osoby",
+        "Zawsze bez zgody",
+        "Tylko za zgodą osoby prywatnej",
+        "Nigdy nawet za zgodą"
+      ],
+      "correctIndex": 0,
+      "explanation": "Opuszczenie rejonu podczas przerwy wymaga zgody.",
+      "source": "§ 34 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-209",
+      "type": "single_choice",
+      "category": "Przerwa w służbie",
+      "difficulty": "medium",
+      "question": "W jakim stanie pozostają policjanci podczas przerwy?",
+      "choices": [
+        "Bez obowiązku kontaktu",
+        "Poza zasięgiem łączności",
+        "Wyłącznie w gotowości do czynności biurowych",
+        "W stałej gotowości do odbioru łączności radiowej"
+      ],
+      "correctIndex": 3,
+      "explanation": "W czasie przerwy policjanci pozostają gotowi do odbioru łączności.",
+      "source": "§ 34 ust. 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-210",
+      "type": "single_choice",
+      "category": "Reakcja na zdarzenie",
+      "difficulty": "easy",
+      "question": "Co robią policjanci po otrzymaniu informacji o przestępstwie lub wykroczeniu w rejonie służby?",
+      "choices": [
+        "Kończą służbę",
+        "Nie podejmują działań",
+        "Meldują dyżurnemu i bezzwłocznie udają się na miejsce wydarzenia",
+        "Czekają do następnej odprawy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Patrol ma zameldować i udać się na miejsce.",
+      "source": "§ 35 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-211",
+      "type": "single_choice",
+      "category": "Reakcja na zdarzenie",
+      "difficulty": "medium",
+      "question": "Co robią policjanci na hasło „policjant wzywa pomocy”?",
+      "choices": [
+        "Ignorują hasło",
+        "W uzgodnieniu z dyżurnym udają się do miejsca zagrożenia",
+        "Kończą służbę",
+        "Udaję się na przerwę"
+      ],
+      "correctIndex": 1,
+      "explanation": "Na hasło pomocy policjanci udają się do miejsca zagrożenia.",
+      "source": "§ 35 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-212",
+      "type": "single_choice",
+      "category": "Reakcja na zdarzenie",
+      "difficulty": "medium",
+      "question": "Kiedy używa się hasła „policjant wzywa pomocy”?",
+      "choices": [
+        "Tylko gdy zagrożone jest życie, zdrowie albo wolność policjanta",
+        "Przy każdej przerwie w służbie",
+        "Przy każdym zgłoszeniu administracyjnym",
+        "Wyłącznie przy awarii pojazdu bez zagrożenia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hasła używa się tylko w sytuacji zagrożenia życia, zdrowia albo wolności policjanta.",
+      "source": "§ 35 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-213",
+      "type": "single_choice",
+      "category": "Miejsce wydarzenia",
+      "difficulty": "medium",
+      "question": "Co policjanci powinni zrobić na miejscu wydarzenia w stosunku do osób zagrożonych?",
+      "choices": [
+        "Opuścić miejsce bez działania",
+        "Odmówić jakiejkolwiek pomocy",
+        "Zająć się wyłącznie dokumentami",
+        "Udzielić lub spowodować udzielenie pomocy przedlekarskiej"
+      ],
+      "correctIndex": 3,
+      "explanation": "Na miejscu wydarzenia priorytetem jest pomoc osobom w niebezpieczeństwie.",
+      "source": "§ 36 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-214",
+      "type": "single_choice",
+      "category": "Miejsce wydarzenia",
+      "difficulty": "medium",
+      "question": "Co policjanci powinni zrobić wobec sprawcy na miejscu wydarzenia?",
+      "choices": [
+        "Zawsze pozwolić mu odejść",
+        "Zignorować jego działania",
+        "Uniemożliwić kontynuowanie naruszeń i w miarę możliwości zatrzymać sprawcę",
+        "Przekazać sprawę wyłącznie osobom postronnym"
+      ],
+      "correctIndex": 2,
+      "explanation": "Patrol powinien przerwać naruszenia i zatrzymać sprawcę, jeśli to możliwe.",
+      "source": "§ 36 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-215",
+      "type": "single_choice",
+      "category": "Miejsce wydarzenia",
+      "difficulty": "easy",
+      "question": "Kiedy policjanci powinni podjąć pościg za sprawcą wydarzenia?",
+      "choices": [
+        "Zawsze bez oceny sytuacji",
+        "Jeżeli istnieją ku temu warunki",
+        "Nigdy",
+        "Wyłącznie po upływie doby"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pościg podejmuje się, gdy istnieją warunki.",
+      "source": "§ 36 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-216",
+      "type": "single_choice",
+      "category": "Miejsce wydarzenia",
+      "difficulty": "medium",
+      "question": "Jak policjanci powinni zabezpieczyć miejsce wydarzenia?",
+      "choices": [
+        "Przed zatarciem śladów i innych dowodów",
+        "Przed dostępem przełożonego",
+        "Przed sporządzeniem notatki",
+        "Przed użyciem łączności"
+      ],
+      "correctIndex": 0,
+      "explanation": "Miejsce wydarzenia należy zabezpieczyć przed utratą śladów i dowodów.",
+      "source": "§ 36 pkt 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-217",
+      "type": "single_choice",
+      "category": "Miejsce wydarzenia",
+      "difficulty": "medium",
+      "question": "Jakie informacje policjanci powinni zebrać na miejscu wydarzenia?",
+      "choices": [
+        "Wyłącznie informacje prywatne bez związku",
+        "Wyłącznie dane pogodowe",
+        "Wyłącznie informacje o urlopach",
+        "Możliwie najwięcej informacji o wydarzeniu i sprawcach oraz ustalić świadków"
+      ],
+      "correctIndex": 3,
+      "explanation": "Patrol ma zebrać informacje i ustalić świadków.",
+      "source": "§ 36 pkt 5 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-218",
+      "type": "single_choice",
+      "category": "Rozliczenie służby",
+      "difficulty": "medium",
+      "question": "Co policjanci robią każdorazowo po zakończeniu służby patrolowej?",
+      "choices": [
+        "Nie informują nikogo",
+        "Składają wyłącznie wniosek urlopowy",
+        "Meldują przełożonemu lub wyznaczonej osobie o przebiegu i wynikach służby",
+        "Kontaktują się wyłącznie z mediami"
+      ],
+      "correctIndex": 2,
+      "explanation": "Po służbie patrol melduje o jej przebiegu i wynikach.",
+      "source": "§ 37 ust. 1 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-219",
+      "type": "single_choice",
+      "category": "Rozliczenie służby",
+      "difficulty": "medium",
+      "question": "Jakie dokumenty i informacje przekazują policjanci po zakończeniu służby?",
+      "choices": [
+        "Wyłącznie prywatne notatki",
+        "Niezbędne dokumenty z czynności oraz informacje o zagrożeniach i nieprawidłowościach w infrastrukturze",
+        "Wyłącznie zdjęcia niezwiązane ze służbą",
+        "Wyłącznie listę zakupów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Po służbie przekazuje się dokumenty i informacje związane z zagrożeniami oraz infrastrukturą.",
+      "source": "§ 37 ust. 1 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-220",
+      "type": "single_choice",
+      "category": "Rozliczenie służby",
+      "difficulty": "easy",
+      "question": "Jakie informacje policjanci sporządzają i przekazują po służbie zgodnie z zasadami?",
+      "choices": [
+        "Informacje uzyskane w drodze podstawowych metod pracy operacyjnej",
+        "Wyłącznie informacje prywatne",
+        "Wyłącznie dane podatkowe",
+        "Wyłącznie wyniki sportowe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Policjanci przekazują informacje uzyskane metodami pracy operacyjnej.",
+      "source": "§ 37 ust. 1 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-221",
+      "type": "single_choice",
+      "category": "Rozliczenie służby",
+      "difficulty": "medium",
+      "question": "Jaki dokument wypełnia się po zakończeniu służby patrolowej?",
+      "choices": [
+        "Kartę urlopową mieszkańca",
+        "Wniosek o wpis do ewidencji działalności",
+        "Akt oskarżenia",
+        "Kartę pracy i efektywności policjanta realizującego zadania prewencyjne"
+      ],
+      "correctIndex": 3,
+      "explanation": "Po służbie wypełnia się kartę pracy i efektywności.",
+      "source": "§ 37 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-222",
+      "type": "single_choice",
+      "category": "Rozliczenie służby",
+      "difficulty": "medium",
+      "question": "Gdzie określono wzór karty pracy i efektywności policjanta?",
+      "choices": [
+        "W kodeksie cywilnym",
+        "W decyzji sądu",
+        "W załączniku do zarządzenia",
+        "Wyłącznie w zwyczaju jednostki"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wzór karty określa załącznik do zarządzenia.",
+      "source": "§ 37 ust. 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-223",
+      "type": "single_choice",
+      "category": "Rozliczenie służby",
+      "difficulty": "medium",
+      "question": "Kto sprawuje nadzór nad realizacją czynności związanych z kartą pracy i efektywności?",
+      "choices": [
+        "Wyłącznie osoba postronna",
+        "Bezpośredni przełożony policjanta lub inna wyznaczona osoba",
+        "Wyłącznie dziennikarz",
+        "Wyłącznie pokrzywdzony"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nadzór potwierdza przełożony lub wyznaczona osoba.",
+      "source": "§ 38 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-224",
+      "type": "single_choice",
+      "category": "Rozliczenie służby",
+      "difficulty": "medium",
+      "question": "Czy dane z karty pracy i efektywności mogą być wprowadzane do systemów informatycznych?",
+      "choices": [
+        "Tak, mogą być wprowadzane bezpośrednio",
+        "Nie, zawsze jest to zakazane",
+        "Tak, ale tylko prywatnie",
+        "Nie, tylko do prasy"
+      ],
+      "correctIndex": 0,
+      "explanation": "§ 38 dopuszcza wprowadzanie danych do systemów informatycznych.",
+      "source": "§ 38 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-225",
+      "type": "single_choice",
+      "category": "Rozliczenie służby",
+      "difficulty": "easy",
+      "question": "Kiedy dokonuje się oceny realizacji zadań i efektów służby?",
+      "choices": [
+        "Po roku",
+        "Wyłącznie przed służbą",
+        "Nigdy",
+        "Bezpośrednio po zakończeniu służby"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ocena następuje bezpośrednio po zakończeniu służby.",
+      "source": "§ 38 ust. 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-226",
+      "type": "single_choice",
+      "category": "Rozliczenie służby",
+      "difficulty": "medium",
+      "question": "Gdzie kwituje się przyjęcie dokumentacji służbowej, jeśli odrębne przepisy nie stanowią inaczej?",
+      "choices": [
+        "Wyłącznie w mediach",
+        "W księdze wieczystej",
+        "W notatniku służbowym policjanta",
+        "W dzienniku szkolnym"
+      ],
+      "correctIndex": 2,
+      "explanation": "Przyjęcie dokumentacji kwituje się w notatniku służbowym.",
+      "source": "§ 38 ust. 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-227",
+      "type": "single_choice",
+      "category": "Rozliczenie służby",
+      "difficulty": "medium",
+      "question": "Kto może potwierdzić zakończenie służby w notatniku, jeśli rozliczenie nie może być dokonane przez właściwe osoby?",
+      "choices": [
+        "Dowolny obywatel",
+        "Dyżurny jednostki Policji za zgodą kierownika jednostki",
+        "Wyłącznie prokurator",
+        "Wyłącznie pracownik sądu"
+      ],
+      "correctIndex": 1,
+      "explanation": "W szczególnej sytuacji dyżurny za zgodą kierownika potwierdza zakończenie służby.",
+      "source": "§ 38 ust. 5 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-228",
+      "type": "single_choice",
+      "category": "Rozliczenie służby",
+      "difficulty": "medium",
+      "question": "Co robi bezpośredni przełożony w przypadku rozliczenia przez dyżurnego?",
+      "choices": [
+        "Niezwłocznie dokonuje oceny realizacji zadań i efektów służby",
+        "Nie podejmuje żadnej oceny",
+        "Czeka rok",
+        "Przekazuje ocenę osobie prywatnej"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bezpośredni przełożony dokonuje oceny niezwłocznie.",
+      "source": "§ 38 ust. 6 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-229",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "medium",
+      "question": "Za co odpowiada komendant wojewódzki i Stołeczny Policji w zakresie nadzoru?",
+      "choices": [
+        "Za nadzór nad sądami cywilnymi",
+        "Za prowadzenie szkół podstawowych",
+        "Za zarządzanie budżetem gminy",
+        "Za nadzór nad funkcjonowaniem systemów nadzoru w jednostkach"
+      ],
+      "correctIndex": 3,
+      "explanation": "Komendant wojewódzki i Stołeczny odpowiadają za systemy nadzoru.",
+      "source": "§ 39 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-230",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "easy",
+      "question": "Za co odpowiada komendant powiatowy i komendant komisariatu Policji?",
+      "choices": [
+        "Za nadzór nad urzędem skarbowym",
+        "Za orzekanie w sądzie",
+        "Za nadzór nad systemami nadzoru na terenie objętym swoją właściwością",
+        "Za prowadzenie ewidencji ludności"
+      ],
+      "correctIndex": 2,
+      "explanation": "Komendanci odpowiadają za nadzór w swoich jednostkach i na swoim terenie.",
+      "source": "§ 39 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-231",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "hard",
+      "question": "Kogo wyznaczają komendanci w celu zapewnienia właściwego poziomu nadzoru?",
+      "choices": [
+        "Osoby przypadkowe",
+        "Policjantów upoważnionych do wykonywania czynności nadzorczych",
+        "Wyłącznie pracowników mediów",
+        "Wyłącznie radnych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Komendanci wyznaczają policjantów do czynności nadzorczych.",
+      "source": "§ 39 ust. 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-232",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "medium",
+      "question": "Jaki jest jeden z celów nadzoru nad służbą patrolową?",
+      "choices": [
+        "Identyfikacja trudności w realizacji zadań w celu podejmowania działań zapobiegawczych",
+        "Ukrywanie problemów",
+        "Ograniczenie reakcji na trudności",
+        "Wyłącznie kontrola urlopów"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nadzór służy identyfikacji trudności i zapobieganiu im.",
+      "source": "§ 40 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-233",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "medium",
+      "question": "Co nadzór ocenia w zakresie taktyki służby patrolowej?",
+      "choices": [
+        "Czy taktyka wpływa na ceny paliw",
+        "Czy taktyka zmienia strukturę sądów",
+        "Czy taktyka dotyczy spraw prywatnych",
+        "Czy taktyka wpływa na stan bezpieczeństwa i porządku w rejonie służbowym"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nadzór ocenia wpływ taktyki na bezpieczeństwo i porządek.",
+      "source": "§ 40 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-234",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "hard",
+      "question": "Co nadzór sprawdza w zakresie zleconych zadań?",
+      "choices": [
+        "Wyłącznie wygląd notatnika",
+        "Wyłącznie preferencje prywatne",
+        "Znajomość, stopień realizacji i uzyskiwane efekty",
+        "Wyłącznie sprawy urlopowe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nadzór obejmuje znajomość, realizację zadań i efekty.",
+      "source": "§ 40 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-235",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "easy",
+      "question": "Co nadzór bada w zakresie środków przymusu?",
+      "choices": [
+        "Wyłącznie markę radiowozu",
+        "Zasadność, warunki i sposób stosowania środków przymusu bezpośredniego, przede wszystkim broni palnej",
+        "Wyłącznie liczbę komputerów",
+        "Wyłącznie plan urlopów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nadzór obejmuje stosowanie środków przymusu i broni palnej.",
+      "source": "§ 40 pkt 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-236",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "medium",
+      "question": "Co nadzór sprawdza w zakresie wyglądu i wyposażenia policjantów?",
+      "choices": [
+        "Stan i prawidłowość wyposażenia, uzbrojenia, umundurowania i wyglądu zewnętrznego",
+        "Wyłącznie prywatną odzież po służbie",
+        "Wyłącznie kolor samochodu prywatnego",
+        "Wyłącznie wystrój pomieszczeń"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nadzór obejmuje wyposażenie, uzbrojenie, umundurowanie i wygląd.",
+      "source": "§ 40 pkt 5 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-237",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "hard",
+      "question": "Co nadzór sprawdza w zakresie postawy policjantów w czasie służby?",
+      "choices": [
+        "Wyłącznie wzrost",
+        "Wyłącznie wiek",
+        "Wyłącznie prywatne zainteresowania",
+        "Inicjatywę i aktywność"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nadzór sprawdza inicjatywę i aktywność policjantów.",
+      "source": "§ 40 pkt 6 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-238",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "medium",
+      "question": "Jak nadzór reaguje na stwierdzone uchybienia?",
+      "choices": [
+        "Zawsze ignoruje uchybienia",
+        "Odkłada reakcję na czas nieokreślony",
+        "Wydaje wiążące polecenia w celu natychmiastowego wyeliminowania uchybień",
+        "Przekazuje uchybienia wyłącznie mediom"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nadzór ma reagować przez wiążące polecenia.",
+      "source": "§ 40 pkt 7 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-239",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "medium",
+      "question": "Na czym może polegać czynność nadzoru nad służbą patrolową?",
+      "choices": [
+        "Wyłącznie na analizie mediów",
+        "Na obecności nadzorującego przy pełnieniu służby, obserwowaniu i wskazywaniu sposobu wykonania czynności",
+        "Wyłącznie na rozmowie po latach",
+        "Wyłącznie na kontroli podatkowej"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nadzór może mieć formę obecności i instruktażu.",
+      "source": "§ 41 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-240",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "hard",
+      "question": "Jak nadzorujący może obserwować czynności policjantów?",
+      "choices": [
+        "Z pewnej odległości",
+        "Wyłącznie z innego województwa",
+        "Wyłącznie po zakończeniu miesiąca",
+        "Wyłącznie bez jakiejkolwiek obserwacji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jedną z form nadzoru jest obserwacja z pewnej odległości.",
+      "source": "§ 41 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-241",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "medium",
+      "question": "Na czym może polegać samodzielny nadzór rejonu?",
+      "choices": [
+        "Na prowadzeniu wykładu szkolnego",
+        "Na sporządzeniu listy płac",
+        "Na głosowaniu rady gminy",
+        "Na przejściu lub objeździe rejonu w celu sprawdzenia porządku, bezpieczeństwa i obecności policjantów"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nadzorujący może samodzielnie przejść lub objechać rejon.",
+      "source": "§ 41 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-242",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "medium",
+      "question": "Gdzie dokumentuje się każdą czynność wykonaną w ramach nadzoru nad służbą patrolową?",
+      "choices": [
+        "Wyłącznie w prasie",
+        "Wyłącznie ustnie",
+        "W notatnikach służbowych policjantów oraz w książce nadzoru nad służbą",
+        "Wyłącznie w prywatnym telefonie"
+      ],
+      "correctIndex": 2,
+      "explanation": "Czynności nadzorcze dokumentuje się w notatnikach i książce nadzoru.",
+      "source": "§ 42 ust. 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-243",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "hard",
+      "question": "Czy książka nadzoru nad służbą może być prowadzona dla wszystkich służb jednostki?",
+      "choices": [
+        "Nie, nigdy",
+        "Tak",
+        "Tak, ale tylko dla sądu",
+        "Nie, tylko dla pracowników cywilnych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Książka nadzoru może obejmować wszystkie służby jednostki.",
+      "source": "§ 42 ust. 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-244",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "medium",
+      "question": "Jakie dane osobowe i czasowe powinny zawierać zapisy z czynności nadzoru?",
+      "choices": [
+        "Datę, czas, miejsce, stopień, imię i nazwisko policjantów",
+        "Wyłącznie imię osoby postronnej",
+        "Wyłącznie numer prywatnego telefonu",
+        "Wyłącznie opis pogody"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zapisy z nadzoru muszą zawierać podstawowe dane czynności i policjantów.",
+      "source": "§ 42 ust. 3 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-245",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "easy",
+      "question": "Co powinny zawierać zapisy z czynności nadzoru w zakresie służby?",
+      "choices": [
+        "Wyłącznie ocenę pogody",
+        "Wyłącznie reklamę sprzętu",
+        "Wyłącznie prywatne życzenia",
+        "Ewentualne uwagi dotyczące pełnienia służby"
+      ],
+      "correctIndex": 3,
+      "explanation": "Uwagi dotyczące służby są elementem zapisu nadzoru.",
+      "source": "§ 42 ust. 3 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-246",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "hard",
+      "question": "Co powinno być wpisane w zapisie z nadzoru, jeśli nadzorujący wydał zalecenia?",
+      "choices": [
+        "Wyłącznie dane bankowe",
+        "Wyłącznie rozkład jazdy",
+        "Wydane zalecenia",
+        "Wyłącznie komentarz medialny"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wydane zalecenia muszą znaleźć się w dokumentacji nadzoru.",
+      "source": "§ 42 ust. 3 pkt 3 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-247",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "medium",
+      "question": "Jakie dane osoby nadzorującej powinien zawierać zapis z czynności nadzoru?",
+      "choices": [
+        "Wyłącznie pseudonim",
+        "Stopień, imię, nazwisko i podpis osoby wykonującej nadzór",
+        "Wyłącznie numer telefonu prywatnego",
+        "Wyłącznie adres domowy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zapisy zawierają dane i podpis osoby nadzorującej.",
+      "source": "§ 42 ust. 3 pkt 4 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-248",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "medium",
+      "question": "Jak wykorzystuje się uwagi z czynności nadzoru dotyczące służby patrolowej?",
+      "choices": [
+        "Przy ocenie pracy policjantów i ich bezpośrednich przełożonych",
+        "Do celów prywatnych",
+        "Wyłącznie do publikacji prasowych",
+        "Nie wykorzystuje się ich"
+      ],
+      "correctIndex": 0,
+      "explanation": "Uwagi z nadzoru służą ocenie pracy.",
+      "source": "§ 42 ust. 4 pkt 1 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-249",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "hard",
+      "question": "Jak powinny być analizowane uwagi z nadzoru?",
+      "choices": [
+        "Nigdy",
+        "Wyłącznie po 10 latach",
+        "Wyłącznie poza jednostką",
+        "Okresowo i omawiane na naradach"
+      ],
+      "correctIndex": 3,
+      "explanation": "Uwagi z nadzoru powinny być analizowane i omawiane.",
+      "source": "§ 42 ust. 4 pkt 2 zarządzenia nr 768 KGP"
+    },
+    {
+      "id": "sluzba-patrolowa-250",
+      "type": "single_choice",
+      "category": "Nadzór",
+      "difficulty": "easy",
+      "question": "Do czego wykorzystuje się uwagi z nadzoru w zakresie szkolenia?",
+      "choices": [
+        "Do ustalania podatków",
+        "Do rozliczania szkół",
+        "Do opracowywania planów doskonalenia zawodowego",
+        "Do prowadzenia rejestru pojazdów"
+      ],
+      "correctIndex": 2,
+      "explanation": "Uwagi z nadzoru służą planowaniu doskonalenia zawodowego.",
+      "source": "§ 42 ust. 4 pkt 3 zarządzenia nr 768 KGP"
+    }
+  ]
+}
