@@ -10,7 +10,9 @@ export type BuiltInBankIndex = {
 async function fetchJsonText(path: string) {
   const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
   const full = path.startsWith("/") ? `${basePath}${path}` : `${basePath}/${path}`;
-  const res = await fetch(full, { cache: "force-cache" });
+  // Built-in bank filenames may contain spaces / non-ASCII characters.
+  // Encode the URL so fetch() works reliably across browsers (notably Safari/iOS).
+  const res = await fetch(encodeURI(full), { cache: "force-cache" });
   if (!res.ok) throw new Error(`Nie udało się pobrać banku: ${path}`);
   return res.text();
 }
